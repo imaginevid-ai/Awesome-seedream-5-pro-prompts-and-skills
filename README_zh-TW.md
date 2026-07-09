@@ -11,9 +11,9 @@
 [![Update README](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/actions/workflows/update-readme.yml/badge.svg)](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
-> 由 ImagineVid 整理的 Seedream 5 Pro 提示詞、提示詞技能與視覺案例集合
+> 由 ImagineVid 精選整理的 Seedream 5 Pro 提示詞、可重用提示詞技能與視覺案例合集
 
-> **版權聲明**：本倉庫內容用於教育與創作參考，並保留來源署名。如需移除任何內容，請提交 issue，我們會及時處理。
+> **版權聲明**：本倉庫內容用於教育與創作參考，並保留來源署名。如需移除任何內容，請提交 issue，我們會盡快處理。
 
 ---
 
@@ -21,19 +21,19 @@
 
 ---
 
-## 查看精選集合
+## 查看精選合集
 
-**[瀏覽 ImagineVid Seedream 5 Pro 提示詞集合](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[浏览 ImagineVid Seedream 5 Pro 提示词合集](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-為什麼使用這個集合？
+為什麼使用這個合集？
 
-| 功能 | GitHub README | ImagineVid 集合 |
+| 功能 | GitHub README | ImagineVid 合集 |
 |---------|--------------|---------------------|
-| Visual Layout | Linear list | 精选视觉分区 |
-| Search | Ctrl+F only | 结构化分类 |
-| Prompt Workflow | - | 可复用提示词技能 |
-| Mobile | Basic | 每个 README 语言版本都可阅读 |
-| Categories | - | Category browsing |
+| 視覺版面 | 線性列表 | 精選視覺分區 |
+| 搜索 | 仅 Ctrl+F | 結構化分類 |
+| 提示词工作流 | - | 可重用提示詞技能 |
+| 移动端 | 基础 | 所有 README 語言版本均可閱讀 |
+| 分类 | - | 分類瀏覽 |
 
 
 ### 按分類瀏覽
@@ -83,41 +83,41 @@
 
 ## 目錄
 
-- [查看精選集合](#)
-- [什麼是 Seedream 5 Pro？](#seedream-5-pro)
+- [查看精選合集](#)
+- [什么是 Seedream 5 Pro？](#seedream-5-pro)
 - [統計資料](#)
 - [精選提示詞](#)
 - [全部提示詞](#)
-- [如何貢獻](#)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Star History](#star-history)
+- [如何贡献](#)
+- [许可证](#)
+- [致谢](#)
+- [Star 历史](#star)
 
 ---
 
-## 什麼是 Seedream 5 Pro？
+## 什么是 Seedream 5 Pro？
 
-**Seedream 5 Pro** 适合高质量图像生成与结构化创意生产：
+**Seedream 5 Pro** 是適合結構化創意生產的高階圖像生成模型系列：
 
-- **提示词理解** - 跟随场景、风格、镜头和版式细节
-- **高质量生成** - 适合海报、产品、概念和编辑视觉
-- **快速迭代** - 将同一提示词模式扩展到多个方向
-- **多样风格** - 支持电影感、商业、插画、UI 和海报美学
-- **精确控制** - 描述构图、字体、色彩、灯光和主体约束
-- **复杂场景** - 支持多对象、多分镜和工作流式提示词
+- **提示詞理解** - 能跟隨場景、風格、鏡頭和版面細節
+- **高品質生成** - 適合編輯視覺、產品圖、概念設計和商業素材
+- **快速迭代** - 可把同一提示詞模式延展到多種創意方向
+- **多樣風格** - 支援電影感、商業攝影、插畫、UI 和海報美學
+- **精準控制** - 可描述構圖、文字、色彩、燈光和主體約束
+- **複雜場景** - 支援多物件、多分鏡和工作流式提示詞
 
-**Learn More:** follow the source links and examples collected in this repository.
+**了解更多：**查看本仓库收集的来源链接与案例。
 
-### 提示词技能参数
+### 提示詞技能參數
 
 部分提示词支持 Raycast Snippets 风格的 `{argument ...}` 动态参数。看到 Raycast Friendly 标记即可复用。
 
-**Example:**
+**示例：**
 ```
-A cinematic poster for "{argument name="product" default="a glass AI camera"}" with {argument name="mood" default="midnight studio lighting"}
+为“{argument name="product" default="玻璃质感 AI 相机"}”制作电影感海报，氛围为 {argument name="mood" default="午夜棚拍灯光"}
 ```
 
-替换参数即可把提示词当成小型创意技能使用。
+替換參數即可把提示詞當作輕量創意技能使用。
 
 ---
 
@@ -125,11 +125,11 @@ A cinematic poster for "{argument name="product" default="a glass AI camera"}" w
 
 <div align="center">
 
-| 指標 | 數量 |
+| 指标 | 數量 |
 |--------|-------|
-| 提示詞總數 | **33** |
-| 精選 | **7** |
-| 最後更新 | **2026年7月9日 星期四 下午3:13:52 [UTC]** |
+| 提示詞總數 | **75** |
+| 精选 | **10** |
+| 最後更新 | **2026年7月9日 星期四 下午3:40:11 [UTC]** |
 
 </div>
 
@@ -137,14 +137,14 @@ A cinematic poster for "{argument name="product" default="a glass AI camera"}" w
 
 ## 精選提示詞
 
-> 按可复用结构、视觉清晰度和创意覆盖度精选
+> 按可重用結構、視覺清晰度與創意覆蓋度精選
 
 ### No. 1: Hard sci-fi airlock film still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
-#### 描述
+#### 說明
 
 A high-negative-space cinematic still pattern, normalized from a public X prompt, for testing scale, isolation, black voids, and hard solar lighting.
 
@@ -165,9 +165,9 @@ Create a hard sci-fi movie still titled AIRLOCK. Frame one white EVA-suit astron
 #### 詳情
 
 - **作者:** [@karim_yourself](https://x.com/karim_yourself)
-- **來源:** [來源](https://x.com/karim_yourself/status/2075165434827989207)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/karim_yourself/status/2075165434827989207)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/karim_yourself/status/2075165434827989207)**
 
@@ -178,7 +178,7 @@ Create a hard sci-fi movie still titled AIRLOCK. Frame one white EVA-suit astron
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
-#### 描述
+#### 說明
 
 A cinematic language pattern, normalized from a public X prompt, that turns mood, lens behavior, and exposure notes into coherent film stills.
 
@@ -211,9 +211,9 @@ Generate a 1970s European romantic-drama still set inside a tense private moment
 #### 詳情
 
 - **作者:** [@UnityEagle](https://x.com/UnityEagle)
-- **來源:** [來源](https://x.com/UnityEagle/status/2075191214601572606)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/UnityEagle/status/2075191214601572606)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/UnityEagle/status/2075191214601572606)**
 
@@ -224,7 +224,7 @@ Generate a 1970s European romantic-drama still set inside a tense private moment
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
-#### 描述
+#### 說明
 
 A Seedream 5 Pro portrait pattern, normalized from public ALT text, focused on facial details, pose, costume, and clean splash-art style.
 
@@ -245,9 +245,9 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 #### 詳情
 
 - **作者:** [@characternexus](https://x.com/characternexus)
-- **來源:** [來源](https://x.com/characternexus/status/2074920654751592583)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/characternexus/status/2074920654751592583)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/characternexus/status/2074920654751592583)**
 
@@ -258,7 +258,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
-#### 描述
+#### 說明
 
 A horror-cinema still pattern pulled from a public Seedream 5 Pro prompt thread and rewritten for reusable lighting and blocking.
 
@@ -279,9 +279,9 @@ Frame a folk-horror film still from an extreme low angle inside dense wheat. Let
 #### 詳情
 
 - **作者:** [@karim_yourself](https://x.com/karim_yourself)
-- **來源:** [來源](https://x.com/karim_yourself/status/2075165437856264581)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/karim_yourself/status/2075165437856264581)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/karim_yourself/status/2075165437856264581)**
 
@@ -292,7 +292,7 @@ Frame a folk-horror film still from an extreme low angle inside dense wheat. Let
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
-#### 描述
+#### 說明
 
 A product-campaign setup from a public Dreamina Seedream 5.0 Pro post, rewritten for premium sports props and dramatic overhead light.
 
@@ -331,9 +331,9 @@ Create a premium sports refreshment campaign image on a locker-room floor or ben
 #### 詳情
 
 - **作者:** [@bmx_ai13](https://x.com/bmx_ai13)
-- **來源:** [來源](https://x.com/bmx_ai13/status/2075082266695582012)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/bmx_ai13/status/2075082266695582012)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/bmx_ai13/status/2075082266695582012)**
 
@@ -344,7 +344,7 @@ Create a premium sports refreshment campaign image on a locker-room floor or ben
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
-#### 描述
+#### 說明
 
 A technical drawing prompt from a public Seedream 5 Pro comparison post, rewritten for multi-view vehicle diagrams and measurement density.
 
@@ -371,9 +371,9 @@ Design a blueprint-style technical sheet for a futuristic sports car. Include fr
 #### 詳情
 
 - **作者:** [@marmaduke091](https://x.com/marmaduke091)
-- **來源:** [來源](https://x.com/marmaduke091/status/2074866077499105416)
-- **發布時間:** 2026年7月8日
-- **Languages:** en
+- **来源:** [来源](https://x.com/marmaduke091/status/2074866077499105416)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/marmaduke091/status/2074866077499105416)**
 
@@ -385,7 +385,7 @@ Design a blueprint-style technical sheet for a futuristic sports car. Include fr
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 ![Raycast](https://img.shields.io/badge/Raycast-Friendly-purple)
 
-#### 描述
+#### 說明
 
 A reusable commercial poster skill from a public Dreamina post, rewritten as a parameterized prompt with Raycast-style arguments.
 
@@ -406,23 +406,126 @@ Create a {argument name="aspect_ratio" default="16:9"} full-bleed editorial acti
 #### 詳情
 
 - **作者:** [@AI__TSUBAKI](https://x.com/AI__TSUBAKI)
-- **來源:** [來源](https://x.com/AI__TSUBAKI/status/2075128188964159539)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/AI__TSUBAKI/status/2075128188964159539)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/AI__TSUBAKI/status/2075128188964159539)**
 
 ---
 
+### No. 8: Official precise editing control workflow
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 說明
+
+A BytePlus official capability thread normalized into a practical prompt skill for controlled edits.
+
+#### 提示詞
+
+```
+Use the uploaded image as the locked base. Edit exactly the marked area and preserve everything else: geometry, shadows, background texture, subject identity, and layout. Apply the requested color, material, product, or sketch-guided change only inside the region, then return a production-ready asset with no collateral drift.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074857777923842048/img/C6W8pXHDpvlnQkNo.jpg" width="700" alt="Official precise editing control workflow - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@BytePlusGlobal](https://x.com/BytePlusGlobal)
+- **来源:** [来源](https://x.com/BytePlusGlobal/status/2074878817458606402)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/BytePlusGlobal/status/2074878817458606402)**
+
+---
+
+### No. 9: Official complex information visualization
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### 說明
+
+A BytePlus official capability example normalized into a dense information-design prompt.
+
+#### 提示詞
+
+```
+Create a complex information visualization that combines one diagram, one small chart, explanatory labels, icons, and an illustration into a single clear layout. Make the hierarchy obvious, keep the text readable, align every panel to a grid, and avoid decorative clutter that weakens comprehension.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074858039396749313/img/o-yA1cRnviEaKVQY.jpg" width="700" alt="Official complex information visualization - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@BytePlusGlobal](https://x.com/BytePlusGlobal)
+- **来源:** [来源](https://x.com/BytePlusGlobal/status/2074878820122005880)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/BytePlusGlobal/status/2074878820122005880)**
+
+---
+
+### No. 10: Official native multilingual generation
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### 說明
+
+A BytePlus official multilingual capability post normalized into a global-market creative prompt.
+
+#### 提示詞
+
+```
+Generate a localized campaign asset directly in the target language. Respect the writing system, reading direction, line breaks, punctuation, and local design conventions. Keep the same brand structure across markets while adapting labels, headline length, and composition so the final image feels native rather than translated.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074858581493743616/img/Go9FvCImntKnogw5.jpg" width="700" alt="Official native multilingual generation - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@BytePlusGlobal](https://x.com/BytePlusGlobal)
+- **来源:** [来源](https://x.com/BytePlusGlobal/status/2074878830695850276)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/BytePlusGlobal/status/2074878830695850276)**
+
+---
+
 ## 全部提示詞
 
-> 按发布时间和精选顺序排列
+> 按發佈時間和精選順序排列
 
 ### No. 1: 角色设计 - Avant-garde streetwear creator sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A character design sheet pattern, normalized from a public X comparison post, useful for full-body turnaround, techwear, and studio render tests.
 
@@ -461,9 +564,9 @@ Design a full-body character sheet for a male creator in avant-garde streetwear.
 #### 詳情
 
 - **作者:** [@Boluwatifeolad7](https://x.com/Boluwatifeolad7)
-- **來源:** [來源](https://x.com/Boluwatifeolad7/status/2075191098184442310)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/Boluwatifeolad7/status/2075191098184442310)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/Boluwatifeolad7/status/2075191098184442310)**
 
@@ -474,7 +577,7 @@ Design a full-body character sheet for a male creator in avant-garde streetwear.
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
-#### 描述
+#### 說明
 
 A reference-image editing pattern, normalized from a public X prompt, that keeps facial identity and makeup while changing styling and setting.
 
@@ -501,9 +604,9 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 #### 詳情
 
 - **作者:** [@asheem01](https://x.com/asheem01)
-- **來源:** [來源](https://x.com/asheem01/status/2074941260863811644)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/asheem01/status/2074941260863811644)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/asheem01/status/2074941260863811644)**
 
@@ -513,7 +616,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A travel-poster visual pattern, normalized from public image ALT text, for clean composition, water clarity, and destination-brand mood.
 
@@ -540,9 +643,9 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 #### 詳情
 
 - **作者:** [@Bic_Revelation](https://x.com/Bic_Revelation)
-- **來源:** [來源](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/Bic_Revelation/status/2074959714366922857)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/Bic_Revelation/status/2074959714366922857)**
 
@@ -552,7 +655,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A noir lighting test from a public Seedream 5 Pro prompt thread, normalized for wet asphalt, sodium light, and black negative space.
 
@@ -573,9 +676,9 @@ Create a wide exterior noir shot of a lonely roadside diner during heavy night r
 #### 詳情
 
 - **作者:** [@karim_yourself](https://x.com/karim_yourself)
-- **來源:** [來源](https://x.com/karim_yourself/status/2075165441236803971)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/karim_yourself/status/2075165441236803971)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/karim_yourself/status/2075165441236803971)**
 
@@ -585,7 +688,7 @@ Create a wide exterior noir shot of a lonely roadside diner during heavy night r
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A fantasy scale-composition prompt, rewritten from a public Seedream 5 Pro thread, for testing shafts of light and foreground blur.
 
@@ -606,9 +709,9 @@ Build a fantasy film still titled The Sun Throne. Place a bowed supplicant in so
 #### 詳情
 
 - **作者:** [@karim_yourself](https://x.com/karim_yourself)
-- **來源:** [來源](https://x.com/karim_yourself/status/2075165447490535486)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/karim_yourself/status/2075165447490535486)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/karim_yourself/status/2075165447490535486)**
 
@@ -618,7 +721,7 @@ Build a fantasy film still titled The Sun Throne. Place a bowed supplicant in so
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A minimal survival-film prompt, normalized from a public Seedream 5 Pro thread, for near-white compositions and directional ambiguity.
 
@@ -639,9 +742,9 @@ Create a survival film still in a total snow whiteout. Reduce the mountaineer to
 #### 詳情
 
 - **作者:** [@karim_yourself](https://x.com/karim_yourself)
-- **來源:** [來源](https://x.com/karim_yourself/status/2075165459993784441)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/karim_yourself/status/2075165459993784441)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/karim_yourself/status/2075165459993784441)**
 
@@ -651,7 +754,7 @@ Create a survival film still in a total snow whiteout. Reduce the mountaineer to
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A candid lifestyle photography pattern from a public Seedream 5 Pro prompt thread, rewritten for natural skin, domestic detail, and warm late light.
 
@@ -672,9 +775,9 @@ Photograph a relaxed adult woman leaning against a kitchen counter in a lived-in
 #### 詳情
 
 - **作者:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **來源:** [來源](https://x.com/Digitalwindai/status/2075222988106932645)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/Digitalwindai/status/2075222988106932645)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/Digitalwindai/status/2075222988106932645)**
 
@@ -684,7 +787,7 @@ Photograph a relaxed adult woman leaning against a kitchen counter in a lived-in
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A historical realism pattern from a public Seedream 5 Pro prompt thread, useful for restrained color, period texture, and atmospheric depth.
 
@@ -705,9 +808,9 @@ Create a 1916 Western Front film still at dawn. Show an exhausted young soldier 
 #### 詳情
 
 - **作者:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **來源:** [來源](https://x.com/Digitalwindai/status/2075222992515125388)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/Digitalwindai/status/2075222992515125388)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/Digitalwindai/status/2075222992515125388)**
 
@@ -717,7 +820,7 @@ Create a 1916 Western Front film still at dawn. Show an exhausted young soldier 
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A sci-fi scale prompt from a public Seedream 5 Pro thread, rewritten for deep-focus space realism and non-neon production design.
 
@@ -738,9 +841,9 @@ Render a massive capital-class spaceship orbiting a fictional alien planet. Use 
 #### 詳情
 
 - **作者:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **來源:** [來源](https://x.com/Digitalwindai/status/2075222996810145816)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/Digitalwindai/status/2075222996810145816)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/Digitalwindai/status/2075222996810145816)**
 
@@ -750,7 +853,7 @@ Render a massive capital-class spaceship orbiting a fictional alien planet. Use 
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 An anime key-visual prompt from a public Seedream 5 Pro thread, rewritten for dynamic cel shading and magical lighting.
 
@@ -771,9 +874,9 @@ Create an epic Japanese anime key visual of a sorceress mid-incantation. Use a l
 #### 詳情
 
 - **作者:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **來源:** [來源](https://x.com/Digitalwindai/status/2075223017127383054)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/Digitalwindai/status/2075223017127383054)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/Digitalwindai/status/2075223017127383054)**
 
@@ -783,7 +886,7 @@ Create an epic Japanese anime key visual of a sorceress mid-incantation. Use a l
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 An anime environment prompt from a public Seedream 5 Pro thread, rewritten for painterly background art and strong depth layering.
 
@@ -804,9 +907,9 @@ Design a wide anime establishing shot of ancient temple islands floating above a
 #### 詳情
 
 - **作者:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **來源:** [來源](https://x.com/Digitalwindai/status/2075223022089154792)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/Digitalwindai/status/2075223022089154792)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/Digitalwindai/status/2075223022089154792)**
 
@@ -816,7 +919,7 @@ Design a wide anime establishing shot of ancient temple islands floating above a
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A layout prompt normalized from a public IKEA-style Seedream 5 Pro test, useful for instruction diagrams and procedural clarity.
 
@@ -843,9 +946,9 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 #### 詳情
 
 - **作者:** [@al_tools43377](https://x.com/al_tools43377)
-- **來源:** [來源](https://x.com/al_tools43377/status/2074971603054502365)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/al_tools43377/status/2074971603054502365)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/al_tools43377/status/2074971603054502365)**
 
@@ -855,7 +958,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A food infographic prompt normalized from a public Dreamina Seedream 5 Pro post, aimed at readable text, recipe structure, and illustrated steps.
 
@@ -894,9 +997,9 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 #### 詳情
 
 - **作者:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
-- **來源:** [來源](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/ahmetmertugrul/status/2074914214074872162)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/ahmetmertugrul/status/2074914214074872162)**
 
@@ -907,7 +1010,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
-#### 描述
+#### 說明
 
 A precision-editing workflow normalized from a public Seedream 5 Pro interior-design post, for maintaining realism while applying clear edit notes.
 
@@ -934,9 +1037,9 @@ Use the uploaded living-room image and follow the markup notes only where indica
 #### 詳情
 
 - **作者:** [@ZariaTechAI](https://x.com/ZariaTechAI)
-- **來源:** [來源](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/ZariaTechAI/status/2074909390650634560)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/ZariaTechAI/status/2074909390650634560)**
 
@@ -947,7 +1050,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
-#### 描述
+#### 說明
 
 A Dreamina capability workflow normalized from CapCut’s Seedream 5.0 Pro announcement, focused on pixel-level edits, recolor, sketch refinement, and multi-image blending.
 
@@ -968,9 +1071,9 @@ Start from a rough product sketch or reference collage. Preserve the original si
 #### 詳情
 
 - **作者:** [@capcutapp](https://x.com/capcutapp)
-- **來源:** [來源](https://x.com/capcutapp/status/2075230628786970765)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/capcutapp/status/2075230628786970765)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/capcutapp/status/2075230628786970765)**
 
@@ -981,7 +1084,7 @@ Start from a rough product sketch or reference collage. Preserve the original si
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
-#### 描述
+#### 說明
 
 A fal announcement workflow normalized into a reusable production prompt for changing one element while preserving the rest of a layout.
 
@@ -1002,9 +1105,9 @@ Use the existing poster or product mockup as the base. Change only the selected 
 #### 詳情
 
 - **作者:** [@fal](https://x.com/fal)
-- **來源:** [來源](https://x.com/fal/status/2074846830198722944)
-- **發布時間:** 2026年7月8日
-- **Languages:** en
+- **来源:** [来源](https://x.com/fal/status/2074846830198722944)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/fal/status/2074846830198722944)**
 
@@ -1015,7 +1118,7 @@ Use the existing poster or product mockup as the base. Change only the selected 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
-#### 描述
+#### 說明
 
 A Krea workflow normalized into a Seedream 5 Pro multi-reference prompt skill for brand-consistent image creation.
 
@@ -1036,9 +1139,9 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 #### 詳情
 
 - **作者:** [@krea_ai](https://x.com/krea_ai)
-- **來源:** [來源](https://x.com/krea_ai/status/2074891481832456638)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/krea_ai/status/2074891481832456638)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/krea_ai/status/2074891481832456638)**
 
@@ -1049,7 +1152,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/Raycast-Friendly-purple)
 
-#### 描述
+#### 說明
 
 A BytePlus announcement normalized into a broad prompt framework for production-ready enterprise visuals across editing, information graphics, realism, and multilingual output.
 
@@ -1070,9 +1173,9 @@ Create a production-ready enterprise visual asset for {argument name="industry" 
 #### 詳情
 
 - **作者:** [@BytePlusGlobal](https://x.com/BytePlusGlobal)
-- **來源:** [來源](https://x.com/BytePlusGlobal/status/2074851378879668708)
-- **發布時間:** 2026年7月8日
-- **Languages:** en
+- **来源:** [来源](https://x.com/BytePlusGlobal/status/2074851378879668708)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/BytePlusGlobal/status/2074851378879668708)**
 
@@ -1082,7 +1185,7 @@ Create a production-ready enterprise visual asset for {argument name="industry" 
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A Magnific availability post normalized into a multilingual infographic prompt for testing native text rendering and design consistency.
 
@@ -1103,9 +1206,9 @@ Create the same clean campaign infographic in 14 language variants. Keep the lay
 #### 詳情
 
 - **作者:** [@magnific](https://x.com/magnific)
-- **來源:** [來源](https://x.com/magnific/status/2074843521853636609)
-- **發布時間:** 2026年7月8日
-- **Languages:** en
+- **来源:** [来源](https://x.com/magnific/status/2074843521853636609)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/magnific/status/2074843521853636609)**
 
@@ -1115,7 +1218,7 @@ Create the same clean campaign infographic in 14 language variants. Keep the lay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A multilingual text-rendering test normalized from a public BytePlus Seedream 5.0 Pro post about same-layout posters in multiple scripts.
 
@@ -1136,9 +1239,9 @@ Design a workplace safety poster template, then render it in five languages whil
 #### 詳情
 
 - **作者:** [@Echoes999Y](https://x.com/Echoes999Y)
-- **來源:** [來源](https://x.com/Echoes999Y/status/2074870172230484301)
-- **發布時間:** 2026年7月8日
-- **Languages:** en
+- **来源:** [来源](https://x.com/Echoes999Y/status/2074870172230484301)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/Echoes999Y/status/2074870172230484301)**
 
@@ -1148,7 +1251,7 @@ Design a workplace safety poster template, then render it in five languages whil
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 An architecture/interior labeling workflow normalized from a public Seedream 5.0 Pro post, aimed at client-ready dense annotations.
 
@@ -1169,9 +1272,9 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 #### 詳情
 
 - **作者:** [@irdh34](https://x.com/irdh34)
-- **來源:** [來源](https://x.com/irdh34/status/2074910474609566115)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/irdh34/status/2074910474609566115)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/irdh34/status/2074910474609566115)**
 
@@ -1181,7 +1284,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A Seedream + Seedance workflow normalized from a public Magnific thread, designed to create a still image that can be animated into documentary footage.
 
@@ -1202,9 +1305,9 @@ Generate a realistic 1960s Havana documentary still as the first frame for video
 #### 詳情
 
 - **作者:** [@techhalla](https://x.com/techhalla)
-- **來源:** [來源](https://x.com/techhalla/status/2075170093626011858)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/techhalla/status/2075170093626011858)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/techhalla/status/2075170093626011858)**
 
@@ -1214,7 +1317,7 @@ Generate a realistic 1960s Havana documentary still as the first frame for video
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A simple benchmark prompt normalized from a public Seedream 5.0 Pro test, useful for everyday realism and sunset phone-light handling.
 
@@ -1235,9 +1338,9 @@ Create a candid street photo of a Korean woman in her twenties using her phone i
 #### 詳情
 
 - **作者:** [@mattworkman](https://x.com/mattworkman)
-- **來源:** [來源](https://x.com/mattworkman/status/2074850550349222210)
-- **發布時間:** 2026年7月8日
-- **Languages:** en
+- **来源:** [来源](https://x.com/mattworkman/status/2074850550349222210)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/mattworkman/status/2074850550349222210)**
 
@@ -1248,7 +1351,7 @@ Create a candid street photo of a Korean woman in her twenties using her phone i
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
-#### 描述
+#### 說明
 
 A UI/product mockup workflow normalized from Open Design’s Seedream 5 Pro template thread.
 
@@ -1287,9 +1390,9 @@ Create a landing-page hero mockup by transferring a supplied visual style into a
 #### 詳情
 
 - **作者:** [@OpenDesignHQ](https://x.com/OpenDesignHQ)
-- **來源:** [來源](https://x.com/OpenDesignHQ/status/2075191289750937758)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/OpenDesignHQ/status/2075191289750937758)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/OpenDesignHQ/status/2075191289750937758)**
 
@@ -1299,7 +1402,7 @@ Create a landing-page hero mockup by transferring a supplied visual style into a
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A product-ad poster workflow normalized from Open Design’s Seedream 5 Pro prompt-template examples.
 
@@ -1320,9 +1423,9 @@ Design a playful kids product ad poster with one hero toy or snack pack, bright 
 #### 詳情
 
 - **作者:** [@OpenDesignHQ](https://x.com/OpenDesignHQ)
-- **來源:** [來源](https://x.com/OpenDesignHQ/status/2075191295476105374)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/OpenDesignHQ/status/2075191295476105374)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/OpenDesignHQ/status/2075191295476105374)**
 
@@ -1332,7 +1435,7 @@ Design a playful kids product ad poster with one hero toy or snack pack, bright 
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### 描述
+#### 說明
 
 A fashion portrait workflow normalized from Open Design’s Seedream 5 Pro prompt-template examples.
 
@@ -1365,46 +1468,1464 @@ Create a high-fashion full-body portrait on a minimal editorial set. Use dramati
 #### 詳情
 
 - **作者:** [@OpenDesignHQ](https://x.com/OpenDesignHQ)
-- **來源:** [來源](https://x.com/OpenDesignHQ/status/2075191300366733710)
-- **發布時間:** 2026年7月9日
-- **Languages:** en
+- **来源:** [来源](https://x.com/OpenDesignHQ/status/2075191300366733710)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
 
 **[使用這個提示詞](https://x.com/OpenDesignHQ/status/2075191300366733710)**
 
 ---
 
-## 如何貢獻
+### No. 27: 电影剧照 - Noir cigarette ember close-up
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A near-black noir close-up from a public Seedream 5 Pro cinematic thread, rewritten for micro-lighting and smoke texture.
+
+#### 提示詞
+
+```
+Create an extreme noir close-up in near-total darkness. Let a cigarette ember glow orange-red as the only vivid point of light, revealing just a sliver of cheekbone, jaw, stubble, and drifting smoke. Use a distant sodium streetlight as a hard sculpting key, keep most of the frame pure black, add film grain, and compose in anamorphic 2.39:1 with severe contrast.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx2jpgXMAAMTwx.jpg" width="600" alt="电影剧照 - Noir cigarette ember close-up - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@karim_yourself](https://x.com/karim_yourself)
+- **来源:** [来源](https://x.com/karim_yourself/status/2075165444453876197)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/karim_yourself/status/2075165444453876197)**
+
+---
+
+### No. 28: 电影剧照 - Courtroom witness hard-key portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A single-light courtroom prompt from a public Seedream 5 Pro cinematic thread, normalized for emotional restraint and silhouette blocking.
+
+#### 提示詞
+
+```
+Frame a tense courtroom witness in tight portrait. Half-light the face with a harsh overhead shaft so the eyes catch moisture while the rest drops into shadow. Let the lawyer appear only as a dark edge intruding from frame left. Keep the surrounding room nearly black, with restrained film grain, anamorphic framing, and a cornered but resolute mood.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx2pH6WUAE8SxO.jpg" width="600" alt="电影剧照 - Courtroom witness hard-key portrait - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@karim_yourself](https://x.com/karim_yourself)
+- **来源:** [来源](https://x.com/karim_yourself/status/2075165450674069946)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/karim_yourself/status/2075165450674069946)**
+
+---
+
+### No. 29: 电影剧照 - Mob kitchen sauce-and-threat still
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A crime-drama film still from a public Seedream 5 Pro prompt thread, rewritten around warm domestic menace.
+
+#### 提示詞
+
+```
+Create a cramped mob-drama kitchen still. Steam rises from a pot of sauce while an older boss stands half-lit by the stove flame, discussing danger as casually as a family recipe. Use warm practical light, lived-in clutter, textured walls, realistic steam, film grain, and a cozy domestic palette that makes the threat feel worse.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx2stJWwAAr-fE.jpg" width="600" alt="电影剧照 - Mob kitchen sauce-and-threat still - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@karim_yourself](https://x.com/karim_yourself)
+- **来源:** [来源](https://x.com/karim_yourself/status/2075165453568053713)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/karim_yourself/status/2075165453568053713)**
+
+---
+
+### No. 30: 电影剧照 - Family table mob drama wide shot
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A companion mob-drama prompt from a public Seedream 5 Pro thread, normalized for group staging and warm overhead light.
+
+#### 提示詞
+
+```
+Compose a wide shot of a cramped family kitchen table crowded with plates. Place the boss at the head, half-lit by warm overhead light, while a soldier leans in to whisper. Keep the room ordinary and lived-in, with sauce, dishes, and family warmth hiding the violence underneath. Use anamorphic framing, film grain, and a cozy-ominous tone.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx2u3GWcAA4A0m.jpg" width="600" alt="电影剧照 - Family table mob drama wide shot - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@karim_yourself](https://x.com/karim_yourself)
+- **来源:** [来源](https://x.com/karim_yourself/status/2075165456822882498)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/karim_yourself/status/2075165456822882498)**
+
+---
+
+### No. 31: 角色设计 - Aristocratic alien diplomat portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A sci-fi character still from a public Seedream 5 Pro prompt thread, rewritten for prosthetic-grade alien design.
+
+#### 提示詞
+
+```
+Design a cinematic portrait of an aristocratic alien diplomat with pale lavender-gray skin, an elongated smooth skull, no visible nose, black almond eyes, and a delicate ridged brow. Dress the figure in an ornate high-collared ceremonial garment with filigree detail. Use quiet diplomatic tension, soft directional light, restrained color, and production-quality prosthetic realism.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx26KlWEAA3BJY.jpg" width="600" alt="角色设计 - Aristocratic alien diplomat portrait - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@karim_yourself](https://x.com/karim_yourself)
+- **来源:** [来源](https://x.com/karim_yourself/status/2075165463009501682)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/karim_yourself/status/2075165463009501682)**
+
+---
+
+### No. 32: 电影剧照 - Villeneuve-style neutral mask portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A restrained character close-up from a public Seedream 5 Pro prompt thread, rewritten for sparse architecture and unreadable emotion.
+
+#### 提示詞
+
+```
+Create a close character portrait with very pale skin, light eyes, and an entirely neutral expression. Suggest that a mask and robe have just been removed, leaving partial fabric at the neck. Keep the background a dark interior with only one faint architectural line. Use soft severity, minimal palette, and a quiet Villeneuve-inspired cinematic mood without copying a specific film.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx3tORWsAAj7zJ.jpg" width="600" alt="电影剧照 - Villeneuve-style neutral mask portrait - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@karim_yourself](https://x.com/karim_yourself)
+- **来源:** [来源](https://x.com/karim_yourself/status/2075165466041925663)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/karim_yourself/status/2075165466041925663)**
+
+---
+
+### No. 33: 电影剧照 - Ash Country post-apocalypse wanderer
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A post-apocalyptic still from a public Seedream 5 Pro prompt thread, rewritten for desaturated restraint and one color accent.
+
+#### 提示詞
+
+```
+Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray cloth over the face so only the eyes remain visible, with ash caught in the folds and a rust-red pack strap as the only color accent. Use flat overcast light, a desaturated void background, medium framing, film grain, and exhausted silence.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx31RhX0AA3Atp.jpg" width="600" alt="电影剧照 - Ash Country post-apocalypse wanderer - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@karim_yourself](https://x.com/karim_yourself)
+- **来源:** [来源](https://x.com/karim_yourself/status/2075165469107949677)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/karim_yourself/status/2075165469107949677)**
+
+---
+
+### No. 34: 电影剧照 - War robot city cannon blast
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A blockbuster sci-fi action prompt from a public Seedream 5 Pro thread, rewritten for VFX-grade scale and debris timing.
+
+#### 提示詞
+
+```
+Create a cinematic sci-fi action still of a massive humanoid war robot firing an oversized cannon between skyscrapers. Use a low wide 24mm angle, muzzle flash, shockwave, smoke, tanks below, collapsing facade, frozen glass and debris, hard explosion light against cold daylight, steel-gray materials, and blockbuster VFX realism.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyqtadXEAAW6xU.jpg" width="600" alt="电影剧照 - War robot city cannon blast - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **来源:** [来源](https://x.com/Digitalwindai/status/2075223008038261027)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Digitalwindai/status/2075223008038261027)**
+
+---
+
+### No. 35: 电影剧照 - Natural copper-red close portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A photoreal portrait prompt from a public Seedream 5 Pro thread, rewritten for untreated skin and medium-format feel.
+
+#### 提示詞
+
+```
+Make a medium-format close portrait of a young European woman with copper-red hair, green eyes, natural freckles, and a calm direct gaze. Use an 85mm shallow-depth setup, soft window light, warm skin tones, muted neutral background, natural untouched skin, clear catchlights, and no beauty-filter smoothing.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyq0BVW8AAKFva.jpg" width="600" alt="电影剧照 - Natural copper-red close portrait - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **来源:** [来源](https://x.com/Digitalwindai/status/2075223012589085119)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Digitalwindai/status/2075223012589085119)**
+
+---
+
+### No. 36: 电影剧照 - Magical realist dry-lake fisherman
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A magical realism film-still prompt from a public Seedream 5 Pro thread, normalized for warm painterly light without losing realism.
+
+#### 提示詞
+
+```
+Create a wide low-angle magical-realist film still of an old fisherman kneeling in the cracked bed of a vanished lake, calmly mending a boat that should not be there. Use saturated sunset color, warm painterly light, realistic weathered skin, dry mud texture, long shadows, and a quiet impossible mood without obvious magic particles.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyrIDgW8AAzJF0.jpg" width="600" alt="电影剧照 - Magical realist dry-lake fisherman - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **来源:** [来源](https://x.com/Digitalwindai/status/2075223026656854053)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Digitalwindai/status/2075223026656854053)**
+
+---
+
+### No. 37: 电影剧照 - Dense neon-noir city skyline
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A cyberpunk establishing shot from a public Seedream 5 Pro prompt thread, rewritten for dense urban depth and nocturnal atmosphere.
+
+#### 提示詞
+
+```
+Render a dense neon-noir dystopian city skyline at night from a high 24mm vantage point. Stack towers, skybridges, traffic ribbons, wet rooftops, holographic signage, steam, and deep perspective layers. Keep the mood crowded and cinematic, with colored reflections, atmospheric haze, and no clean empty sci-fi minimalism.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyrRQpXEAADKRe.jpg" width="600" alt="电影剧照 - Dense neon-noir city skyline - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **来源:** [来源](https://x.com/Digitalwindai/status/2075223031085957564)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Digitalwindai/status/2075223031085957564)**
+
+---
+
+### No. 38: 电影剧照 - Bleach-bypass thriller pursuit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A thriller film-still prompt from a public Seedream 5 Pro thread, rewritten for harsh desaturated contrast and motion tension.
+
+#### 提示詞
+
+```
+Create a bleach-bypass thriller still with harsh desaturated contrast, blown highlights, and crushed blacks. Use a low 28mm tracking angle on a figure moving through an industrial corridor, with hard overhead fluorescents, gritty concrete, motion tension, and a realistic cinematic finish that avoids soft pastel digital color.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyrUUzXIAA6LmS.jpg" width="600" alt="电影剧照 - Bleach-bypass thriller pursuit - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **来源:** [来源](https://x.com/Digitalwindai/status/2075223035406070068)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Digitalwindai/status/2075223035406070068)**
+
+---
+
+### No. 39: 产品广告 - Squishcraft kids clay product ad
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A real prompt-bearing Seedream 5.0 Pro product poster test, rewritten for playful commercial composition and integrated typography.
+
+#### 提示詞
+
+```
+Design a cheerful kids craft-product advertisement for a fictional clay set called SQUISHCRAFT. Show a laughing child with clay on their hands beside an oversized colorful clay box, with craft tools, sculptures, and handprints in a bright playroom. Use big rounded rainbow typography, a short tagline, warm commercial lighting, photoreal product polish, and no real brand logos.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMwbBLLasAAPnLu.jpg" width="600" alt="产品广告 - Squishcraft kids clay product ad - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@Strength04_X](https://x.com/Strength04_X)
+- **来源:** [来源](https://x.com/Strength04_X/status/2075063250656621054)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Strength04_X/status/2075063250656621054)**
+
+---
+
+### No. 40: 参考圖编辑 - Character silhouette to real pudding edit
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 說明
+
+A Japanese image-to-image test normalized from a public Seedream 5 Pro post, focused on replacing a character shape with a realistic dessert.
+
+#### 提示詞
+
+```
+Use the uploaded character silhouette and surface contours as the shape reference, then reinterpret it as a realistic custard pudding viewed from above. Preserve the overall outline and bumps, replace the material with glossy caramel, soft custard, plate shadows, and food-photography lighting.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMv3RPDaAAA4zYt.jpg" width="600" alt="参考圖编辑 - Character silhouette to real pudding edit - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMv3ZGLboAEdmzG.jpg" width="600" alt="参考圖编辑 - Character silhouette to real pudding edit - Image 2">
+</div>
+
+#### 詳情
+
+- **作者:** [@TlanoAI](https://x.com/TlanoAI)
+- **来源:** [来源](https://x.com/TlanoAI/status/2075024241284837875)
+- **發佈時間:** 2026年7月9日
+- **语言:** ja
+
+**[使用這個提示詞](https://x.com/TlanoAI/status/2075024241284837875)**
+
+---
+
+### No. 41: 資訊圖與排版 - Parametric landmark infographic pair
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A technical infographic workflow normalized from a public Seedream 5.0 Pro post about Eiffel Tower and Pyramid diagram tests.
+
+#### 提示詞
+
+```
+Create a parametric architectural infographic for a famous landmark. Combine a clean elevation, structural grid, measurement labels, material callouts, construction timeline, simplified formulas, and small diagram panels. Keep the information dense but logical, with professional technical illustration clarity and readable text.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMxNGvwWoAALsqd.jpg" width="600" alt="資訊圖與排版 - Parametric landmark infographic pair - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMxNGy8WgAASBCA.jpg" width="600" alt="資訊圖與排版 - Parametric landmark infographic pair - Image 2">
+</div>
+
+#### 詳情
+
+- **作者:** [@ZaraIrahh](https://x.com/ZaraIrahh)
+- **来源:** [来源](https://x.com/ZaraIrahh/status/2075118336783089710)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/ZaraIrahh/status/2075118336783089710)**
+
+---
+
+### No. 42: 分镜與影片流程 - Sixteen-panel cavalry charge narrative
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A narrative-consistency workflow normalized from a public Seedream 5.0 Pro sequence test with knights and horses.
+
+#### 提示詞
+
+```
+Create a 16-panel grayscale storyboard of one cavalry charge from preparation to impact. Keep the same knights, horses, banners, armor shapes, and terrain consistent across every panel. Vary camera distance and angle like a shot list, add panel numbers, and make the action readable as one continuous sequence.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMt-7b3XMAAfEbD.jpg" width="600" alt="分镜與影片流程 - Sixteen-panel cavalry charge narrative - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
+- **来源:** [来源](https://x.com/ElaraGrace_AI/status/2074891631313015060)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
+
+---
+
+### No. 43: 分镜與影片流程 - Panel-by-panel grayscale shot list
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A long-form instruction-following storyboard test normalized from a public Seedream 5.0 Pro post.
+
+#### 提示詞
+
+```
+Generate a storyboard sheet from a precise shot list. Use 12 to 16 panels, grayscale production sketch style, panel numbers, camera arrows, brief framing labels, and consistent characters moving through one action sequence. Keep the layout disciplined and the continuity clear from panel to panel.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtnIPHa8AAbWpG.jpg" width="600" alt="分镜與影片流程 - Panel-by-panel grayscale shot list - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@munzxsdv](https://x.com/munzxsdv)
+- **来源:** [来源](https://x.com/munzxsdv/status/2074865454485483885)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/munzxsdv/status/2074865454485483885)**
+
+---
+
+### No. 44: 資訊圖與排版 - Thermal receipt typography stress test
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A receipt-rendering benchmark normalized from a public Seedream 5.0 Pro text-layout post.
+
+#### 提示詞
+
+```
+Design a realistic thermal receipt as a typography stress test. Include aligned columns, currency values, merchant name, order number, delivery fee line, tiny footer text, a barcode or tracking callout, slightly fading ink near the bottom, and correct spacing. Make it look printed, not typeset in a design app.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtk7jVXkAAs4uS.jpg" width="600" alt="資訊圖與排版 - Thermal receipt typography stress test - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@Hwypanda](https://x.com/Hwypanda)
+- **来源:** [来源](https://x.com/Hwypanda/status/2074863030362353871)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Hwypanda/status/2074863030362353871)**
+
+---
+
+### No. 45: 資訊圖與排版 - Data-dense operations dashboard set
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A structured-information workflow normalized from a public Seedream 5.0 Pro infographic test.
+
+#### 提示詞
+
+```
+Create a set of data-dense visual panels: a global supply chain dashboard, a quantum-computer architecture diagram, and a film-production call sheet. Use readable labels, aligned grids, chart elements, timeline blocks, hierarchy, and clean technical illustration. Prioritize information structure over decorative effects.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMySOqPaQAAT4nQ.jpg" width="600" alt="資訊圖與排版 - Data-dense operations dashboard set - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMySOqKasAILEOw.jpg" width="600" alt="資訊圖與排版 - Data-dense operations dashboard set - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMySOpXbgAAAazn.jpg" width="600" alt="資訊圖與排版 - Data-dense operations dashboard set - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMySOsDbsAAxFkL.jpg" width="600" alt="資訊圖與排版 - Data-dense operations dashboard set - Image 4">
+</div>
+
+#### 詳情
+
+- **作者:** [@rovvmut_](https://x.com/rovvmut_)
+- **来源:** [来源](https://x.com/rovvmut_/status/2075194313752088727)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/rovvmut_/status/2075194313752088727)**
+
+---
+
+### No. 46: 参考圖编辑 - Makeup identity-preservation comparison
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 說明
+
+A reference-editing workflow normalized from a public Seedream 5.0 Pro makeup comparison post.
+
+#### 提示詞
+
+```
+Use the uploaded portrait as the identity anchor. Change only the makeup: add refined glitter eye detail, clean skin highlights, and a more polished beauty look while preserving facial geometry, expression, age, skin texture, lighting direction, and camera angle. Avoid changing the person into a different face.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtzyqXWEAAKJmZ.jpg" width="600" alt="参考圖编辑 - Makeup identity-preservation comparison - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtzytfWkAAT-5U.jpg" width="600" alt="参考圖编辑 - Makeup identity-preservation comparison - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtzytfXUAA1smX.jpg" width="600" alt="参考圖编辑 - Makeup identity-preservation comparison - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtzyqYXEAAQp-d.jpg" width="600" alt="参考圖编辑 - Makeup identity-preservation comparison - Image 4">
+</div>
+
+#### 詳情
+
+- **作者:** [@SeharShinwari](https://x.com/SeharShinwari)
+- **来源:** [来源](https://x.com/SeharShinwari/status/2074879382326526377)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/SeharShinwari/status/2074879382326526377)**
+
+---
+
+### No. 47: UI / 产品樣機 - E-commerce spec sheet and size chart
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A commerce-production workflow normalized from a public Seedream 5.0 Pro post about dense functional images.
+
+#### 提示詞
+
+```
+Create an e-commerce product information sheet with a packaging mockup, product photo, size chart, feature bullets, materials callouts, SKU block, and shipping icons. Keep the design clean and retail-ready, with readable numbers, aligned table rows, and realistic product shadows.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMt2EFUbkAAiTqg.jpg" width="600" alt="UI / 产品樣機 - E-commerce spec sheet and size chart - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@Ai_Vaidehi](https://x.com/Ai_Vaidehi)
+- **来源:** [来源](https://x.com/Ai_Vaidehi/status/2074881884883210678)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Ai_Vaidehi/status/2074881884883210678)**
+
+---
+
+### No. 48: 多語言海报 - Spanish cultural altar explainer
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A language-learning infographic pattern normalized from a public Seedream 5.0 Pro multilingual education post.
+
+#### 提示詞
+
+```
+Design an authentic Spanish-language classroom infographic explaining a traditional altar. Include culturally specific objects, short Spanish labels, a clear title, three explanatory callouts, decorative but restrained color, and a teacher-friendly layout that reads naturally to native speakers.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMvuQTUasAAaMZs.jpg" width="600" alt="多語言海报 - Spanish cultural altar explainer - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@ItsMaryAI](https://x.com/ItsMaryAI)
+- **来源:** [来源](https://x.com/ItsMaryAI/status/2075014028586524836)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/ItsMaryAI/status/2075014028586524836)**
+
+---
+
+### No. 49: UI / 产品樣機 - Personal trading card generator
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A playful structured-layout workflow normalized from a public Seedream 5.0 Pro trading-card post.
+
+#### 提示詞
+
+```
+Create a premium collectible trading card for a person, pet, or object. Include a portrait window, rarity badge, stats table, flavor text, holographic border, small icons, and a clear nameplate. Keep the layout crisp, legible, and game-card-like without using real franchise branding.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMurc2_aMAAtL3z.jpg" width="600" alt="UI / 产品樣機 - Personal trading card generator - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMurerTboAA4GCF.jpg" width="600" alt="UI / 产品樣機 - Personal trading card generator - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMurh5UbsAAEoHQ.jpg" width="600" alt="UI / 产品樣機 - Personal trading card generator - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMurmIva8AAdvG7.jpg" width="600" alt="UI / 产品樣機 - Personal trading card generator - Image 4">
+</div>
+
+#### 詳情
+
+- **作者:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
+- **来源:** [来源](https://x.com/ThinkerSilentH/status/2074940762861814235)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/ThinkerSilentH/status/2074940762861814235)**
+
+---
+
+### No. 50: UI / 产品樣機 - Game-ready interface concept sheet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A game UI concept workflow normalized from a public Seedream 5.0 Pro interface post.
+
+#### 提示詞
+
+```
+Design a game-ready interface concept sheet with multiple panels: inventory, stats, character card, minimap, skill buttons, notification toast, and settings micro-UI. Keep every tiny element intentional, aligned, and legible, with a coherent visual theme and production-polished spacing.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMu8l9_XUAAqDjN.jpg" width="600" alt="UI / 产品樣機 - Game-ready interface concept sheet - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@JameFalken](https://x.com/JameFalken)
+- **来源:** [来源](https://x.com/JameFalken/status/2074959430374867438)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/JameFalken/status/2074959430374867438)**
+
+---
+
+### No. 51: 精準编辑 - Separate-layer design handoff
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A layer-separation workflow normalized from a high-engagement public Seedream 5.0 Pro post.
+
+#### 提示詞
+
+```
+Create a design concept that can be separated into editable layers: background, subject, product, text, shadows, decorative marks, and callout labels. Keep edges clean, overlaps logical, and every layer visually independent enough for a Photoshop-style handoff.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2074854109195194368/pu/img/kw1gz03TrGY7dBjD.jpg" width="600" alt="精準编辑 - Separate-layer design handoff - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@bdsqlsz](https://x.com/bdsqlsz)
+- **来源:** [来源](https://x.com/bdsqlsz/status/2074854144469238254)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/bdsqlsz/status/2074854144469238254)**
+
+---
+
+### No. 52: 資訊圖與排版 - Dense infographic with sketch editing
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 說明
+
+A Higgsfield availability post normalized into a prompt for dense text-rich visuals plus sketch-driven editing.
+
+#### 提示詞
+
+```
+Create a dense text-rich infographic from a rough sketch. Follow the sketch structure, preserve the marked blocks, convert notes into clean labels, and render charts, icons, and subject photography with readable typography. Keep photographic skin and lighting natural where people appear.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074866663133188096/img/EDQbAT7uYP9E8P_u.jpg" width="600" alt="資訊圖與排版 - Dense infographic with sketch editing - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@higgsfield](https://x.com/higgsfield)
+- **来源:** [来源](https://x.com/higgsfield/status/2074866864128430179)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/higgsfield/status/2074866864128430179)**
+
+---
+
+### No. 53: 精準编辑 - Region edit plus layer separation mockup
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 說明
+
+A Morphic launch post normalized into a precise editing and layer-separation production brief.
+
+#### 提示詞
+
+```
+Use the base visual as a production mockup. Perform a precise region edit, then organize the result as if the background, product, typography, shadows, and accent graphics could be exported separately. Keep multilingual text clean, layout balanced, and every changed element consistent with the original art direction.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074851748389531648/img/J1NlerZdGdBSd7pK.jpg" width="600" alt="精準编辑 - Region edit plus layer separation mockup - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@morphic](https://x.com/morphic)
+- **来源:** [来源](https://x.com/morphic/status/2074851991466205431)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/morphic/status/2074851991466205431)**
+
+---
+
+### No. 54: 参考圖编辑 - Prompt-or-reference detail render
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 說明
+
+A Runway availability post normalized into a flexible prompt/reference workflow for legible multilingual image generation.
+
+#### 提示詞
+
+```
+Generate a highly detailed image from either a written prompt or a visual reference. If a reference is provided, preserve the key composition and material cues; if only text is provided, follow the scene description closely. Add readable in-image text in the requested language and keep the final image clean enough for editorial use.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074981967276187648/img/wTkNqS727wv_OW6O.jpg" width="600" alt="参考圖编辑 - Prompt-or-reference detail render - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@runwayml](https://x.com/runwayml)
+- **来源:** [来源](https://x.com/runwayml/status/2074982268175630814)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/runwayml/status/2074982268175630814)**
+
+---
+
+### No. 55: 多語言海报 - APAC multi-market campaign board
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A multilingual market-localization workflow normalized from a public Seedream 5.0 Pro post.
+
+#### 提示詞
+
+```
+Create one campaign board with four regional variants: Japanese, Korean, Chinese, and English. Keep product placement and brand identity consistent, but adapt typography, spacing, and cultural visual cues for each market. The copy should look native in every script, not auto-translated.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtpU6IbEAAfcdb.jpg" width="600" alt="多語言海报 - APAC multi-market campaign board - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@apy_n5](https://x.com/apy_n5)
+- **来源:** [来源](https://x.com/apy_n5/status/2074867864147054934)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/apy_n5/status/2074867864147054934)**
+
+---
+
+### No. 56: 技術圖紙 - Blueprint with terminating dimension lines
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A technical blueprint stress test normalized from a public Seedream 5.0 Pro post.
+
+#### 提示詞
+
+```
+Create a technical blueprint with abundant measurement values. Draw dimension lines that terminate precisely on the parts they measure, with arrows, extension lines, labels, scale notes, section markers, and a clean drafting hierarchy. Use a futuristic object or machine part as the subject.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtkx9vWQAAjtnW.jpg" width="600" alt="技術圖紙 - Blueprint with terminating dimension lines - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@LiamEtherson](https://x.com/LiamEtherson)
+- **来源:** [来源](https://x.com/LiamEtherson/status/2074862867442962667)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/LiamEtherson/status/2074862867442962667)**
+
+---
+
+### No. 57: 資訊圖與排版 - Delivery receipt with tracking callout
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A receipt/document-layout workflow normalized from a public Seedream 5.0 Pro typography post.
+
+#### 提示詞
+
+```
+Design a realistic delivery receipt with merchant name, order number, itemized rows, subtotal, delivery fee, tax, total, and a clear SCAN TO TRACK YOUR ORDER callout. Add thermal-paper texture, slight ink fading, aligned columns, and tiny but readable footer text.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMttQ9zakAEFzH5.jpg" width="600" alt="資訊圖與排版 - Delivery receipt with tracking callout - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@noorwithwifi](https://x.com/noorwithwifi)
+- **来源:** [来源](https://x.com/noorwithwifi/status/2074872194858205529)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/noorwithwifi/status/2074872194858205529)**
+
+---
+
+### No. 58: 产品广告 - Restaurant specials board bundle
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A small-business marketing workflow normalized from a public Seedream 5.0 Pro post.
+
+#### 提示詞
+
+```
+Create a local restaurant visual bundle: a chalkboard specials menu, a loyalty card, and a delivery hero image. Use correct prices, readable dish names, appetizing food photography, neighborhood warmth, and consistent colors so the assets feel like one campaign.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtuVffbIAAPMtw.jpg" width="600" alt="产品广告 - Restaurant specials board bundle - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@rsraisul_islam](https://x.com/rsraisul_islam)
+- **来源:** [来源](https://x.com/rsraisul_islam/status/2074873384790523920)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/rsraisul_islam/status/2074873384790523920)**
+
+---
+
+### No. 59: 精準编辑 - Photobomber removal replacement edit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 說明
+
+A precision-editing workflow normalized from a public Seedream 5.0 Pro retouching post.
+
+#### 提示詞
+
+```
+Use the uploaded street photo and remove the marked photobomber. Replace the area with a believable background object or environmental detail, preserving lighting, perspective, shadows, grain, and depth of field. Do not alter the main subject or surrounding composition.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuVx7AaEAAZGB2.jpg" width="600" alt="精準编辑 - Photobomber removal replacement edit - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuVyZEbsAEd-ow.jpg" width="600" alt="精準编辑 - Photobomber removal replacement edit - Image 2">
+</div>
+
+#### 詳情
+
+- **作者:** [@filodyprincess](https://x.com/filodyprincess)
+- **来源:** [来源](https://x.com/filodyprincess/status/2074916756452483224)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/filodyprincess/status/2074916756452483224)**
+
+---
+
+### No. 60: 精準编辑 - Markup-driven logo enlargement
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 說明
+
+A direct-on-image annotation workflow normalized from a public Seedream 5.0 Pro post.
+
+#### 提示詞
+
+```
+Use the uploaded design comp with handwritten markup. If the logo is circled and labeled bigger, enlarge only that logo while preserving its style, placement logic, surrounding spacing, shadows, and background. Treat every handwritten note as an edit instruction, not decoration.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuPcQtbkAA3zUH.jpg" width="600" alt="精準编辑 - Markup-driven logo enlargement - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuPcrubMAAHS7B.jpg" width="600" alt="精準编辑 - Markup-driven logo enlargement - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuPdF_a4AA4VtY.jpg" width="600" alt="精準编辑 - Markup-driven logo enlargement - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuPdjQbMAAKM6J.jpg" width="600" alt="精準编辑 - Markup-driven logo enlargement - Image 4">
+</div>
+
+#### 詳情
+
+- **作者:** [@Zayan_coder](https://x.com/Zayan_coder)
+- **来源:** [来源](https://x.com/Zayan_coder/status/2074909799293305323)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Zayan_coder/status/2074909799293305323)**
+
+---
+
+### No. 61: 精準编辑 - Six-note living room edit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 說明
+
+A multi-region interior-editing workflow normalized from a public Seedream 5.0 Pro post.
+
+#### 提示詞
+
+```
+Use the living-room image with six marked boxes and six notes. Apply each change only inside its target region: furniture, curtains, lighting, decor, wall detail, and floor tone. Preserve room geometry, camera position, natural shadows, and the untouched areas between boxes.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuX5aUbgAAltFz.jpg" width="600" alt="精準编辑 - Six-note living room edit - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuX5aRaAAABulp.jpg" width="600" alt="精準编辑 - Six-note living room edit - Image 2">
+</div>
+
+#### 詳情
+
+- **作者:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
+- **来源:** [来源](https://x.com/Dipanshu_AI/status/2074919074929475587)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Dipanshu_AI/status/2074919074929475587)**
+
+---
+
+### No. 62: 精準编辑 - Street-to-rainy chase annotation edit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 說明
+
+A cinematic annotation workflow normalized from a public Seedream 5.0 Pro post.
+
+#### 提示詞
+
+```
+Start from a normal street still with markup notes. Transform the scene into a rainy chase moment: wet pavement, motion energy, darker sky, directional headlights, and tense composition. Keep any marked subjects and camera framing consistent, and make every annotation land in the final image.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtnI8TboAI0tWS.jpg" width="600" alt="精準编辑 - Street-to-rainy chase annotation edit - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtnLOKaAAAJ3G-.jpg" width="600" alt="精準编辑 - Street-to-rainy chase annotation edit - Image 2">
+</div>
+
+#### 詳情
+
+- **作者:** [@HarshBisen143](https://x.com/HarshBisen143)
+- **来源:** [来源](https://x.com/HarshBisen143/status/2074865604029550886)
+- **發佈時間:** 2026年7月8日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/HarshBisen143/status/2074865604029550886)**
+
+---
+
+### No. 63: 精準编辑 - Client feedback revision loop
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 說明
+
+A client-feedback workflow normalized from a public Seedream 5.0 Pro revision-loop post.
+
+#### 提示詞
+
+```
+Use an existing design comp covered with plain-language feedback such as bigger, warmer, less busy, and move this left. Apply the revisions in one pass while keeping the original brand system, spacing logic, and image quality intact. The result should feel like a designer interpreted the comments correctly.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuA5o2bgAAzCFa.jpg" width="600" alt="精準编辑 - Client feedback revision loop - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuA6KJaAAQi4y7.jpg" width="600" alt="精準编辑 - Client feedback revision loop - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuA6-iaAAAIqmP.jpg" width="600" alt="精準编辑 - Client feedback revision loop - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuA7l0bIAA1nn4.jpg" width="600" alt="精準编辑 - Client feedback revision loop - Image 4">
+</div>
+
+#### 詳情
+
+- **作者:** [@techxsarfraj](https://x.com/techxsarfraj)
+- **来源:** [来源](https://x.com/techxsarfraj/status/2074893823029998052)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/techxsarfraj/status/2074893823029998052)**
+
+---
+
+### No. 64: 多語言海报 - Mixed-language arrows intent edit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 說明
+
+A multilingual intent-following workflow normalized from a public Seedream 5.0 Pro post.
+
+#### 提示詞
+
+```
+Use an image marked with arrows, short notes, and mixed English plus another language. Interpret the intent rather than copying the notes visually. Make the requested localized changes, preserve untouched areas, and ensure any final in-image text uses the correct script and spacing.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMwM4D2bQAAVHR-.jpg" width="600" alt="多語言海报 - Mixed-language arrows intent edit - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@Sporshamezy](https://x.com/Sporshamezy)
+- **来源:** [来源](https://x.com/Sporshamezy/status/2075047697804140914)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Sporshamezy/status/2075047697804140914)**
+
+---
+
+### No. 65: 电影剧照 - Worldbuilding anchor frame color grade
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A worldbuilding workflow normalized from a public Seedream 5.0 Pro post about locking an anchor frame and color grade.
+
+#### 提示詞
+
+```
+Create an anchor frame for a worldbuilding project. Establish the environment, hero object, atmosphere, and color grade in one image that future references can follow. Use consistent material language, cinematic depth, clear foreground-midground-background separation, and a palette stable enough to guide later scene generation.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075026724396392448/img/rIxJGd5pioPxGtDm.jpg" width="600" alt="电影剧照 - Worldbuilding anchor frame color grade - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@diffractstudio](https://x.com/diffractstudio)
+- **来源:** [来源](https://x.com/diffractstudio/status/2075029719490195858)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/diffractstudio/status/2075029719490195858)**
+
+---
+
+## 如何贡献
 
 欢迎通过 GitHub Issues 提交高质量提示词。
 
 ### GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)
-2. 填写提示词、说明和图片信息
+1. Click [**提交新提示詞**](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)
+2. 填寫提示詞詳情和圖片資訊
 3. 提交后等待维护者审核
-4. 审核通过后可以同步到本地结构化数据
-5. README 生成流程运行后会展示你的提示词
+4. 審核通過後可同步到本地倉庫資料
+5. README 生成流程執行後會展示你的提示詞
 
-**注意：** 我们用结构化格式维护提交内容，保证 README 展示一致。
+**注意：** 我們使用結構化格式維護提交內容，確保 README 展示一致。
 
 详见 [CONTRIBUTING.md](docs/CONTRIBUTING.md)。
 
 ---
 
-## License
+## 许可证
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+基于 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 许可发布。
 
 ---
 
-## Acknowledgements
+## 致谢
 
 - [ImagineVid](https://imaginevid.com)
 - The creators whose public prompts are attributed in this collection
 
 ---
 
-## Star History
+## Star 历史
 
 [![Star History Chart](https://api.star-history.com/svg?repos=imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&type=Date)](https://star-history.com/#imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&Date)
 
@@ -1412,10 +2933,10 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 <div align="center">
 
-**[查看精選集合](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)** •
-**[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
-**[Star this repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[查看精選合集](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)** •
+**[提交提示词](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
+**[为仓库点 Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T15:13:52.093Z</sub>
+<sub>本 README 自動生成。最後更新： 2026-07-09T15:40:11.605Z</sub>
 
 </div>

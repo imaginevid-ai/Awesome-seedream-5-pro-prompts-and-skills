@@ -11,9 +11,9 @@
 [![Update README](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/actions/workflows/update-readme.yml/badge.svg)](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 
-> Eine von ImagineVid kuratierte Sammlung von Seedream 5 Pro Prompts, wiederverwendbaren Skills und visuellen Beispielen
+> Eine von ImagineVid kuratierte Sammlung von Seedream 5 Pro Prompts, wiederverwendbaren Prompt-Skills und visuellen Beispielen
 
-> **Copyright Notice**: Prompts are collected or submitted for educational and creative reference with attribution. If any content should be removed, please open an issue and we will handle it promptly.
+> **Copyright-Hinweis**: Prompts werden mit Quellenangabe zu Bildungs- und Kreativreferenz gesammelt. Wenn Inhalte entfernt werden sollen, öffne bitte ein Issue.
 
 ---
 
@@ -23,17 +23,17 @@
 
 ## Kuratierte Sammlung ansehen
 
-**[ImagineVid Seedream 5 Pro Prompt-Sammlung öffnen](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[Die ImagineVid Seedream 5 Pro Prompt-Sammlung durchsuchen](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
 Warum diese Sammlung nutzen?
 
-| Funktion | GitHub README | ImagineVid Collection |
+| Funktion | GitHub README | ImagineVid-Sammlung |
 |---------|--------------|---------------------|
-| Visual Layout | Linear list | Curated visual sections |
-| Search | Ctrl+F only | Structured categories |
-| Prompt Workflow | - | Reusable prompt skills |
-| Mobile | Basic | Readable in every README locale |
-| Categories | - | Category browsing |
+| Visuelles Layout | Lineare Liste | Kuratierte visuelle Abschnitte |
+| Suche | Nur Ctrl+F | Strukturierte Kategorien |
+| Prompt-Workflow | - | Wiederverwendbare Prompt-Skills |
+| Mobil | Basis | In jeder README-Sprache lesbar |
+| Kategorien | - | Kategorie-Browsing |
 
 
 ### Nach Kategorie durchsuchen
@@ -89,35 +89,35 @@ Warum diese Sammlung nutzen?
 - [Ausgewählte Prompts](#ausgewhlte-prompts)
 - [Alle Prompts](#alle-prompts)
 - [Mitwirken](#mitwirken)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Star History](#star-history)
+- [Lizenz](#lizenz)
+- [Danksagung](#danksagung)
+- [Star-Verlauf](#star-verlauf)
 
 ---
 
 ## Was ist Seedream 5 Pro?
 
-**Seedream 5 Pro** is a high-end image generation model family suited for structured creative production:
+**Seedream 5 Pro** ist eine hochwertige Bildmodellfamilie für strukturierte Kreativproduktion:
 
-- **Prompt Understanding** - Follow detailed scene, style, camera, and layout instructions
-- **High-Quality Generation** - Produce polished images for editorial, product, and concept work
-- **Fast Iteration** - Adapt a prompt pattern across many creative directions
-- **Diverse Styles** - Support cinematic, commercial, illustration, UI, and poster aesthetics
-- **Precise Control** - Encode composition, typography, color, lighting, and subject constraints
-- **Complex Scenes** - Handle multi-object, multi-panel, and workflow-style prompts
+- **Prompt-Verständnis** - Folgt detaillierten Vorgaben zu Szene, Stil, Kamera und Layout
+- **Hohe Qualität** - Erzeugt polierte Bilder für Editorial, Produkt und Konzeptarbeit
+- **Schnelle Iteration** - Überträgt ein Prompt-Muster auf viele kreative Richtungen
+- **Vielfältige Stile** - Unterstützt Kinoästhetik, Commercials, Illustration, UI und Poster
+- **Präzise Kontrolle** - Beschreibt Komposition, Typografie, Farbe, Licht und Motivbedingungen
+- **Komplexe Szenen** - Verarbeitet Multi-Objekt-, Multi-Panel- und Workflow-Prompts
 
-**Learn More:** follow the source links and examples collected in this repository.
+**Mehr erfahren:** Folge den Quellenlinks und Beispielen in diesem Repository.
 
-### Prompt Skill Arguments
+### Prompt-Skill-Argumente
 
-Some prompts support dynamic placeholders using Raycast Snippets-style `{argument ...}` syntax. Look for the Raycast Friendly badge.
+Einige Prompts unterstützen dynamische Platzhalter im Raycast-Snippets-Stil mit `{argument ...}`. Achte auf das Raycast-Friendly-Badge.
 
-**Example:**
+**Beispiel:**
 ```
-A cinematic poster for "{argument name="product" default="a glass AI camera"}" with {argument name="mood" default="midnight studio lighting"}
+Ein filmisches Poster für ein Produkt mit der gewünschten Stimmung
 ```
 
-Replace the arguments to reuse the prompt as a compact creative skill.
+Ersetze die Argumente, um den Prompt als kompakten Kreativ-Skill wiederzuverwenden.
 
 ---
 
@@ -127,9 +127,9 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 
 | Metrik | Anzahl |
 |--------|-------|
-| Prompts gesamt | **33** |
-| Ausgewählt | **7** |
-| Zuletzt aktualisiert | **Donnerstag, 9. Juli 2026 um 15:13:52 UTC** |
+| Prompts gesamt | **75** |
+| Ausgewählt | **10** |
+| Zuletzt aktualisiert | **Donnerstag, 9. Juli 2026 um 15:40:11 UTC** |
 
 </div>
 
@@ -137,7 +137,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 
 ## Ausgewählte Prompts
 
-> Hand-picked for reusable structure, visual clarity, and creative range
+> Ausgewählt nach Wiederverwendbarkeit, visueller Klarheit und kreativer Bandbreite
 
 ### No. 1: Hard sci-fi airlock film still
 
@@ -167,7 +167,7 @@ Create a hard sci-fi movie still titled AIRLOCK. Frame one white EVA-suit astron
 - **Autor:** [@karim_yourself](https://x.com/karim_yourself)
 - **Quelle:** [Quelle](https://x.com/karim_yourself/status/2075165434827989207)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/karim_yourself/status/2075165434827989207)**
 
@@ -213,7 +213,7 @@ Generate a 1970s European romantic-drama still set inside a tense private moment
 - **Autor:** [@UnityEagle](https://x.com/UnityEagle)
 - **Quelle:** [Quelle](https://x.com/UnityEagle/status/2075191214601572606)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/UnityEagle/status/2075191214601572606)**
 
@@ -247,7 +247,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 - **Autor:** [@characternexus](https://x.com/characternexus)
 - **Quelle:** [Quelle](https://x.com/characternexus/status/2074920654751592583)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/characternexus/status/2074920654751592583)**
 
@@ -281,7 +281,7 @@ Frame a folk-horror film still from an extreme low angle inside dense wheat. Let
 - **Autor:** [@karim_yourself](https://x.com/karim_yourself)
 - **Quelle:** [Quelle](https://x.com/karim_yourself/status/2075165437856264581)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/karim_yourself/status/2075165437856264581)**
 
@@ -333,7 +333,7 @@ Create a premium sports refreshment campaign image on a locker-room floor or ben
 - **Autor:** [@bmx_ai13](https://x.com/bmx_ai13)
 - **Quelle:** [Quelle](https://x.com/bmx_ai13/status/2075082266695582012)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/bmx_ai13/status/2075082266695582012)**
 
@@ -373,7 +373,7 @@ Design a blueprint-style technical sheet for a futuristic sports car. Include fr
 - **Autor:** [@marmaduke091](https://x.com/marmaduke091)
 - **Quelle:** [Quelle](https://x.com/marmaduke091/status/2074866077499105416)
 - **Veröffentlicht:** 8. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/marmaduke091/status/2074866077499105416)**
 
@@ -408,15 +408,118 @@ Create a {argument name="aspect_ratio" default="16:9"} full-bleed editorial acti
 - **Autor:** [@AI__TSUBAKI](https://x.com/AI__TSUBAKI)
 - **Quelle:** [Quelle](https://x.com/AI__TSUBAKI/status/2075128188964159539)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/AI__TSUBAKI/status/2075128188964159539)**
 
 ---
 
+### No. 8: Official precise editing control workflow
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### Beschreibung
+
+A BytePlus official capability thread normalized into a practical prompt skill for controlled edits.
+
+#### Prompt
+
+```
+Use the uploaded image as the locked base. Edit exactly the marked area and preserve everything else: geometry, shadows, background texture, subject identity, and layout. Apply the requested color, material, product, or sketch-guided change only inside the region, then return a production-ready asset with no collateral drift.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074857777923842048/img/C6W8pXHDpvlnQkNo.jpg" width="700" alt="Official precise editing control workflow - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@BytePlusGlobal](https://x.com/BytePlusGlobal)
+- **Quelle:** [Quelle](https://x.com/BytePlusGlobal/status/2074878817458606402)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/BytePlusGlobal/status/2074878817458606402)**
+
+---
+
+### No. 9: Official complex information visualization
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### Beschreibung
+
+A BytePlus official capability example normalized into a dense information-design prompt.
+
+#### Prompt
+
+```
+Create a complex information visualization that combines one diagram, one small chart, explanatory labels, icons, and an illustration into a single clear layout. Make the hierarchy obvious, keep the text readable, align every panel to a grid, and avoid decorative clutter that weakens comprehension.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074858039396749313/img/o-yA1cRnviEaKVQY.jpg" width="700" alt="Official complex information visualization - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@BytePlusGlobal](https://x.com/BytePlusGlobal)
+- **Quelle:** [Quelle](https://x.com/BytePlusGlobal/status/2074878820122005880)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/BytePlusGlobal/status/2074878820122005880)**
+
+---
+
+### No. 10: Official native multilingual generation
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### Beschreibung
+
+A BytePlus official multilingual capability post normalized into a global-market creative prompt.
+
+#### Prompt
+
+```
+Generate a localized campaign asset directly in the target language. Respect the writing system, reading direction, line breaks, punctuation, and local design conventions. Keep the same brand structure across markets while adapting labels, headline length, and composition so the final image feels native rather than translated.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074858581493743616/img/Go9FvCImntKnogw5.jpg" width="700" alt="Official native multilingual generation - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@BytePlusGlobal](https://x.com/BytePlusGlobal)
+- **Quelle:** [Quelle](https://x.com/BytePlusGlobal/status/2074878830695850276)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/BytePlusGlobal/status/2074878830695850276)**
+
+---
+
 ## Alle Prompts
 
-> Sorted by publish date and curation order
+> Sortiert nach Veröffentlichungsdatum und Kuratierungsreihenfolge
 
 ### No. 1: Character Design - Avant-garde streetwear creator sheet
 
@@ -463,7 +566,7 @@ Design a full-body character sheet for a male creator in avant-garde streetwear.
 - **Autor:** [@Boluwatifeolad7](https://x.com/Boluwatifeolad7)
 - **Quelle:** [Quelle](https://x.com/Boluwatifeolad7/status/2075191098184442310)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/Boluwatifeolad7/status/2075191098184442310)**
 
@@ -503,7 +606,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 - **Autor:** [@asheem01](https://x.com/asheem01)
 - **Quelle:** [Quelle](https://x.com/asheem01/status/2074941260863811644)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/asheem01/status/2074941260863811644)**
 
@@ -542,7 +645,7 @@ Create an exotic tropical travel visual of the Maldives with crystal-clear turqu
 - **Autor:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Quelle:** [Quelle](https://x.com/Bic_Revelation/status/2074959714366922857)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/Bic_Revelation/status/2074959714366922857)**
 
@@ -575,7 +678,7 @@ Create a wide exterior noir shot of a lonely roadside diner during heavy night r
 - **Autor:** [@karim_yourself](https://x.com/karim_yourself)
 - **Quelle:** [Quelle](https://x.com/karim_yourself/status/2075165441236803971)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/karim_yourself/status/2075165441236803971)**
 
@@ -608,7 +711,7 @@ Build a fantasy film still titled The Sun Throne. Place a bowed supplicant in so
 - **Autor:** [@karim_yourself](https://x.com/karim_yourself)
 - **Quelle:** [Quelle](https://x.com/karim_yourself/status/2075165447490535486)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/karim_yourself/status/2075165447490535486)**
 
@@ -641,7 +744,7 @@ Create a survival film still in a total snow whiteout. Reduce the mountaineer to
 - **Autor:** [@karim_yourself](https://x.com/karim_yourself)
 - **Quelle:** [Quelle](https://x.com/karim_yourself/status/2075165459993784441)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/karim_yourself/status/2075165459993784441)**
 
@@ -674,7 +777,7 @@ Photograph a relaxed adult woman leaning against a kitchen counter in a lived-in
 - **Autor:** [@Digitalwindai](https://x.com/Digitalwindai)
 - **Quelle:** [Quelle](https://x.com/Digitalwindai/status/2075222988106932645)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/Digitalwindai/status/2075222988106932645)**
 
@@ -707,7 +810,7 @@ Create a 1916 Western Front film still at dawn. Show an exhausted young soldier 
 - **Autor:** [@Digitalwindai](https://x.com/Digitalwindai)
 - **Quelle:** [Quelle](https://x.com/Digitalwindai/status/2075222992515125388)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/Digitalwindai/status/2075222992515125388)**
 
@@ -740,7 +843,7 @@ Render a massive capital-class spaceship orbiting a fictional alien planet. Use 
 - **Autor:** [@Digitalwindai](https://x.com/Digitalwindai)
 - **Quelle:** [Quelle](https://x.com/Digitalwindai/status/2075222996810145816)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/Digitalwindai/status/2075222996810145816)**
 
@@ -773,7 +876,7 @@ Create an epic Japanese anime key visual of a sorceress mid-incantation. Use a l
 - **Autor:** [@Digitalwindai](https://x.com/Digitalwindai)
 - **Quelle:** [Quelle](https://x.com/Digitalwindai/status/2075223017127383054)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/Digitalwindai/status/2075223017127383054)**
 
@@ -806,7 +909,7 @@ Design a wide anime establishing shot of ancient temple islands floating above a
 - **Autor:** [@Digitalwindai](https://x.com/Digitalwindai)
 - **Quelle:** [Quelle](https://x.com/Digitalwindai/status/2075223022089154792)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/Digitalwindai/status/2075223022089154792)**
 
@@ -845,7 +948,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 - **Autor:** [@al_tools43377](https://x.com/al_tools43377)
 - **Quelle:** [Quelle](https://x.com/al_tools43377/status/2074971603054502365)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/al_tools43377/status/2074971603054502365)**
 
@@ -896,7 +999,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 - **Autor:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Quelle:** [Quelle](https://x.com/ahmetmertugrul/status/2074914214074872162)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/ahmetmertugrul/status/2074914214074872162)**
 
@@ -936,7 +1039,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 - **Autor:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Quelle:** [Quelle](https://x.com/ZariaTechAI/status/2074909390650634560)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/ZariaTechAI/status/2074909390650634560)**
 
@@ -970,7 +1073,7 @@ Start from a rough product sketch or reference collage. Preserve the original si
 - **Autor:** [@capcutapp](https://x.com/capcutapp)
 - **Quelle:** [Quelle](https://x.com/capcutapp/status/2075230628786970765)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/capcutapp/status/2075230628786970765)**
 
@@ -1004,7 +1107,7 @@ Use the existing poster or product mockup as the base. Change only the selected 
 - **Autor:** [@fal](https://x.com/fal)
 - **Quelle:** [Quelle](https://x.com/fal/status/2074846830198722944)
 - **Veröffentlicht:** 8. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/fal/status/2074846830198722944)**
 
@@ -1038,7 +1141,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 - **Autor:** [@krea_ai](https://x.com/krea_ai)
 - **Quelle:** [Quelle](https://x.com/krea_ai/status/2074891481832456638)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/krea_ai/status/2074891481832456638)**
 
@@ -1072,7 +1175,7 @@ Create a production-ready enterprise visual asset for {argument name="industry" 
 - **Autor:** [@BytePlusGlobal](https://x.com/BytePlusGlobal)
 - **Quelle:** [Quelle](https://x.com/BytePlusGlobal/status/2074851378879668708)
 - **Veröffentlicht:** 8. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/BytePlusGlobal/status/2074851378879668708)**
 
@@ -1105,7 +1208,7 @@ Create the same clean campaign infographic in 14 language variants. Keep the lay
 - **Autor:** [@magnific](https://x.com/magnific)
 - **Quelle:** [Quelle](https://x.com/magnific/status/2074843521853636609)
 - **Veröffentlicht:** 8. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/magnific/status/2074843521853636609)**
 
@@ -1138,7 +1241,7 @@ Design a workplace safety poster template, then render it in five languages whil
 - **Autor:** [@Echoes999Y](https://x.com/Echoes999Y)
 - **Quelle:** [Quelle](https://x.com/Echoes999Y/status/2074870172230484301)
 - **Veröffentlicht:** 8. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/Echoes999Y/status/2074870172230484301)**
 
@@ -1171,7 +1274,7 @@ Create a client-facing architecture concept board for a warm modern interior. Co
 - **Autor:** [@irdh34](https://x.com/irdh34)
 - **Quelle:** [Quelle](https://x.com/irdh34/status/2074910474609566115)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/irdh34/status/2074910474609566115)**
 
@@ -1204,7 +1307,7 @@ Generate a realistic 1960s Havana documentary still as the first frame for video
 - **Autor:** [@techhalla](https://x.com/techhalla)
 - **Quelle:** [Quelle](https://x.com/techhalla/status/2075170093626011858)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/techhalla/status/2075170093626011858)**
 
@@ -1237,7 +1340,7 @@ Create a candid street photo of a Korean woman in her twenties using her phone i
 - **Autor:** [@mattworkman](https://x.com/mattworkman)
 - **Quelle:** [Quelle](https://x.com/mattworkman/status/2074850550349222210)
 - **Veröffentlicht:** 8. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/mattworkman/status/2074850550349222210)**
 
@@ -1289,7 +1392,7 @@ Create a landing-page hero mockup by transferring a supplied visual style into a
 - **Autor:** [@OpenDesignHQ](https://x.com/OpenDesignHQ)
 - **Quelle:** [Quelle](https://x.com/OpenDesignHQ/status/2075191289750937758)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/OpenDesignHQ/status/2075191289750937758)**
 
@@ -1322,7 +1425,7 @@ Design a playful kids product ad poster with one hero toy or snack pack, bright 
 - **Autor:** [@OpenDesignHQ](https://x.com/OpenDesignHQ)
 - **Quelle:** [Quelle](https://x.com/OpenDesignHQ/status/2075191295476105374)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/OpenDesignHQ/status/2075191295476105374)**
 
@@ -1367,44 +1470,1462 @@ Create a high-fashion full-body portrait on a minimal editorial set. Use dramati
 - **Autor:** [@OpenDesignHQ](https://x.com/OpenDesignHQ)
 - **Quelle:** [Quelle](https://x.com/OpenDesignHQ/status/2075191300366733710)
 - **Veröffentlicht:** 9. Juli 2026
-- **Languages:** en
+- **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/OpenDesignHQ/status/2075191300366733710)**
 
 ---
 
+### No. 27: Cinematic Film Still - Noir cigarette ember close-up
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A near-black noir close-up from a public Seedream 5 Pro cinematic thread, rewritten for micro-lighting and smoke texture.
+
+#### Prompt
+
+```
+Create an extreme noir close-up in near-total darkness. Let a cigarette ember glow orange-red as the only vivid point of light, revealing just a sliver of cheekbone, jaw, stubble, and drifting smoke. Use a distant sodium streetlight as a hard sculpting key, keep most of the frame pure black, add film grain, and compose in anamorphic 2.39:1 with severe contrast.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx2jpgXMAAMTwx.jpg" width="600" alt="Cinematic Film Still - Noir cigarette ember close-up - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@karim_yourself](https://x.com/karim_yourself)
+- **Quelle:** [Quelle](https://x.com/karim_yourself/status/2075165444453876197)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/karim_yourself/status/2075165444453876197)**
+
+---
+
+### No. 28: Cinematic Film Still - Courtroom witness hard-key portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A single-light courtroom prompt from a public Seedream 5 Pro cinematic thread, normalized for emotional restraint and silhouette blocking.
+
+#### Prompt
+
+```
+Frame a tense courtroom witness in tight portrait. Half-light the face with a harsh overhead shaft so the eyes catch moisture while the rest drops into shadow. Let the lawyer appear only as a dark edge intruding from frame left. Keep the surrounding room nearly black, with restrained film grain, anamorphic framing, and a cornered but resolute mood.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx2pH6WUAE8SxO.jpg" width="600" alt="Cinematic Film Still - Courtroom witness hard-key portrait - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@karim_yourself](https://x.com/karim_yourself)
+- **Quelle:** [Quelle](https://x.com/karim_yourself/status/2075165450674069946)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/karim_yourself/status/2075165450674069946)**
+
+---
+
+### No. 29: Cinematic Film Still - Mob kitchen sauce-and-threat still
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A crime-drama film still from a public Seedream 5 Pro prompt thread, rewritten around warm domestic menace.
+
+#### Prompt
+
+```
+Create a cramped mob-drama kitchen still. Steam rises from a pot of sauce while an older boss stands half-lit by the stove flame, discussing danger as casually as a family recipe. Use warm practical light, lived-in clutter, textured walls, realistic steam, film grain, and a cozy domestic palette that makes the threat feel worse.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx2stJWwAAr-fE.jpg" width="600" alt="Cinematic Film Still - Mob kitchen sauce-and-threat still - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@karim_yourself](https://x.com/karim_yourself)
+- **Quelle:** [Quelle](https://x.com/karim_yourself/status/2075165453568053713)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/karim_yourself/status/2075165453568053713)**
+
+---
+
+### No. 30: Cinematic Film Still - Family table mob drama wide shot
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A companion mob-drama prompt from a public Seedream 5 Pro thread, normalized for group staging and warm overhead light.
+
+#### Prompt
+
+```
+Compose a wide shot of a cramped family kitchen table crowded with plates. Place the boss at the head, half-lit by warm overhead light, while a soldier leans in to whisper. Keep the room ordinary and lived-in, with sauce, dishes, and family warmth hiding the violence underneath. Use anamorphic framing, film grain, and a cozy-ominous tone.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx2u3GWcAA4A0m.jpg" width="600" alt="Cinematic Film Still - Family table mob drama wide shot - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@karim_yourself](https://x.com/karim_yourself)
+- **Quelle:** [Quelle](https://x.com/karim_yourself/status/2075165456822882498)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/karim_yourself/status/2075165456822882498)**
+
+---
+
+### No. 31: Character Design - Aristocratic alien diplomat portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A sci-fi character still from a public Seedream 5 Pro prompt thread, rewritten for prosthetic-grade alien design.
+
+#### Prompt
+
+```
+Design a cinematic portrait of an aristocratic alien diplomat with pale lavender-gray skin, an elongated smooth skull, no visible nose, black almond eyes, and a delicate ridged brow. Dress the figure in an ornate high-collared ceremonial garment with filigree detail. Use quiet diplomatic tension, soft directional light, restrained color, and production-quality prosthetic realism.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx26KlWEAA3BJY.jpg" width="600" alt="Character Design - Aristocratic alien diplomat portrait - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@karim_yourself](https://x.com/karim_yourself)
+- **Quelle:** [Quelle](https://x.com/karim_yourself/status/2075165463009501682)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/karim_yourself/status/2075165463009501682)**
+
+---
+
+### No. 32: Cinematic Film Still - Villeneuve-style neutral mask portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A restrained character close-up from a public Seedream 5 Pro prompt thread, rewritten for sparse architecture and unreadable emotion.
+
+#### Prompt
+
+```
+Create a close character portrait with very pale skin, light eyes, and an entirely neutral expression. Suggest that a mask and robe have just been removed, leaving partial fabric at the neck. Keep the background a dark interior with only one faint architectural line. Use soft severity, minimal palette, and a quiet Villeneuve-inspired cinematic mood without copying a specific film.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx3tORWsAAj7zJ.jpg" width="600" alt="Cinematic Film Still - Villeneuve-style neutral mask portrait - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@karim_yourself](https://x.com/karim_yourself)
+- **Quelle:** [Quelle](https://x.com/karim_yourself/status/2075165466041925663)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/karim_yourself/status/2075165466041925663)**
+
+---
+
+### No. 33: Cinematic Film Still - Ash Country post-apocalypse wanderer
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A post-apocalyptic still from a public Seedream 5 Pro prompt thread, rewritten for desaturated restraint and one color accent.
+
+#### Prompt
+
+```
+Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray cloth over the face so only the eyes remain visible, with ash caught in the folds and a rust-red pack strap as the only color accent. Use flat overcast light, a desaturated void background, medium framing, film grain, and exhausted silence.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMx31RhX0AA3Atp.jpg" width="600" alt="Cinematic Film Still - Ash Country post-apocalypse wanderer - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@karim_yourself](https://x.com/karim_yourself)
+- **Quelle:** [Quelle](https://x.com/karim_yourself/status/2075165469107949677)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/karim_yourself/status/2075165469107949677)**
+
+---
+
+### No. 34: Cinematic Film Still - War robot city cannon blast
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A blockbuster sci-fi action prompt from a public Seedream 5 Pro thread, rewritten for VFX-grade scale and debris timing.
+
+#### Prompt
+
+```
+Create a cinematic sci-fi action still of a massive humanoid war robot firing an oversized cannon between skyscrapers. Use a low wide 24mm angle, muzzle flash, shockwave, smoke, tanks below, collapsing facade, frozen glass and debris, hard explosion light against cold daylight, steel-gray materials, and blockbuster VFX realism.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyqtadXEAAW6xU.jpg" width="600" alt="Cinematic Film Still - War robot city cannon blast - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Quelle:** [Quelle](https://x.com/Digitalwindai/status/2075223008038261027)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/Digitalwindai/status/2075223008038261027)**
+
+---
+
+### No. 35: Cinematic Film Still - Natural copper-red close portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A photoreal portrait prompt from a public Seedream 5 Pro thread, rewritten for untreated skin and medium-format feel.
+
+#### Prompt
+
+```
+Make a medium-format close portrait of a young European woman with copper-red hair, green eyes, natural freckles, and a calm direct gaze. Use an 85mm shallow-depth setup, soft window light, warm skin tones, muted neutral background, natural untouched skin, clear catchlights, and no beauty-filter smoothing.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyq0BVW8AAKFva.jpg" width="600" alt="Cinematic Film Still - Natural copper-red close portrait - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Quelle:** [Quelle](https://x.com/Digitalwindai/status/2075223012589085119)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/Digitalwindai/status/2075223012589085119)**
+
+---
+
+### No. 36: Cinematic Film Still - Magical realist dry-lake fisherman
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A magical realism film-still prompt from a public Seedream 5 Pro thread, normalized for warm painterly light without losing realism.
+
+#### Prompt
+
+```
+Create a wide low-angle magical-realist film still of an old fisherman kneeling in the cracked bed of a vanished lake, calmly mending a boat that should not be there. Use saturated sunset color, warm painterly light, realistic weathered skin, dry mud texture, long shadows, and a quiet impossible mood without obvious magic particles.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyrIDgW8AAzJF0.jpg" width="600" alt="Cinematic Film Still - Magical realist dry-lake fisherman - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Quelle:** [Quelle](https://x.com/Digitalwindai/status/2075223026656854053)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/Digitalwindai/status/2075223026656854053)**
+
+---
+
+### No. 37: Cinematic Film Still - Dense neon-noir city skyline
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A cyberpunk establishing shot from a public Seedream 5 Pro prompt thread, rewritten for dense urban depth and nocturnal atmosphere.
+
+#### Prompt
+
+```
+Render a dense neon-noir dystopian city skyline at night from a high 24mm vantage point. Stack towers, skybridges, traffic ribbons, wet rooftops, holographic signage, steam, and deep perspective layers. Keep the mood crowded and cinematic, with colored reflections, atmospheric haze, and no clean empty sci-fi minimalism.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyrRQpXEAADKRe.jpg" width="600" alt="Cinematic Film Still - Dense neon-noir city skyline - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Quelle:** [Quelle](https://x.com/Digitalwindai/status/2075223031085957564)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/Digitalwindai/status/2075223031085957564)**
+
+---
+
+### No. 38: Cinematic Film Still - Bleach-bypass thriller pursuit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A thriller film-still prompt from a public Seedream 5 Pro thread, rewritten for harsh desaturated contrast and motion tension.
+
+#### Prompt
+
+```
+Create a bleach-bypass thriller still with harsh desaturated contrast, blown highlights, and crushed blacks. Use a low 28mm tracking angle on a figure moving through an industrial corridor, with hard overhead fluorescents, gritty concrete, motion tension, and a realistic cinematic finish that avoids soft pastel digital color.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyrUUzXIAA6LmS.jpg" width="600" alt="Cinematic Film Still - Bleach-bypass thriller pursuit - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Quelle:** [Quelle](https://x.com/Digitalwindai/status/2075223035406070068)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/Digitalwindai/status/2075223035406070068)**
+
+---
+
+### No. 39: Product Campaign - Squishcraft kids clay product ad
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A real prompt-bearing Seedream 5.0 Pro product poster test, rewritten for playful commercial composition and integrated typography.
+
+#### Prompt
+
+```
+Design a cheerful kids craft-product advertisement for a fictional clay set called SQUISHCRAFT. Show a laughing child with clay on their hands beside an oversized colorful clay box, with craft tools, sculptures, and handprints in a bright playroom. Use big rounded rainbow typography, a short tagline, warm commercial lighting, photoreal product polish, and no real brand logos.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMwbBLLasAAPnLu.jpg" width="600" alt="Product Campaign - Squishcraft kids clay product ad - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@Strength04_X](https://x.com/Strength04_X)
+- **Quelle:** [Quelle](https://x.com/Strength04_X/status/2075063250656621054)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/Strength04_X/status/2075063250656621054)**
+
+---
+
+### No. 40: Reference Image Edit - Character silhouette to real pudding edit
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### Beschreibung
+
+A Japanese image-to-image test normalized from a public Seedream 5 Pro post, focused on replacing a character shape with a realistic dessert.
+
+#### Prompt
+
+```
+Use the uploaded character silhouette and surface contours as the shape reference, then reinterpret it as a realistic custard pudding viewed from above. Preserve the overall outline and bumps, replace the material with glossy caramel, soft custard, plate shadows, and food-photography lighting.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMv3RPDaAAA4zYt.jpg" width="600" alt="Reference Image Edit - Character silhouette to real pudding edit - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMv3ZGLboAEdmzG.jpg" width="600" alt="Reference Image Edit - Character silhouette to real pudding edit - Image 2">
+</div>
+
+#### Details
+
+- **Autor:** [@TlanoAI](https://x.com/TlanoAI)
+- **Quelle:** [Quelle](https://x.com/TlanoAI/status/2075024241284837875)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** ja
+
+**[Diesen Prompt nutzen](https://x.com/TlanoAI/status/2075024241284837875)**
+
+---
+
+### No. 41: Infographic & Typography - Parametric landmark infographic pair
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A technical infographic workflow normalized from a public Seedream 5.0 Pro post about Eiffel Tower and Pyramid diagram tests.
+
+#### Prompt
+
+```
+Create a parametric architectural infographic for a famous landmark. Combine a clean elevation, structural grid, measurement labels, material callouts, construction timeline, simplified formulas, and small diagram panels. Keep the information dense but logical, with professional technical illustration clarity and readable text.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMxNGvwWoAALsqd.jpg" width="600" alt="Infographic & Typography - Parametric landmark infographic pair - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMxNGy8WgAASBCA.jpg" width="600" alt="Infographic & Typography - Parametric landmark infographic pair - Image 2">
+</div>
+
+#### Details
+
+- **Autor:** [@ZaraIrahh](https://x.com/ZaraIrahh)
+- **Quelle:** [Quelle](https://x.com/ZaraIrahh/status/2075118336783089710)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/ZaraIrahh/status/2075118336783089710)**
+
+---
+
+### No. 42: Storyboard / Video Pipeline - Sixteen-panel cavalry charge narrative
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A narrative-consistency workflow normalized from a public Seedream 5.0 Pro sequence test with knights and horses.
+
+#### Prompt
+
+```
+Create a 16-panel grayscale storyboard of one cavalry charge from preparation to impact. Keep the same knights, horses, banners, armor shapes, and terrain consistent across every panel. Vary camera distance and angle like a shot list, add panel numbers, and make the action readable as one continuous sequence.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMt-7b3XMAAfEbD.jpg" width="600" alt="Storyboard / Video Pipeline - Sixteen-panel cavalry charge narrative - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
+- **Quelle:** [Quelle](https://x.com/ElaraGrace_AI/status/2074891631313015060)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
+
+---
+
+### No. 43: Storyboard / Video Pipeline - Panel-by-panel grayscale shot list
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A long-form instruction-following storyboard test normalized from a public Seedream 5.0 Pro post.
+
+#### Prompt
+
+```
+Generate a storyboard sheet from a precise shot list. Use 12 to 16 panels, grayscale production sketch style, panel numbers, camera arrows, brief framing labels, and consistent characters moving through one action sequence. Keep the layout disciplined and the continuity clear from panel to panel.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtnIPHa8AAbWpG.jpg" width="600" alt="Storyboard / Video Pipeline - Panel-by-panel grayscale shot list - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@munzxsdv](https://x.com/munzxsdv)
+- **Quelle:** [Quelle](https://x.com/munzxsdv/status/2074865454485483885)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/munzxsdv/status/2074865454485483885)**
+
+---
+
+### No. 44: Infographic & Typography - Thermal receipt typography stress test
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A receipt-rendering benchmark normalized from a public Seedream 5.0 Pro text-layout post.
+
+#### Prompt
+
+```
+Design a realistic thermal receipt as a typography stress test. Include aligned columns, currency values, merchant name, order number, delivery fee line, tiny footer text, a barcode or tracking callout, slightly fading ink near the bottom, and correct spacing. Make it look printed, not typeset in a design app.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtk7jVXkAAs4uS.jpg" width="600" alt="Infographic & Typography - Thermal receipt typography stress test - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@Hwypanda](https://x.com/Hwypanda)
+- **Quelle:** [Quelle](https://x.com/Hwypanda/status/2074863030362353871)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/Hwypanda/status/2074863030362353871)**
+
+---
+
+### No. 45: Infographic & Typography - Data-dense operations dashboard set
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A structured-information workflow normalized from a public Seedream 5.0 Pro infographic test.
+
+#### Prompt
+
+```
+Create a set of data-dense visual panels: a global supply chain dashboard, a quantum-computer architecture diagram, and a film-production call sheet. Use readable labels, aligned grids, chart elements, timeline blocks, hierarchy, and clean technical illustration. Prioritize information structure over decorative effects.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMySOqPaQAAT4nQ.jpg" width="600" alt="Infographic & Typography - Data-dense operations dashboard set - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMySOqKasAILEOw.jpg" width="600" alt="Infographic & Typography - Data-dense operations dashboard set - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMySOpXbgAAAazn.jpg" width="600" alt="Infographic & Typography - Data-dense operations dashboard set - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMySOsDbsAAxFkL.jpg" width="600" alt="Infographic & Typography - Data-dense operations dashboard set - Image 4">
+</div>
+
+#### Details
+
+- **Autor:** [@rovvmut_](https://x.com/rovvmut_)
+- **Quelle:** [Quelle](https://x.com/rovvmut_/status/2075194313752088727)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/rovvmut_/status/2075194313752088727)**
+
+---
+
+### No. 46: Reference Image Edit - Makeup identity-preservation comparison
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### Beschreibung
+
+A reference-editing workflow normalized from a public Seedream 5.0 Pro makeup comparison post.
+
+#### Prompt
+
+```
+Use the uploaded portrait as the identity anchor. Change only the makeup: add refined glitter eye detail, clean skin highlights, and a more polished beauty look while preserving facial geometry, expression, age, skin texture, lighting direction, and camera angle. Avoid changing the person into a different face.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtzyqXWEAAKJmZ.jpg" width="600" alt="Reference Image Edit - Makeup identity-preservation comparison - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtzytfWkAAT-5U.jpg" width="600" alt="Reference Image Edit - Makeup identity-preservation comparison - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtzytfXUAA1smX.jpg" width="600" alt="Reference Image Edit - Makeup identity-preservation comparison - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtzyqYXEAAQp-d.jpg" width="600" alt="Reference Image Edit - Makeup identity-preservation comparison - Image 4">
+</div>
+
+#### Details
+
+- **Autor:** [@SeharShinwari](https://x.com/SeharShinwari)
+- **Quelle:** [Quelle](https://x.com/SeharShinwari/status/2074879382326526377)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/SeharShinwari/status/2074879382326526377)**
+
+---
+
+### No. 47: UI / Product Mockup - E-commerce spec sheet and size chart
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A commerce-production workflow normalized from a public Seedream 5.0 Pro post about dense functional images.
+
+#### Prompt
+
+```
+Create an e-commerce product information sheet with a packaging mockup, product photo, size chart, feature bullets, materials callouts, SKU block, and shipping icons. Keep the design clean and retail-ready, with readable numbers, aligned table rows, and realistic product shadows.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMt2EFUbkAAiTqg.jpg" width="600" alt="UI / Product Mockup - E-commerce spec sheet and size chart - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@Ai_Vaidehi](https://x.com/Ai_Vaidehi)
+- **Quelle:** [Quelle](https://x.com/Ai_Vaidehi/status/2074881884883210678)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/Ai_Vaidehi/status/2074881884883210678)**
+
+---
+
+### No. 48: Multilingual Poster - Spanish cultural altar explainer
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A language-learning infographic pattern normalized from a public Seedream 5.0 Pro multilingual education post.
+
+#### Prompt
+
+```
+Design an authentic Spanish-language classroom infographic explaining a traditional altar. Include culturally specific objects, short Spanish labels, a clear title, three explanatory callouts, decorative but restrained color, and a teacher-friendly layout that reads naturally to native speakers.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMvuQTUasAAaMZs.jpg" width="600" alt="Multilingual Poster - Spanish cultural altar explainer - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@ItsMaryAI](https://x.com/ItsMaryAI)
+- **Quelle:** [Quelle](https://x.com/ItsMaryAI/status/2075014028586524836)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/ItsMaryAI/status/2075014028586524836)**
+
+---
+
+### No. 49: UI / Product Mockup - Personal trading card generator
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A playful structured-layout workflow normalized from a public Seedream 5.0 Pro trading-card post.
+
+#### Prompt
+
+```
+Create a premium collectible trading card for a person, pet, or object. Include a portrait window, rarity badge, stats table, flavor text, holographic border, small icons, and a clear nameplate. Keep the layout crisp, legible, and game-card-like without using real franchise branding.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMurc2_aMAAtL3z.jpg" width="600" alt="UI / Product Mockup - Personal trading card generator - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMurerTboAA4GCF.jpg" width="600" alt="UI / Product Mockup - Personal trading card generator - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMurh5UbsAAEoHQ.jpg" width="600" alt="UI / Product Mockup - Personal trading card generator - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMurmIva8AAdvG7.jpg" width="600" alt="UI / Product Mockup - Personal trading card generator - Image 4">
+</div>
+
+#### Details
+
+- **Autor:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
+- **Quelle:** [Quelle](https://x.com/ThinkerSilentH/status/2074940762861814235)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/ThinkerSilentH/status/2074940762861814235)**
+
+---
+
+### No. 50: UI / Product Mockup - Game-ready interface concept sheet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A game UI concept workflow normalized from a public Seedream 5.0 Pro interface post.
+
+#### Prompt
+
+```
+Design a game-ready interface concept sheet with multiple panels: inventory, stats, character card, minimap, skill buttons, notification toast, and settings micro-UI. Keep every tiny element intentional, aligned, and legible, with a coherent visual theme and production-polished spacing.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMu8l9_XUAAqDjN.jpg" width="600" alt="UI / Product Mockup - Game-ready interface concept sheet - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@JameFalken](https://x.com/JameFalken)
+- **Quelle:** [Quelle](https://x.com/JameFalken/status/2074959430374867438)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/JameFalken/status/2074959430374867438)**
+
+---
+
+### No. 51: Precision Editing - Separate-layer design handoff
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A layer-separation workflow normalized from a high-engagement public Seedream 5.0 Pro post.
+
+#### Prompt
+
+```
+Create a design concept that can be separated into editable layers: background, subject, product, text, shadows, decorative marks, and callout labels. Keep edges clean, overlaps logical, and every layer visually independent enough for a Photoshop-style handoff.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2074854109195194368/pu/img/kw1gz03TrGY7dBjD.jpg" width="600" alt="Precision Editing - Separate-layer design handoff - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@bdsqlsz](https://x.com/bdsqlsz)
+- **Quelle:** [Quelle](https://x.com/bdsqlsz/status/2074854144469238254)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/bdsqlsz/status/2074854144469238254)**
+
+---
+
+### No. 52: Infographic & Typography - Dense infographic with sketch editing
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### Beschreibung
+
+A Higgsfield availability post normalized into a prompt for dense text-rich visuals plus sketch-driven editing.
+
+#### Prompt
+
+```
+Create a dense text-rich infographic from a rough sketch. Follow the sketch structure, preserve the marked blocks, convert notes into clean labels, and render charts, icons, and subject photography with readable typography. Keep photographic skin and lighting natural where people appear.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074866663133188096/img/EDQbAT7uYP9E8P_u.jpg" width="600" alt="Infographic & Typography - Dense infographic with sketch editing - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@higgsfield](https://x.com/higgsfield)
+- **Quelle:** [Quelle](https://x.com/higgsfield/status/2074866864128430179)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/higgsfield/status/2074866864128430179)**
+
+---
+
+### No. 53: Precision Editing - Region edit plus layer separation mockup
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### Beschreibung
+
+A Morphic launch post normalized into a precise editing and layer-separation production brief.
+
+#### Prompt
+
+```
+Use the base visual as a production mockup. Perform a precise region edit, then organize the result as if the background, product, typography, shadows, and accent graphics could be exported separately. Keep multilingual text clean, layout balanced, and every changed element consistent with the original art direction.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074851748389531648/img/J1NlerZdGdBSd7pK.jpg" width="600" alt="Precision Editing - Region edit plus layer separation mockup - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@morphic](https://x.com/morphic)
+- **Quelle:** [Quelle](https://x.com/morphic/status/2074851991466205431)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/morphic/status/2074851991466205431)**
+
+---
+
+### No. 54: Reference Image Edit - Prompt-or-reference detail render
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### Beschreibung
+
+A Runway availability post normalized into a flexible prompt/reference workflow for legible multilingual image generation.
+
+#### Prompt
+
+```
+Generate a highly detailed image from either a written prompt or a visual reference. If a reference is provided, preserve the key composition and material cues; if only text is provided, follow the scene description closely. Add readable in-image text in the requested language and keep the final image clean enough for editorial use.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074981967276187648/img/wTkNqS727wv_OW6O.jpg" width="600" alt="Reference Image Edit - Prompt-or-reference detail render - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@runwayml](https://x.com/runwayml)
+- **Quelle:** [Quelle](https://x.com/runwayml/status/2074982268175630814)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/runwayml/status/2074982268175630814)**
+
+---
+
+### No. 55: Multilingual Poster - APAC multi-market campaign board
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A multilingual market-localization workflow normalized from a public Seedream 5.0 Pro post.
+
+#### Prompt
+
+```
+Create one campaign board with four regional variants: Japanese, Korean, Chinese, and English. Keep product placement and brand identity consistent, but adapt typography, spacing, and cultural visual cues for each market. The copy should look native in every script, not auto-translated.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtpU6IbEAAfcdb.jpg" width="600" alt="Multilingual Poster - APAC multi-market campaign board - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@apy_n5](https://x.com/apy_n5)
+- **Quelle:** [Quelle](https://x.com/apy_n5/status/2074867864147054934)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/apy_n5/status/2074867864147054934)**
+
+---
+
+### No. 56: Technical Drawing - Blueprint with terminating dimension lines
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A technical blueprint stress test normalized from a public Seedream 5.0 Pro post.
+
+#### Prompt
+
+```
+Create a technical blueprint with abundant measurement values. Draw dimension lines that terminate precisely on the parts they measure, with arrows, extension lines, labels, scale notes, section markers, and a clean drafting hierarchy. Use a futuristic object or machine part as the subject.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtkx9vWQAAjtnW.jpg" width="600" alt="Technical Drawing - Blueprint with terminating dimension lines - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@LiamEtherson](https://x.com/LiamEtherson)
+- **Quelle:** [Quelle](https://x.com/LiamEtherson/status/2074862867442962667)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/LiamEtherson/status/2074862867442962667)**
+
+---
+
+### No. 57: Infographic & Typography - Delivery receipt with tracking callout
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A receipt/document-layout workflow normalized from a public Seedream 5.0 Pro typography post.
+
+#### Prompt
+
+```
+Design a realistic delivery receipt with merchant name, order number, itemized rows, subtotal, delivery fee, tax, total, and a clear SCAN TO TRACK YOUR ORDER callout. Add thermal-paper texture, slight ink fading, aligned columns, and tiny but readable footer text.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMttQ9zakAEFzH5.jpg" width="600" alt="Infographic & Typography - Delivery receipt with tracking callout - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@noorwithwifi](https://x.com/noorwithwifi)
+- **Quelle:** [Quelle](https://x.com/noorwithwifi/status/2074872194858205529)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/noorwithwifi/status/2074872194858205529)**
+
+---
+
+### No. 58: Product Campaign - Restaurant specials board bundle
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A small-business marketing workflow normalized from a public Seedream 5.0 Pro post.
+
+#### Prompt
+
+```
+Create a local restaurant visual bundle: a chalkboard specials menu, a loyalty card, and a delivery hero image. Use correct prices, readable dish names, appetizing food photography, neighborhood warmth, and consistent colors so the assets feel like one campaign.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtuVffbIAAPMtw.jpg" width="600" alt="Product Campaign - Restaurant specials board bundle - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@rsraisul_islam](https://x.com/rsraisul_islam)
+- **Quelle:** [Quelle](https://x.com/rsraisul_islam/status/2074873384790523920)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/rsraisul_islam/status/2074873384790523920)**
+
+---
+
+### No. 59: Precision Editing - Photobomber removal replacement edit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### Beschreibung
+
+A precision-editing workflow normalized from a public Seedream 5.0 Pro retouching post.
+
+#### Prompt
+
+```
+Use the uploaded street photo and remove the marked photobomber. Replace the area with a believable background object or environmental detail, preserving lighting, perspective, shadows, grain, and depth of field. Do not alter the main subject or surrounding composition.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuVx7AaEAAZGB2.jpg" width="600" alt="Precision Editing - Photobomber removal replacement edit - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuVyZEbsAEd-ow.jpg" width="600" alt="Precision Editing - Photobomber removal replacement edit - Image 2">
+</div>
+
+#### Details
+
+- **Autor:** [@filodyprincess](https://x.com/filodyprincess)
+- **Quelle:** [Quelle](https://x.com/filodyprincess/status/2074916756452483224)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/filodyprincess/status/2074916756452483224)**
+
+---
+
+### No. 60: Precision Editing - Markup-driven logo enlargement
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### Beschreibung
+
+A direct-on-image annotation workflow normalized from a public Seedream 5.0 Pro post.
+
+#### Prompt
+
+```
+Use the uploaded design comp with handwritten markup. If the logo is circled and labeled bigger, enlarge only that logo while preserving its style, placement logic, surrounding spacing, shadows, and background. Treat every handwritten note as an edit instruction, not decoration.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuPcQtbkAA3zUH.jpg" width="600" alt="Precision Editing - Markup-driven logo enlargement - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuPcrubMAAHS7B.jpg" width="600" alt="Precision Editing - Markup-driven logo enlargement - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuPdF_a4AA4VtY.jpg" width="600" alt="Precision Editing - Markup-driven logo enlargement - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuPdjQbMAAKM6J.jpg" width="600" alt="Precision Editing - Markup-driven logo enlargement - Image 4">
+</div>
+
+#### Details
+
+- **Autor:** [@Zayan_coder](https://x.com/Zayan_coder)
+- **Quelle:** [Quelle](https://x.com/Zayan_coder/status/2074909799293305323)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/Zayan_coder/status/2074909799293305323)**
+
+---
+
+### No. 61: Precision Editing - Six-note living room edit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### Beschreibung
+
+A multi-region interior-editing workflow normalized from a public Seedream 5.0 Pro post.
+
+#### Prompt
+
+```
+Use the living-room image with six marked boxes and six notes. Apply each change only inside its target region: furniture, curtains, lighting, decor, wall detail, and floor tone. Preserve room geometry, camera position, natural shadows, and the untouched areas between boxes.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuX5aUbgAAltFz.jpg" width="600" alt="Precision Editing - Six-note living room edit - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuX5aRaAAABulp.jpg" width="600" alt="Precision Editing - Six-note living room edit - Image 2">
+</div>
+
+#### Details
+
+- **Autor:** [@Dipanshu_AI](https://x.com/Dipanshu_AI)
+- **Quelle:** [Quelle](https://x.com/Dipanshu_AI/status/2074919074929475587)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/Dipanshu_AI/status/2074919074929475587)**
+
+---
+
+### No. 62: Precision Editing - Street-to-rainy chase annotation edit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### Beschreibung
+
+A cinematic annotation workflow normalized from a public Seedream 5.0 Pro post.
+
+#### Prompt
+
+```
+Start from a normal street still with markup notes. Transform the scene into a rainy chase moment: wet pavement, motion energy, darker sky, directional headlights, and tense composition. Keep any marked subjects and camera framing consistent, and make every annotation land in the final image.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtnI8TboAI0tWS.jpg" width="600" alt="Precision Editing - Street-to-rainy chase annotation edit - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMtnLOKaAAAJ3G-.jpg" width="600" alt="Precision Editing - Street-to-rainy chase annotation edit - Image 2">
+</div>
+
+#### Details
+
+- **Autor:** [@HarshBisen143](https://x.com/HarshBisen143)
+- **Quelle:** [Quelle](https://x.com/HarshBisen143/status/2074865604029550886)
+- **Veröffentlicht:** 8. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/HarshBisen143/status/2074865604029550886)**
+
+---
+
+### No. 63: Precision Editing - Client feedback revision loop
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### Beschreibung
+
+A client-feedback workflow normalized from a public Seedream 5.0 Pro revision-loop post.
+
+#### Prompt
+
+```
+Use an existing design comp covered with plain-language feedback such as bigger, warmer, less busy, and move this left. Apply the revisions in one pass while keeping the original brand system, spacing logic, and image quality intact. The result should feel like a designer interpreted the comments correctly.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuA5o2bgAAzCFa.jpg" width="600" alt="Precision Editing - Client feedback revision loop - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuA6KJaAAQi4y7.jpg" width="600" alt="Precision Editing - Client feedback revision loop - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuA6-iaAAAIqmP.jpg" width="600" alt="Precision Editing - Client feedback revision loop - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuA7l0bIAA1nn4.jpg" width="600" alt="Precision Editing - Client feedback revision loop - Image 4">
+</div>
+
+#### Details
+
+- **Autor:** [@techxsarfraj](https://x.com/techxsarfraj)
+- **Quelle:** [Quelle](https://x.com/techxsarfraj/status/2074893823029998052)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/techxsarfraj/status/2074893823029998052)**
+
+---
+
+### No. 64: Multilingual Poster - Mixed-language arrows intent edit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### Beschreibung
+
+A multilingual intent-following workflow normalized from a public Seedream 5.0 Pro post.
+
+#### Prompt
+
+```
+Use an image marked with arrows, short notes, and mixed English plus another language. Interpret the intent rather than copying the notes visually. Make the requested localized changes, preserve untouched areas, and ensure any final in-image text uses the correct script and spacing.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMwM4D2bQAAVHR-.jpg" width="600" alt="Multilingual Poster - Mixed-language arrows intent edit - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@Sporshamezy](https://x.com/Sporshamezy)
+- **Quelle:** [Quelle](https://x.com/Sporshamezy/status/2075047697804140914)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/Sporshamezy/status/2075047697804140914)**
+
+---
+
+### No. 65: Cinematic Film Still - Worldbuilding anchor frame color grade
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Beschreibung
+
+A worldbuilding workflow normalized from a public Seedream 5.0 Pro post about locking an anchor frame and color grade.
+
+#### Prompt
+
+```
+Create an anchor frame for a worldbuilding project. Establish the environment, hero object, atmosphere, and color grade in one image that future references can follow. Use consistent material language, cinematic depth, clear foreground-midground-background separation, and a palette stable enough to guide later scene generation.
+```
+
+#### Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075026724396392448/img/rIxJGd5pioPxGtDm.jpg" width="600" alt="Cinematic Film Still - Worldbuilding anchor frame color grade - Image 1">
+</div>
+
+#### Details
+
+- **Autor:** [@diffractstudio](https://x.com/diffractstudio)
+- **Quelle:** [Quelle](https://x.com/diffractstudio/status/2075029719490195858)
+- **Veröffentlicht:** 9. Juli 2026
+- **Sprachen:** en
+
+**[Diesen Prompt nutzen](https://x.com/diffractstudio/status/2075029719490195858)**
+
+---
+
 ## Mitwirken
 
-We welcome high-quality prompt submissions through GitHub Issues.
+Hochwertige Prompt-Einreichungen über GitHub Issues sind willkommen.
 
 ### GitHub Issue
 
-1. Click [**Submit New Prompt**](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)
-2. Fill in the form with prompt details and images
-3. Submit and wait for maintainer review
-4. If approved, the issue can be synced into local repository data
-5. Your prompt will appear after the README generation workflow runs
+1. Click [**Neuen Prompt einreichen**](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)
+2. Formular mit Prompt-Details und Bildern ausfüllen
+3. Absenden und auf Maintainer-Review warten
+4. Nach Freigabe kann das Issue in lokale Daten synchronisiert werden
+5. Dein Prompt erscheint nach dem README-Generierungslauf
 
-**Note:** We keep submissions in a structured format so the README stays consistent.
+**Hinweis:** Einreichungen bleiben strukturiert, damit das README konsistent bleibt.
 
-See [CONTRIBUTING.md](docs/CONTRIBUTING.md) for detailed guidelines.
-
----
-
-## License
-
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Details stehen in [CONTRIBUTING.md](docs/CONTRIBUTING.md).
 
 ---
 
-## Acknowledgements
+## Lizenz
+
+Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+---
+
+## Danksagung
 
 - [ImagineVid](https://imaginevid.com)
 - The creators whose public prompts are attributed in this collection
 
 ---
 
-## Star History
+## Star-Verlauf
 
 [![Star History Chart](https://api.star-history.com/svg?repos=imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&type=Date)](https://star-history.com/#imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&Date)
 
@@ -1413,9 +2934,9 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 <div align="center">
 
 **[Kuratierte Sammlung ansehen](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)** •
-**[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
-**[Star this repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[Prompt einreichen](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
+**[Repository mit Star markieren](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T15:13:52.126Z</sub>
+<sub>Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-09T15:40:11.661Z</sub>
 
 </div>
