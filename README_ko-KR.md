@@ -76,7 +76,7 @@
 - **Localized and Layered Editing** - Target regions, objects, text, materials, or positions while preserving the wider composition
 - **Reasoning-Assisted Creation** - Use deeper prompt interpretation and context-aware generation for structured creative tasks
 
-**공식 자료:** [Seedream 5.0 Pro model page](https://dreamina.capcut.com/seedream/seedream-5-0-pro) · [Dreamina workflow guide](https://dreamina.capcut.com/seedream/how-to-use-seedream-5-0-pro)
+**ImagineVid 자료:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
 
 ### 프롬프트 스킬 인자
 
@@ -99,7 +99,7 @@
 |--------|-------|
 | 총 프롬프트 | **113** |
 | 추천 | **10** |
-| 마지막 업데이트 | **2026년 7월 9일 목요일 오후 11시 25분 36초 UTC** |
+| 마지막 업데이트 | **2026년 7월 9일 목요일 PM 11시 38분 37초 UTC** |
 
 </div>
 
@@ -4553,7 +4553,7 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 
 ## 감사의 말
 
-- [ImagineVid](https://imaginevid.com)
+- [ImagineVid](https://imaginevid.io)
 <details>
 <summary>커뮤니티 제작자 감사 명단 (85)</summary>
 
@@ -4587,6 +4587,6 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 **[프롬프트 제출](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[저장소에 Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-09T23:25:36.505Z</sub>
+<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-09T23:38:37.171Z</sub>
 
 </div>

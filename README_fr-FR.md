@@ -76,7 +76,7 @@ Pourquoi utiliser cette collection ?
 - **Localized and Layered Editing** - Target regions, objects, text, materials, or positions while preserving the wider composition
 - **Reasoning-Assisted Creation** - Use deeper prompt interpretation and context-aware generation for structured creative tasks
 
-**Official sources:** [Seedream 5.0 Pro model page](https://dreamina.capcut.com/seedream/seedream-5-0-pro) · [Dreamina workflow guide](https://dreamina.capcut.com/seedream/how-to-use-seedream-5-0-pro)
+**ImagineVid resources:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
 
 ### Arguments de prompt skill
 
@@ -99,7 +99,7 @@ Remplacez les arguments pour réutiliser le prompt comme skill créative compact
 |--------|-------|
 | Total des prompts | **113** |
 | En vedette | **10** |
-| Dernière mise à jour | **jeudi 9 juillet 2026 à 23:25:36 UTC** |
+| Dernière mise à jour | **jeudi 9 juillet 2026 à 23:38:37 UTC** |
 
 </div>
 
@@ -4553,7 +4553,7 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Remerciements
 
-- [ImagineVid](https://imaginevid.com)
+- [ImagineVid](https://imaginevid.io)
 <details>
 <summary>Auteurs de la communauté (85)</summary>
 
@@ -4587,6 +4587,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Soumettre un prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Mettre une star au dépôt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-07-09T23:25:36.595Z</sub>
+<sub>Ce README est généré automatiquement. Dernière mise à jour : 2026-07-09T23:38:37.310Z</sub>
 
 </div>

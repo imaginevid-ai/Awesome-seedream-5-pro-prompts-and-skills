@@ -76,7 +76,7 @@
 - **Localized and Layered Editing** - Target regions, objects, text, materials, or positions while preserving the wider composition
 - **Reasoning-Assisted Creation** - Use deeper prompt interpretation and context-aware generation for structured creative tasks
 
-**公式資料:** [Seedream 5.0 Pro model page](https://dreamina.capcut.com/seedream/seedream-5-0-pro) · [Dreamina workflow guide](https://dreamina.capcut.com/seedream/how-to-use-seedream-5-0-pro)
+**ImagineVid リソース:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
 
 ### プロンプトスキル引数
 
@@ -99,7 +99,7 @@
 |--------|-------|
 | プロンプト総数 | **113** |
 | 注目 | **10** |
-| 最終更新 | **2026年7月9日木曜日 23:25:36 UTC** |
+| 最終更新 | **2026年7月9日木曜日 23:38:37 UTC** |
 
 </div>
 
@@ -4553,7 +4553,7 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 
 ## 謝辞
 
-- [ImagineVid](https://imaginevid.com)
+- [ImagineVid](https://imaginevid.io)
 <details>
 <summary>コミュニティ作者への謝辞 (85)</summary>
 
@@ -4587,6 +4587,6 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 **[プロンプトを投稿](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-07-09T23:25:36.492Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-07-09T23:38:37.152Z</sub>
 
 </div>

@@ -37,8 +37,8 @@ test("model introduction is source-backed and distinguishes generation from edit
   assert.match(markdown, /reference image/i);
   assert.match(markdown, /layer/i);
   assert.match(markdown, /Reasoning-Assisted Creation/);
-  assert.match(markdown, /dreamina\.capcut\.com\/seedream\/seedream-5-0-pro/);
-  assert.match(markdown, /how-to-use-seedream-5-0-pro/);
+  assert.match(markdown, /imaginevid\.io\/seedream-5-pro/);
+  assert.match(markdown, /imaginevid\.io\/blog\/best-dreamina-alternatives/);
 });
 
 test("every README locale uses the verified model introduction", () => {
@@ -46,8 +46,8 @@ test("every README locale uses the verified model introduction", () => {
     const markdown = generateModelIntroduction(code);
     assert.doesNotMatch(markdown, /Multi-Image Fusion/i, code);
     assert.doesNotMatch(markdown, /high-end image generation model family/i, code);
-    assert.match(markdown, /seedream-5-0-pro/, code);
-    assert.match(markdown, /how-to-use-seedream-5-0-pro/, code);
+    assert.match(markdown, /imaginevid\.io\/seedream-5-pro/, code);
+    assert.match(markdown, /imaginevid\.io\/blog\/best-dreamina-alternatives/, code);
   }
 });
 

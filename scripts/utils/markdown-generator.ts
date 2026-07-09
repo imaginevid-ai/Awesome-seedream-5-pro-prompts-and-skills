@@ -451,14 +451,14 @@ export function generateModelIntroduction(locale: string): string {
   const contentLocale = locale === "zh" || locale === "zh-TW" ? locale : "en";
   const sourceLabel =
     locale === "zh"
-      ? "官方资料"
+      ? "ImagineVid 资源"
       : locale === "zh-TW"
-        ? "官方資料"
+        ? "ImagineVid 資源"
         : locale === "ja-JP"
-          ? "公式資料"
+          ? "ImagineVid リソース"
           : locale === "ko-KR"
-            ? "공식 자료"
-            : "Official sources";
+            ? "ImagineVid 자료"
+            : "ImagineVid resources";
 
   return `## ${t("whatIs", locale)}
 
@@ -471,7 +471,7 @@ ${t("whatIsIntro", contentLocale)}
 - ${t("preciseControl", contentLocale)}
 - ${t("complexScenes", contentLocale)}
 
-**${sourceLabel}:** [Seedream 5.0 Pro model page](https://dreamina.capcut.com/seedream/seedream-5-0-pro) · [Dreamina workflow guide](https://dreamina.capcut.com/seedream/how-to-use-seedream-5-0-pro)
+**${sourceLabel}:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
 
 ### ${t("raycastIntegration", locale)}
 
@@ -523,7 +523,7 @@ ${t("licensedUnder", locale)}
 
 ## ${t("acknowledgements", locale)}
 
-- [ImagineVid](https://imaginevid.com)
+- [ImagineVid](https://imaginevid.io)
 ${creatorCredits}
 
 ---

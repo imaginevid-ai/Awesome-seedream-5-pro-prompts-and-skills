@@ -76,7 +76,7 @@ Vì sao dùng bộ sưu tập này?
 - **Localized and Layered Editing** - Target regions, objects, text, materials, or positions while preserving the wider composition
 - **Reasoning-Assisted Creation** - Use deeper prompt interpretation and context-aware generation for structured creative tasks
 
-**Official sources:** [Seedream 5.0 Pro model page](https://dreamina.capcut.com/seedream/seedream-5-0-pro) · [Dreamina workflow guide](https://dreamina.capcut.com/seedream/how-to-use-seedream-5-0-pro)
+**ImagineVid resources:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
 
 ### Workflow prompt
 
@@ -99,7 +99,7 @@ Xem các nguồn và ví dụ trong kho này.
 |--------|-------|
 | Tổng số prompt | **113** |
 | Nổi bật | **10** |
-| Cập nhật lần cuối | **lúc 23:25:36 UTC Thứ Năm, 9 tháng 7, 2026** |
+| Cập nhật lần cuối | **lúc 23:38:37 UTC Thứ Năm, 9 tháng 7, 2026** |
 
 </div>
 
@@ -4553,7 +4553,7 @@ Cách đóng góp
 
 ## Lời cảm ơn
 
-- [ImagineVid](https://imaginevid.com)
+- [ImagineVid](https://imaginevid.io)
 <details>
 <summary>Các tác giả cộng đồng (85)</summary>
 
@@ -4587,6 +4587,6 @@ Cách đóng góp
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Lịch sử star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Cập nhật lần cuối: 2026-07-09T23:25:36.532Z</sub>
+<sub>Cập nhật lần cuối: 2026-07-09T23:38:37.219Z</sub>
 
 </div>

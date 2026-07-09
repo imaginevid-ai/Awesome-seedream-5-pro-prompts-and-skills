@@ -76,7 +76,7 @@ Bu koleksiyon neden kullanılır?
 - **Localized and Layered Editing** - Target regions, objects, text, materials, or positions while preserving the wider composition
 - **Reasoning-Assisted Creation** - Use deeper prompt interpretation and context-aware generation for structured creative tasks
 
-**Official sources:** [Seedream 5.0 Pro model page](https://dreamina.capcut.com/seedream/seedream-5-0-pro) · [Dreamina workflow guide](https://dreamina.capcut.com/seedream/how-to-use-seedream-5-0-pro)
+**ImagineVid resources:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
 
 ### Prompt iş akışı
 
@@ -99,7 +99,7 @@ Bu depodaki kaynak bağlantılarını ve örnekleri inceleyin.
 |--------|-------|
 | Toplam prompt | **113** |
 | Öne çıkan | **10** |
-| Son güncelleme | **9 Temmuz 2026 Perşembe 23:25:36 UTC** |
+| Son güncelleme | **9 Temmuz 2026 Perşembe 23:38:37 UTC** |
 
 </div>
 
@@ -4553,7 +4553,7 @@ Nasıl katkı verilir
 
 ## Teşekkürler
 
-- [ImagineVid](https://imaginevid.com)
+- [ImagineVid](https://imaginevid.io)
 <details>
 <summary>Topluluk üreticileri (85)</summary>
 
@@ -4587,6 +4587,6 @@ Nasıl katkı verilir
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star geçmişi](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Son güncelleme: 2026-07-09T23:25:36.640Z</sub>
+<sub>Son güncelleme: 2026-07-09T23:38:37.403Z</sub>
 
 </div>

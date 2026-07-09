@@ -76,7 +76,7 @@
 - **Localized and Layered Editing** - Target regions, objects, text, materials, or positions while preserving the wider composition
 - **Reasoning-Assisted Creation** - Use deeper prompt interpretation and context-aware generation for structured creative tasks
 
-**Official sources:** [Seedream 5.0 Pro model page](https://dreamina.capcut.com/seedream/seedream-5-0-pro) · [Dreamina workflow guide](https://dreamina.capcut.com/seedream/how-to-use-seedream-5-0-pro)
+**ImagineVid resources:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
 
 ### Prompt workflow
 
@@ -99,7 +99,7 @@ ImagineVid workflows देखें, जो prompt craft को production-read
 |--------|-------|
 | कुल prompts | **113** |
 | Featured | **10** |
-| अंतिम अपडेट | **गुरुवार, 9 जुलाई 2026 को 11:25:36 pm UTC बजे** |
+| अंतिम अपडेट | **गुरुवार, 9 जुलाई 2026 को 11:38:37 pm UTC बजे** |
 
 </div>
 
@@ -4553,7 +4553,7 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 
 ## आभार
 
-- [ImagineVid](https://imaginevid.com)
+- [ImagineVid](https://imaginevid.io)
 <details>
 <summary>समुदाय के रचनाकारों का आभार (85)</summary>
 
@@ -4587,6 +4587,6 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star history](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>अंतिम अपडेट: 2026-07-09T23:25:36.542Z</sub>
+<sub>अंतिम अपडेट: 2026-07-09T23:38:37.234Z</sub>
 
 </div>

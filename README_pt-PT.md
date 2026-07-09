@@ -76,7 +76,7 @@ Porquê usar esta coleção?
 - **Localized and Layered Editing** - Target regions, objects, text, materials, or positions while preserving the wider composition
 - **Reasoning-Assisted Creation** - Use deeper prompt interpretation and context-aware generation for structured creative tasks
 
-**Official sources:** [Seedream 5.0 Pro model page](https://dreamina.capcut.com/seedream/seedream-5-0-pro) · [Dreamina workflow guide](https://dreamina.capcut.com/seedream/how-to-use-seedream-5-0-pro)
+**ImagineVid resources:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
 
 ### Fluxo de prompts
 
@@ -99,7 +99,7 @@ Veja os links de origem e exemplos reunidos neste repositório.
 |--------|-------|
 | Total de prompts | **113** |
 | Destaque | **10** |
-| Última atualização | **quinta-feira, 9 de julho de 2026 às 23:25:36 UTC** |
+| Última atualização | **quinta-feira, 9 de julho de 2026 às 23:38:37 UTC** |
 
 </div>
 
@@ -4553,7 +4553,7 @@ Como contribuir
 
 ## Agradecimentos
 
-- [ImagineVid](https://imaginevid.com)
+- [ImagineVid](https://imaginevid.io)
 <details>
 <summary>Autores da comunidade (85)</summary>
 
@@ -4587,6 +4587,6 @@ Como contribuir
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Histórico de stars](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Última atualização: 2026-07-09T23:25:36.629Z</sub>
+<sub>Última atualização: 2026-07-09T23:38:37.383Z</sub>
 
 </div>

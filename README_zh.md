@@ -76,7 +76,7 @@
 - **局部与分层编辑** - 定向修改区域、对象、文字、材质或位置，同时保留整体构图
 - **推理辅助创作** - 通过更深入的提示词理解和上下文感知生成处理结构化创意任务
 
-**官方资料:** [Seedream 5.0 Pro model page](https://dreamina.capcut.com/seedream/seedream-5-0-pro) · [Dreamina workflow guide](https://dreamina.capcut.com/seedream/how-to-use-seedream-5-0-pro)
+**ImagineVid 资源:** [Seedream 5 Pro on ImagineVid](https://imaginevid.io/seedream-5-pro) · [Best Dreamina alternatives](https://imaginevid.io/blog/best-dreamina-alternatives)
 
 ### 提示词技能参数
 
@@ -99,7 +99,7 @@
 |--------|-------|
 | 提示词总数 | **113** |
 | 精选 | **10** |
-| 最后更新 | **2026年7月9日星期四 UTC 23:25:36** |
+| 最后更新 | **2026年7月9日星期四 UTC 23:38:37** |
 
 </div>
 
@@ -4553,7 +4553,7 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 
 ## 致谢
 
-- [ImagineVid](https://imaginevid.com)
+- [ImagineVid](https://imaginevid.io)
 <details>
 <summary>查看并感谢社区作者 (85)</summary>
 
@@ -4587,6 +4587,6 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 **[提交提示词](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>本 README 自动生成。最后更新： 2026-07-09T23:25:36.466Z</sub>
+<sub>本 README 自动生成。最后更新： 2026-07-09T23:38:37.118Z</sub>
 
 </div>
