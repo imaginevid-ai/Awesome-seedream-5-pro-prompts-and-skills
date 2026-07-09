@@ -133,7 +133,7 @@
 |--------|-------|
 | 총 프롬프트 | **88** |
 | 추천 | **10** |
-| 마지막 업데이트 | **2026년 7월 9일 목요일 PM 4시 18분 41초 UTC** |
+| 마지막 업데이트 | **2026년 7월 9일 목요일 오후 4시 21분 45초 UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **작성자:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **출처:** [출처](https://x.com/Chain_Loader/status/2075251821342503352)
-- **게시일:** 2026년 7월 10일
+- **게시일:** 2026년 7월 9일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **작성자:** [@westkast](https://x.com/westkast)
 - **출처:** [출처](https://x.com/westkast/status/2075250137698324850)
-- **게시일:** 2026년 7월 10일
+- **게시일:** 2026년 7월 9일
 - **언어:** en
 
 **[이 프롬프트 사용](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ GitHub Issues를 통한 고품질 프롬프트 제출을 환영합니다.
 **[프롬프트 제출](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[저장소에 Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-09T16:18:41.220Z</sub>
+<sub>이 README는 자동 생성되었습니다. 마지막 업데이트: 2026-07-09T16:21:45.807Z</sub>
 
 </div>

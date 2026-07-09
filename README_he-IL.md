@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | סך הפרומפטים | **88** |
 | נבחר | **10** |
-| עודכן לאחרונה | **יום חמישי, 9 ביולי 2026 בשעה 16:18:41 UTC** |
+| עודכן לאחרונה | **יום חמישי, 9 ביולי 2026 בשעה 16:21:46 UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **יוצר:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **מקור:** [מקור](https://x.com/Chain_Loader/status/2075251821342503352)
-- **פורסם:** 10 ביולי 2026
+- **פורסם:** 9 ביולי 2026
 - **שפות:** en
 
 **[להשתמש בפרומפט הזה](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **יוצר:** [@westkast](https://x.com/westkast)
 - **מקור:** [מקור](https://x.com/westkast/status/2075250137698324850)
-- **פורסם:** 10 ביולי 2026
+- **פורסם:** 9 ביולי 2026
 - **שפות:** en
 
 **[להשתמש בפרומפט הזה](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[שליחת פרומפט](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[תנו Star לריפו](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T16:18:41.392Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:21:46.090Z</sub>
 
 </div>

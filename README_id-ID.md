@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Total Prompt | **88** |
 | Unggulan | **10** |
-| Terakhir Diperbarui | **Kamis, 09 Juli 2026 pukul 16.18.41 UTC** |
+| Terakhir Diperbarui | **Kamis, 09 Juli 2026 pukul 16.21.45 UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Penulis:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Sumber:** [Sumber](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Diterbitkan:** 10 Juli 2026
+- **Diterbitkan:** 9 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Penulis:** [@westkast](https://x.com/westkast)
 - **Sumber:** [Sumber](https://x.com/westkast/status/2075250137698324850)
-- **Diterbitkan:** 10 Juli 2026
+- **Diterbitkan:** 9 Juli 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Kirim Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Beri Star repo ini](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>README ini dibuat otomatis. Terakhir diperbarui: 2026-07-09T16:18:41.311Z</sub>
+<sub>README ini dibuat otomatis. Terakhir diperbarui: 2026-07-09T16:21:45.963Z</sub>
 
 </div>

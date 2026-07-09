@@ -133,7 +133,7 @@ Bu depodaki kaynak bağlantılarını ve örnekleri inceleyin.
 |--------|-------|
 | Toplam prompt | **88** |
 | Öne çıkan | **10** |
-| Son güncelleme | **9 Temmuz 2026 Perşembe 16:18:41 UTC** |
+| Son güncelleme | **9 Temmuz 2026 Perşembe 16:21:45 UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Yazar:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Kaynak:** [Kaynak](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Yayınlandı:** 10 Temmuz 2026
+- **Yayınlandı:** 9 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Yazar:** [@westkast](https://x.com/westkast)
 - **Kaynak:** [Kaynak](https://x.com/westkast/status/2075250137698324850)
-- **Yayınlandı:** 10 Temmuz 2026
+- **Yayınlandı:** 9 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Nasıl katkı verilir
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star geçmişi](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Son güncelleme: 2026-07-09T16:18:41.288Z</sub>
+<sub>Son güncelleme: 2026-07-09T16:21:45.926Z</sub>
 
 </div>

@@ -133,7 +133,7 @@
 |--------|-------|
 | プロンプト総数 | **88** |
 | 注目 | **10** |
-| 最終更新 | **2026年7月9日木曜日 16:18:41 UTC** |
+| 最終更新 | **2026年7月9日木曜日 16:21:45 UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **作者:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **出典:** [出典](https://x.com/Chain_Loader/status/2075251821342503352)
-- **公開日:** 2026年7月10日
+- **公開日:** 2026年7月9日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **作者:** [@westkast](https://x.com/westkast)
 - **出典:** [出典](https://x.com/westkast/status/2075250137698324850)
-- **公開日:** 2026年7月10日
+- **公開日:** 2026年7月9日
 - **言語:** en
 
 **[このプロンプトを使う](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Create a clean three-panel comparison board for the same visual prompt across th
 **[プロンプトを投稿](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-07-09T16:18:41.215Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-07-09T16:21:45.795Z</sub>
 
 </div>

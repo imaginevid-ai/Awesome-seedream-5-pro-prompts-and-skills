@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Σύνολο prompts | **88** |
 | Επιλεγμένο | **10** |
-| Τελευταία ενημέρωση | **Πέμπτη 9 Ιουλίου 2026 στις 4:18:41 μ.μ. UTC** |
+| Τελευταία ενημέρωση | **Πέμπτη 9 Ιουλίου 2026 στις 4:21:46 μ.μ. UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Δημιουργός:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Πηγή:** [Πηγή](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Δημοσιεύτηκε:** 10 Ιουλίου 2026
+- **Δημοσιεύτηκε:** 9 Ιουλίου 2026
 - **Γλώσσες:** en
 
 **[Χρησιμοποιήστε αυτό το prompt](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Δημιουργός:** [@westkast](https://x.com/westkast)
 - **Πηγή:** [Πηγή](https://x.com/westkast/status/2075250137698324850)
-- **Δημοσιεύτηκε:** 10 Ιουλίου 2026
+- **Δημοσιεύτηκε:** 9 Ιουλίου 2026
 - **Γλώσσες:** en
 
 **[Χρησιμοποιήστε αυτό το prompt](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Υποβολή prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Κάντε Star στο repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T16:18:41.362Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:21:46.045Z</sub>
 
 </div>

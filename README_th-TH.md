@@ -133,7 +133,7 @@ Seedream 5 Pro คืออะไร?
 |--------|-------|
 | จำนวน prompt ทั้งหมด | **88** |
 | แนะนำ | **10** |
-| อัปเดตล่าสุด | **วันพฤหัสบดีที่ 9 กรกฎาคม พ.ศ. 2569 เวลา 16 นาฬิกา 18 นาที 41 วินาที UTC** |
+| อัปเดตล่าสุด | **วันพฤหัสบดีที่ 9 กรกฎาคม พ.ศ. 2569 เวลา 16 นาฬิกา 21 นาที 45 วินาที UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **ผู้เขียน:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **แหล่งที่มา:** [แหล่งที่มา](https://x.com/Chain_Loader/status/2075251821342503352)
-- **เผยแพร่:** 10 กรกฎาคม 2569
+- **เผยแพร่:** 9 กรกฎาคม 2569
 - **ภาษา:** en
 
 **[ใช้ prompt นี้](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **ผู้เขียน:** [@westkast](https://x.com/westkast)
 - **แหล่งที่มา:** [แหล่งที่มา](https://x.com/westkast/status/2075250137698324850)
-- **เผยแพร่:** 10 กรกฎาคม 2569
+- **เผยแพร่:** 9 กรกฎาคม 2569
 - **ภาษา:** en
 
 **[ใช้ prompt นี้](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Create a clean three-panel comparison board for the same visual prompt across th
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ประวัติ Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>อัปเดตล่าสุด: 2026-07-09T16:18:41.227Z</sub>
+<sub>อัปเดตล่าสุด: 2026-07-09T16:21:45.819Z</sub>
 
 </div>

@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Promptok száma | **88** |
 | Kiemelt | **10** |
-| Utolsó frissítés | **2026. július 9., csütörtök 16:18:41 UTC** |
+| Utolsó frissítés | **2026. július 9., csütörtök 16:21:46 UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Szerző:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Forrás:** [Forrás](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Megjelent:** 2026. július 10.
+- **Megjelent:** 2026. július 9.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Szerző:** [@westkast](https://x.com/westkast)
 - **Forrás:** [Forrás](https://x.com/westkast/status/2075250137698324850)
-- **Megjelent:** 2026. július 10.
+- **Megjelent:** 2026. július 9.
 - **Nyelvek:** en
 
 **[Prompt használata](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt beküldése](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adj Star-t a repónak](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T16:18:41.377Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:21:46.063Z</sub>
 
 </div>

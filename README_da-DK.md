@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Prompts i alt | **88** |
 | Udvalgt | **10** |
-| Sidst opdateret | **torsdag den 9. juli 2026 kl. 16.18.41 UTC** |
+| Sidst opdateret | **torsdag den 9. juli 2026 kl. 16.21.46 UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Forfatter:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Kilde:** [Kilde](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Udgivet:** 10. juli 2026
+- **Udgivet:** 9. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Forfatter:** [@westkast](https://x.com/westkast)
 - **Kilde:** [Kilde](https://x.com/westkast/status/2075250137698324850)
-- **Udgivet:** 10. juli 2026
+- **Udgivet:** 9. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Indsend prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Giv repoet en Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T16:18:41.343Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:21:46.016Z</sub>
 
 </div>

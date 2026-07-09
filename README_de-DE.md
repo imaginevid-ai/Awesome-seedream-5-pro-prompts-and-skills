@@ -133,7 +133,7 @@ Ersetze die Argumente, um den Prompt als kompakten Kreativ-Skill wiederzuverwend
 |--------|-------|
 | Prompts gesamt | **88** |
 | Ausgewählt | **10** |
-| Zuletzt aktualisiert | **Donnerstag, 9. Juli 2026 um 16:18:41 UTC** |
+| Zuletzt aktualisiert | **Donnerstag, 9. Juli 2026 um 16:21:45 UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Autor:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Quelle:** [Quelle](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Veröffentlicht:** 10. Juli 2026
+- **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Autor:** [@westkast](https://x.com/westkast)
 - **Quelle:** [Quelle](https://x.com/westkast/status/2075250137698324850)
-- **Veröffentlicht:** 10. Juli 2026
+- **Veröffentlicht:** 9. Juli 2026
 - **Sprachen:** en
 
 **[Diesen Prompt nutzen](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt einreichen](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Repository mit Star markieren](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-09T16:18:41.259Z</sub>
+<sub>Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-09T16:21:45.880Z</sub>
 
 </div>

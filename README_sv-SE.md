@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Totalt antal prompter | **88** |
 | Utvald | **10** |
-| Senast uppdaterad | **torsdag 9 juli 2026 kl. 16:18:41 UTC** |
+| Senast uppdaterad | **torsdag 9 juli 2026 kl. 16:21:46 UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Upphovsperson:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Källa:** [Källa](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Publicerad:** 10 juli 2026
+- **Publicerad:** 9 juli 2026
 - **Språk:** en
 
 **[Använd denna prompt](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Upphovsperson:** [@westkast](https://x.com/westkast)
 - **Källa:** [Källa](https://x.com/westkast/status/2075250137698324850)
-- **Publicerad:** 10 juli 2026
+- **Publicerad:** 9 juli 2026
 - **Språk:** en
 
 **[Använd denna prompt](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Skicka prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Stjärnmärk repot](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T16:18:41.337Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:21:46.009Z</sub>
 
 </div>

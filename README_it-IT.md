@@ -133,7 +133,7 @@ Consulta fonti ed esempi raccolti in questo repository.
 |--------|-------|
 | Prompt totali | **88** |
 | In evidenza | **10** |
-| Ultimo aggiornamento | **giovedì 9 luglio 2026 alle ore 16:18:41 UTC** |
+| Ultimo aggiornamento | **giovedì 9 luglio 2026 alle ore 16:21:45 UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Autore:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Fonte:** [Fonte](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Pubblicato:** 10 luglio 2026
+- **Pubblicato:** 9 luglio 2026
 - **Lingue:** en
 
 **[Usa questo prompt](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Autore:** [@westkast](https://x.com/westkast)
 - **Fonte:** [Fonte](https://x.com/westkast/status/2075250137698324850)
-- **Pubblicato:** 10 luglio 2026
+- **Pubblicato:** 9 luglio 2026
 - **Lingue:** en
 
 **[Usa questo prompt](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Come contribuire
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Storico star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Ultimo aggiornamento: 2026-07-09T16:18:41.272Z</sub>
+<sub>Ultimo aggiornamento: 2026-07-09T16:21:45.896Z</sub>
 
 </div>

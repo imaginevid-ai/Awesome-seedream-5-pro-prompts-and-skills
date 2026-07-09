@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Total prompturi | **88** |
 | Recomandat | **10** |
-| Ultima actualizare | **joi, 9 iulie 2026 la 16:18:41 UTC** |
+| Ultima actualizare | **joi, 9 iulie 2026 la 16:21:46 UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Autor:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Sursă:** [Sursă](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Publicat:** 10 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
 **[Folosește acest prompt](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Autor:** [@westkast](https://x.com/westkast)
 - **Sursă:** [Sursă](https://x.com/westkast/status/2075250137698324850)
-- **Publicat:** 10 iulie 2026
+- **Publicat:** 9 iulie 2026
 - **Limbi:** en
 
 **[Folosește acest prompt](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Trimite un prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dă Star acestui repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T16:18:41.382Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:21:46.071Z</sub>
 
 </div>

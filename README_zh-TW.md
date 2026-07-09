@@ -133,7 +133,7 @@
 |--------|-------|
 | 提示詞總數 | **88** |
 | 精选 | **10** |
-| 最後更新 | **2026年7月9日 星期四 下午4:18:41 [UTC]** |
+| 最後更新 | **2026年7月9日 星期四 下午4:21:45 [UTC]** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **作者:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **来源:** [来源](https://x.com/Chain_Loader/status/2075251821342503352)
-- **發佈時間:** 2026年7月10日
+- **發佈時間:** 2026年7月9日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **作者:** [@westkast](https://x.com/westkast)
 - **来源:** [来源](https://x.com/westkast/status/2075250137698324850)
-- **發佈時間:** 2026年7月10日
+- **發佈時間:** 2026年7月9日
 - **语言:** en
 
 **[使用這個提示詞](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Create a clean three-panel comparison board for the same visual prompt across th
 **[提交提示词](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>本 README 自動生成。最後更新： 2026-07-09T16:18:41.206Z</sub>
+<sub>本 README 自動生成。最後更新： 2026-07-09T16:21:45.784Z</sub>
 
 </div>

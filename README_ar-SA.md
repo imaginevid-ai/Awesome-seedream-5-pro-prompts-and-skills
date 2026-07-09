@@ -133,7 +133,7 @@ A cinematic poster for "{argument name="product" default="a glass AI camera"}" w
 |--------|-------|
 | إجمالي التعليمات | **88** |
 | مميز | **10** |
-| آخر تحديث | **الخميس، ٩ يوليو ٢٠٢٦ في ٤:١٨:٤١ م UTC** |
+| آخر تحديث | **الخميس، ٩ يوليو ٢٠٢٦ في ٤:٢١:٤٥ م UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **المؤلف:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **المصدر:** [المصدر](https://x.com/Chain_Loader/status/2075251821342503352)
-- **تاريخ النشر:** ١٠ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **المؤلف:** [@westkast](https://x.com/westkast)
 - **المصدر:** [المصدر](https://x.com/westkast/status/2075250137698324850)
-- **تاريخ النشر:** ١٠ يوليو ٢٠٢٦
+- **تاريخ النشر:** ٩ يوليو ٢٠٢٦
 - **اللغات:** en
 
 **[استخدم هذه التعليمة](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[إرسال تعليمة](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمستودع](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-09T16:18:41.294Z</sub>
+<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-09T16:21:45.934Z</sub>
 
 </div>

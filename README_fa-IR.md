@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | کل پرامپت‌ها | **88** |
 | برگزیده | **10** |
-| آخرین به‌روزرسانی | **۱۴۰۵ تیر ۱۸, پنجشنبه ساعت ۱۶:۱۸:۴۱ (UTC)** |
+| آخرین به‌روزرسانی | **۱۴۰۵ تیر ۱۸, پنجشنبه ساعت ۱۶:۲۱:۴۶ (UTC)** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **نویسنده:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **منبع:** [منبع](https://x.com/Chain_Loader/status/2075251821342503352)
-- **منتشرشده:** ۱۹ تیر ۱۴۰۵
+- **منتشرشده:** ۱۸ تیر ۱۴۰۵
 - **زبان‌ها:** en
 
 **[استفاده از این پرامپت](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **نویسنده:** [@westkast](https://x.com/westkast)
 - **منبع:** [منبع](https://x.com/westkast/status/2075250137698324850)
-- **منتشرشده:** ۱۹ تیر ۱۴۰۵
+- **منتشرشده:** ۱۸ تیر ۱۴۰۵
 - **زبان‌ها:** en
 
 **[استفاده از این پرامپت](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[ارسال پرامپت](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[به این مخزن Star بدهید](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T16:18:41.397Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:21:46.101Z</sub>
 
 </div>

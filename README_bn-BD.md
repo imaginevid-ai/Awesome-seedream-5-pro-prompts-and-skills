@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | মোট প্রম্পট | **88** |
 | নির্বাচিত | **10** |
-| শেষ আপডেট | **বৃহস্পতিবার, ৯ জুলাই, ২০২৬ এ ৪:১৮:৪১ PM UTC** |
+| শেষ আপডেট | **বৃহস্পতিবার, ৯ জুলাই, ২০২৬ এ ৪:২১:৪৫ PM UTC** |
 
 </div>
 
@@ -2942,7 +2942,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **লেখক:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **উৎস:** [উৎস](https://x.com/Chain_Loader/status/2075251821342503352)
-- **প্রকাশিত:** ১০ জুলাই, ২০২৬
+- **প্রকাশিত:** ৯ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -2981,7 +2981,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **লেখক:** [@westkast](https://x.com/westkast)
 - **উৎস:** [উৎস](https://x.com/westkast/status/2075250137698324850)
-- **প্রকাশিত:** ১০ জুলাই, ২০২৬
+- **প্রকাশিত:** ৯ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/westkast/status/2075250137698324850)**
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[প্রম্পট জমা দিন](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[এই রিপোতে Star দিন](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T16:18:41.301Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:21:45.943Z</sub>
 
 </div>
