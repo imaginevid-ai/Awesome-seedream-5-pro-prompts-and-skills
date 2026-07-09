@@ -133,7 +133,7 @@ A cinematic poster for "{argument name="product" default="a glass AI camera"}" w
 |--------|-------|
 | إجمالي التعليمات | **88** |
 | مميز | **10** |
-| آخر تحديث | **الخميس، ٩ يوليو ٢٠٢٦ في ٤:٢١:٤٥ م UTC** |
+| آخر تحديث | **الخميس، ٩ يوليو ٢٠٢٦ في ٥:٥٠:٥٤ م UTC** |
 
 </div>
 
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[إرسال تعليمة](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ضع نجمة للمستودع](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-09T16:21:45.934Z</sub>
+<sub>تم توليد README هذا تلقائيا. آخر تحديث: 2026-07-09T17:50:54.349Z</sub>
 
 </div>

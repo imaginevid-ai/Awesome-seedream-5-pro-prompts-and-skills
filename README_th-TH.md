@@ -133,7 +133,7 @@ Seedream 5 Pro คืออะไร?
 |--------|-------|
 | จำนวน prompt ทั้งหมด | **88** |
 | แนะนำ | **10** |
-| อัปเดตล่าสุด | **วันพฤหัสบดีที่ 9 กรกฎาคม พ.ศ. 2569 เวลา 16 นาฬิกา 21 นาที 45 วินาที UTC** |
+| อัปเดตล่าสุด | **วันพฤหัสบดีที่ 9 กรกฎาคม พ.ศ. 2569 เวลา 17 นาฬิกา 50 นาที 54 วินาที UTC** |
 
 </div>
 
@@ -3495,6 +3495,6 @@ Create a clean three-panel comparison board for the same visual prompt across th
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ประวัติ Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>อัปเดตล่าสุด: 2026-07-09T16:21:45.819Z</sub>
+<sub>อัปเดตล่าสุด: 2026-07-09T17:50:54.175Z</sub>
 
 </div>

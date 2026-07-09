@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Total Prompt | **88** |
 | Unggulan | **10** |
-| Terakhir Diperbarui | **Kamis, 09 Juli 2026 pukul 16.21.45 UTC** |
+| Terakhir Diperbarui | **Kamis, 09 Juli 2026 pukul 17.50.54 UTC** |
 
 </div>
 
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Kirim Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Beri Star repo ini](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>README ini dibuat otomatis. Terakhir diperbarui: 2026-07-09T16:21:45.963Z</sub>
+<sub>README ini dibuat otomatis. Terakhir diperbarui: 2026-07-09T17:50:54.395Z</sub>
 
 </div>

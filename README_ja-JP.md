@@ -133,7 +133,7 @@
 |--------|-------|
 | プロンプト総数 | **88** |
 | 注目 | **10** |
-| 最終更新 | **2026年7月9日木曜日 16:21:45 UTC** |
+| 最終更新 | **2026年7月9日木曜日 17:50:54 UTC** |
 
 </div>
 
@@ -3495,6 +3495,6 @@ Create a clean three-panel comparison board for the same visual prompt across th
 **[プロンプトを投稿](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-07-09T16:21:45.795Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-07-09T17:50:54.117Z</sub>
 
 </div>

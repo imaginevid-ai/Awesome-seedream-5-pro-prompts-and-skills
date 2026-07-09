@@ -133,7 +133,7 @@
 |--------|-------|
 | 提示詞總數 | **88** |
 | 精选 | **10** |
-| 最後更新 | **2026年7月9日 星期四 下午4:21:45 [UTC]** |
+| 最後更新 | **2026年7月9日 星期四 下午5:50:54 [UTC]** |
 
 </div>
 
@@ -3495,6 +3495,6 @@ Create a clean three-panel comparison board for the same visual prompt across th
 **[提交提示词](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>本 README 自動生成。最後更新： 2026-07-09T16:21:45.784Z</sub>
+<sub>本 README 自動生成。最後更新： 2026-07-09T17:50:54.096Z</sub>
 
 </div>
