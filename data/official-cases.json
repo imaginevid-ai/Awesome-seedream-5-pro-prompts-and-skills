@@ -1,0 +1,363 @@
+{
+  "sourceRepo": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+  "sourceLicense": "CC BY 4.0",
+  "categories": [
+    {
+      "id": "interaction-control",
+      "emoji": "🎛️",
+      "title": "Interaction Control",
+      "desc": "Use boxes, points, arrows, annotation marks, or coordinates to specify the target region.",
+      "expected": 2,
+      "case_numbers": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "sketch-editing",
+      "emoji": "✏️",
+      "title": "Sketch Editing",
+      "desc": "Use doodles, color blocks, lines, or simple sketches as visual guidance.",
+      "expected": 4,
+      "case_numbers": [
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "layer-editing",
+      "emoji": "🧱",
+      "title": "Layer Editing",
+      "desc": "Edit poster, graphic, text, material, or surface layers while preserving the broader composition.",
+      "expected": 6,
+      "case_numbers": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "id": "anchor-position-editing",
+      "emoji": "📍",
+      "title": "Anchor / Position Editing",
+      "desc": "Use grid-like anchors or relative positions to move a specific target precisely.",
+      "expected": 1,
+      "case_numbers": [
+        13
+      ]
+    },
+    {
+      "id": "layer-separation",
+      "emoji": "🧩",
+      "title": "Layer Separation",
+      "desc": "Separate foreground, background, and reusable components for downstream editing.",
+      "expected": 1,
+      "case_numbers": [
+        14
+      ]
+    },
+    {
+      "id": "multi-image-fusion-editing",
+      "emoji": "🖼️",
+      "title": "Multi-image Fusion Editing",
+      "desc": "Combine multiple reference images into one coherent composition under a single instruction.",
+      "expected": 1,
+      "case_numbers": [
+        15
+      ]
+    },
+    {
+      "id": "visual-quality-narrative",
+      "emoji": "🎬",
+      "title": "Visual Quality & Narrative",
+      "desc": "Group the effect samples by cinematic action, 3D/animation, concept art, and game-scene output.",
+      "expected": 5,
+      "case_numbers": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "id": "multilingual-text-rendering",
+      "emoji": "🌐",
+      "title": "Multilingual Text Rendering",
+      "desc": "Group the multilingual samples by rendered language and local-text use case.",
+      "expected": 5,
+      "case_numbers": [
+        21,
+        22,
+        23,
+        24,
+        25
+      ]
+    }
+  ],
+  "cases": [
+    {
+      "number": 1,
+      "category": "interaction-control",
+      "title": "Arrows and annotation boxes for spatial intent",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/003-arrows-annotation-boxes.gif"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 2,
+      "category": "interaction-control",
+      "title": "Region-box object description for targeted editing",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/004-Red-box-A-huge-blue-furred-head-with-a-ferocious-squished-ex.gif"
+      ],
+      "prompt": "Red box: A huge blue-furred head with a ferocious squished expression, gazing at the bubble ahead. Green box: A transparent bubble reflecting the indoor lights. Yellow box: A large warm gray-beige yarn ball. Blue box: A stack of building blocks including a warm dark gray arch, a warm light gray half-cylinder, a lake blue cylinder, a deep lake blue ramp, and a cobalt blue half-disc. Purple box: A grass green tasseled blanket draped over the sofa.",
+      "mediaLabels": null
+    },
+    {
+      "number": 3,
+      "category": "sketch-editing",
+      "title": "Doodle-guided object generation",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/005-doodles.gif"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 4,
+      "category": "sketch-editing",
+      "title": "Color-block guided editing",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/006-color-block.gif"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 5,
+      "category": "sketch-editing",
+      "title": "Line-guided detail editing",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/007-lines.gif"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 6,
+      "category": "sketch-editing",
+      "title": "Simple sketch to refined image",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/008-simple-sketches.gif"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 7,
+      "category": "layer-editing",
+      "title": "Poster text and graphic layer edit: Avery Turns",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/009-Feishu-Docs-Image.gif"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 8,
+      "category": "layer-editing",
+      "title": "Poster offer layer edit: Happy Hour",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/010-Feishu-Docs-Image.gif"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 9,
+      "category": "layer-editing",
+      "title": "Fashion image layer edit inside a design layout",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/011-Feishu-Docs-Image.gif"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 10,
+      "category": "layer-editing",
+      "title": "Sports poster graphic layer edit",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/012-Feishu-Docs-Image.gif"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 11,
+      "category": "layer-editing",
+      "title": "Poster element edit: Public Joy",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/013-Feishu-Docs-Image.gif"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 12,
+      "category": "layer-editing",
+      "title": "Material surface swap with precise texture response",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/014-Feishu-Docs-Image.gif"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 13,
+      "category": "anchor-position-editing",
+      "title": "Grid-position object movement",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/015-Feishu-Docs-Image.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/016-Feishu-Docs-Image.png"
+      ],
+      "prompt": "Move the red car in the lower-left corner one grid cell to the right, and move the black pawn in the second column from the left of the black-square position one grid cell downward.",
+      "mediaLabels": [
+        "Before",
+        "After"
+      ]
+    },
+    {
+      "number": 14,
+      "category": "layer-separation",
+      "title": "Foreground/person layer separation",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/017-Feishu-Docs-Image.png"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 15,
+      "category": "multi-image-fusion-editing",
+      "title": "Seven-reference still-life input/output composition",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/018-Feishu-Docs-Image.png",
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/019-Feishu-Docs-Image.png"
+      ],
+      "prompt": "Precisely cut out the objects from my seven white-background reference photos and arrange them into a realistic still-life photography image according to the specified layout. Make sure the perspective, lighting, and spatial relationships are correct. Faithfully preserve material details such as wood grain, leather, lace, jelly glass, and feathers, creating a high-quality image that feels realistic and playful, with a blend of vintage and modern aesthetics.",
+      "mediaLabels": [
+        "Input",
+        "Output"
+      ]
+    },
+    {
+      "number": 16,
+      "category": "visual-quality-narrative",
+      "title": "Cinematic tennis glass shatter",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/020-Cinematic-narrative-tennis-glass-shatter.png"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 17,
+      "category": "visual-quality-narrative",
+      "title": "Cinematic boxing action",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/021-Cinematic-narrative-action-boxing.png"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 18,
+      "category": "visual-quality-narrative",
+      "title": "3D animation style scene",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/022-Cinematic-narrative-3D-animation.png"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 19,
+      "category": "visual-quality-narrative",
+      "title": "Visual concept art",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/023-Cinematic-narrative-visual-concept.png"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 20,
+      "category": "visual-quality-narrative",
+      "title": "Game scene visual",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/024-Cinematic-narrative-game-scene.png"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 21,
+      "category": "multilingual-text-rendering",
+      "title": "Arabic and English welcome sign",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/025-Welcome.png"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 22,
+      "category": "multilingual-text-rendering",
+      "title": "Korean open-24-hours sign",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/026-24-Open-24-hours.png"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 23,
+      "category": "multilingual-text-rendering",
+      "title": "Thai cleanliness sign",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/027-Please-help-keep-the-place-clean-together.png"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 24,
+      "category": "multilingual-text-rendering",
+      "title": "French creation poster",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/028-CREATION-FRANCAISE-Made-in-France.png"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    },
+    {
+      "number": 25,
+      "category": "multilingual-text-rendering",
+      "title": "Russian future poster",
+      "media": [
+        "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/029-Future.png"
+      ],
+      "prompt": null,
+      "mediaLabels": null
+    }
+  ]
+}

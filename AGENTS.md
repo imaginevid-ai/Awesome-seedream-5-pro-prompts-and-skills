@@ -25,6 +25,8 @@ AGENTS.md - 仓库级工程约束。
 - 数据源字段需要保留原作者、原帖链接、发布时间、语言、分类、媒体 URL 与审核状态。
 - 数据结构优先镜像参考仓库的 `Prompt`、`PromptCategory`、`FilterCategory`，不要为假想平台额外扩 schema。
 - 后续使用 twitterapi.io 时只读取本地 skill 配置或环境变量，不提交 API key、cookies、proxy、原始大批量抓取缓存。
+- twitterapi.io 搜索结果必须先通过 `quality:twitter` 评分、人工来源核验和媒体感知去重；关键词命中不能直接进入公开数据。
+- 引用外部提示词仓库时必须核对许可证，并在 README、数据来源字段和原作者链接中保留署名。
 
 ## 计划边界
 - 当前阶段先定复刻计划和数据结构。

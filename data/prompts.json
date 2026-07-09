@@ -27,7 +27,8 @@
       "likeCount": 6,
       "quoteCount": 0,
       "viewCount": 367,
-      "bookmarkCount": 2
+      "bookmarkCount": 2,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -83,7 +84,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 42,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -137,7 +139,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 49,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -194,7 +197,8 @@
       "likeCount": 3,
       "quoteCount": 0,
       "viewCount": 89,
-      "bookmarkCount": 2
+      "bookmarkCount": 2,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -249,7 +253,8 @@
       "likeCount": 2,
       "quoteCount": 0,
       "viewCount": 271,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -295,6 +300,18 @@
     "featured": false,
     "sort": 6,
     "needReferenceImages": false,
+    "promptVariants": [
+      {
+        "title": "Original Maldives travel-poster prompt",
+        "content": "With its crystal-clear waters, white sandy beaches, and vibrant coral reefs, the Maldives is a tropical paradise perfect for exotic and tranquil visuals. SIGNATURE: 'BicRevelation' cursive script lower-left.",
+        "sourceLink": "https://x.com/Bic_Revelation/status/2074959714366922857",
+        "author": {
+          "name": "@Bic_Revelation",
+          "link": "https://x.com/Bic_Revelation"
+        },
+        "curatedBy": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt"
+      }
+    ],
     "sourceMeta": {
       "source": "twitterapi.io",
       "tweet_id": "2074959714366922857",
@@ -304,7 +321,8 @@
       "likeCount": 8,
       "quoteCount": 0,
       "viewCount": 231,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -358,7 +376,8 @@
       "likeCount": 3,
       "quoteCount": 0,
       "viewCount": 333,
-      "bookmarkCount": 2
+      "bookmarkCount": 2,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -412,7 +431,8 @@
       "likeCount": 4,
       "quoteCount": 0,
       "viewCount": 187,
-      "bookmarkCount": 1
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -466,7 +486,8 @@
       "likeCount": 2,
       "quoteCount": 0,
       "viewCount": 136,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -520,7 +541,8 @@
       "likeCount": 3,
       "quoteCount": 0,
       "viewCount": 121,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -574,7 +596,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 28,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -628,7 +651,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 8,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -682,7 +706,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 14,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -736,7 +761,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 32,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -790,7 +816,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 26,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -847,7 +874,8 @@
       "likeCount": 34,
       "quoteCount": 0,
       "viewCount": 606,
-      "bookmarkCount": 4
+      "bookmarkCount": 4,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -902,7 +930,8 @@
       "likeCount": 37,
       "quoteCount": 0,
       "viewCount": 2477,
-      "bookmarkCount": 11
+      "bookmarkCount": 11,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -926,7 +955,39 @@
           "slug": "vehicle"
         }
       ]
-    }
+    },
+    "promptVariants": [
+      {
+        "title": "Original futuristic sports car blueprint prompt",
+        "content": "A technical drawing of a futuristic sports car in blueprint style. Include line drawings of the sports car from the front, side, and rear views, exploded parts sketches, parts assembly diagrams, and structural diagrams of disassembled components. Use abundant lines and measurement values to indicate the dimensions of each part, with grayscale tones expressing the overall sketch relationship. In addition to the main design, also show scattered thumbnails from different angles.",
+        "sourceLink": "https://x.com/marmaduke091/status/2074866077499105416",
+        "author": {
+          "name": "@marmaduke091",
+          "link": "https://x.com/marmaduke091"
+        },
+        "curatedBy": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt"
+      },
+      {
+        "title": "Measurement-heavy technical blueprint rendering",
+        "content": "technical blueprint with abundant measurement values",
+        "sourceLink": "https://x.com/LiamEtherson/status/2074862867442962667",
+        "author": {
+          "name": "@LiamEtherson",
+          "link": "https://x.com/LiamEtherson"
+        },
+        "curatedBy": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt"
+      },
+      {
+        "title": "Concept car blueprint with exploded technical views",
+        "content": "a blueprint-style technical drawing of a concept car: front/side/rear views, exploded parts, measurements everywhere",
+        "sourceLink": "https://x.com/AiwithZohaib/status/2074880584107909602",
+        "author": {
+          "name": "@AiwithZohaib",
+          "link": "https://x.com/AiwithZohaib"
+        },
+        "curatedBy": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt"
+      }
+    ]
   },
   {
     "id": 18,
@@ -956,7 +1017,8 @@
       "likeCount": 9,
       "quoteCount": 0,
       "viewCount": 383,
-      "bookmarkCount": 10
+      "bookmarkCount": 10,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1011,7 +1073,8 @@
       "likeCount": 22,
       "quoteCount": 0,
       "viewCount": 3433,
-      "bookmarkCount": 1
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1068,7 +1131,8 @@
       "likeCount": 2,
       "quoteCount": 0,
       "viewCount": 109,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1123,7 +1187,8 @@
       "likeCount": 12,
       "quoteCount": 0,
       "viewCount": 2699,
-      "bookmarkCount": 10
+      "bookmarkCount": 10,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1177,7 +1242,8 @@
       "likeCount": 23,
       "quoteCount": 1,
       "viewCount": 1097,
-      "bookmarkCount": 3
+      "bookmarkCount": 3,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1231,7 +1297,8 @@
       "likeCount": 298,
       "quoteCount": 6,
       "viewCount": 27770,
-      "bookmarkCount": 141
+      "bookmarkCount": 141,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1285,7 +1352,8 @@
       "likeCount": 401,
       "quoteCount": 5,
       "viewCount": 28542,
-      "bookmarkCount": 122
+      "bookmarkCount": 122,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1339,7 +1407,8 @@
       "likeCount": 1486,
       "quoteCount": 385,
       "viewCount": 1275941,
-      "bookmarkCount": 905
+      "bookmarkCount": 905,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1393,7 +1462,8 @@
       "likeCount": 432,
       "quoteCount": 14,
       "viewCount": 65751,
-      "bookmarkCount": 197
+      "bookmarkCount": 197,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1447,7 +1517,8 @@
       "likeCount": 127,
       "quoteCount": 0,
       "viewCount": 6618,
-      "bookmarkCount": 3
+      "bookmarkCount": 3,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1501,7 +1572,8 @@
       "likeCount": 77,
       "quoteCount": 0,
       "viewCount": 5755,
-      "bookmarkCount": 64
+      "bookmarkCount": 64,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1546,6 +1618,18 @@
     "featured": false,
     "sort": 30,
     "needReferenceImages": false,
+    "promptVariants": [
+      {
+        "title": "Original San Francisco sunset prompt",
+        "content": "a Korean girl in her twenties on her iPhone in San Francisco at sunset",
+        "sourceLink": "https://x.com/mattworkman/status/2074850550349222210",
+        "author": {
+          "name": "@mattworkman",
+          "link": "https://x.com/mattworkman"
+        },
+        "curatedBy": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt"
+      }
+    ],
     "sourceMeta": {
       "source": "twitterapi.io",
       "tweet_id": "2074850550349222210",
@@ -1555,7 +1639,8 @@
       "likeCount": 18,
       "quoteCount": 0,
       "viewCount": 2255,
-      "bookmarkCount": 9
+      "bookmarkCount": 9,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1612,7 +1697,8 @@
       "likeCount": 2,
       "quoteCount": 0,
       "viewCount": 247,
-      "bookmarkCount": 1
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1634,62 +1720,6 @@
           "id": 59,
           "title": "Marketing Layout",
           "slug": "marketing-layout"
-        }
-      ]
-    }
-  },
-  {
-    "id": 33,
-    "model": "seedream-5-pro",
-    "title": "High-fashion full-body portrait template",
-    "description": "A fashion portrait workflow normalized from Open Design’s Seedream 5 Pro prompt-template examples.",
-    "content": "Create a high-fashion full-body portrait on a minimal editorial set. Use dramatic posture, couture silhouette, controlled studio lighting, crisp fabric texture, visible footwear, balanced negative space, and a magazine-ready finish. Keep the figure readable from head to toe and avoid cropped hands or distorted limbs.",
-    "sourceLink": "https://x.com/OpenDesignHQ/status/2075191300366733710",
-    "sourcePublishedAt": "2026-07-09T12:12:15Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HMyPFZ4WUAAmJIZ.jpg",
-      "https://pbs.twimg.com/media/HMyPH7SWYAEbO_-.jpg",
-      "https://pbs.twimg.com/media/HMyPK6hXwAAaDBJ.jpg"
-    ],
-    "author": {
-      "name": "@OpenDesignHQ",
-      "link": "https://x.com/OpenDesignHQ"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 33,
-    "needReferenceImages": false,
-    "sourceMeta": {
-      "source": "twitterapi.io",
-      "tweet_id": "2075191300366733710",
-      "prompt_source": "normalized_from_keyword_related_tweet",
-      "retweetCount": 0,
-      "replyCount": 2,
-      "likeCount": 4,
-      "quoteCount": 0,
-      "viewCount": 270,
-      "bookmarkCount": 0
-    },
-    "imageCategories": {
-      "useCases": [
-        {
-          "id": 12,
-          "title": "Character Design",
-          "slug": "character-design"
-        }
-      ],
-      "styles": [
-        {
-          "id": 23,
-          "title": "Editorial Fashion",
-          "slug": "editorial-fashion"
-        }
-      ],
-      "subjects": [
-        {
-          "id": 33,
-          "title": "Fashion Creator",
-          "slug": "fashion-creator"
         }
       ]
     }
@@ -1722,7 +1752,8 @@
       "likeCount": 3,
       "quoteCount": 0,
       "viewCount": 160,
-      "bookmarkCount": 1
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1776,7 +1807,8 @@
       "likeCount": 2,
       "quoteCount": 0,
       "viewCount": 124,
-      "bookmarkCount": 1
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1830,7 +1862,8 @@
       "likeCount": 2,
       "quoteCount": 0,
       "viewCount": 143,
-      "bookmarkCount": 1
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1884,7 +1917,8 @@
       "likeCount": 3,
       "quoteCount": 0,
       "viewCount": 124,
-      "bookmarkCount": 1
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1938,7 +1972,8 @@
       "likeCount": 3,
       "quoteCount": 0,
       "viewCount": 111,
-      "bookmarkCount": 1
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -1992,7 +2027,8 @@
       "likeCount": 3,
       "quoteCount": 0,
       "viewCount": 142,
-      "bookmarkCount": 1
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2046,7 +2082,8 @@
       "likeCount": 4,
       "quoteCount": 0,
       "viewCount": 144,
-      "bookmarkCount": 3
+      "bookmarkCount": 3,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2100,7 +2137,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 22,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2154,7 +2192,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 21,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2208,7 +2247,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 17,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2262,7 +2302,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 16,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2316,7 +2357,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 18,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2361,6 +2403,18 @@
     "featured": false,
     "sort": 46,
     "needReferenceImages": false,
+    "promptVariants": [
+      {
+        "title": "Original SQUISHCRAFT advertisement prompt",
+        "content": "A messy fun kids advertisement poster. A laughing young girl age 6 with clay all over her hands proudly shows a lumpy clay sculpture beside a giant colorful clay set box 3x her height overflowing with clay blocks in every color, \"SQUISHCRAFT\" written in big squishy letters on the box. Bright cheerful craft room background with clay sculptures tools and colorful handprints on the walls. Big squishy rounded typography \"SQUISHCRAFT\" in rainbow colors filling the background. Tagline bottom: \"Get your hands messy.\" Small text top-right corner reads \"Designed with Seedream 5.0 Pro\" in grey. Photorealistic, fun kids craft product commercial, bright warm playroom lighting.",
+        "sourceLink": "https://x.com/Strength04_X/status/2075063250656621054",
+        "author": {
+          "name": "@Strength04_X",
+          "link": "https://x.com/Strength04_X"
+        },
+        "curatedBy": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt"
+      }
+    ],
     "sourceMeta": {
       "source": "twitterapi.io",
       "tweet_id": "2075063250656621054",
@@ -2370,7 +2424,8 @@
       "likeCount": 28,
       "quoteCount": 1,
       "viewCount": 944,
-      "bookmarkCount": 3
+      "bookmarkCount": 3,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2425,7 +2480,8 @@
       "likeCount": 37,
       "quoteCount": 0,
       "viewCount": 1303,
-      "bookmarkCount": 4
+      "bookmarkCount": 4,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2480,7 +2536,8 @@
       "likeCount": 161,
       "quoteCount": 0,
       "viewCount": 13641,
-      "bookmarkCount": 34
+      "bookmarkCount": 34,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2534,7 +2591,8 @@
       "likeCount": 171,
       "quoteCount": 0,
       "viewCount": 20373,
-      "bookmarkCount": 36
+      "bookmarkCount": 36,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2558,7 +2616,29 @@
           "slug": "historical-scene"
         }
       ]
-    }
+    },
+    "promptVariants": [
+      {
+        "title": "Shot-list driven grayscale scene planning",
+        "content": "a shot list — panel-by-panel direction, camera moves, grayscale spec",
+        "sourceLink": "https://x.com/munzxsdv/status/2074865454485483885",
+        "author": {
+          "name": "@munzxsdv",
+          "link": "https://x.com/munzxsdv"
+        },
+        "curatedBy": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt"
+      },
+      {
+        "title": "Single-prompt 16-panel cavalry storyboard",
+        "content": "16-panel storyboard from ONE prompt: numbered frames, consistent characters, coherent camera logic across a whole cavalry charge",
+        "sourceLink": "https://x.com/sulekhat95/status/2074966196563431636",
+        "author": {
+          "name": "@sulekhat95",
+          "link": "https://x.com/sulekhat95"
+        },
+        "curatedBy": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt"
+      }
+    ]
   },
   {
     "id": 52,
@@ -2591,7 +2671,8 @@
       "likeCount": 23,
       "quoteCount": 4,
       "viewCount": 860,
-      "bookmarkCount": 5
+      "bookmarkCount": 5,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2648,7 +2729,8 @@
       "likeCount": 176,
       "quoteCount": 0,
       "viewCount": 20122,
-      "bookmarkCount": 38
+      "bookmarkCount": 38,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2702,7 +2784,8 @@
       "likeCount": 8,
       "quoteCount": 0,
       "viewCount": 102,
-      "bookmarkCount": 7
+      "bookmarkCount": 7,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2759,7 +2842,8 @@
       "likeCount": 14,
       "quoteCount": 0,
       "viewCount": 131,
-      "bookmarkCount": 12
+      "bookmarkCount": 12,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2813,7 +2897,8 @@
       "likeCount": 102,
       "quoteCount": 0,
       "viewCount": 13940,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2867,7 +2952,8 @@
       "likeCount": 191,
       "quoteCount": 3,
       "viewCount": 753528,
-      "bookmarkCount": 39
+      "bookmarkCount": 39,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2921,7 +3007,8 @@
       "likeCount": 21,
       "quoteCount": 0,
       "viewCount": 1898,
-      "bookmarkCount": 4
+      "bookmarkCount": 4,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -2975,7 +3062,8 @@
       "likeCount": 29,
       "quoteCount": 0,
       "viewCount": 1968,
-      "bookmarkCount": 12
+      "bookmarkCount": 12,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3029,7 +3117,8 @@
       "likeCount": 905,
       "quoteCount": 18,
       "viewCount": 134197,
-      "bookmarkCount": 633
+      "bookmarkCount": 633,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3083,7 +3172,8 @@
       "likeCount": 255,
       "quoteCount": 7,
       "viewCount": 32895,
-      "bookmarkCount": 70
+      "bookmarkCount": 70,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3137,7 +3227,8 @@
       "likeCount": 150,
       "quoteCount": 1,
       "viewCount": 11204,
-      "bookmarkCount": 67
+      "bookmarkCount": 67,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3191,7 +3282,8 @@
       "likeCount": 124,
       "quoteCount": 3,
       "viewCount": 15243,
-      "bookmarkCount": 27
+      "bookmarkCount": 27,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3245,7 +3337,8 @@
       "likeCount": 109,
       "quoteCount": 0,
       "viewCount": 6824,
-      "bookmarkCount": 1
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3300,7 +3393,8 @@
       "likeCount": 23,
       "quoteCount": 0,
       "viewCount": 3774,
-      "bookmarkCount": 12
+      "bookmarkCount": 12,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3355,7 +3449,8 @@
       "likeCount": 28,
       "quoteCount": 0,
       "viewCount": 4460,
-      "bookmarkCount": 5
+      "bookmarkCount": 5,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3412,7 +3507,8 @@
       "likeCount": 48,
       "quoteCount": 0,
       "viewCount": 6222,
-      "bookmarkCount": 4
+      "bookmarkCount": 4,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3466,7 +3562,8 @@
       "likeCount": 97,
       "quoteCount": 1,
       "viewCount": 5173,
-      "bookmarkCount": 45
+      "bookmarkCount": 45,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3522,7 +3619,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 8,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3577,7 +3675,8 @@
       "likeCount": 2,
       "quoteCount": 0,
       "viewCount": 134,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3633,7 +3732,8 @@
       "likeCount": 1,
       "quoteCount": 0,
       "viewCount": 62,
-      "bookmarkCount": 2
+      "bookmarkCount": 2,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3686,7 +3786,8 @@
       "likeCount": 2,
       "quoteCount": 0,
       "viewCount": 127,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3740,7 +3841,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 554,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3793,7 +3895,8 @@
       "likeCount": 4,
       "quoteCount": 0,
       "viewCount": 47,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3847,7 +3950,8 @@
       "likeCount": 4,
       "quoteCount": 0,
       "viewCount": 28,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3901,7 +4005,8 @@
       "likeCount": 1,
       "quoteCount": 0,
       "viewCount": 735,
-      "bookmarkCount": 1
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -3957,7 +4062,8 @@
       "likeCount": 1,
       "quoteCount": 0,
       "viewCount": 28,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4010,7 +4116,8 @@
       "likeCount": 1,
       "quoteCount": 0,
       "viewCount": 50,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4065,7 +4172,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 565,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4120,7 +4228,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 24,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4174,7 +4283,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 0,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4228,7 +4338,8 @@
       "likeCount": 2,
       "quoteCount": 0,
       "viewCount": 41,
-      "bookmarkCount": 2
+      "bookmarkCount": 2,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4281,7 +4392,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 28,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4334,7 +4446,8 @@
       "likeCount": 4,
       "quoteCount": 0,
       "viewCount": 30,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4388,7 +4501,8 @@
       "likeCount": 2,
       "quoteCount": 0,
       "viewCount": 291,
-      "bookmarkCount": 1
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4442,7 +4556,8 @@
       "likeCount": 5,
       "quoteCount": 0,
       "viewCount": 220,
-      "bookmarkCount": 2
+      "bookmarkCount": 2,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4496,7 +4611,8 @@
       "likeCount": 2,
       "quoteCount": 0,
       "viewCount": 490,
-      "bookmarkCount": 2
+      "bookmarkCount": 2,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4551,7 +4667,8 @@
       "likeCount": 10,
       "quoteCount": 0,
       "viewCount": 490,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4605,7 +4722,8 @@
       "likeCount": 22,
       "quoteCount": 0,
       "viewCount": 1816,
-      "bookmarkCount": 2
+      "bookmarkCount": 2,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4658,7 +4776,8 @@
       "likeCount": 63,
       "quoteCount": 3,
       "viewCount": 67813,
-      "bookmarkCount": 57
+      "bookmarkCount": 57,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4712,7 +4831,8 @@
       "likeCount": 3,
       "quoteCount": 0,
       "viewCount": 1109,
-      "bookmarkCount": 2
+      "bookmarkCount": 2,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4765,7 +4885,8 @@
       "likeCount": 0,
       "quoteCount": 0,
       "viewCount": 71,
-      "bookmarkCount": 0
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
     },
     "imageCategories": {
       "useCases": [
@@ -4787,6 +4908,1563 @@
           "id": 59,
           "title": "Marketing Layout",
           "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 100,
+    "model": "seedream-5-pro",
+    "title": "Multi-task Seedream capability sampling from four Chinese prompts",
+    "description": "A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating multi-task seedream capability sampling from four chinese prompts.",
+    "content": "1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和品种的科普图 3. 给它一个参考图，让它基于这个参考图的组件生成一个 Web 的 UI 设计稿 4. 让他用一张图介绍《凡人修仙传：人界篇》的剧情",
+    "sourceLink": "https://x.com/op7418/status/2074862226905948549",
+    "sourcePublishedAt": "2026-07-08T14:24:38.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMtkFfdagAACZeu.jpg",
+      "https://pbs.twimg.com/media/HMtkF8WbcAApQud.jpg",
+      "https://pbs.twimg.com/media/HMtkGTGbsAAKEpC.jpg",
+      "https://pbs.twimg.com/media/HMtkGkabkAA4-ab.jpg"
+    ],
+    "author": {
+      "name": "@op7418",
+      "link": "https://x.com/op7418"
+    },
+    "language": "zh",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2074862226905948549",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "001",
+      "evolink_category": "community-model-comparisons",
+      "retweetCount": 21,
+      "replyCount": 34,
+      "likeCount": 186,
+      "quoteCount": 1,
+      "viewCount": 43212,
+      "bookmarkCount": 120,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 102,
+    "model": "seedream-5-pro",
+    "title": "Trading terminal interface with market microstructure detail",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating trading terminal interface with market microstructure detail.",
+    "content": "a full trading terminal — K-lines, order book, bid/ask, volume, timestamps",
+    "sourceLink": "https://x.com/MishikaAI/status/2074879603446026333",
+    "sourcePublishedAt": "2026-07-08T15:33:41.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMtz5GxbkAA5mQT.jpg"
+    ],
+    "author": {
+      "name": "@MishikaAI",
+      "link": "https://x.com/MishikaAI"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2074879603446026333",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "004",
+      "evolink_category": "community-product-interface-design",
+      "retweetCount": 43,
+      "replyCount": 21,
+      "likeCount": 78,
+      "quoteCount": 0,
+      "viewCount": 12553,
+      "bookmarkCount": 5,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 26,
+          "title": "UI / Product Mockup",
+          "slug": "ui-product-mockup"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ]
+    }
+  },
+  {
+    "id": 105,
+    "model": "seedream-5-pro",
+    "title": "Fisheye editorial portraits with miniature clone motif",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating fisheye editorial portraits with miniature clone motif.",
+    "content": "Prompt 1:\nShot on cinema camera with subtle halation effect, 35mm film grain, fashion editorial photography in the style of Y2K revival magazine covers. Extreme fisheye lens, distorted wide perspective pulling the scene toward the curved edges, low camera angle from the street. A young man around 20 years old with messy dark hair with soft curtain bangs, smooth youthful skin with natural texture and a few freckles, wearing small oval sunglasses with pink tinted lenses, a colorful beaded necklace, silver hoop earring, an oversized light blue and white varsity-style jacket over a plain white tee and baggy jeans, walking across a zebra crossing looking straight into the camera with a deadpan expression. Peeking out of his jacket chest pocket is his identical 15cm miniature clone, same messy hair, same pink tinted oval sunglasses, same light blue jacket, arms resting on the pocket edge, also deadpan at camera. Background: washed pale blue sky, bright clean daylight, yellow taxis, glass office towers\n\nPrompt 2:\nUnretouched natural photograph, shot on cinema camera with subtle halation, fine 35mm film grain, soft honest realism like an analog editorial photo. Extreme fisheye lens inside a retro neighborhood hair salon, the row of vintage hooded dryer chairs, mirrored wall and checkered floor curving with the distortion, warm tungsten light mixed with pale fluorescent, muted palette of dusty pink, mint green, cream and chrome, faded posters without readable text. An elderly woman in her early seventies photographed like a real person: silver grey hair set in rollers under a vintage hooded dryer, authentic aged skin with deep natural wrinkles, soft jowls, visible pores and gentle age spots, kind tired eyes, thin lips with no lipstick, no smoothing, no doll-like features, wearing large round glasses with gold frames, a floral blouse in muted tones under a dusty pink salon cape, a colorful beaded necklace and clip-on earrings. She and her 15cm miniature clone wear the exact same identical outfit.",
+    "sourceLink": "https://x.com/magnific/status/2074872903938846900",
+    "sourcePublishedAt": "2026-07-08T15:07:04.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMtt5zzbIAAJiVB.jpg",
+      "https://pbs.twimg.com/media/HMtt6PUbgAAhYwo.jpg"
+    ],
+    "author": {
+      "name": "@magnific",
+      "link": "https://x.com/magnific"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2074872903938846900",
+      "prompt_source": "evolink_verified_alt_text_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "008",
+      "evolink_category": "community-cinematic-character-visuals",
+      "retweetCount": 8,
+      "replyCount": 3,
+      "likeCount": 57,
+      "quoteCount": 2,
+      "viewCount": 10272,
+      "bookmarkCount": 28,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 106,
+    "model": "seedream-5-pro",
+    "title": "Melting-world-landmarks concept generation",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating melting-world-landmarks concept generation.",
+    "content": "world's landmarks, melting like wax",
+    "sourceLink": "https://x.com/magnific/status/2074918700709523881",
+    "sourcePublishedAt": "2026-07-08T18:09:03.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMuXjuJbYAApbP8.jpg",
+      "https://pbs.twimg.com/media/HMuXj8mbMAAP0Jm.jpg"
+    ],
+    "author": {
+      "name": "@magnific",
+      "link": "https://x.com/magnific"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2074918700709523881",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "011",
+      "evolink_category": "community-cinematic-character-visuals",
+      "retweetCount": 5,
+      "replyCount": 3,
+      "likeCount": 44,
+      "quoteCount": 0,
+      "viewCount": 5406,
+      "bookmarkCount": 19,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 48,
+          "title": "Magical Realism",
+          "slug": "magical-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 34,
+          "title": "Landscape",
+          "slug": "landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": 107,
+    "model": "seedream-5-pro",
+    "title": "Seedream vs GPT Image 2 for clean lifestyle portrait styling",
+    "description": "A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating seedream vs gpt image 2 for clean lifestyle portrait styling.",
+    "content": "摄影风格：冷白清透CCD生活照风 写真方向：轻熟生活照 场景方向：酒店泳池外步道 / 白色躺椅 / 浅蓝池水 / 简洁遮阳伞 服装方向：浅鼠尾草色修身无袖针织短裙 气质标签：温柔、清透、轻熟、安静、有吸引力 五官方向：真实清透自然脸，安静干净，不网红 五官细节：柔和鹅蛋脸，面部轮廓自然；清亮杏眼，眼神温柔安静；鼻型流畅小巧；唇形柔软克制，低饱和裸粉唇色；整体是安静、通透、舒服的生活感美人脸 发型方向：自然黑长发或低扎发，发丝顺滑，额前少量碎发，带一点微风感 身形方向：轻盈纤细，上围饱满自然 线条强调：强 镜头方向：大腿及上半身 姿态动作：站在泳池步道边，身体轻微侧向镜头，一只手自然垂落，另一只手轻扶裙侧 光线氛围：高色温晴天自然光 + 水面反射光 + 冷白极弱柔闪 滤镜效果：冷白高光 + 蓝白清透生活照色彩 + 轻颗粒 + 轻数码噪点 + 轻微过曝 画幅比例：9:16 补充要求：连衣裙贴身柔软，突出胸部轮廓、腰线和整体修长感，人物五官要安静耐看，整体要冷白清爽，不要商业泳池大片感",
+    "sourceLink": "https://x.com/liyue_ai/status/2074890690686005590",
+    "sourcePublishedAt": "2026-07-08T16:17:44.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMt9I5-aMAAeyVy.jpg",
+      "https://pbs.twimg.com/media/HMt9NQkaoAAbk2M.jpg"
+    ],
+    "author": {
+      "name": "@liyue_ai",
+      "link": "https://x.com/liyue_ai"
+    },
+    "language": "zh",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2074890690686005590",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "012",
+      "evolink_category": "community-model-comparisons",
+      "retweetCount": 8,
+      "replyCount": 14,
+      "likeCount": 83,
+      "quoteCount": 0,
+      "viewCount": 9040,
+      "bookmarkCount": 66,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 108,
+    "model": "seedream-5-pro",
+    "title": "Photorealistic high-fashion portrait lighting",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating photorealistic high-fashion portrait lighting.",
+    "content": "This is a highly photorealistic, high-fashion full-body portrait with an overall dark-toned, dreamy, and hazy atmosphere, filled with the flowing beauty of light and shadow. The scene uses refined artificial lighting that is soft yet richly layered, with sparkling highlights, crystal-clear reflections, and a subtle lomo film texture in certain areas, creating a surreal and luxurious fashion mood that feels both realistic and dreamlike.\n\nThe subject is a young adult Taiwanese woman with short pink-and-white blended hair and side-swept bangs. She has delicate, beautiful features, a well-defined bone structure, and facial lines that are both soft and sculptural. She has a naturally curvy, elegant, and well-proportioned figure, with an overall presence that feels mature, confident, and relaxed. Her skin has a cool fair matte quality, looking smooth and translucent while still preserving realistic skin texture. Her makeup is refined and soft, with rosy cheeks, moist dreamy eyes, and an expression that carries a hint of laziness, aloofness, and world-weary indifference, giving her an aura that feels both sophisticated and mysterious.\n\nHer face features intricate decorative makeup details, including a huadian ornament on the forehead, floral ornaments at the outer corners of the eyes, heart-shaped facial decorations, and small artistic pig-pattern facial elements. These embellishments are naturally integrated into the overall high-end makeup look, with delicate shimmer and pearlescent textures. They should feel refined, luxurious, and elegant, never cheap or cartoonish.\n\nThe composition is shot from a low angle, with the subject’s full body visible and facing the camera directly. She extends one hand toward the lens, with long slender fingers and delicately manicured long nails, creating a strong foreground blur and a clear sense of perspective, making the image more visually dynamic. Her pose is elegant and confident, with the visual language of a high-end fashion editorial.\n\nThe overall color palette is dominated by rich, dark tones, accented with nude pink, skin-tone hues, pearlescent highlights, silvery-white reflections, and sparkling details. The image has a low-contrast tonal range, with soft focus, haze, luminosity, and a luxurious finish, resembling a meticulously retouched fashion editorial. The photo should feel highly realistic, rich in detail, with natural skin texture, in 8K ultra-high definition, with a trendy high-end internet aesthetic, vertical 9:16.",
+    "sourceLink": "https://x.com/BubbleBrain/status/2074856963591290979",
+    "sourcePublishedAt": "2026-07-08T14:03:43.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMtfQqPbwAA3iSv.jpg"
+    ],
+    "author": {
+      "name": "@BubbleBrain",
+      "link": "https://x.com/BubbleBrain"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2074856963591290979",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "017",
+      "evolink_category": "community-cinematic-character-visuals",
+      "retweetCount": 7,
+      "replyCount": 9,
+      "likeCount": 106,
+      "quoteCount": 2,
+      "viewCount": 4839,
+      "bookmarkCount": 41,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    },
+    "promptVariants": [
+      {
+        "title": "High-fashion full-body portrait template",
+        "content": "Create a high-fashion full-body portrait on a minimal editorial set. Use dramatic posture, couture silhouette, controlled studio lighting, crisp fabric texture, visible footwear, balanced negative space, and a magazine-ready finish. Keep the figure readable from head to toe and avoid cropped hands or distorted limbs.",
+        "sourceLink": "https://x.com/OpenDesignHQ/status/2075191300366733710",
+        "author": {
+          "name": "@OpenDesignHQ",
+          "link": "https://x.com/OpenDesignHQ"
+        },
+        "curatedBy": null
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "model": "seedream-5-pro",
+    "title": "Solar-powered desert research station concept",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating solar-powered desert research station concept.",
+    "content": "A solar-powered research station in a desert, featuring domed structures, solar panels, and various equipment for energy and research management.",
+    "sourceLink": "https://x.com/ashen_one/status/2074915677815886071",
+    "sourcePublishedAt": "2026-07-08T17:57:02.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMuUz-gbUAAvKWr.jpg"
+    ],
+    "author": {
+      "name": "@ashen_one",
+      "link": "https://x.com/ashen_one"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2074915677815886071",
+      "prompt_source": "evolink_verified_alt_text_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "021",
+      "evolink_category": "community-concept-environment-worldbuilding",
+      "retweetCount": 1,
+      "replyCount": 5,
+      "likeCount": 20,
+      "quoteCount": 0,
+      "viewCount": 2224,
+      "bookmarkCount": 6,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 110,
+    "model": "seedream-5-pro",
+    "title": "Reference-image camera-angle change comparison",
+    "description": "A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating reference-image camera-angle change comparison.",
+    "content": "リファレンス画像のスタイルを保ったまま、もう少し高い位置からの画角に変更してもらいました。",
+    "sourceLink": "https://x.com/hasamaru_studio/status/2075052934409375918",
+    "sourcePublishedAt": "2026-07-09T03:02:26.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMuX1nNaIAAkR1Q.jpg",
+      "https://pbs.twimg.com/media/HMuX3cRbIAAsM8B.jpg",
+      "https://pbs.twimg.com/media/HMuX4tra0AAknaG.jpg",
+      "https://pbs.twimg.com/media/HMuX5uIaYAA7Teh.jpg"
+    ],
+    "author": {
+      "name": "@hasamaru_studio",
+      "link": "https://x.com/hasamaru_studio"
+    },
+    "language": "ja-JP",
+    "featured": false,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075052934409375918",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "022",
+      "evolink_category": "community-model-comparisons",
+      "retweetCount": 4,
+      "replyCount": 4,
+      "likeCount": 49,
+      "quoteCount": 0,
+      "viewCount": 3243,
+      "bookmarkCount": 9,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 34,
+          "title": "Landscape",
+          "slug": "landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": 111,
+    "model": "seedream-5-pro",
+    "title": "Oversized beverage-can advertising composition comparison",
+    "description": "A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating oversized beverage-can advertising composition comparison.",
+    "content": "A premium infographic-style advertisement featuring an oversized Pepsi can placed beside a young woman. The can is scaled to be nearly the same size as her entire seated body, creating a striking surreal proportion. The woman sits casually leaning against the giant can, one arm resting on it, interacting naturally. The Pepsi can is ultra-detailed with crisp branding, condensation droplets, realistic reflections, and metallic texture. The logo is clean, sharp, and properly proportioned. Composition is modern and minimal, set in a clean studio with a soft gradient background. Subtle infographic-style annotation lines highlight features like 'refreshment', 'carbonation', 'chilled texture'. Lighting is soft studio with controlled highlights. The model wears minimal contemporary clothing that complements the red white and blue tones of the can. Color grading crisp and slightly vibrant, commercial ad aesthetic. High-end product infographic, commercial beverage advertisement, ultra high resolution, 4K, photorealistic.",
+    "sourceLink": "https://x.com/emmanuel_2m/status/2075000101362131350",
+    "sourcePublishedAt": "2026-07-08T23:32:30.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMvg7FkXgAAz_F8.jpg",
+      "https://pbs.twimg.com/media/HMvg734W8AAiM_K.jpg"
+    ],
+    "author": {
+      "name": "@emmanuel_2m",
+      "link": "https://x.com/emmanuel_2m"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075000101362131350",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "023",
+      "evolink_category": "community-model-comparisons",
+      "retweetCount": 1,
+      "replyCount": 2,
+      "likeCount": 10,
+      "quoteCount": 1,
+      "viewCount": 2461,
+      "bookmarkCount": 10,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 112,
+    "model": "seedream-5-pro",
+    "title": "Impossible-scale cinematic sci-fi worldbuilding set",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating impossible-scale cinematic sci-fi worldbuilding set.",
+    "content": "Prompt 1:\nAn industrial civilization is constructing an entire planet inside an enormous orbital shipyard. Giant robotic arms hold continents in place while molten oceans are poured into gigantic basins. Thousands of spacecraft weld mountain ranges together. The unfinished world glows from its molten core. Unreal scale, NASA realism, cinematic science fiction.\n\nPrompt 2:\nGigantic floating whales drift above endless wheat fields while enormous wind-powered harvesting machines extend hundreds of meters into the sky to collect glowing crystals that grow beneath the creatures. Farmers below appear tiny. Warm sunset, golden dust, beautiful atmospheric perspective, ultra-realistic, cinematic masterpiece.\n\nPrompt 3:\nA massive ocean wave nearly one kilometer high has frozen in time just before crashing into a coastal city. Emergency helicopters fly through tunnels inside the transparent wall of water. Every droplet is perfectly suspended. Cold blue lighting mixed with sunrise reflections, photorealistic, impossible but believable physics.\n\nPrompt 4:\nA mountain village built on impossibly tall stone pillars extends far above Earth's weather. Massive thunderstorms rage thousands of meters below while peaceful gardens, waterfalls and wooden bridges sit in bright sunshine above the clouds. Eagles glide beneath the village instead of above it. Ultra realistic, breathtaking scale.",
+    "sourceLink": "https://x.com/AllaAisling/status/2075036565147906511",
+    "sourcePublishedAt": "2026-07-09T01:57:24.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMwCSVCWUAA0CRa.jpg",
+      "https://pbs.twimg.com/media/HMwCjxSW0AAaZFu.jpg",
+      "https://pbs.twimg.com/media/HMwCm1rWEAA4RnN.jpg",
+      "https://pbs.twimg.com/media/HMwCqVmW8AAhP1u.jpg"
+    ],
+    "author": {
+      "name": "@AllaAisling",
+      "link": "https://x.com/AllaAisling"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075036565147906511",
+      "prompt_source": "evolink_verified_alt_text_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "027",
+      "evolink_category": "community-concept-environment-worldbuilding",
+      "retweetCount": 7,
+      "replyCount": 4,
+      "likeCount": 37,
+      "quoteCount": 1,
+      "viewCount": 2194,
+      "bookmarkCount": 10,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 113,
+    "model": "seedream-5-pro",
+    "title": "Fantasy fallen-angel warrior key visual",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating fantasy fallen-angel warrior key visual.",
+    "content": "A divine fallen angel warrior kneeling in the center of an ancient celestial temple, thrusting a massive flaming holy sword into a cracked white marble floor, the impact creating glowing lava-like fractures and flying debris. Gigantic pure white feathered wings spread wide behind the warrior, wearing ornate gold and crimson medieval armor with intricate engravings, a flowing dark red cape, and ram-like curled white horns. Glowing crimson eyes stare downward with an intense, wrathful expression. A colossal circular celestial halo filled with sacred runes, geometric symbols, and ancient inscriptions dominates the background. Powerful golden volumetric sunlight pours from the upper right, illuminating the wings and armor while dramatic shadows fill the environment. Dust, smoke, ash, and embers swirl around the impact point. Hyper-detailed feathers, realistic metal reflections, cinematic fantasy atmosphere, epic dark fantasy, divine judgment, ultra-realistic, photorealistic, Unreal Engine 5, Octane Render, ray-traced global illumination, volumetric fog, HDR lighting, 8K,",
+    "sourceLink": "https://x.com/SimplyAnnisa/status/2074900816662774189",
+    "sourcePublishedAt": "2026-07-08T16:57:59.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMuHS8ha4AA-xra.jpg"
+    ],
+    "author": {
+      "name": "@SimplyAnnisa",
+      "link": "https://x.com/SimplyAnnisa"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2074900816662774189",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "028",
+      "evolink_category": "community-cinematic-character-visuals",
+      "retweetCount": 4,
+      "replyCount": 29,
+      "likeCount": 45,
+      "quoteCount": 0,
+      "viewCount": 1375,
+      "bookmarkCount": 5,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 48,
+          "title": "Magical Realism",
+          "slug": "magical-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 57,
+          "title": "Sci-Fi World",
+          "slug": "sci-fi-world"
+        }
+      ]
+    }
+  },
+  {
+    "id": 114,
+    "model": "seedream-5-pro",
+    "title": "Japanese casual portrait styling set",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating japanese casual portrait styling set.",
+    "content": "A beautiful young Japanese woman, natural and effortless beauty, soft glowing skin, wearing a fitted black tank top layered under an oversized cool white shirt worn open, casual chic styling. Cinematic movie-grade shot, anamorphic lens flare, shallow depth of field with creamy bokeh, slow dolly-in camera movement, dramatic rim lighting from golden hour sun, subtle film grain, volumetric light rays through window, color graded like a Denis Villeneuve film teal and warm amber tones, 35mm anamorphic lens, motion blur on hair strands from gentle breeze, realistic skin texture, ultra-detailed, photorealistic, --ar 16:9",
+    "sourceLink": "https://x.com/Cia0_exe/status/2075033845032993261",
+    "sourcePublishedAt": "2026-07-09T01:46:35.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMwAQvbagAAoDu7.jpg",
+      "https://pbs.twimg.com/media/HMwARKtaMAE1QXc.jpg",
+      "https://pbs.twimg.com/media/HMwARljbgAA0tO3.jpg",
+      "https://pbs.twimg.com/media/HMwAR9YaAAApRf7.jpg"
+    ],
+    "author": {
+      "name": "@Cia0_exe",
+      "link": "https://x.com/Cia0_exe"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075033845032993261",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "029",
+      "evolink_category": "community-cinematic-character-visuals",
+      "retweetCount": 1,
+      "replyCount": 8,
+      "likeCount": 29,
+      "quoteCount": 1,
+      "viewCount": 3057,
+      "bookmarkCount": 13,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 115,
+    "model": "seedream-5-pro",
+    "title": "Chengdu travel scrapbook poster comparison",
+    "description": "A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating chengdu travel scrapbook poster comparison.",
+    "content": "成都旅游 · 小红书手帐风海报\n\n一张竖版 9:16 的小红书风格拼贴海报，主题为**「成都旅游城市漫游计划」**。整体采用手帐风设计，像旅行日记一样丰富、有生活感和轻松氛围。\n\n画面以成都城市旅行为核心内容，包含宽窄巷子、锦里古街、春熙路、IFS熊猫、成都大熊猫繁育研究基地、东郊记忆、都江堰、青城山等真实场景照片，以拼贴方式散落在画面中，搭配撕纸边框与胶带装饰。画面中穿插熊猫元素、茶馆、人民公园、盖碗茶、街头巷尾、夜市、美食街、城市天际线等真实旅行场景，充分展现成都悠闲惬意的慢生活氛围。\n\n整体视觉使用天蓝色作为主色调，并点缀粉色、浅黄色与柔和绿色，营造清新明亮又富有烟火气的城市旅行氛围。\n\n画面中加入大量手帐元素，例如手绘箭头、涂鸦星星、对话气泡、便签标签、贴纸装饰、旅行地图、定位图标、拍立得照片、胶带、旅行印章、熊猫贴纸、相机、咖啡杯、小花、云朵、笑脸图标等，使画面具有强烈的小红书「种草笔记」视觉风格。\n\n主标题为**「成都达人计划 / Chengdu City Guide」，采用手写感或涂鸦字体，具有明显的年轻化社交媒体风格。画面中穿插中英文混排文字，如「City Walk Chengdu」「探索成都旅行路线」「熊猫打卡推荐」「成都美食地图」「Travel Notes」「Weekend Trip」**等，增强旅行攻略的真实感。\n\n局部可以加入旅行时间标签**「最佳旅行时间：3月～6月｜9月～11月」**，做成便签或贴纸形式，增强真实旅行计划感。\n\n画面中还可加入成都火锅、串串香、担担面、钟水饺、兔头、盖碗茶等特色美食照片，以拼贴方式自然分布在画面四周，与景点照片共同构成丰富的旅行内容。\n\n整体构图为非对称拼贴布局，中心突出成都城市主题，但四周元素丰富散落，呈现出活泼、松弛、像真实旅行手帐一样的视觉体验，适合小红书旅行种草海报风格。",
+    "sourceLink": "https://x.com/DeepBlueAIX/status/2074872447229419956",
+    "sourcePublishedAt": "2026-07-08T15:05:15.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMttO7-acAA2e0c.jpg",
+      "https://pbs.twimg.com/media/HMttSn8agAETxRS.jpg"
+    ],
+    "author": {
+      "name": "@DeepBlueAIX",
+      "link": "https://x.com/DeepBlueAIX"
+    },
+    "language": "zh",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2074872447229419956",
+      "prompt_source": "evolink_verified_alt_text_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "031",
+      "evolink_category": "community-model-comparisons",
+      "retweetCount": 0,
+      "replyCount": 2,
+      "likeCount": 0,
+      "quoteCount": 1,
+      "viewCount": 1403,
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 14,
+          "title": "Travel Visual",
+          "slug": "travel-visual"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 116,
+    "model": "seedream-5-pro",
+    "title": "Anime key-visual comparison",
+    "description": "A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating anime key-visual comparison.",
+    "content": "新作アニメのキービジュアルを作って下さい",
+    "sourceLink": "https://x.com/roco_kn_roco/status/2074890020260094137",
+    "sourcePublishedAt": "2026-07-08T16:15:05.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMt9SH6bsAAJ_A1.jpg"
+    ],
+    "author": {
+      "name": "@roco_kn_roco",
+      "link": "https://x.com/roco_kn_roco"
+    },
+    "language": "ja-JP",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2074890020260094137",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "034",
+      "evolink_category": "community-model-comparisons",
+      "retweetCount": 1,
+      "replyCount": 3,
+      "likeCount": 30,
+      "quoteCount": 0,
+      "viewCount": 863,
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 57,
+          "title": "Sci-Fi World",
+          "slug": "sci-fi-world"
+        }
+      ]
+    }
+  },
+  {
+    "id": 117,
+    "model": "seedream-5-pro",
+    "title": "ARRI-style cinematic city close-up",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating arri-style cinematic city close-up.",
+    "content": "Prompt 1:\n超写实电影剧照，一位女性在昏暗的都市环境中仰望天空，画面极具感染力。使用 ARRI Alexa Mini LF 摄影机和 Panavision C 系列 50mm 变形镜头拍摄，光圈 T2，加装 Black Pro-Mist 1/8 滤镜，采用 2.39:1 变形宽银幕构图。低角度特写镜头，镜头略低于女性面部，营造出亲密的电影视角。女性位于画面右侧，左侧留出大片空白。\n右上角背景中存在强烈的人工光源，产生强烈的变形镜头水平光晕、蓝白色的光晕、镜头内部反射、电影光晕效果以及柔和的高光。\n光源并非阳光，而是远处城市路灯或工业灯光，并因浅景深而呈现出模糊效果。柔和的青色环境光部分照亮了女性的脸庞，展现出逼真的肌肤纹理、自然的毛孔、细微的瑕疵，嘴唇微张，眼神充满情感地向上凝视。前景包含模糊的暗色调环境元素。中景是女性的脸部和头发。背景是高度虚化的城市建筑，点缀着抽象的光影。深邃的阴影、低对比度的黑色、冷色调的蓝色调、逼真的夜景电影感、柯达胶片质感、细腻的颗粒感、变形光晕、朦胧的氛围，以及真实的电影画面。\n\nPrompt 2:\nA vast grassy field filled with several large sci-fi spaceships and scattered cargo. Two people walk across the field toward the center of the landed fleet. 30s ambiguous male, average build, short dark hair, tan skin, stubble., wearing metallic silver helmet, dark armored chest plate, leather cape., neutral expression; 30s white female, average build, reddish-brown hair, tan skin., wearing blue and gray tactical jumpsuit, leather belt, holsters., neutral expression. Small_group, walking across a grassy field toward a large spaceship., facing from_back. Set in landing field, day. Even, diffused natural sunlight illuminates the field with minimal shadows. Naturalistic color palette with muted greens and grays reflecting daylight. Live_action style with a neutral mood.\n\nPrompt 3:\nA teenager stands behind a metal chain-link fence in a grassy outdoor area. She looks toward the camera while the fence is in the foreground. Teen white female, slim build, long straight brown hair, pale skin, light features., wearing dark blue puffy jacket over a reddish zip-up hoodie., neutral expression. Solo, A young woman stands behind a chain-link fence looking forward., facing frontal. Set in fence, day. Diffused natural overcast daylight provides even, shadowless illumination. The image features a cool, desaturated color grade with muted greens and grays. Live_action style with a neutral mood.",
+    "sourceLink": "https://x.com/df_reno/status/2075055332452106476",
+    "sourcePublishedAt": "2026-07-09T03:11:58.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMwSc30bAAAhMpu.jpg",
+      "https://pbs.twimg.com/media/HMwSSnObEAAobBH.jpg",
+      "https://pbs.twimg.com/media/HMwSk_wacAAHVki.jpg",
+      "https://pbs.twimg.com/media/HMwSrIEbEAEv_3I.jpg"
+    ],
+    "author": {
+      "name": "@df_reno",
+      "link": "https://x.com/df_reno"
+    },
+    "language": "zh",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075055332452106476",
+      "prompt_source": "evolink_verified_alt_text_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "035",
+      "evolink_category": "community-cinematic-character-visuals",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 10,
+      "quoteCount": 0,
+      "viewCount": 1428,
+      "bookmarkCount": 14,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 34,
+          "title": "Landscape",
+          "slug": "landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": 118,
+    "model": "seedream-5-pro",
+    "title": "Fashion outfit editorial set in a parking structure",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating fashion outfit editorial set in a parking structure.",
+    "content": "A stylish young woman with long layered black hair and soft curtain bangs, wearing sleek black rectangular sunglasses, an oversized chocolate-brown tailored blazer with matching wide-leg trousers, and a fitted mocha-brown camisole. She carries a large structured ivory leather tote bag with gold hardware over one shoulder. Standing confidently with one hand in her pocket, looking back over her shoulder. Shot in a modern open-air parking structure beneath a concrete overpass, with parked cars softly blurred in the background. Natural midday sunlight creates soft shadows and clean highlights. Minimalist luxury aesthetic, quiet luxury fashion, effortless street style, neutral earth-tone color palette, premium editorial photography, shallow depth of field, ultra-realistic skin texture, subtle makeup with glossy nude lips, high-end fashion campaign, cinematic composition, 85mm lens, f/2.0, soft bokeh, crisp focus, HDR, RAW, 8K, Vogue-style luxury editorial.",
+    "sourceLink": "https://x.com/ChillaiKalan__/status/2075071088137208063",
+    "sourcePublishedAt": "2026-07-09T04:14:35.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMwiJaNa0AA7gx7.jpg",
+      "https://pbs.twimg.com/media/HMwiJadbEAAlAYV.jpg",
+      "https://pbs.twimg.com/media/HMwiJaca0AAMG-v.jpg",
+      "https://pbs.twimg.com/media/HMwiJaYbsAAy_Za.jpg"
+    ],
+    "author": {
+      "name": "@ChillaiKalan__",
+      "link": "https://x.com/ChillaiKalan__"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075071088137208063",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "038",
+      "evolink_category": "community-cinematic-character-visuals",
+      "retweetCount": 5,
+      "replyCount": 45,
+      "likeCount": 86,
+      "quoteCount": 0,
+      "viewCount": 3343,
+      "bookmarkCount": 31,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 52,
+          "title": "Vehicle",
+          "slug": "vehicle"
+        }
+      ]
+    }
+  },
+  {
+    "id": 119,
+    "model": "seedream-5-pro",
+    "title": "Cyberpunk android graphic poster",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating cyberpunk android graphic poster.",
+    "content": "A sci-fi cyberpunk graphic design poster. In the center, a striking portrait of a female android with glossy, liquid chrome skin. A vivid swirling streak of neon orange, yellow, and pink liquid paint brush stroke horizontally covers her eyes, soft smudged color overlay with smooth flowing pigment texture, no cracks or broken facial surfaces.\n\nThe background is a dark, textured charcoal gray. Behind the central figure, large bold white futuristic typography reads \"Seedream 5.0 Pro\" with a subtle digital glitch and halftone texture. The composition is decorated with technical HUD elements, thin white lines, geometric wireframe diagrams, barcodes, and small sci-fi text boxes.\n\nSemi-transparent glassy spheres with grid textures overlap the foreground, creating depth. The overall mood is high-tech, dystopian, and avant-garde.",
+    "sourceLink": "https://x.com/ComfyUI/status/2075027793491226677",
+    "sourcePublishedAt": "2026-07-09T01:22:32.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMv6yDTawAAyhoW.jpg"
+    ],
+    "author": {
+      "name": "@ComfyUI",
+      "link": "https://x.com/ComfyUI"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075027793491226677",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "042",
+      "evolink_category": "community-product-interface-design",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 7,
+      "quoteCount": 0,
+      "viewCount": 774,
+      "bookmarkCount": 3,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 26,
+          "title": "UI / Product Mockup",
+          "slug": "ui-product-mockup"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 120,
+    "model": "seedream-5-pro",
+    "title": "Japanese no-makeup image edit instruction",
+    "description": "A source-backed tutorial curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating japanese no-makeup image edit instruction.",
+    "content": "すっぴんメイクにして",
+    "sourceLink": "https://x.com/renataro9/status/2075059699112652908",
+    "sourcePublishedAt": "2026-07-09T03:29:19.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMwXj5aaAAAacEs.jpg",
+      "https://pbs.twimg.com/media/HMwXkyDaEAAeX23.jpg"
+    ],
+    "author": {
+      "name": "@renataro9",
+      "link": "https://x.com/renataro9"
+    },
+    "language": "ja-JP",
+    "featured": false,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075059699112652908",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "043",
+      "evolink_category": "community-editing-control",
+      "retweetCount": 4,
+      "replyCount": 2,
+      "likeCount": 34,
+      "quoteCount": 0,
+      "viewCount": 1192,
+      "bookmarkCount": 2,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 121,
+    "model": "seedream-5-pro",
+    "title": "Iridescent glass-flower editorial poster",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating iridescent glass-flower editorial poster.",
+    "content": "An editorial graphic design poster on a solid black background. The central elements are exquisite, translucent 3D glass flowers with iridescent, holographic petals in shades of electric blue, violet, and soft purple.\n\nIn the background, large, bold white sans-serif typography reads \"Seedream 5.0 Pro\", elegantly layered behind and interwoven with the glass petals.\n\nThe layout is filled with clean blocks of small white placeholder body text and delicate thin white vector lines, creating a futuristic, tech-organic informational poster. High-contrast, sharp details, refractive glass textures, glossy finish, professional UI/UX design aesthetic.",
+    "sourceLink": "https://x.com/ComfyUI/status/2075027810666914062",
+    "sourcePublishedAt": "2026-07-09T01:22:36.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMv6y_ubcAAfVrP.jpg"
+    ],
+    "author": {
+      "name": "@ComfyUI",
+      "link": "https://x.com/ComfyUI"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075027810666914062",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "044",
+      "evolink_category": "community-cinematic-character-visuals",
+      "retweetCount": 1,
+      "replyCount": 1,
+      "likeCount": 6,
+      "quoteCount": 0,
+      "viewCount": 691,
+      "bookmarkCount": 4,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 122,
+    "model": "seedream-5-pro",
+    "title": "Premium sports footwear commercial ad set",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating premium sports footwear commercial ad set.",
+    "content": "Ultra-realistic premium sports footwear commercial advertisement featuring a modern running shoe floating horizontally at the center of a futuristic cyan and deep blue gradient background. The sneaker is displayed in a clean side profile with ultra-detailed breathable knit mesh texture, glossy air-cushion sole, realistic stitching, premium materials, and crisp branding. Soft cinematic studio lighting creates realistic reflections, shadows, and depth.\n\nThe composition is designed as a futuristic e-commerce product showcase inside a rounded glass-inspired interface with glowing white borders and translucent frosted panels. Large semi-transparent typography spelling the shoe model fills the background, creating depth without overpowering the product.\n\nMinimal modern UI elements surround the shoe, including elegant category labels, product title, search icon, shopping bag icon, menu icon, zoom percentage indicator connected by thin curved lines, price tag, size selector, color option, and a glowing rounded “BUY NOW” button. Add subtle neon cyan highlights, holographic interface accents, floating particles, soft bloom, and glassmorphism effects.\n\nUse a premium blue color palette with turquoise gradients, high-end sports branding aesthetics, luxury product presentation, Apple-inspired minimalism, futuristic web UI, perfect spacing, clean typography, ultra-sharp details, cinematic lighting, soft ambient glow, 3D depth, photorealistic textures, commercial advertising quality, Behance award-winning layout, 8K, HDR, octane render, Unreal Engine, global illumination, ray-traced reflections, ultra-realistic product photography.",
+    "sourceLink": "https://x.com/iamrealsnow/status/2075063569486598281",
+    "sourcePublishedAt": "2026-07-09T03:44:42.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMwbTL0bcAAvtse.jpg",
+      "https://pbs.twimg.com/media/HMwbTM4aAAIV59s.jpg",
+      "https://pbs.twimg.com/media/HMwbTMbaIAAXsyD.jpg",
+      "https://pbs.twimg.com/media/HMwbTLZb0AAUI1X.jpg"
+    ],
+    "author": {
+      "name": "@iamrealsnow",
+      "link": "https://x.com/iamrealsnow"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075063569486598281",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "047",
+      "evolink_category": "community-product-interface-design",
+      "retweetCount": 3,
+      "replyCount": 29,
+      "likeCount": 47,
+      "quoteCount": 0,
+      "viewCount": 964,
+      "bookmarkCount": 13,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 26,
+          "title": "UI / Product Mockup",
+          "slug": "ui-product-mockup"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ]
+    }
+  },
+  {
+    "id": 123,
+    "model": "seedream-5-pro",
+    "title": "Localized anime edit preserving composition while changing one subject",
+    "description": "A source-backed tutorial curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating localized anime edit preserving composition while changing one subject.",
+    "content": "元画像の構図、人物の横顔、顔の輪郭、髪型、花飾り、白いドレス、藤の花の背景、全体の淡いピンクとラベンダーの幻想的な雰囲気はそのまま維持してください。\n\n局所的に、少女の視線の先にいる紫の蝶を、より美しく印象的な「光をまとった宝石のような蝶」に変更してください。蝶の羽は透明感のある紫、水晶、ラベンダー、淡いピンクのグラデーションで、細かな発光粒子と繊細な羽脈を持たせてください。\n\n蝶から少女の瞳へ向かって、細い光の粒子と柔らかな魔法の軌跡を追加してください。光は強すぎず、白飛びさせず、既存の明るく儚い花園の空気感に自然に溶け込ませてください。\n\n少女の紫色の瞳には、蝶の光が小さく反射しているような宝石風のハイライトを少しだけ追加してください。瞳の形、顔立ち、表情、年齢感は変えないでください。\n\n前髪の一部にも、蝶の淡い紫光がわずかに反射しているようにしてください。ただし髪色全体は変えず、ピンクブロンドの柔らかさを維持してください。\n\n全体は高品質な日本アニメイラスト、幻想的、透明感、春の花園、上品、繊細、儚い美しさ。過度な発光、派手な魔法陣、強いコントラスト、顔の変形、衣装変更、背景変更は避けてください。\n\n顔を変えない、横顔を変えない、鼻を変えない、口を変えない、顎を変えない、髪型を変えない、花飾りを変えない、服を変えない、背景全体を変えない、暗くしない、ホラーにしない、強すぎる発光にしない、魔法陣を追加しない、羽を大きくしすぎない、蝶を主役にしすぎない、白飛びさせない、彩度を上げすぎない",
+    "sourceLink": "https://x.com/haruuraeadss/status/2075035201391255593",
+    "sourcePublishedAt": "2026-07-09T01:51:58.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMv_Xn3bAAAiHQ2.jpg",
+      "https://pbs.twimg.com/media/HMv_cFLawAAxkFT.jpg"
+    ],
+    "author": {
+      "name": "@haruuraeadss",
+      "link": "https://x.com/haruuraeadss"
+    },
+    "language": "ja-JP",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075035201391255593",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "052",
+      "evolink_category": "community-editing-control",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 10,
+      "quoteCount": 0,
+      "viewCount": 654,
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 18,
+          "title": "Precision Editing",
+          "slug": "precision-editing"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 57,
+          "title": "Sci-Fi World",
+          "slug": "sci-fi-world"
+        }
+      ]
+    }
+  },
+  {
+    "id": 124,
+    "model": "seedream-5-pro",
+    "title": "Image-input cat-to-mecha transformation",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating image-input cat-to-mecha transformation.",
+    "content": "a pic of my cat, asked for a mecha version",
+    "sourceLink": "https://x.com/JennyAITech/status/2074870477651398972",
+    "sourcePublishedAt": "2026-07-08T14:57:25.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMtqwoYbMAE7yRn.jpg",
+      "https://pbs.twimg.com/media/HMtrDP3bYAAhgnM.jpg"
+    ],
+    "author": {
+      "name": "@JennyAITech",
+      "link": "https://x.com/JennyAITech"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2074870477651398972",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "058",
+      "evolink_category": "community-editing-control",
+      "retweetCount": 10,
+      "replyCount": 9,
+      "likeCount": 10,
+      "quoteCount": 0,
+      "viewCount": 243,
+      "bookmarkCount": 10,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 57,
+          "title": "Sci-Fi World",
+          "slug": "sci-fi-world"
+        }
+      ]
+    }
+  },
+  {
+    "id": 125,
+    "model": "seedream-5-pro",
+    "title": "Bedroom design variations for MBTI types",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating bedroom design variations for mbti types.",
+    "content": "design a bedroom for each MBTI type",
+    "sourceLink": "https://x.com/FloraTechAI/status/2074866317484794131",
+    "sourcePublishedAt": "2026-07-08T14:40:53.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMtn4mDbIAAyuem.jpg",
+      "https://pbs.twimg.com/media/HMtn5X9bIAA8D0R.jpg",
+      "https://pbs.twimg.com/media/HMtn6E5aYAAQouz.jpg",
+      "https://pbs.twimg.com/media/HMtn6j5bMAARiMl.jpg"
+    ],
+    "author": {
+      "name": "@FloraTechAI",
+      "link": "https://x.com/FloraTechAI"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2074866317484794131",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "061",
+      "evolink_category": "community-concept-environment-worldbuilding",
+      "retweetCount": 9,
+      "replyCount": 6,
+      "likeCount": 8,
+      "quoteCount": 0,
+      "viewCount": 222,
+      "bookmarkCount": 7,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 20,
+          "title": "Architecture & Interior",
+          "slug": "architecture-interior"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 127,
+    "model": "seedream-5-pro",
+    "title": "Fantasy village watermill comparison against GPT Image 2",
+    "description": "A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating fantasy village watermill comparison against gpt image 2.",
+    "content": "stylized stylized fantasy village watermill, two-story half-timbered red-clay tower w/ thatched conical roof, big wooden water-wheel, attached small thatched cottage, wooden walkways and stairs, lush green meadow w/ stones, painterly Genshin-Impact / Studio Ghibli env art, fluffy cumulus clouds, sunny midday",
+    "sourceLink": "https://x.com/emmanuel_2m/status/2075000114427375742",
+    "sourcePublishedAt": "2026-07-08T23:32:33.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMvhgeBXkAABXjq.jpg",
+      "https://pbs.twimg.com/media/HMvhhLhXMAA5p3E.jpg"
+    ],
+    "author": {
+      "name": "@emmanuel_2m",
+      "link": "https://x.com/emmanuel_2m"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075000114427375742",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "065",
+      "evolink_category": "community-model-comparisons",
+      "retweetCount": 0,
+      "replyCount": 2,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 183,
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 48,
+          "title": "Magical Realism",
+          "slug": "magical-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 57,
+          "title": "Sci-Fi World",
+          "slug": "sci-fi-world"
+        }
+      ]
+    }
+  },
+  {
+    "id": 128,
+    "model": "seedream-5-pro",
+    "title": "Lake Como fashion scene comparison against Banana Pro",
+    "description": "A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating lake como fashion scene comparison against banana pro.",
+    "content": "A straight-on medium-wide cinematic shot at eye-level, static locked frame, 4:5 vertical, captures a sun-bright late-morning inside a Lake Como villa courtyard room, camera perpendicular to the wall plane with no tilt, the atmosphere crisp and alive like the minute before heading out for gelato, the wall behind the scene a warm hand-troweled sable butter-yellow lime plaster slightly uneven with soft sun-bleach along the upper right edge, the floor matte burnt-terracotta chili tile grounding the frame, grout lines aged and dusty.\n\nCentered lower in the frame, a fully restored 1965 Vespa Primavera in glossy melon-orange lacquer parked on its side stand parallel to the camera, full profile visible, polished chrome Vespa badge on the legshield catching light, round chrome headlamp glinting, chrome handlebars and mirrors, aged cognac brown leather saddle, a silk twill scarf in marine navy, chili orange, cream and cognac pattern loosely tied around the right handlebar with tails cascading down, a small wicker basket bag on the left handlebar spilling a baguette and green grapes.\n\nThe subject is a stunning World Cup beauty in her mid-twenties, with radiant sun-kissed skin and natural healthy glow, long silky dark chestnut brown hair loosely pulled into a soft low bun with gentle face-framing waves, striking hazel eyes with bright lively spark looking directly into the camera, high cheekbones, full lips in a soft warm cognac-rose shade with corners gently lifted in quiet joy. She is seated sideways on the Vespa saddle, body in a bright open three-quarter twist toward the camera, both legs crossed at the ankles on the same side, knees angled toward the lens, one hand resting lightly on the chrome handlebar, the other arm relaxed behind her on the rear of the saddle. Shoulders open and relaxed, natural breathing pose.\n\nShe wears a fitted cream football jersey with subtle gold embroidery and thin spaghetti straps, tucked into a flowing cream bias-cut midi skirt that falls mid-calf, a slim cognac leather belt at the waist, flat cognac leather Roman sandals with ankle ties, stack of thin gold bangles on one wrist, delicate gold chain with small gold-and-coral pendant, small gold hoop earrings. Miu Miu oval sunglasses with thin gold frames and warm cognac lenses pushed up on her head. A cream quilted Miu Miu matelassé crossbody bag with gold chain slung across her torso.\n\nNatural skin texture with soft luminosity, gentle sheen on nose and lips, crisp morning sunlight, cinematic color grading, highly detailed, photorealistic, Slim Aarons style with modern World Cup energy.",
+    "sourceLink": "https://x.com/cso6709/status/2075046425277399261",
+    "sourcePublishedAt": "2026-07-09T02:36:34.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMwLnEra4AAp63F.jpg",
+      "https://pbs.twimg.com/media/HMwLpZlbYAAHMMi.jpg"
+    ],
+    "author": {
+      "name": "@cso6709",
+      "link": "https://x.com/cso6709"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075046425277399261",
+      "prompt_source": "evolink_verified_tweet_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "066",
+      "evolink_category": "community-model-comparisons",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 231,
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 129,
+    "model": "seedream-5-pro",
+    "title": "Anime skateboard sequence with multiple shot prompts",
+    "description": "A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating anime skateboard sequence with multiple shot prompts.",
+    "content": "Prompt 1:\nA girl with a sharp bob cut, purple hair with black accent strands, stylized layered hair flowing in the wind, wearing layered cloth with black accents, riding a skateboard through a vibrant concrete skate park, captured from a dramatic high angle looking down at the front profile, dynamic action pose, body leaning into a turn, skate park ramps, rails, and colorful graffiti walls sprawling below, cel shaded, toon shading, hard shadows, bold outlines, anime style, vibrant flat colors, crisp line art, key visual quality, bright late afternoon sunlight casting strong contrast, warm orange and purple sky, energetic youthful vibe, 8K detail, slight motion blur on wheels, dynamic perspective looking down\n\nPrompt 2:\nA girl with a sharp bob cut, purple hair with black accent strands, stylized layered hair swept back by the wind, wearing layered cloth with black accents, cruising on a skateboard through a colorful skate park, captured from a medium shot side profile, one foot on the board the other pushing off the ground, relaxed confident posture, skate park ramps, rails, and vibrant graffiti walls passing in the background, high-quality cartoon animation, stylized cel-shaded rendering, bold clean outlines, flat vibrant colors, expressive character design, smooth animated aesthetic, warm golden-hour glow, playful energetic mood, strong silhouette, clear readable pose\n\nPrompt 3:\nA girl with a sharp bob cut, purple hair with black accent strands, stylized layered hair, wearing layered cloth with black accents, standing at the corner edge of a skate park ramp, skateboard positioned underfoot, poised and ready to launch, captured from a cinematic over-the-shoulder shot from the corner side, peering past her shoulder toward the same corner direction she's facing, tense anticipation in the posture, knees bent, weight shifted forward, concrete skate park ramps and rails stretching out below, cinematic still, anamorphic lens, film grain, rich contrast, cinematic color grading, dramatic shadows, low golden-hour sun casting a long shadow forward, warm rim light on the shoulder and hair, 8K resolution, shallow depth of field, motion blur creeping at the edges, suspenseful action moment\n\nPrompt 4:\nA girl with a sharp bob cut, purple hair with black accent strands, stylized layered hair slightly tousled, wearing layered cloth with black accents, standing at a concrete skate park holding her skateboard under one arm, captured from a medium shot, casual confident pose, one hand flashing a peace sign, tongue playfully sticking out, skateboard tucked at her side, skate park ramps and graffiti walls in the softly blurred background, cinematic still, anamorphic lens, film grain, rich contrast, cinematic color grading, soft natural afternoon light, warm golden tones, playful rebellious attitude, 8K resolution, shallow depth of field, sharp focus on the face and peace sign, editorial finish",
+    "sourceLink": "https://x.com/asatoucan/status/2075060881067769903",
+    "sourcePublishedAt": "2026-07-09T03:34:01.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMwYFuAawAE2BGw.jpg",
+      "https://pbs.twimg.com/media/HMwYbvbbkAA2FiX.jpg",
+      "https://pbs.twimg.com/media/HMwYnSObYAE5NCe.jpg",
+      "https://pbs.twimg.com/media/HMwXqEoacAAPqx8.jpg"
+    ],
+    "author": {
+      "name": "@asatoucan",
+      "link": "https://x.com/asatoucan"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "evolink-guide",
+      "tweet_id": "2075060881067769903",
+      "prompt_source": "evolink_verified_alt_text_prompt",
+      "curation_source": "https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt",
+      "curation_license": "CC BY 4.0",
+      "evolink_case_number": "069",
+      "evolink_category": "community-cinematic-character-visuals",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 153,
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
         }
       ]
     }

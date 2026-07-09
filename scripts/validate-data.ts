@@ -3,6 +3,10 @@ import os from "node:os";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
+import {
+  MIN_TWITTER_PROMPT_SCORE,
+  scoreStoredTwitterPrompt,
+} from "./utils/prompt-quality.js";
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -15,10 +19,27 @@ interface StoredPrompt {
   id: number;
   title: LocalizedText;
   content: LocalizedText;
+  promptVariants?: Array<{
+    content: string;
+    sourceLink?: string;
+  }>;
   sourceLink?: string;
   sourceMedia?: string[];
   sourceMeta?: {
     tweet_id?: string;
+    source?: string;
+    prompt_source?: string;
+    model_evidence?: string;
+    likeCount?: number;
+    bookmarkCount?: number;
+    viewCount?: number;
+  };
+  author?: {
+    name?: string;
+    link?: string;
+  };
+  imageCategories?: {
+    useCases?: Array<{ slug?: string }>;
   };
 }
 
@@ -108,6 +129,55 @@ function validateStructuralDuplicates(prompts: StoredPrompt[]): string[] {
     const uniqueIds = [...new Set(ids)];
     if (uniqueIds.length > 1) {
       errors.push(`Media URL: prompts ${uniqueIds.join(", ")} share ${JSON.stringify(url)}`);
+    }
+  }
+
+  const promptEntries = prompts.flatMap((prompt) => [
+    {
+      promptId: prompt.id,
+      owner: `prompt ${prompt.id}`,
+      content: normalizeText(localizedText(prompt.content)),
+      source: prompt.sourceLink ? normalizeUrl(prompt.sourceLink) : "",
+    },
+    ...(prompt.promptVariants || []).map((variant, index) => ({
+      promptId: prompt.id,
+      owner: `prompt ${prompt.id} variant ${index + 1}`,
+      content: normalizeText(variant.content),
+      source: variant.sourceLink ? normalizeUrl(variant.sourceLink) : "",
+    })),
+  ]);
+
+  for (const [label, key] of [
+    ["Prompt entry", "content"],
+    ["Prompt source", "source"],
+  ] as const) {
+    const ownersByValue = new Map<string, Array<{ promptId: number; owner: string }>>();
+    for (const entry of promptEntries) {
+      const value = entry[key];
+      if (!value) continue;
+      const owners = ownersByValue.get(value) || [];
+      owners.push({ promptId: entry.promptId, owner: entry.owner });
+      ownersByValue.set(value, owners);
+    }
+    for (const [value, owners] of ownersByValue) {
+      if (owners.length <= 1) continue;
+      if (key === "source" && new Set(owners.map((owner) => owner.promptId)).size === 1) {
+        continue;
+      }
+      errors.push(
+        `${label}: ${owners.map((owner) => owner.owner).join(", ")} share ${JSON.stringify(value)}`
+      );
+    }
+  }
+
+  for (const prompt of prompts) {
+    const isXSource = /^https:\/\/x\.com\/[^/]+\/status\/\d+/.test(prompt.sourceLink || "");
+    if (!isXSource && prompt.sourceMeta?.source !== "twitterapi.io") continue;
+    const quality = scoreStoredTwitterPrompt(prompt);
+    if (quality.decision !== "accept" || quality.score < MIN_TWITTER_PROMPT_SCORE) {
+      errors.push(
+        `Quality: prompt ${prompt.id} scored ${quality.score}/${MIN_TWITTER_PROMPT_SCORE} (${quality.reasons.join("; ")})`
+      );
     }
   }
 

@@ -25,6 +25,14 @@ This reads local structured data from `data/`, renders every supported README lo
 pnpm run audit:duplicates
 ```
 
+To rank a raw twitterapi.io search export before manually importing candidates:
+
+```bash
+pnpm run quality:twitter -- /path/to/twitter-search.json
+```
+
+See [TWITTER_QUALITY_POLICY.md](TWITTER_QUALITY_POLICY.md) for the acceptance thresholds and manual review requirements.
+
 ## Typecheck
 
 ```bash
@@ -63,6 +71,7 @@ pnpm run generate
 │   └── prompts.json
 ├── scripts/
 │   ├── generate-readme.ts
+│   ├── score-twitter-candidates.ts
 │   ├── sync-approved-to-data.ts
 │   ├── validate-data.ts
 │   └── utils/

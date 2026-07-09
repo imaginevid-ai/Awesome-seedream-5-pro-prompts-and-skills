@@ -7,6 +7,8 @@
     "generate": "pnpm run validate && tsx scripts/generate-readme.ts",
     "validate": "tsx scripts/validate-data.ts",
     "audit:duplicates": "tsx scripts/validate-data.ts --media",
+    "quality:twitter": "tsx scripts/score-twitter-candidates.ts",
+    "test": "tsx --test scripts/utils/*.test.ts",
     "sync": "tsx scripts/sync-approved-to-data.ts",
     "typecheck": "tsc --noEmit"
   },

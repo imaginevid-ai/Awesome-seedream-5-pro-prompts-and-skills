@@ -34,6 +34,16 @@ export interface Prompt {
   description: string;
   content: string;
   translatedContent?: string;
+  promptVariants?: Array<{
+    title?: string;
+    content: string;
+    sourceLink?: string;
+    author?: {
+      name: string;
+      link?: string;
+    };
+    curatedBy?: string | null;
+  }>;
   sourceLink?: string;
   sourcePublishedAt: string;
   sourceMedia: string[];
@@ -66,6 +76,30 @@ export interface FilterCategory {
   parentSlug?: string | null;
   featured?: boolean;
   sort?: number | null;
+}
+
+export interface OfficialCaseCategory {
+  id: string;
+  emoji: string;
+  title: string;
+  desc: string;
+  case_numbers: number[];
+}
+
+export interface OfficialCase {
+  number: number;
+  category: string;
+  title: string;
+  media: string[];
+  prompt?: string | null;
+  mediaLabels?: string[] | null;
+}
+
+export interface OfficialGallery {
+  sourceRepo: string;
+  sourceLicense: string;
+  categories: OfficialCaseCategory[];
+  cases: OfficialCase[];
 }
 
 type LocalizedText = string | Record<string, string>;
@@ -145,6 +179,10 @@ export async function fetchPromptCategories(locale = "en"): Promise<{
     allCategories: categories,
     featuredCategories,
   };
+}
+
+export async function fetchOfficialGallery(): Promise<OfficialGallery> {
+  return readJson<OfficialGallery>("data/official-cases.json");
 }
 
 export async function fetchAllPrompts(

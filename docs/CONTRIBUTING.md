@@ -29,10 +29,12 @@ Accepted prompts should be:
 - Original or properly attributed.
 - Clear enough to reuse.
 - Paired with visible output media.
+- Linked to the original creator rather than a repost.
+- Distinct from existing prompts and visual examples.
 - Safe for work.
 - Useful as a repeatable creative workflow.
 
-We may reject prompts that are low quality, harmful, spammy, uncredited, or impossible to verify.
+We reject product announcements without a reusable prompt, unrelated or mismatched media, engagement bait, duplicates, and material that cannot be verified. See [TWITTER_QUALITY_POLICY.md](TWITTER_QUALITY_POLICY.md) for the repository's source-review and scoring rules.
 
 ## License
 
