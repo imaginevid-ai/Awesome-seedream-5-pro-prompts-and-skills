@@ -1,9 +1,5 @@
 <a href="https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills">
-  <img src="public/images/seedream-5-pro-prompts-hero-en.png" alt="Seedream 5 Pro Prompts and Skills" width="100%" />
-</a>
-
-<a href="https://imaginevid.com/zh-CN">
-  <img src="public/images/imaginevid-prompt-skills-cross-promo.png" alt="ImagineVid Prompt Skills" width="100%" />
+  <img src="public/images/imaginevid-prompt-skills-cross-promo.png" alt="ImagineVid Seedream 5 Pro Prompt Skills" width="100%" />
 </a>
 
 > 探索 ImagineVid 工作流，把提示词能力变成可复用的视觉生产方法。
@@ -26,12 +22,6 @@
 ---
 
 ## 查看精选集合
-
-<div align="center">
-
-![Cover](public/images/seedream-5-pro-prompts-cover-en.png)
-
-</div>
 
 **[浏览 ImagineVid Seedream 5 Pro 提示词集合](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
@@ -114,7 +104,7 @@ A cinematic poster for "{argument name="product" default="a glass AI camera"}" w
 |--------|-------|
 | 提示词总数 | **6** |
 | 精选 | **3** |
-| 最后更新 | **2026年7月9日星期四 UTC 14:50:29** |
+| 最后更新 | **2026年7月9日星期四 UTC 14:55:16** |
 
 </div>
 
@@ -409,6 +399,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star this repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T14:50:29.541Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T14:55:16.330Z</sub>
 
 </div>

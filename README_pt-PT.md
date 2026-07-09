@@ -1,9 +1,5 @@
 <a href="https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills">
-  <img src="public/images/seedream-5-pro-prompts-hero-en.png" alt="Seedream 5 Pro Prompts and Skills" width="100%" />
-</a>
-
-<a href="https://imaginevid.com/pt-PT">
-  <img src="public/images/imaginevid-prompt-skills-cross-promo.png" alt="ImagineVid Prompt Skills" width="100%" />
+  <img src="public/images/imaginevid-prompt-skills-cross-promo.png" alt="ImagineVid Seedream 5 Pro Prompt Skills" width="100%" />
 </a>
 
 > Explore ImagineVid workflows for turning prompt craft into production-ready visuals.
@@ -26,12 +22,6 @@
 ---
 
 ## View the Curated Collection
-
-<div align="center">
-
-![Cover](public/images/seedream-5-pro-prompts-cover-en.png)
-
-</div>
 
 **[Browse the ImagineVid Seedream 5 Pro prompt collection](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
@@ -114,7 +104,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Total Prompts | **6** |
 | Featured | **3** |
-| Last Updated | **quinta-feira, 9 de julho de 2026 às 14:50:29 UTC** |
+| Last Updated | **quinta-feira, 9 de julho de 2026 às 14:55:16 UTC** |
 
 </div>
 
@@ -409,6 +399,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star this repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T14:50:29.571Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T14:55:16.354Z</sub>
 
 </div>

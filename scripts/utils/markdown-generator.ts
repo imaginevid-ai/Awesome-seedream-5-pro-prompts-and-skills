@@ -41,12 +41,6 @@ const MAX_REGULAR_PROMPTS_TO_DISPLAY = 120;
 const REPO = "imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills";
 const REPO_URL = `https://github.com/${REPO}`;
 
-function getLocalePrefix(locale: string): string {
-  if (locale === "en") return "en-US";
-  if (locale === "zh") return "zh-CN";
-  return locale;
-}
-
 function cleanPromptContent(content: string): string {
   if (!content) return content;
   return content
@@ -76,16 +70,10 @@ export function generateMarkdown(data: SortedPrompts, total: number, locale = "e
 }
 
 function generateHeader(locale: string): string {
-  const localePrefix = getLocalePrefix(locale);
-  const heroImage = "public/images/seedream-5-pro-prompts-hero-en.png";
-  const crossPromoImage = "public/images/imaginevid-prompt-skills-cross-promo.png";
+  const coverImage = "public/images/imaginevid-prompt-skills-cross-promo.png";
 
   return `<a href="${REPO_URL}">
-  <img src="${heroImage}" alt="Seedream 5 Pro Prompts and Skills" width="100%" />
-</a>
-
-<a href="https://imaginevid.com/${localePrefix}">
-  <img src="${crossPromoImage}" alt="ImagineVid Prompt Skills" width="100%" />
+  <img src="${coverImage}" alt="ImagineVid Seedream 5 Pro Prompt Skills" width="100%" />
 </a>
 
 > ${t("relatedPromo", locale)}
@@ -119,15 +107,7 @@ function generateLanguageNavigation(currentLocale: string): string {
 }
 
 function generateCollectionCTA(categories: FilterCategory[], locale: string): string {
-  const coverImage = "public/images/seedream-5-pro-prompts-cover-en.png";
-
   let md = `## ${t("viewInGallery", locale)}
-
-<div align="center">
-
-![Cover](${coverImage})
-
-</div>
 
 **[${t("browseGallery", locale)}](${REPO_URL})**
 

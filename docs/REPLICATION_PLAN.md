@@ -78,8 +78,7 @@ Our repository should keep this same skeleton, renaming only product/brand-speci
 
 ```text
 public/images/
-├── seedream-5-pro-prompts-cover-en.png
-└── seedream-5-pro-prompts-cover-zh.png
+└── imaginevid-prompt-skills-cross-promo.png
 ```
 
 ## Exact Reference Data Shape To Mirror
