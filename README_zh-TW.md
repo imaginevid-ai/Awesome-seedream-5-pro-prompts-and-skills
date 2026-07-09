@@ -1,9 +1,9 @@
 <a href="https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills">
-  <img src="public/images/seedream-5-pro-prompts-hero-zh.svg" alt="Seedream 5 Pro Prompts and Skills" width="100%" />
+  <img src="public/images/seedream-5-pro-prompts-hero-en.png" alt="Seedream 5 Pro Prompts and Skills" width="100%" />
 </a>
 
 <a href="https://imaginevid.com/zh-TW">
-  <img src="public/images/imaginevid-prompt-skills-cross-promo.svg" alt="ImagineVid Prompt Skills" width="100%" />
+  <img src="public/images/imaginevid-prompt-skills-cross-promo.png" alt="ImagineVid Prompt Skills" width="100%" />
 </a>
 
 > 探索 ImagineVid 工作流，把提示词能力变成可复用的视觉生产方法。
@@ -29,7 +29,7 @@
 
 <div align="center">
 
-![Cover](public/images/seedream-5-pro-prompts-cover-zh.svg)
+![Cover](public/images/seedream-5-pro-prompts-cover-en.png)
 
 </div>
 
@@ -49,15 +49,20 @@
 ### 按分类浏览
 
 - **Use Cases**
-  - <a id="cinematic-poster"></a>[Cinematic Poster](#cinematic-poster)
-  - <a id="product-marketing"></a>[Product Marketing](#product-marketing)
+  - <a id="cinematic-film-still"></a>[Cinematic Film Still](#cinematic-film-still)
   - <a id="character-design"></a>[Character Design](#character-design)
+  - <a id="reference-image-edit"></a>[Reference Image Edit](#reference-image-edit)
+  - <a id="travel-visual"></a>[Travel Visual](#travel-visual)
 - **Style**
-  - <a id="editorial-lighting"></a>[Editorial Lighting](#editorial-lighting)
-  - <a id="liquid-glass"></a>[Liquid Glass](#liquid-glass)
+  - <a id="cinematic-realism"></a>[Cinematic Realism](#cinematic-realism)
+  - <a id="anime-splash-art"></a>[Anime Splash Art](#anime-splash-art)
+  - <a id="editorial-fashion"></a>[Editorial Fashion](#editorial-fashion)
+  - <a id="tropical-photography"></a>[Tropical Photography](#tropical-photography)
 - **Subjects**
   - <a id="human-portrait"></a>[Human Portrait](#human-portrait)
-  - <a id="consumer-product"></a>[Consumer Product](#consumer-product)
+  - <a id="astronaut"></a>[Astronaut](#astronaut)
+  - <a id="fashion-creator"></a>[Fashion Creator](#fashion-creator)
+  - <a id="landscape"></a>[Landscape](#landscape)
 
 ---
 
@@ -107,9 +112,9 @@ A cinematic poster for "{argument name="product" default="a glass AI camera"}" w
 
 | 指标 | 数量 |
 |--------|-------|
-| 提示词总数 | **3** |
-| 精选 | **2** |
-| 最后更新 | **2026年7月9日 星期四 下午2:24:42 [UTC]** |
+| 提示词总数 | **6** |
+| 精选 | **3** |
+| 最后更新 | **2026年7月9日 星期四 下午2:48:05 [UTC]** |
 
 </div>
 
@@ -119,20 +124,19 @@ A cinematic poster for "{argument name="product" default="a glass AI camera"}" w
 
 > 按可复用结构、视觉清晰度和创意覆盖度精选
 
-### No. 1: Cinematic launch poster with modular prompt arguments
+### No. 1: Hard sci-fi airlock film still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
-![Raycast](https://img.shields.io/badge/Raycast-Friendly-purple)
 
 #### 描述
 
-A reusable poster prompt for launching a product, model, or creative campaign with cinematic lighting and replaceable subject, palette, and tagline arguments.
+A high-negative-space cinematic still pattern, normalized from a public X prompt, for testing scale, isolation, black voids, and hard solar lighting.
 
 #### 提示词
 
 ```
-Create a cinematic launch poster for {argument name="subject" default="Seedream 5 Pro creative engine"}. Use {argument name="palette" default="deep emerald, graphite black, warm silver"} as the dominant palette. The subject appears as a premium hero object in the center, surrounded by subtle interface panels, soft volumetric light, and high-end editorial shadows. Add a concise headline: {argument name="tagline" default="Prompt craft, rendered with precision"}. Aspect ratio 16:9, ultra-clean composition, no clutter, premium campaign finish.
+Create a hard sci-fi movie still titled AIRLOCK. Frame one white EVA-suit astronaut drifting far from a tiny space station, with a loose tether trailing behind and the body angled as if slowly rotating. Let near-total black space dominate the composition, with no stars or nebulae. Use one harsh solar key light that burns the lit side of the suit white-silver while the opposite side drops into deep shadow. Keep the palette cold and desaturated, add subtle 35mm film grain, and compose in an anamorphic 2.39:1 frame with overwhelming negative space and realistic photographic detail.
 ```
 
 #### 生成图片
@@ -140,33 +144,33 @@ Create a cinematic launch poster for {argument name="subject" default="Seedream 
 ##### Image 1
 
 <div align="center">
-<img src="public/images/examples/cinematic-launch-poster.svg" width="700" alt="Cinematic launch poster with modular prompt arguments - Image 1">
+<img src="https://pbs.twimg.com/media/HMx2ZeoWMAAE0Dg.jpg" width="700" alt="Hard sci-fi airlock film still - Image 1">
 </div>
 
 #### 详情
 
-- **作者:** [ImagineVid Lab](https://imaginevid.com)
-- **来源:** [来源](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)
+- **作者:** [@karim_yourself](https://x.com/karim_yourself)
+- **来源:** [来源](https://x.com/karim_yourself/status/2075165434827989207)
 - **发布时间:** 2026年7月9日
 - **Languages:** en
 
-**[使用这个提示词](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[使用这个提示词](https://x.com/karim_yourself/status/2075165434827989207)**
 
 ---
 
-### No. 2: Liquid glass product bento grid
+### No. 2: 1970s Dutch romantic drama camera memory
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Featured](https://img.shields.io/badge/Featured-gold-gold)
 
 #### 描述
 
-A structured product-marketing prompt that creates a premium bento grid with a hero product, benefits, metrics, and practical notes.
+A cinematic language pattern, normalized from a public X prompt, that turns mood, lens behavior, and exposure notes into coherent film stills.
 
 #### 提示词
 
 ```
-Design a premium liquid-glass bento grid for [product name]. Use a 16:9 layout with one large hero product card and seven supporting cards. The hero card shows the product as a real premium photograph. Supporting cards include: core benefits, how to use, key metrics, who it is for, important notes, quick reference, and did-you-know facts. Use translucent glass panels, thin borders, soft caustic reflections, product-derived accent colors, and crisp readable typography.
+Generate a 1970s European romantic-drama still set inside a tense private moment. Use handheld framing that feels reactive and imperfect: close shots when the emotion tightens, wider distance when the scene fractures. Mix harsh daylight, blown windows, uneven room exposure, and very little artificial fill. Start with warm intimate golds but let the palette cool and desaturate as the mood becomes unstable. Preserve tactile skin, hair, and fabric texture, soft film grain, imperfect glass, and a documentary sense of emotional volatility.
 ```
 
 #### 生成图片
@@ -174,17 +178,63 @@ Design a premium liquid-glass bento grid for [product name]. Use a 16:9 layout w
 ##### Image 1
 
 <div align="center">
-<img src="public/images/examples/liquid-glass-product-bento.svg" width="700" alt="Liquid glass product bento grid - Image 1">
+<img src="https://pbs.twimg.com/media/HMyPaOLWkAAiG-n.jpg" width="700" alt="1970s Dutch romantic drama camera memory - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyPaOQXAAEHKtN.jpg" width="700" alt="1970s Dutch romantic drama camera memory - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyPaOIXcAAFl27.jpg" width="700" alt="1970s Dutch romantic drama camera memory - Image 3">
 </div>
 
 #### 详情
 
-- **作者:** [ImagineVid Lab](https://imaginevid.com)
-- **来源:** [来源](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)
+- **作者:** [@UnityEagle](https://x.com/UnityEagle)
+- **来源:** [来源](https://x.com/UnityEagle/status/2075191214601572606)
 - **发布时间:** 2026年7月9日
 - **Languages:** en
 
-**[使用这个提示词](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[使用这个提示词](https://x.com/UnityEagle/status/2075191214601572606)**
+
+---
+
+### No. 3: Anime kunoichi portrait with fine identity details
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Featured](https://img.shields.io/badge/Featured-gold-gold)
+
+#### 描述
+
+A Seedream 5 Pro portrait pattern, normalized from public ALT text, focused on facial details, pose, costume, and clean splash-art style.
+
+#### 提示词
+
+```
+Create a half-body modern anime splash-art portrait of a young woman in a black kunoichi-inspired outfit without a headband. Give her short black hair, dark eyes, a confident narrowed-eye expression, subtle red eyeliner, and a small beauty mark under the right eye. Pose one hand on the hip and the other making a victory sign. Use a clean white background, crisp illustration lines, polished character-art finish, and enough facial detail to test whether the model preserves small identity cues.
+```
+
+#### 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMuYjvOWUAArwPA.jpg" width="700" alt="Anime kunoichi portrait with fine identity details - Image 1">
+</div>
+
+#### 详情
+
+- **作者:** [@characternexus](https://x.com/characternexus)
+- **来源:** [来源](https://x.com/characternexus/status/2074920654751592583)
+- **发布时间:** 2026年7月9日
+- **Languages:** en
+
+**[使用这个提示词](https://x.com/characternexus/status/2074920654751592583)**
 
 ---
 
@@ -192,19 +242,18 @@ Design a premium liquid-glass bento grid for [product name]. Use a 16:9 layout w
 
 > 按发布时间和精选顺序排列
 
-### No. 1: Character Design - Reference portrait to editorial character sheet
+### No. 1: Character Design - Avant-garde streetwear creator sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
 #### 描述
 
-A reference-image prompt for preserving facial identity while producing a clean character sheet with wardrobe, expression, and lighting variations.
+A character design sheet pattern, normalized from a public X comparison post, useful for full-body turnaround, techwear, and studio render tests.
 
 #### 提示词
 
 ```
-Use the uploaded portrait as the identity reference. Preserve the person's face shape, eye spacing, nose bridge, mouth shape, and natural skin texture. Create an editorial character sheet with four panels: neutral headshot, three-quarter cinematic portrait, full-body wardrobe concept, and close-up expression study. Use soft studio light, clean background, restrained color palette, and realistic proportions. No beauty-filter plastic skin, no exaggerated anatomy, no readable brand logos.
+Design a full-body character sheet for a male creator in avant-garde streetwear. Build the look around an oversized asymmetrical matte-black tech jacket, dark turtleneck, tactical cargo trousers with hardware straps, chunky futuristic shoes, geometric tinted smart glasses, and a small neon-green piping accent. Place the figure on a minimal ash-grey studio background. Use high-contrast cinematic lighting, sleek editorial styling, clean turnaround readability, ultra-detailed materials, and a 16:9 composition.
 ```
 
 #### 生成图片
@@ -212,17 +261,108 @@ Use the uploaded portrait as the identity reference. Preserve the person's face 
 ##### Image 1
 
 <div align="center">
-<img src="public/images/examples/editorial-character-sheet.svg" width="600" alt="Character Design - Reference portrait to editorial character sheet - Image 1">
+<img src="https://pbs.twimg.com/media/HMyPTNdXwAAzU_j.jpg" width="600" alt="Character Design - Avant-garde streetwear creator sheet - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyPTNmW4AEDnk0.jpg" width="600" alt="Character Design - Avant-garde streetwear creator sheet - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyPTN6XoAA1Sym.jpg" width="600" alt="Character Design - Avant-garde streetwear creator sheet - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyPKnuWgAALkzp.jpg" width="600" alt="Character Design - Avant-garde streetwear creator sheet - Image 4">
 </div>
 
 #### 详情
 
-- **作者:** [ImagineVid Lab](https://imaginevid.com)
-- **来源:** [来源](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)
+- **作者:** [@Boluwatifeolad7](https://x.com/Boluwatifeolad7)
+- **来源:** [来源](https://x.com/Boluwatifeolad7/status/2075191098184442310)
 - **发布时间:** 2026年7月9日
 - **Languages:** en
 
-**[使用这个提示词](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+**[使用这个提示词](https://x.com/Boluwatifeolad7/status/2075191098184442310)**
+
+---
+
+### No. 2: Reference Image Edit - Y2K reference selfie coffee-shop edit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 描述
+
+A reference-image editing pattern, normalized from a public X prompt, that keeps facial identity and makeup while changing styling and setting.
+
+#### 提示词
+
+```
+Use the uploaded selfie only as the facial-identity and makeup reference. Keep face geometry recognizable, but replace the hairstyle with glossy side-parted blonde hair. Restyle the subject in a pale blue denim tube top, red bead necklace, and gold hoop earrings at an outdoor coffee-shop table on a bright New York summer morning around the year 2000. Shoot from a low phone-camera angle pointed toward the face, with one arm extending toward the edge of frame and the other near a half-empty coffee cup. Make the foreground candid, detailed, and lightly smiling, with blue sky and distant city architecture in the background.
+```
+
+#### 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMusDG6XQAAVvcV.jpg" width="600" alt="Reference Image Edit - Y2K reference selfie coffee-shop edit - Image 1">
+</div>
+
+#### 详情
+
+- **作者:** [@asheem01](https://x.com/asheem01)
+- **来源:** [来源](https://x.com/asheem01/status/2074941260863811644)
+- **发布时间:** 2026年7月9日
+- **Languages:** en
+
+**[使用这个提示词](https://x.com/asheem01/status/2074941260863811644)**
+
+---
+
+### No. 3: Travel Visual - Maldives tropical paradise visual
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 描述
+
+A compact landscape pattern, normalized from public ALT text in a Seedream 5.0 Pro comparison post, focused on clean tropical travel imagery.
+
+#### 提示词
+
+```
+Create a tranquil Maldives travel visual with clear turquoise water, bright white sand, shallow coral reefs, and a calm exotic-resort atmosphere. Keep the scene clean, luminous, and inviting, with high detail in the water surface, reef color, beach texture, and distant horizon. Use premium travel-photography polish and avoid cluttered foreground objects.
+```
+
+#### 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMu8AX3WMAAquvx.jpg" width="600" alt="Travel Visual - Maldives tropical paradise visual - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMu8AkwWMAAUGz4.jpg" width="600" alt="Travel Visual - Maldives tropical paradise visual - Image 2">
+</div>
+
+#### 详情
+
+- **作者:** [@Bic_Revelation](https://x.com/Bic_Revelation)
+- **来源:** [来源](https://x.com/Bic_Revelation/status/2074959714366922857)
+- **发布时间:** 2026年7月9日
+- **Languages:** en
+
+**[使用这个提示词](https://x.com/Bic_Revelation/status/2074959714366922857)**
 
 ---
 
@@ -269,6 +409,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Submit a Prompt](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star this repo](https://github.com/Nsmo-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T14:24:42.069Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T14:48:05.587Z</sub>
 
 </div>

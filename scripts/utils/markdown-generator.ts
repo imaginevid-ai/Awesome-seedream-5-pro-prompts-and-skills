@@ -77,8 +77,8 @@ export function generateMarkdown(data: SortedPrompts, total: number, locale = "e
 
 function generateHeader(locale: string): string {
   const localePrefix = getLocalePrefix(locale);
-  const heroImage = `public/images/seedream-5-pro-prompts-hero-${locale === "zh" || locale === "zh-TW" ? "zh" : "en"}.svg`;
-  const crossPromoImage = "public/images/imaginevid-prompt-skills-cross-promo.svg";
+  const heroImage = "public/images/seedream-5-pro-prompts-hero-en.png";
+  const crossPromoImage = "public/images/imaginevid-prompt-skills-cross-promo.png";
 
   return `<a href="${REPO_URL}">
   <img src="${heroImage}" alt="Seedream 5 Pro Prompts and Skills" width="100%" />
@@ -119,8 +119,7 @@ function generateLanguageNavigation(currentLocale: string): string {
 }
 
 function generateCollectionCTA(categories: FilterCategory[], locale: string): string {
-  const imageLang = locale === "zh" || locale === "zh-TW" ? "zh" : "en";
-  const coverImage = `public/images/seedream-5-pro-prompts-cover-${imageLang}.svg`;
+  const coverImage = "public/images/seedream-5-pro-prompts-cover-en.png";
 
   let md = `## ${t("viewInGallery", locale)}
 

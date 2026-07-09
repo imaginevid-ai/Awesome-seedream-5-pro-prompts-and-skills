@@ -14,10 +14,10 @@
   {
     "id": 11,
     "title": {
-      "en": "Cinematic Poster",
-      "zh": "电影感海报"
+      "en": "Cinematic Film Still",
+      "zh": "电影剧照"
     },
-    "slug": "cinematic-poster",
+    "slug": "cinematic-film-still",
     "parentId": 1,
     "parentSlug": "use-cases",
     "featured": true,
@@ -26,10 +26,10 @@
   {
     "id": 12,
     "title": {
-      "en": "Product Marketing",
-      "zh": "产品营销"
+      "en": "Character Design",
+      "zh": "角色设计"
     },
-    "slug": "product-marketing",
+    "slug": "character-design",
     "parentId": 1,
     "parentSlug": "use-cases",
     "featured": true,
@@ -38,14 +38,26 @@
   {
     "id": 13,
     "title": {
-      "en": "Character Design",
-      "zh": "角色设计"
+      "en": "Reference Image Edit",
+      "zh": "参考图编辑"
     },
-    "slug": "character-design",
+    "slug": "reference-image-edit",
     "parentId": 1,
     "parentSlug": "use-cases",
     "featured": true,
     "sort": 13
+  },
+  {
+    "id": 14,
+    "title": {
+      "en": "Travel Visual",
+      "zh": "旅行视觉"
+    },
+    "slug": "travel-visual",
+    "parentId": 1,
+    "parentSlug": "use-cases",
+    "featured": true,
+    "sort": 14
   },
   {
     "id": 2,
@@ -62,10 +74,10 @@
   {
     "id": 21,
     "title": {
-      "en": "Editorial Lighting",
-      "zh": "编辑级灯光"
+      "en": "Cinematic Realism",
+      "zh": "电影现实主义"
     },
-    "slug": "editorial-lighting",
+    "slug": "cinematic-realism",
     "parentId": 2,
     "parentSlug": "style",
     "featured": true,
@@ -74,14 +86,38 @@
   {
     "id": 22,
     "title": {
-      "en": "Liquid Glass",
-      "zh": "液态玻璃"
+      "en": "Anime Splash Art",
+      "zh": "动漫宣传插画"
     },
-    "slug": "liquid-glass",
+    "slug": "anime-splash-art",
     "parentId": 2,
     "parentSlug": "style",
     "featured": true,
     "sort": 22
+  },
+  {
+    "id": 23,
+    "title": {
+      "en": "Editorial Fashion",
+      "zh": "编辑级时装"
+    },
+    "slug": "editorial-fashion",
+    "parentId": 2,
+    "parentSlug": "style",
+    "featured": true,
+    "sort": 23
+  },
+  {
+    "id": 24,
+    "title": {
+      "en": "Tropical Photography",
+      "zh": "热带摄影"
+    },
+    "slug": "tropical-photography",
+    "parentId": 2,
+    "parentSlug": "style",
+    "featured": true,
+    "sort": 24
   },
   {
     "id": 3,
@@ -110,13 +146,37 @@
   {
     "id": 32,
     "title": {
-      "en": "Consumer Product",
-      "zh": "消费产品"
+      "en": "Astronaut",
+      "zh": "宇航员"
     },
-    "slug": "consumer-product",
+    "slug": "astronaut",
     "parentId": 3,
     "parentSlug": "subjects",
     "featured": true,
     "sort": 32
+  },
+  {
+    "id": 33,
+    "title": {
+      "en": "Fashion Creator",
+      "zh": "时装创作者"
+    },
+    "slug": "fashion-creator",
+    "parentId": 3,
+    "parentSlug": "subjects",
+    "featured": true,
+    "sort": 33
+  },
+  {
+    "id": 34,
+    "title": {
+      "en": "Landscape",
+      "zh": "风景"
+    },
+    "slug": "landscape",
+    "parentId": 3,
+    "parentSlug": "subjects",
+    "featured": true,
+    "sort": 34
   }
 ]
