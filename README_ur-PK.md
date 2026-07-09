@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | کل پرامپٹس | **113** |
 | نمایاں | **10** |
-| آخری اپ ڈیٹ | **جمعرات، 9 جولائی، 2026 کو 11:43:15 PM UTC** |
+| آخری اپ ڈیٹ | **جمعرات، 9 جولائی، 2026 کو 11:45:28 PM UTC** |
 
 </div>
 
@@ -212,7 +212,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **مصنف:** [@characternexus](https://x.com/characternexus)
 - **ماخذ:** [ماخذ](https://x.com/characternexus/status/2074920654751592583)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -556,7 +556,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **مصنف:** [@asheem01](https://x.com/asheem01)
 - **ماخذ:** [ماخذ](https://x.com/asheem01/status/2074941260863811644)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -593,7 +593,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **مصنف:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **ماخذ:** [ماخذ](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -701,7 +701,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **مصنف:** [@krea_ai](https://x.com/krea_ai)
 - **ماخذ:** [ماخذ](https://x.com/krea_ai/status/2074891481832456638)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -845,7 +845,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **مصنف:** [@runwayml](https://x.com/runwayml)
 - **ماخذ:** [ماخذ](https://x.com/runwayml/status/2074982268175630814)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -882,7 +882,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **مصنف:** [@filodyprincess](https://x.com/filodyprincess)
 - **ماخذ:** [ماخذ](https://x.com/filodyprincess/status/2074916756452483224)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -958,7 +958,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **مصنف:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **ماخذ:** [ماخذ](https://x.com/techxsarfraj/status/2074893823029998052)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -994,7 +994,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **مصنف:** [@asheem01](https://x.com/asheem01)
 - **ماخذ:** [ماخذ](https://x.com/asheem01/status/2075324671214403879)
-- **شائع شدہ:** 10 جولائی، 2026
+- **شائع شدہ:** 9 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -1205,7 +1205,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **مصنف:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **ماخذ:** [ماخذ](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -1511,7 +1511,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **مصنف:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **ماخذ:** [ماخذ](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -1546,7 +1546,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **مصنف:** [@JameFalken](https://x.com/JameFalken)
 - **ماخذ:** [ماخذ](https://x.com/JameFalken/status/2074959430374867438)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -1653,7 +1653,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **مصنف:** [@westkast](https://x.com/westkast)
 - **ماخذ:** [ماخذ](https://x.com/westkast/status/2075250137698324850)
-- **شائع شدہ:** 10 جولائی، 2026
+- **شائع شدہ:** 9 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -1931,7 +1931,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **مصنف:** [@al_tools43377](https://x.com/al_tools43377)
 - **ماخذ:** [ماخذ](https://x.com/al_tools43377/status/2074971603054502365)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -2026,7 +2026,7 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 - **مصنف:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **ماخذ:** [ماخذ](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -3191,7 +3191,7 @@ world's landmarks, melting like wax
 
 - **مصنف:** [@magnific](https://x.com/magnific)
 - **ماخذ:** [ماخذ](https://x.com/magnific/status/2074918700709523881)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -3226,7 +3226,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **مصنف:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **ماخذ:** [ماخذ](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -3576,7 +3576,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **مصنف:** [@Zubnet](https://x.com/Zubnet)
 - **ماخذ:** [ماخذ](https://x.com/Zubnet/status/2075295691652415799)
-- **شائع شدہ:** 10 جولائی، 2026
+- **شائع شدہ:** 9 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -3625,7 +3625,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **مصنف:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **ماخذ:** [ماخذ](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **شائع شدہ:** 10 جولائی، 2026
+- **شائع شدہ:** 9 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -3708,7 +3708,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **مصنف:** [@ashen_one](https://x.com/ashen_one)
 - **ماخذ:** [ماخذ](https://x.com/ashen_one/status/2074915677815886071)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -3845,7 +3845,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 - **مصنف:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **ماخذ:** [ماخذ](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -3922,7 +3922,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **مصنف:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **ماخذ:** [ماخذ](https://x.com/Chain_Loader/status/2075251821342503352)
-- **شائع شدہ:** 10 جولائی، 2026
+- **شائع شدہ:** 9 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -4231,7 +4231,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **مصنف:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **ماخذ:** [ماخذ](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -4267,7 +4267,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **مصنف:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **ماخذ:** [ماخذ](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -4314,7 +4314,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **مصنف:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **ماخذ:** [ماخذ](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** en
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -4350,7 +4350,7 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 - **مصنف:** [@liyue_ai](https://x.com/liyue_ai)
 - **ماخذ:** [ماخذ](https://x.com/liyue_ai/status/2074890690686005590)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** zh
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -4385,7 +4385,7 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 - **مصنف:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **ماخذ:** [ماخذ](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **شائع شدہ:** 9 جولائی، 2026
+- **شائع شدہ:** 8 جولائی، 2026
 - **زبانیں:** ja-JP
 
 **[یہ پرامپٹ استعمال کریں](https://imaginevid.io/seedream-5-pro)**
@@ -4587,6 +4587,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[پرامپٹ جمع کریں](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[اس ریپو کو Star کریں](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T23:43:15.896Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T23:45:28.153Z</sub>
 
 </div>

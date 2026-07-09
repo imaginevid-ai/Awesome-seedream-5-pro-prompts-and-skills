@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Jumlah Prompt | **113** |
 | Pilihan | **10** |
-| Kemas Kini Terakhir | **Khamis, 9 Julai 2026 pada 11:43:15 PTG UTC** |
+| Kemas Kini Terakhir | **Khamis, 9 Julai 2026 pada 11:45:28 PTG UTC** |
 
 </div>
 
@@ -212,7 +212,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Pengarang:** [@characternexus](https://x.com/characternexus)
 - **Sumber:** [Sumber](https://x.com/characternexus/status/2074920654751592583)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -556,7 +556,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Pengarang:** [@asheem01](https://x.com/asheem01)
 - **Sumber:** [Sumber](https://x.com/asheem01/status/2074941260863811644)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -593,7 +593,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Pengarang:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Sumber:** [Sumber](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -701,7 +701,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Pengarang:** [@krea_ai](https://x.com/krea_ai)
 - **Sumber:** [Sumber](https://x.com/krea_ai/status/2074891481832456638)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -845,7 +845,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Pengarang:** [@runwayml](https://x.com/runwayml)
 - **Sumber:** [Sumber](https://x.com/runwayml/status/2074982268175630814)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -882,7 +882,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Pengarang:** [@filodyprincess](https://x.com/filodyprincess)
 - **Sumber:** [Sumber](https://x.com/filodyprincess/status/2074916756452483224)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -958,7 +958,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Pengarang:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Sumber:** [Sumber](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -994,7 +994,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **Pengarang:** [@asheem01](https://x.com/asheem01)
 - **Sumber:** [Sumber](https://x.com/asheem01/status/2075324671214403879)
-- **Diterbitkan:** 10 Julai 2026
+- **Diterbitkan:** 9 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -1205,7 +1205,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Pengarang:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Sumber:** [Sumber](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -1511,7 +1511,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Pengarang:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Sumber:** [Sumber](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -1546,7 +1546,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Pengarang:** [@JameFalken](https://x.com/JameFalken)
 - **Sumber:** [Sumber](https://x.com/JameFalken/status/2074959430374867438)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -1653,7 +1653,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Pengarang:** [@westkast](https://x.com/westkast)
 - **Sumber:** [Sumber](https://x.com/westkast/status/2075250137698324850)
-- **Diterbitkan:** 10 Julai 2026
+- **Diterbitkan:** 9 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -1931,7 +1931,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Pengarang:** [@al_tools43377](https://x.com/al_tools43377)
 - **Sumber:** [Sumber](https://x.com/al_tools43377/status/2074971603054502365)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -2026,7 +2026,7 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 - **Pengarang:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Sumber:** [Sumber](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -3191,7 +3191,7 @@ world's landmarks, melting like wax
 
 - **Pengarang:** [@magnific](https://x.com/magnific)
 - **Sumber:** [Sumber](https://x.com/magnific/status/2074918700709523881)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -3226,7 +3226,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **Pengarang:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **Sumber:** [Sumber](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -3576,7 +3576,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **Pengarang:** [@Zubnet](https://x.com/Zubnet)
 - **Sumber:** [Sumber](https://x.com/Zubnet/status/2075295691652415799)
-- **Diterbitkan:** 10 Julai 2026
+- **Diterbitkan:** 9 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -3625,7 +3625,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **Pengarang:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **Sumber:** [Sumber](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **Diterbitkan:** 10 Julai 2026
+- **Diterbitkan:** 9 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -3708,7 +3708,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **Pengarang:** [@ashen_one](https://x.com/ashen_one)
 - **Sumber:** [Sumber](https://x.com/ashen_one/status/2074915677815886071)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -3845,7 +3845,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 - **Pengarang:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Sumber:** [Sumber](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -3922,7 +3922,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Pengarang:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Sumber:** [Sumber](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Diterbitkan:** 10 Julai 2026
+- **Diterbitkan:** 9 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -4231,7 +4231,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **Pengarang:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Sumber:** [Sumber](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -4267,7 +4267,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **Pengarang:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Sumber:** [Sumber](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -4314,7 +4314,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **Pengarang:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **Sumber:** [Sumber](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** en
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -4350,7 +4350,7 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 - **Pengarang:** [@liyue_ai](https://x.com/liyue_ai)
 - **Sumber:** [Sumber](https://x.com/liyue_ai/status/2074890690686005590)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** zh
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -4385,7 +4385,7 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 - **Pengarang:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **Sumber:** [Sumber](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **Diterbitkan:** 9 Julai 2026
+- **Diterbitkan:** 8 Julai 2026
 - **Bahasa:** ja-JP
 
 **[Gunakan prompt ini](https://imaginevid.io/seedream-5-pro)**
@@ -4587,6 +4587,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Hantar Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star repo ini](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T23:43:15.927Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T23:45:28.172Z</sub>
 
 </div>
