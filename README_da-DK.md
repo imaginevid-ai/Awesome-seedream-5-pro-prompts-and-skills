@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Prompts i alt | **88** |
 | Udvalgt | **10** |
-| Sidst opdateret | **torsdag den 9. juli 2026 kl. 17.50.54 UTC** |
+| Sidst opdateret | **torsdag den 9. juli 2026 kl. 21.18.23 UTC** |
 
 </div>
 
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Indsend prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Giv repoet en Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T17:50:54.477Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T21:18:23.441Z</sub>
 
 </div>

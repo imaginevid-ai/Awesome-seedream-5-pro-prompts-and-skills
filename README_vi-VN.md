@@ -133,7 +133,7 @@ Xem các nguồn và ví dụ trong kho này.
 |--------|-------|
 | Tổng số prompt | **88** |
 | Nổi bật | **10** |
-| Cập nhật lần cuối | **lúc 17:50:54 UTC Thứ Năm, 9 tháng 7, 2026** |
+| Cập nhật lần cuối | **lúc 21:18:23 UTC Thứ Năm, 9 tháng 7, 2026** |
 
 </div>
 
@@ -3495,6 +3495,6 @@ Cách đóng góp
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Lịch sử star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Cập nhật lần cuối: 2026-07-09T17:50:54.196Z</sub>
+<sub>Cập nhật lần cuối: 2026-07-09T21:18:23.259Z</sub>
 
 </div>

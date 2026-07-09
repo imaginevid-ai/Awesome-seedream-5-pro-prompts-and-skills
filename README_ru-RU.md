@@ -133,7 +133,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Всего промптов | **88** |
 | Избранное | **10** |
-| Обновлено | **четверг, 9 июля 2026 г. в 17:50:54 UTC** |
+| Обновлено | **четверг, 9 июля 2026 г. в 21:18:23 UTC** |
 
 </div>
 
@@ -3495,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Отправить промпт](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставить Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Этот README создан автоматически. Последнее обновление: 2026-07-09T17:50:54.431Z</sub>
+<sub>Этот README создан автоматически. Последнее обновление: 2026-07-09T21:18:23.405Z</sub>
 
 </div>
