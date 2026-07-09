@@ -1,0 +1,19 @@
+{
+  "name": "awesome-seedream-5-pro-prompts-and-skills",
+  "version": "1.0.0",
+  "description": "Curated collection of Seedream 5 Pro prompts and skills by ImagineVid",
+  "type": "module",
+  "scripts": {
+    "generate": "tsx scripts/generate-readme.ts",
+    "sync": "tsx scripts/sync-approved-to-data.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@octokit/rest": "^20.0.2",
+    "@types/node": "^20.10.0",
+    "dotenv": "^17.2.3",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  },
+  "packageManager": "pnpm@9.15.9"
+}

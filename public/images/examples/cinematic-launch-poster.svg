@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-label="Cinematic launch poster example">
+  <rect width="1200" height="675" fill="#0a0f12"/>
+  <circle cx="600" cy="285" r="160" fill="#2be07a" opacity=".18"/>
+  <rect x="420" y="175" width="360" height="250" rx="34" fill="#162228" stroke="#8dffc0" stroke-opacity=".42"/>
+  <text x="176" y="535" fill="#f2fff6" font-family="Inter, Arial, sans-serif" font-size="54" font-weight="800">Prompt craft, rendered with precision</text>
+</svg>

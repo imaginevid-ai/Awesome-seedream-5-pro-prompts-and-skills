@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "model": "seedream-5-pro",
+    "title": {
+      "en": "Cinematic launch poster with modular prompt arguments",
+      "zh": "带动态参数的电影感发布海报"
+    },
+    "description": {
+      "en": "A reusable poster prompt for launching a product, model, or creative campaign with cinematic lighting and replaceable subject, palette, and tagline arguments.",
+      "zh": "一个可复用的发布海报提示词，适合产品、模型或创意活动，支持替换主体、色彩和标语。"
+    },
+    "content": {
+      "en": "Create a cinematic launch poster for {argument name=\"subject\" default=\"Seedream 5 Pro creative engine\"}. Use {argument name=\"palette\" default=\"deep emerald, graphite black, warm silver\"} as the dominant palette. The subject appears as a premium hero object in the center, surrounded by subtle interface panels, soft volumetric light, and high-end editorial shadows. Add a concise headline: {argument name=\"tagline\" default=\"Prompt craft, rendered with precision\"}. Aspect ratio 16:9, ultra-clean composition, no clutter, premium campaign finish.",
+      "zh": "为 {argument name=\"subject\" default=\"Seedream 5 Pro 创意引擎\"} 生成一张电影感发布海报。主色使用 {argument name=\"palette\" default=\"深祖母绿、石墨黑、暖银色\"}。主体位于画面中央，呈现高级英雄物体质感，周围有克制的界面面板、柔和体积光和编辑级阴影。加入简短标题：{argument name=\"tagline\" default=\"让提示词工艺被精准渲染\"}。16:9，构图极简，高级商业视觉。"
+    },
+    "sourceLink": "https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills",
+    "sourcePublishedAt": "2026-07-09T00:00:00.000Z",
+    "sourceMedia": [
+      "public/images/examples/cinematic-launch-poster.svg"
+    ],
+    "author": {
+      "name": "ImagineVid Lab",
+      "link": "https://imaginevid.com"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 1,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "local_seed": true
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Poster",
+          "slug": "cinematic-poster"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Editorial Lighting",
+          "slug": "editorial-lighting"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 32,
+          "title": "Consumer Product",
+          "slug": "consumer-product"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "model": "seedream-5-pro",
+    "title": {
+      "en": "Liquid glass product bento grid",
+      "zh": "液态玻璃产品 Bento 信息图"
+    },
+    "description": {
+      "en": "A structured product-marketing prompt that creates a premium bento grid with a hero product, benefits, metrics, and practical notes.",
+      "zh": "结构化产品营销提示词，用 Bento 网格呈现主视觉、核心卖点、关键指标和使用提示。"
+    },
+    "content": {
+      "en": "Design a premium liquid-glass bento grid for [product name]. Use a 16:9 layout with one large hero product card and seven supporting cards. The hero card shows the product as a real premium photograph. Supporting cards include: core benefits, how to use, key metrics, who it is for, important notes, quick reference, and did-you-know facts. Use translucent glass panels, thin borders, soft caustic reflections, product-derived accent colors, and crisp readable typography.",
+      "zh": "为 [产品名称] 设计一张高级液态玻璃 Bento 信息图。16:9 横图，一个大型主产品卡片加七个辅助卡片。主卡片展示真实高级产品摄影。辅助卡片包括：核心卖点、使用方法、关键指标、适合人群、重要提示、快速参考、冷知识。使用半透明玻璃面板、细边框、柔和焦散反光、来自产品的强调色和清晰可读字体。"
+    },
+    "sourceLink": "https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills",
+    "sourcePublishedAt": "2026-07-09T00:00:00.000Z",
+    "sourceMedia": [
+      "public/images/examples/liquid-glass-product-bento.svg"
+    ],
+    "author": {
+      "name": "ImagineVid Lab",
+      "link": "https://imaginevid.com"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 2,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "local_seed": true
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Product Marketing",
+          "slug": "product-marketing"
+        }
+      ],
+      "styles": [
+        {
+          "id": 22,
+          "title": "Liquid Glass",
+          "slug": "liquid-glass"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 32,
+          "title": "Consumer Product",
+          "slug": "consumer-product"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "model": "seedream-5-pro",
+    "title": {
+      "en": "Reference portrait to editorial character sheet",
+      "zh": "参考肖像转编辑级角色设定图"
+    },
+    "description": {
+      "en": "A reference-image prompt for preserving facial identity while producing a clean character sheet with wardrobe, expression, and lighting variations.",
+      "zh": "需要参考图的肖像提示词，在保持身份一致的同时生成服装、表情和灯光变化的角色设定图。"
+    },
+    "content": {
+      "en": "Use the uploaded portrait as the identity reference. Preserve the person's face shape, eye spacing, nose bridge, mouth shape, and natural skin texture. Create an editorial character sheet with four panels: neutral headshot, three-quarter cinematic portrait, full-body wardrobe concept, and close-up expression study. Use soft studio light, clean background, restrained color palette, and realistic proportions. No beauty-filter plastic skin, no exaggerated anatomy, no readable brand logos.",
+      "zh": "使用上传肖像作为身份参考。保持人物脸型、眼距、鼻梁、嘴型和自然皮肤质感。生成四格编辑级角色设定图：正面头像、三分之四电影感肖像、全身服装概念、表情近景研究。使用柔和棚拍灯光、干净背景、克制配色和真实比例。不要塑料感磨皮，不要夸张人体，不要可读品牌标识。"
+    },
+    "sourceLink": "https://github.com/Nsmo-ai/-awesome-seedream-5-pro-prompts-and-skills",
+    "sourcePublishedAt": "2026-07-09T00:00:00.000Z",
+    "sourceMedia": [
+      "public/images/examples/editorial-character-sheet.svg"
+    ],
+    "author": {
+      "name": "ImagineVid Lab",
+      "link": "https://imaginevid.com"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 3,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "local_seed": true
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Editorial Lighting",
+          "slug": "editorial-lighting"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  }
+]
