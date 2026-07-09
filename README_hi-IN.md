@@ -99,7 +99,7 @@ ImagineVid workflows देखें, जो prompt craft को production-read
 |--------|-------|
 | कुल prompts | **113** |
 | Featured | **10** |
-| अंतिम अपडेट | **गुरुवार, 9 जुलाई 2026 को 11:38:37 pm UTC बजे** |
+| अंतिम अपडेट | **गुरुवार, 9 जुलाई 2026 को 11:40:04 pm UTC बजे** |
 
 </div>
 
@@ -4587,6 +4587,6 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star history](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>अंतिम अपडेट: 2026-07-09T23:38:37.234Z</sub>
+<sub>अंतिम अपडेट: 2026-07-09T23:40:04.676Z</sub>
 
 </div>

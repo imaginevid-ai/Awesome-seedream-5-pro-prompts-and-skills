@@ -99,7 +99,7 @@ Consulta fonti ed esempi raccolti in questo repository.
 |--------|-------|
 | Prompt totali | **113** |
 | In evidenza | **10** |
-| Ultimo aggiornamento | **giovedì 9 luglio 2026 alle ore 23:38:37 UTC** |
+| Ultimo aggiornamento | **giovedì 9 luglio 2026 alle ore 23:40:04 UTC** |
 
 </div>
 
@@ -4587,6 +4587,6 @@ Come contribuire
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Storico star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Ultimo aggiornamento: 2026-07-09T23:38:37.341Z</sub>
+<sub>Ultimo aggiornamento: 2026-07-09T23:40:04.740Z</sub>
 
 </div>

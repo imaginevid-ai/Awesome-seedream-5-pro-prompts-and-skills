@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Łącznie promptów | **113** |
 | Polecane | **10** |
-| Ostatnia aktualizacja | **czwartek, 9 lipca 2026 23:38:37 UTC** |
+| Ostatnia aktualizacja | **czwartek, 9 lipca 2026 23:40:04 UTC** |
 
 </div>
 
@@ -4587,6 +4587,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Zgłoś prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Daj Star repozytorium](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T23:38:37.520Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T23:40:04.871Z</sub>
 
 </div>
