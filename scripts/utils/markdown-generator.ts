@@ -35,6 +35,36 @@ export const SUPPORTED_LANGUAGES: LanguageConfig[] = [
   { code: "pt-BR", name: "Português (Brasil)", readmeFileName: "README_pt-BR.md" },
   { code: "pt-PT", name: "Português", readmeFileName: "README_pt-PT.md" },
   { code: "tr-TR", name: "Türkçe", readmeFileName: "README_tr-TR.md" },
+  { code: "ar-SA", name: "العربية", readmeFileName: "README_ar-SA.md" },
+  { code: "bn-BD", name: "বাংলা", readmeFileName: "README_bn-BD.md" },
+  { code: "ur-PK", name: "اردو", readmeFileName: "README_ur-PK.md" },
+  { code: "id-ID", name: "Bahasa Indonesia", readmeFileName: "README_id-ID.md" },
+  { code: "ms-MY", name: "Bahasa Melayu", readmeFileName: "README_ms-MY.md" },
+  { code: "ru-RU", name: "Русский", readmeFileName: "README_ru-RU.md" },
+  { code: "nl-NL", name: "Nederlands", readmeFileName: "README_nl-NL.md" },
+  { code: "pl-PL", name: "Polski", readmeFileName: "README_pl-PL.md" },
+  { code: "sv-SE", name: "Svenska", readmeFileName: "README_sv-SE.md" },
+  { code: "da-DK", name: "Dansk", readmeFileName: "README_da-DK.md" },
+  { code: "nb-NO", name: "Norsk bokmål", readmeFileName: "README_nb-NO.md" },
+  { code: "fi-FI", name: "Suomi", readmeFileName: "README_fi-FI.md" },
+  { code: "el-GR", name: "Ελληνικά", readmeFileName: "README_el-GR.md" },
+  { code: "cs-CZ", name: "Čeština", readmeFileName: "README_cs-CZ.md" },
+  { code: "hu-HU", name: "Magyar", readmeFileName: "README_hu-HU.md" },
+  { code: "ro-RO", name: "Română", readmeFileName: "README_ro-RO.md" },
+  { code: "uk-UA", name: "Українська", readmeFileName: "README_uk-UA.md" },
+  { code: "he-IL", name: "עברית", readmeFileName: "README_he-IL.md" },
+  { code: "fa-IR", name: "فارسی", readmeFileName: "README_fa-IR.md" },
+  { code: "fil-PH", name: "Filipino", readmeFileName: "README_fil-PH.md" },
+  { code: "sw-KE", name: "Kiswahili", readmeFileName: "README_sw-KE.md" },
+  { code: "ta-IN", name: "தமிழ்", readmeFileName: "README_ta-IN.md" },
+  { code: "te-IN", name: "తెలుగు", readmeFileName: "README_te-IN.md" },
+  { code: "mr-IN", name: "मराठी", readmeFileName: "README_mr-IN.md" },
+  { code: "pa-IN", name: "ਪੰਜਾਬੀ", readmeFileName: "README_pa-IN.md" },
+  { code: "gu-IN", name: "ગુજરાતી", readmeFileName: "README_gu-IN.md" },
+  { code: "kn-IN", name: "ಕನ್ನಡ", readmeFileName: "README_kn-IN.md" },
+  { code: "ml-IN", name: "മലയാളം", readmeFileName: "README_ml-IN.md" },
+  { code: "my-MM", name: "မြန်မာ", readmeFileName: "README_my-MM.md" },
+  { code: "jv-ID", name: "Basa Jawa", readmeFileName: "README_jv-ID.md" },
 ];
 
 const MAX_REGULAR_PROMPTS_TO_DISPLAY = 120;
@@ -103,7 +133,12 @@ function generateLanguageNavigation(currentLocale: string): string {
     return `[![${lang.name}](https://img.shields.io/badge/${safeName}-${text}-${color})](${lang.readmeFileName})`;
   });
 
-  return `${badges.join(" ")}\n\n---\n\n`;
+  const rows: string[] = [];
+  for (let i = 0; i < badges.length; i += 10) {
+    rows.push(badges.slice(i, i + 10).join(" "));
+  }
+
+  return `${rows.join("\n")}\n\n---\n\n`;
 }
 
 function generateCollectionCTA(categories: FilterCategory[], locale: string): string {

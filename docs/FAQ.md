@@ -18,7 +18,7 @@ Use the **Submit a Prompt** GitHub issue template and include the prompt text, g
 
 ## Why are there many README files?
 
-The reference structure publishes one README per supported locale. This repository keeps the same multilingual surface so users can browse the collection in familiar GitHub files.
+The reference structure publishes one README per supported locale. This repository keeps the same pattern and expands it to 46 locales, covering the original reference languages plus high-population languages and major first-world market languages.
 
 ## How do removal requests work?
 

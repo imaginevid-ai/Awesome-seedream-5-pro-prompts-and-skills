@@ -57,22 +57,13 @@ Observed files:
 ├── pnpm-lock.yaml
 ├── tsconfig.json
 ├── README.md
-├── README_zh.md
-├── README_zh-TW.md
-├── README_ja-JP.md
-├── README_ko-KR.md
-├── README_th-TH.md
-├── README_vi-VN.md
-├── README_hi-IN.md
-├── README_es-ES.md
-├── README_es-419.md
-├── README_de-DE.md
-├── README_fr-FR.md
-├── README_it-IT.md
-├── README_pt-BR.md
-├── README_pt-PT.md
-└── README_tr-TR.md
+└── README_<locale>.md
 ```
+
+The reference published 16 locale README files. This repository keeps the same
+renderer contract, then expands the generated surface to 46 locales so the
+collection covers the original reference languages plus high-population
+languages and major first-world market languages.
 
 Our repository should keep this same skeleton, renaming only product/brand-specific files:
 
@@ -256,11 +247,11 @@ Keep the same orchestration:
 
 Mirror the reference renderer with brand rewrites:
 
-- Same `SUPPORTED_LANGUAGES`.
+- Expanded `SUPPORTED_LANGUAGES` while keeping the same language config shape.
 - Same `MAX_REGULAR_PROMPTS_TO_DISPLAY = 120`.
 - Same prompt section structure.
 - Same local cover image for every locale: `public/images/imaginevid-prompt-skills-cross-promo.png`.
-- Same language badge navigation.
+- Same language badge navigation, wrapped into multiple rows for readability at the larger locale count.
 - Same stats table shape.
 
 ### `scripts/utils/i18n.ts`
