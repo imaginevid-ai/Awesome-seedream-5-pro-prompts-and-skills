@@ -4089,5 +4089,713 @@
         }
       ]
     }
+  },
+  {
+    "id": 76,
+    "model": "seedream-5-pro",
+    "title": "Sepia documentary portrait study",
+    "description": "A public Krea multi-model Seedream 5.0 Pro comparison with prompt details preserved from ALT text for a vintage documentary portrait workflow.",
+    "content": "A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair and round wire-rimmed glasses, wearing a worn white button-down shirt with sleeves rolled to the elbows. He leans forward on a rough wooden railing, arms crossed, his weathered face turned slightly to the left with a distant pensive gaze. The background is swallowed by deep velvety darkness with only a faint warm glow from upper left hinting at an unseen light source. The entire image bears the patina of age: heavy grain, faded sepia chemistry, slightly uneven tonality, soft focus at the edges, and the textured feel of an old silver gelatin print or newspaper photograph. Exhaustion and quiet resilience etched into his features. Memory-like realism, not staged, documentary quality. No border, no frame, no margins, no white space. Aspect ratio 1:1.",
+    "sourceLink": "https://x.com/Chain_Loader/status/2075251821342503352",
+    "sourcePublishedAt": "2026-07-09T16:12:45Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMzFDWraYAA9qBU.jpg",
+      "https://pbs.twimg.com/media/HMy_yduaMAAOsCj.jpg",
+      "https://pbs.twimg.com/media/HMzFNhHbwAEii6-.jpg",
+      "https://pbs.twimg.com/media/HMzFT_7akAA7tt7.jpg"
+    ],
+    "author": {
+      "name": "@Chain_Loader",
+      "link": "https://x.com/Chain_Loader"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075251821342503352",
+      "prompt_source": "alt_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 8,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 46,
+          "title": "Documentary Realism",
+          "slug": "documentary-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "model": "seedream-5-pro",
+    "title": "Exploded engineering diagram layout",
+    "description": "A Seedream 5.0 Pro structural-control example from a public BytePlus/Lumina post, normalized into a reusable exploded technical diagram prompt.",
+    "content": "Create an exploded technical diagram of a compact high-end AI camera module, every component separated in clean perspective as if prepared by an engineering studio. Show the outer shell, lens stack, sensor block, heat sink, screws, flex cables, and small circuit boards floating on aligned axes. Add precise callout labels, thin measurement lines, numbered part markers, and a restrained white-and-slate background. Keep spacing consistent, edges crisp, typography readable, and the overall composition believable as a product teardown sheet rather than a fantasy illustration.",
+    "sourceLink": "https://x.com/Ciri_ai/status/2075248022515294567",
+    "sourcePublishedAt": "2026-07-09T15:57:39Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMzBgekbMAAoy_H.jpg",
+      "https://pbs.twimg.com/media/HMzBlnqaYAA76FL.jpg",
+      "https://pbs.twimg.com/media/HMzBsetaIAAlS9j.jpg"
+    ],
+    "author": {
+      "name": "@Ciri_ai",
+      "link": "https://x.com/Ciri_ai"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075248022515294567",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 2,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 134,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 16,
+          "title": "Technical Drawing",
+          "slug": "technical-drawing"
+        }
+      ],
+      "styles": [
+        {
+          "id": 42,
+          "title": "Technical Blueprint",
+          "slug": "technical-blueprint"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "model": "seedream-5-pro",
+    "title": "Overdose gold corrupted luxury moodboard",
+    "description": "A public Magnific Seedream 5.0 moodboard prompt pattern, rewritten for reusable luxury-color grading and toxic-gold atmosphere control.",
+    "content": "Create an editorial fashion moodboard in the visual style OVERDOSE GOLD. Use a corrupted gold palette across the entire frame: highlights read as rich warm gold, midtones drift toward faint greenish brass, and shadows fall into deep brown-black with no clean transition. Skin should look golden but exhausted, luxurious on the surface and drained underneath. Velvet, metal, glass, jewelry, and wet lacquer all carry the same beautiful-but-wrong warmth. Make the atmosphere opulent and toxic at once, like wealth turning into slow poison. No visible light source; the gold must feel as if it comes from the palette itself.",
+    "sourceLink": "https://x.com/shikoba_86/status/2075248011525910944",
+    "sourcePublishedAt": "2026-07-09T15:57:36Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMzC0pOWwAAzNRG.jpg",
+      "https://pbs.twimg.com/media/HMzC0pJX0AAhqPk.jpg",
+      "https://pbs.twimg.com/media/HMzC0pLWIAAS9qN.jpg",
+      "https://pbs.twimg.com/media/HMzC0pIXAAMh7zp.jpg"
+    ],
+    "author": {
+      "name": "@shikoba_86",
+      "link": "https://x.com/shikoba_86"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075248011525910944",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 62,
+      "bookmarkCount": 2
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 15,
+          "title": "Product Campaign",
+          "slug": "product-campaign"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 33,
+          "title": "Fashion Creator",
+          "slug": "fashion-creator"
+        }
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "model": "seedream-5-pro",
+    "title": "Master ink art animal study",
+    "description": "A public Renoise Seedream 5.0 Pro ink-art post normalized into a brush-control prompt for traditional monochrome image generation.",
+    "content": "Generate a master-level traditional ink artwork of a mythic crane and pine tree on handmade rice paper. Use confident black brushwork, dry-brush feather texture, soft ink bleeding at the edges, and a few deliberate empty spaces so the composition breathes. The subject should feel created by years of calligraphy practice rather than a digital filter: uneven pressure, elegant negative space, expressive line economy, and subtle paper fibers visible under natural studio light.",
+    "sourceLink": "https://x.com/renoiseai/status/2075247860770357248",
+    "sourcePublishedAt": "2026-07-09T15:57:00Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMzClkIacAAPdN-.jpg"
+    ],
+    "author": {
+      "name": "@renoiseai",
+      "link": "https://x.com/renoiseai"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075247860770357248",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 127,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 46,
+          "title": "Documentary Realism",
+          "slug": "documentary-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 34,
+          "title": "Landscape",
+          "slug": "landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "model": "seedream-5-pro",
+    "title": "Arabic poster typography test",
+    "description": "A public Arabic-language Seedream 5.0 Pro typography observation from Magnific, normalized for testing Arabic poster readability and product layout.",
+    "content": "Design two premium Arabic technology posters for Seedream 5 Pro. Use a dark cinematic background, bright controlled rim light, and a clean modern Arabic headline: \"سيدريم 5 برو\". Add a short Arabic subheading with crisp spacing and correct letter joining: \"تصميم بصري ذكي ودقيق\". Keep the typography large, legible, and centered in a professional advertising layout. Add a subtle product-light motif, gold-blue accents, and avoid broken Arabic glyphs, random Latin filler, or unreadable decorative text.",
+    "sourceLink": "https://x.com/aziz4ai/status/2075242994102419920",
+    "sourcePublishedAt": "2026-07-09T15:37:40Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMy-gAhXgAAVm8M.jpg",
+      "https://pbs.twimg.com/media/HMy-gAeWYAAlc5q.jpg"
+    ],
+    "author": {
+      "name": "@aziz4ai",
+      "link": "https://x.com/aziz4ai"
+    },
+    "language": "ar",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075242994102419920",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 554,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 19,
+          "title": "Multilingual Poster",
+          "slug": "multilingual-poster"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 56,
+          "title": "Multilingual Text",
+          "slug": "multilingual-text"
+        }
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "model": "seedream-5-pro",
+    "title": "Pancake angel dessert illustration",
+    "description": "A Japanese public Seedream 5 Pro test on Magnific, rewritten as a whimsical dessert-character prompt with controlled Japanese text handling.",
+    "content": "Create a delicate pancake angel character sitting on a stack of fluffy pancakes, with small cream-colored wings, maple-syrup highlights, soft morning light, and fine pastry texture. Place the character in a cozy cafe tabletop scene with powdered sugar drifting like snow. Add a small handwritten Japanese title card reading \"パンケーキ天使\" on the plate rim, keeping the text simple and legible. Use polished storybook illustration detail, gentle colors, and a clean 1.5k-style high-resolution finish.",
+    "sourceLink": "https://x.com/ayumi_t820/status/2075239907006832996",
+    "sourcePublishedAt": "2026-07-09T15:25:24Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMy5imDaUAAnT5y.jpg"
+    ],
+    "author": {
+      "name": "@ayumi_t820",
+      "link": "https://x.com/ayumi_t820"
+    },
+    "language": "ja",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075239907006832996",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 4,
+      "quoteCount": 0,
+      "viewCount": 47,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 22,
+          "title": "Anime Splash Art",
+          "slug": "anime-splash-art"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 53,
+          "title": "Food & Recipe",
+          "slug": "food-recipe"
+        }
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "model": "seedream-5-pro",
+    "title": "Soft anime expression pair",
+    "description": "A public Seedream 5 Pro anime-style test, normalized into a two-image character expression prompt for evaluating line quality and color softness.",
+    "content": "Generate a paired anime character study of the same young adventurer in two emotional beats: calm curiosity and sudden wonder. Use clean expressive eyes, soft painterly cel shading, light hair movement, and a gentle fantasy background that stays secondary to the face. Keep the character design consistent across both images: same hairstyle, outfit, color palette, and proportions. Make the linework crisp but not harsh, with luminous pastel highlights and a finished key-visual feel.",
+    "sourceLink": "https://x.com/stargliderbr/status/2075233749805957188",
+    "sourcePublishedAt": "2026-07-09T15:00:56Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMy1yWsWQAAOnCk.jpg",
+      "https://pbs.twimg.com/media/HMy1yWwWgAAqlKB.jpg"
+    ],
+    "author": {
+      "name": "@stargliderbr",
+      "link": "https://x.com/stargliderbr"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075233749805957188",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 4,
+      "quoteCount": 0,
+      "viewCount": 28,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "model": "seedream-5-pro",
+    "title": "Afternoon street portrait prompt",
+    "description": "A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro, preserving the detailed street-photography prompt for reuse.",
+    "content": "主体：一位25岁左右的中国女性，鹅蛋脸，黑色及肩微卷长发被风吹起几缕，穿米白色 oversized 西装外套内搭黑色吊带，锁骨清晰。\n动作与姿态：走在人行道上被镜头抓拍的瞬间，一只手轻拨耳边碎发，身体微微侧转，步伐自然。\n表情与视线：不经意间瞥向镜头的瞬间，嘴角似笑非笑，眼神松弛真实。\n场景环境：下午四点的城市街头，梧桐树影落在人行道上，背景是虚化的咖啡店橱窗和路人。\n镜头：中景，85mm 镜头，浅景深，主体位于画面右三分之一，前景有虚化树叶。\n光线：午后侧逆光勾勒发丝金边，树影在脸上形成斑驳光斑，自然柔和。\n风格：写实街拍摄影，富士胶片色调，轻微颗粒感。\n材质细节：可见皮肤毛孔和自然肤质，西装面料的编织纹理，发丝根根分明。\n约束：无文字水印，无畸形手指，避免过度磨皮的塑料感皮肤。",
+    "sourceLink": "https://x.com/johnAGI168/status/2075228822887157932",
+    "sourcePublishedAt": "2026-07-09T14:41:21Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMywxT2XYAAgF2E.jpg",
+      "https://pbs.twimg.com/media/HMywxT6XQAAy9ea.jpg"
+    ],
+    "author": {
+      "name": "@johnAGI168",
+      "link": "https://x.com/johnAGI168"
+    },
+    "language": "zh",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075228822887157932",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 735,
+      "bookmarkCount": 1
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "model": "seedream-5-pro",
+    "title": "Old-money creator turnaround sheet",
+    "description": "A public multi-model character-design comparison using Seedream 5 Pro, preserving the full-body turnaround prompt for fashion-character workflows.",
+    "content": "Character design sheet, full body turnaround, 23-year-old tall lean male creator, old money superstar aesthetic, royal and exquisite vibe. Wearing an extravagant, oversized long fur coat in arctic white and rich brown. Underneath the coat, a minimalist tailored matte charcoal turtleneck and dark ash trousers. Vintage gold-rimmed tinted aviator glasses, heavy gold signet ring. Confident, effortless posture. Set against a minimalist ash-grey studio background. High contrast, cinematic lighting, ultra-detailed luxury fashion, 8k, photorealistic --ar 16:9",
+    "sourceLink": "https://x.com/Boluwatifeolad7/status/2075228499653079138",
+    "sourcePublishedAt": "2026-07-09T14:40:04Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMyxUD8WwAAdP-C.jpg",
+      "https://pbs.twimg.com/media/HMyxUD5WYAAwA44.jpg",
+      "https://pbs.twimg.com/media/HMyxUENWEAA3T3x.jpg",
+      "https://pbs.twimg.com/media/HMyxUEDX0AApRdu.jpg"
+    ],
+    "author": {
+      "name": "@Boluwatifeolad7",
+      "link": "https://x.com/Boluwatifeolad7"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075228499653079138",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 28,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 33,
+          "title": "Fashion Creator",
+          "slug": "fashion-creator"
+        }
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "model": "seedream-5-pro",
+    "title": "Cloud maker fantasy portrait",
+    "description": "A public Seedream 5 Pro fantasy image post, rewritten into a magical-realism prompt focused on atmosphere, hand gesture, and cloud-form control.",
+    "content": "Create a magical realist portrait titled The Cloud Maker. Show a solitary figure standing on a high stone balcony at dawn, shaping a small storm cloud between both hands like wet clay. Wisps of vapor curl around their fingers, with tiny lightning threads glowing inside the cloud. The background opens into a vast pale sky over distant mountains, soft wind moving the cloak, cinematic realism, subtle film grain, cool blue-gold light, and a sense of quiet myth rather than superhero spectacle.",
+    "sourceLink": "https://x.com/higginswerx/status/2075226897085243767",
+    "sourcePublishedAt": "2026-07-09T14:33:42Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMyvrMracAAXQ7s.jpg"
+    ],
+    "author": {
+      "name": "@higginswerx",
+      "link": "https://x.com/higginswerx"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075226897085243767",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 1,
+      "replyCount": 1,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 50,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 48,
+          "title": "Magical Realism",
+          "slug": "magical-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 34,
+          "title": "Landscape",
+          "slug": "landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "model": "seedream-5-pro",
+    "title": "Same-prompt model comparison triptych",
+    "description": "A public Chinese post comparing Seedream 5.0 Pro, GPT Image 2, and Midjourney V8.1, normalized into a controlled comparison-board prompt.",
+    "content": "Create a clean three-panel comparison board for the same visual prompt across three image models. Panel one is labeled \"Seedream 5.0 Pro\", panel two \"GPT Image 2\", and panel three \"Midjourney V8.1\". Use the same subject, framing, lighting, and color palette in every panel so differences in detail, typography, and realism are easy to inspect. Keep labels crisp, the grid balanced, and the background neutral like a professional benchmark slide.",
+    "sourceLink": "https://x.com/lukfan/status/2075219606617346357",
+    "sourcePublishedAt": "2026-07-09T14:04:44Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMynYDSboAAhCHO.jpg",
+      "https://pbs.twimg.com/media/HMyoyNea8AIs_97.jpg",
+      "https://pbs.twimg.com/media/HMyo0BXboAA9pbs.jpg"
+    ],
+    "author": {
+      "name": "@lukfan",
+      "link": "https://x.com/lukfan"
+    },
+    "language": "zh",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075219606617346357",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 565,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 42,
+          "title": "Technical Blueprint",
+          "slug": "technical-blueprint"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "model": "seedream-5-pro",
+    "title": "Full-body dragon character extension",
+    "description": "A public workflow using Seedream 5.0 Pro to extend a dragon into a full-body character view, normalized as a reference-image edit prompt.",
+    "content": "Using the provided dragon head or partial-body reference, create a full-body character sheet that completes the creature while preserving the original silhouette language, horn shape, scale pattern, eye color, and personality. Show the dragon standing in a neutral three-quarter pose with wings, tail, claws, and torso fully visible. Add subtle studio lighting, a clean background, anatomical believability, and enough texture detail for concept-art review. Do not change the face identity from the reference image.",
+    "sourceLink": "https://x.com/JossMonzoni/status/2075245480108257448",
+    "sourcePublishedAt": "2026-07-09T15:47:33Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMy2s8jXIAAOhQ8.jpg",
+      "https://pbs.twimg.com/media/HMy2s8uXcAEViN-.jpg",
+      "https://pbs.twimg.com/media/HMy2s8uWUAIql8d.jpg"
+    ],
+    "author": {
+      "name": "@JossMonzoni",
+      "link": "https://x.com/JossMonzoni"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075245480108257448",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 24,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 22,
+          "title": "Anime Splash Art",
+          "slug": "anime-splash-art"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 57,
+          "title": "Sci-Fi World",
+          "slug": "sci-fi-world"
+        }
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "model": "seedream-5-pro",
+    "title": "Cinematic editorial fashion session",
+    "description": "A public OpenArt Seedream 5 Pro editorial fashion session, rewritten into a reusable cinematic fashion-photography prompt.",
+    "content": "Create a cinematic editorial fashion portrait for a fictional magazine story called Daily Dream. Place a model in sculptural couture against a minimal dusk city backdrop, with wind moving fabric edges and hair. Use a restrained luxury palette, shallow depth of field, controlled rim light, and confident magazine-cover composition. The image should feel like high-end AI photography: polished skin texture, believable textile detail, dramatic but not overlit, with no visible watermark or random text.",
+    "sourceLink": "https://x.com/westkast/status/2075250137698324850",
+    "sourcePublishedAt": "2026-07-09T16:06:03Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMzFAIYWgAExH1L.jpg",
+      "https://pbs.twimg.com/media/HMzFAIyWMAEN8Xm.jpg"
+    ],
+    "author": {
+      "name": "@westkast",
+      "link": "https://x.com/westkast"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075250137698324850",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 0,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 15,
+          "title": "Product Campaign",
+          "slug": "product-campaign"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 33,
+          "title": "Fashion Creator",
+          "slug": "fashion-creator"
+        }
+      ]
+    }
   }
 ]

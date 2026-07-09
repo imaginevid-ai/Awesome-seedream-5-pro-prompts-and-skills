@@ -373,7 +373,9 @@ ${t("licensedUnder", locale)}
 
 ## ${t("starHistory", locale)}
 
-[![Star History Chart](https://api.star-history.com/svg?repos=${REPO}&type=Date)](https://star-history.com/#${REPO}&Date)
+[![GitHub stars](https://img.shields.io/github/stars/${REPO}?style=for-the-badge&logo=github&label=GitHub%20Stars)](${REPO_URL}/stargazers)
+
+**[${t("starHistory", locale)}](https://star-history.com/#${REPO}&Date)**
 
 ---
 

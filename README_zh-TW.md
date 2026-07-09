@@ -131,9 +131,9 @@
 
 | 指标 | 數量 |
 |--------|-------|
-| 提示詞總數 | **75** |
+| 提示詞總數 | **88** |
 | 精选 | **10** |
-| 最後更新 | **2026年7月9日 星期四 下午4:07:59 [UTC]** |
+| 最後更新 | **2026年7月9日 星期四 下午4:18:41 [UTC]** |
 
 </div>
 
@@ -2898,6 +2898,558 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 
 ---
 
+### No. 66: 电影剧照 - Sepia documentary portrait study
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A public Krea multi-model Seedream 5.0 Pro comparison with prompt details preserved from ALT text for a vintage documentary portrait workflow.
+
+#### 提示詞
+
+```
+A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair and round wire-rimmed glasses, wearing a worn white button-down shirt with sleeves rolled to the elbows. He leans forward on a rough wooden railing, arms crossed, his weathered face turned slightly to the left with a distant pensive gaze. The background is swallowed by deep velvety darkness with only a faint warm glow from upper left hinting at an unseen light source. The entire image bears the patina of age: heavy grain, faded sepia chemistry, slightly uneven tonality, soft focus at the edges, and the textured feel of an old silver gelatin print or newspaper photograph. Exhaustion and quiet resilience etched into his features. Memory-like realism, not staged, documentary quality. No border, no frame, no margins, no white space. Aspect ratio 1:1.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzFDWraYAA9qBU.jpg" width="600" alt="电影剧照 - Sepia documentary portrait study - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy_yduaMAAOsCj.jpg" width="600" alt="电影剧照 - Sepia documentary portrait study - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzFNhHbwAEii6-.jpg" width="600" alt="电影剧照 - Sepia documentary portrait study - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzFT_7akAA7tt7.jpg" width="600" alt="电影剧照 - Sepia documentary portrait study - Image 4">
+</div>
+
+#### 詳情
+
+- **作者:** [@Chain_Loader](https://x.com/Chain_Loader)
+- **来源:** [来源](https://x.com/Chain_Loader/status/2075251821342503352)
+- **發佈時間:** 2026年7月10日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Chain_Loader/status/2075251821342503352)**
+
+---
+
+### No. 67: 产品广告 - Cinematic editorial fashion session
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A public OpenArt Seedream 5 Pro editorial fashion session, rewritten into a reusable cinematic fashion-photography prompt.
+
+#### 提示詞
+
+```
+Create a cinematic editorial fashion portrait for a fictional magazine story called Daily Dream. Place a model in sculptural couture against a minimal dusk city backdrop, with wind moving fabric edges and hair. Use a restrained luxury palette, shallow depth of field, controlled rim light, and confident magazine-cover composition. The image should feel like high-end AI photography: polished skin texture, believable textile detail, dramatic but not overlit, with no visible watermark or random text.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzFAIYWgAExH1L.jpg" width="600" alt="产品广告 - Cinematic editorial fashion session - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzFAIyWMAEN8Xm.jpg" width="600" alt="产品广告 - Cinematic editorial fashion session - Image 2">
+</div>
+
+#### 詳情
+
+- **作者:** [@westkast](https://x.com/westkast)
+- **来源:** [来源](https://x.com/westkast/status/2075250137698324850)
+- **發佈時間:** 2026年7月10日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/westkast/status/2075250137698324850)**
+
+---
+
+### No. 68: 技術圖紙 - Exploded engineering diagram layout
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A Seedream 5.0 Pro structural-control example from a public BytePlus/Lumina post, normalized into a reusable exploded technical diagram prompt.
+
+#### 提示詞
+
+```
+Create an exploded technical diagram of a compact high-end AI camera module, every component separated in clean perspective as if prepared by an engineering studio. Show the outer shell, lens stack, sensor block, heat sink, screws, flex cables, and small circuit boards floating on aligned axes. Add precise callout labels, thin measurement lines, numbered part markers, and a restrained white-and-slate background. Keep spacing consistent, edges crisp, typography readable, and the overall composition believable as a product teardown sheet rather than a fantasy illustration.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzBgekbMAAoy_H.jpg" width="600" alt="技術圖紙 - Exploded engineering diagram layout - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzBlnqaYAA76FL.jpg" width="600" alt="技術圖紙 - Exploded engineering diagram layout - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzBsetaIAAlS9j.jpg" width="600" alt="技術圖紙 - Exploded engineering diagram layout - Image 3">
+</div>
+
+#### 詳情
+
+- **作者:** [@Ciri_ai](https://x.com/Ciri_ai)
+- **来源:** [来源](https://x.com/Ciri_ai/status/2075248022515294567)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Ciri_ai/status/2075248022515294567)**
+
+---
+
+### No. 69: 产品广告 - Overdose gold corrupted luxury moodboard
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A public Magnific Seedream 5.0 moodboard prompt pattern, rewritten for reusable luxury-color grading and toxic-gold atmosphere control.
+
+#### 提示詞
+
+```
+Create an editorial fashion moodboard in the visual style OVERDOSE GOLD. Use a corrupted gold palette across the entire frame: highlights read as rich warm gold, midtones drift toward faint greenish brass, and shadows fall into deep brown-black with no clean transition. Skin should look golden but exhausted, luxurious on the surface and drained underneath. Velvet, metal, glass, jewelry, and wet lacquer all carry the same beautiful-but-wrong warmth. Make the atmosphere opulent and toxic at once, like wealth turning into slow poison. No visible light source; the gold must feel as if it comes from the palette itself.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzC0pOWwAAzNRG.jpg" width="600" alt="产品广告 - Overdose gold corrupted luxury moodboard - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzC0pJX0AAhqPk.jpg" width="600" alt="产品广告 - Overdose gold corrupted luxury moodboard - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzC0pLWIAAS9qN.jpg" width="600" alt="产品广告 - Overdose gold corrupted luxury moodboard - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzC0pIXAAMh7zp.jpg" width="600" alt="产品广告 - Overdose gold corrupted luxury moodboard - Image 4">
+</div>
+
+#### 詳情
+
+- **作者:** [@shikoba_86](https://x.com/shikoba_86)
+- **来源:** [来源](https://x.com/shikoba_86/status/2075248011525910944)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/shikoba_86/status/2075248011525910944)**
+
+---
+
+### No. 70: 角色设计 - Master ink art animal study
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A public Renoise Seedream 5.0 Pro ink-art post normalized into a brush-control prompt for traditional monochrome image generation.
+
+#### 提示詞
+
+```
+Generate a master-level traditional ink artwork of a mythic crane and pine tree on handmade rice paper. Use confident black brushwork, dry-brush feather texture, soft ink bleeding at the edges, and a few deliberate empty spaces so the composition breathes. The subject should feel created by years of calligraphy practice rather than a digital filter: uneven pressure, elegant negative space, expressive line economy, and subtle paper fibers visible under natural studio light.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzClkIacAAPdN-.jpg" width="600" alt="角色设计 - Master ink art animal study - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@renoiseai](https://x.com/renoiseai)
+- **来源:** [来源](https://x.com/renoiseai/status/2075247860770357248)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/renoiseai/status/2075247860770357248)**
+
+---
+
+### No. 71: 参考圖编辑 - Full-body dragon character extension
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### 說明
+
+A public workflow using Seedream 5.0 Pro to extend a dragon into a full-body character view, normalized as a reference-image edit prompt.
+
+#### 提示詞
+
+```
+Using the provided dragon head or partial-body reference, create a full-body character sheet that completes the creature while preserving the original silhouette language, horn shape, scale pattern, eye color, and personality. Show the dragon standing in a neutral three-quarter pose with wings, tail, claws, and torso fully visible. Add subtle studio lighting, a clean background, anatomical believability, and enough texture detail for concept-art review. Do not change the face identity from the reference image.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy2s8jXIAAOhQ8.jpg" width="600" alt="参考圖编辑 - Full-body dragon character extension - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy2s8uXcAEViN-.jpg" width="600" alt="参考圖编辑 - Full-body dragon character extension - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy2s8uWUAIql8d.jpg" width="600" alt="参考圖编辑 - Full-body dragon character extension - Image 3">
+</div>
+
+#### 詳情
+
+- **作者:** [@JossMonzoni](https://x.com/JossMonzoni)
+- **来源:** [来源](https://x.com/JossMonzoni/status/2075245480108257448)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/JossMonzoni/status/2075245480108257448)**
+
+---
+
+### No. 72: 多語言海报 - Arabic poster typography test
+
+![Language-AR](https://img.shields.io/badge/Language-AR-blue)
+
+#### 說明
+
+A public Arabic-language Seedream 5.0 Pro typography observation from Magnific, normalized for testing Arabic poster readability and product layout.
+
+#### 提示詞
+
+```
+Design two premium Arabic technology posters for Seedream 5 Pro. Use a dark cinematic background, bright controlled rim light, and a clean modern Arabic headline: "سيدريم 5 برو". Add a short Arabic subheading with crisp spacing and correct letter joining: "تصميم بصري ذكي ودقيق". Keep the typography large, legible, and centered in a professional advertising layout. Add a subtle product-light motif, gold-blue accents, and avoid broken Arabic glyphs, random Latin filler, or unreadable decorative text.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy-gAhXgAAVm8M.jpg" width="600" alt="多語言海报 - Arabic poster typography test - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy-gAeWYAAlc5q.jpg" width="600" alt="多語言海报 - Arabic poster typography test - Image 2">
+</div>
+
+#### 詳情
+
+- **作者:** [@aziz4ai](https://x.com/aziz4ai)
+- **来源:** [来源](https://x.com/aziz4ai/status/2075242994102419920)
+- **發佈時間:** 2026年7月9日
+- **语言:** ar
+
+**[使用這個提示詞](https://x.com/aziz4ai/status/2075242994102419920)**
+
+---
+
+### No. 73: 角色设计 - Pancake angel dessert illustration
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### 說明
+
+A Japanese public Seedream 5 Pro test on Magnific, rewritten as a whimsical dessert-character prompt with controlled Japanese text handling.
+
+#### 提示詞
+
+```
+Create a delicate pancake angel character sitting on a stack of fluffy pancakes, with small cream-colored wings, maple-syrup highlights, soft morning light, and fine pastry texture. Place the character in a cozy cafe tabletop scene with powdered sugar drifting like snow. Add a small handwritten Japanese title card reading "パンケーキ天使" on the plate rim, keeping the text simple and legible. Use polished storybook illustration detail, gentle colors, and a clean 1.5k-style high-resolution finish.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy5imDaUAAnT5y.jpg" width="600" alt="角色设计 - Pancake angel dessert illustration - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@ayumi_t820](https://x.com/ayumi_t820)
+- **来源:** [来源](https://x.com/ayumi_t820/status/2075239907006832996)
+- **發佈時間:** 2026年7月9日
+- **语言:** ja
+
+**[使用這個提示詞](https://x.com/ayumi_t820/status/2075239907006832996)**
+
+---
+
+### No. 74: 角色设计 - Soft anime expression pair
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A public Seedream 5 Pro anime-style test, normalized into a two-image character expression prompt for evaluating line quality and color softness.
+
+#### 提示詞
+
+```
+Generate a paired anime character study of the same young adventurer in two emotional beats: calm curiosity and sudden wonder. Use clean expressive eyes, soft painterly cel shading, light hair movement, and a gentle fantasy background that stays secondary to the face. Keep the character design consistent across both images: same hairstyle, outfit, color palette, and proportions. Make the linework crisp but not harsh, with luminous pastel highlights and a finished key-visual feel.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy1yWsWQAAOnCk.jpg" width="600" alt="角色设计 - Soft anime expression pair - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy1yWwWgAAqlKB.jpg" width="600" alt="角色设计 - Soft anime expression pair - Image 2">
+</div>
+
+#### 詳情
+
+- **作者:** [@stargliderbr](https://x.com/stargliderbr)
+- **来源:** [来源](https://x.com/stargliderbr/status/2075233749805957188)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/stargliderbr/status/2075233749805957188)**
+
+---
+
+### No. 75: 电影剧照 - Afternoon street portrait prompt
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 說明
+
+A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro, preserving the detailed street-photography prompt for reuse.
+
+#### 提示詞
+
+```
+主体：一位25岁左右的中国女性，鹅蛋脸，黑色及肩微卷长发被风吹起几缕，穿米白色 oversized 西装外套内搭黑色吊带，锁骨清晰。
+动作与姿态：走在人行道上被镜头抓拍的瞬间，一只手轻拨耳边碎发，身体微微侧转，步伐自然。
+表情与视线：不经意间瞥向镜头的瞬间，嘴角似笑非笑，眼神松弛真实。
+场景环境：下午四点的城市街头，梧桐树影落在人行道上，背景是虚化的咖啡店橱窗和路人。
+镜头：中景，85mm 镜头，浅景深，主体位于画面右三分之一，前景有虚化树叶。
+光线：午后侧逆光勾勒发丝金边，树影在脸上形成斑驳光斑，自然柔和。
+风格：写实街拍摄影，富士胶片色调，轻微颗粒感。
+材质细节：可见皮肤毛孔和自然肤质，西装面料的编织纹理，发丝根根分明。
+约束：无文字水印，无畸形手指，避免过度磨皮的塑料感皮肤。
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMywxT2XYAAgF2E.jpg" width="600" alt="电影剧照 - Afternoon street portrait prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMywxT6XQAAy9ea.jpg" width="600" alt="电影剧照 - Afternoon street portrait prompt - Image 2">
+</div>
+
+#### 詳情
+
+- **作者:** [@johnAGI168](https://x.com/johnAGI168)
+- **来源:** [来源](https://x.com/johnAGI168/status/2075228822887157932)
+- **發佈時間:** 2026年7月9日
+- **语言:** zh
+
+**[使用這個提示詞](https://x.com/johnAGI168/status/2075228822887157932)**
+
+---
+
+### No. 76: 角色设计 - Old-money creator turnaround sheet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A public multi-model character-design comparison using Seedream 5 Pro, preserving the full-body turnaround prompt for fashion-character workflows.
+
+#### 提示詞
+
+```
+Character design sheet, full body turnaround, 23-year-old tall lean male creator, old money superstar aesthetic, royal and exquisite vibe. Wearing an extravagant, oversized long fur coat in arctic white and rich brown. Underneath the coat, a minimalist tailored matte charcoal turtleneck and dark ash trousers. Vintage gold-rimmed tinted aviator glasses, heavy gold signet ring. Confident, effortless posture. Set against a minimalist ash-grey studio background. High contrast, cinematic lighting, ultra-detailed luxury fashion, 8k, photorealistic --ar 16:9
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyxUD8WwAAdP-C.jpg" width="600" alt="角色设计 - Old-money creator turnaround sheet - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyxUD5WYAAwA44.jpg" width="600" alt="角色设计 - Old-money creator turnaround sheet - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyxUENWEAA3T3x.jpg" width="600" alt="角色设计 - Old-money creator turnaround sheet - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyxUEDX0AApRdu.jpg" width="600" alt="角色设计 - Old-money creator turnaround sheet - Image 4">
+</div>
+
+#### 詳情
+
+- **作者:** [@Boluwatifeolad7](https://x.com/Boluwatifeolad7)
+- **来源:** [来源](https://x.com/Boluwatifeolad7/status/2075228499653079138)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/Boluwatifeolad7/status/2075228499653079138)**
+
+---
+
+### No. 77: 电影剧照 - Cloud maker fantasy portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 說明
+
+A public Seedream 5 Pro fantasy image post, rewritten into a magical-realism prompt focused on atmosphere, hand gesture, and cloud-form control.
+
+#### 提示詞
+
+```
+Create a magical realist portrait titled The Cloud Maker. Show a solitary figure standing on a high stone balcony at dawn, shaping a small storm cloud between both hands like wet clay. Wisps of vapor curl around their fingers, with tiny lightning threads glowing inside the cloud. The background opens into a vast pale sky over distant mountains, soft wind moving the cloak, cinematic realism, subtle film grain, cool blue-gold light, and a sense of quiet myth rather than superhero spectacle.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyvrMracAAXQ7s.jpg" width="600" alt="电影剧照 - Cloud maker fantasy portrait - Image 1">
+</div>
+
+#### 詳情
+
+- **作者:** [@higginswerx](https://x.com/higginswerx)
+- **来源:** [来源](https://x.com/higginswerx/status/2075226897085243767)
+- **發佈時間:** 2026年7月9日
+- **语言:** en
+
+**[使用這個提示詞](https://x.com/higginswerx/status/2075226897085243767)**
+
+---
+
+### No. 78: 資訊圖與排版 - Same-prompt model comparison triptych
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 說明
+
+A public Chinese post comparing Seedream 5.0 Pro, GPT Image 2, and Midjourney V8.1, normalized into a controlled comparison-board prompt.
+
+#### 提示詞
+
+```
+Create a clean three-panel comparison board for the same visual prompt across three image models. Panel one is labeled "Seedream 5.0 Pro", panel two "GPT Image 2", and panel three "Midjourney V8.1". Use the same subject, framing, lighting, and color palette in every panel so differences in detail, typography, and realism are easy to inspect. Keep labels crisp, the grid balanced, and the background neutral like a professional benchmark slide.
+```
+
+#### 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMynYDSboAAhCHO.jpg" width="600" alt="資訊圖與排版 - Same-prompt model comparison triptych - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyoyNea8AIs_97.jpg" width="600" alt="資訊圖與排版 - Same-prompt model comparison triptych - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyo0BXboAA9pbs.jpg" width="600" alt="資訊圖與排版 - Same-prompt model comparison triptych - Image 3">
+</div>
+
+#### 詳情
+
+- **作者:** [@lukfan](https://x.com/lukfan)
+- **来源:** [来源](https://x.com/lukfan/status/2075219606617346357)
+- **發佈時間:** 2026年7月9日
+- **语言:** zh
+
+**[使用這個提示詞](https://x.com/lukfan/status/2075219606617346357)**
+
+---
+
 ## 如何贡献
 
 欢迎通过 GitHub Issues 提交高质量提示词。
@@ -2931,7 +3483,9 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 
 ## Star 历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&type=Date)](https://star-history.com/#imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&Date)
+[![GitHub stars](https://img.shields.io/github/stars/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills?style=for-the-badge&logo=github&label=GitHub%20Stars)](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/stargazers)
+
+**[Star 历史](https://star-history.com/#imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&Date)**
 
 ---
 
@@ -2941,6 +3495,6 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 **[提交提示词](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>本 README 自動生成。最後更新： 2026-07-09T16:07:59.882Z</sub>
+<sub>本 README 自動生成。最後更新： 2026-07-09T16:18:41.206Z</sub>
 
 </div>

@@ -131,9 +131,9 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 
 | Metrică | Număr |
 |--------|-------|
-| Total prompturi | **75** |
+| Total prompturi | **88** |
 | Recomandat | **10** |
-| Ultima actualizare | **joi, 9 iulie 2026 la 16:08:00 UTC** |
+| Ultima actualizare | **joi, 9 iulie 2026 la 16:18:41 UTC** |
 
 </div>
 
@@ -2898,6 +2898,558 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 
 ---
 
+### No. 66: Cinematic Film Still - Sepia documentary portrait study
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Descriere
+
+A public Krea multi-model Seedream 5.0 Pro comparison with prompt details preserved from ALT text for a vintage documentary portrait workflow.
+
+#### Prompt
+
+```
+A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair and round wire-rimmed glasses, wearing a worn white button-down shirt with sleeves rolled to the elbows. He leans forward on a rough wooden railing, arms crossed, his weathered face turned slightly to the left with a distant pensive gaze. The background is swallowed by deep velvety darkness with only a faint warm glow from upper left hinting at an unseen light source. The entire image bears the patina of age: heavy grain, faded sepia chemistry, slightly uneven tonality, soft focus at the edges, and the textured feel of an old silver gelatin print or newspaper photograph. Exhaustion and quiet resilience etched into his features. Memory-like realism, not staged, documentary quality. No border, no frame, no margins, no white space. Aspect ratio 1:1.
+```
+
+#### Imagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzFDWraYAA9qBU.jpg" width="600" alt="Cinematic Film Still - Sepia documentary portrait study - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy_yduaMAAOsCj.jpg" width="600" alt="Cinematic Film Still - Sepia documentary portrait study - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzFNhHbwAEii6-.jpg" width="600" alt="Cinematic Film Still - Sepia documentary portrait study - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzFT_7akAA7tt7.jpg" width="600" alt="Cinematic Film Still - Sepia documentary portrait study - Image 4">
+</div>
+
+#### Detalii
+
+- **Autor:** [@Chain_Loader](https://x.com/Chain_Loader)
+- **Sursă:** [Sursă](https://x.com/Chain_Loader/status/2075251821342503352)
+- **Publicat:** 10 iulie 2026
+- **Limbi:** en
+
+**[Folosește acest prompt](https://x.com/Chain_Loader/status/2075251821342503352)**
+
+---
+
+### No. 67: Product Campaign - Cinematic editorial fashion session
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Descriere
+
+A public OpenArt Seedream 5 Pro editorial fashion session, rewritten into a reusable cinematic fashion-photography prompt.
+
+#### Prompt
+
+```
+Create a cinematic editorial fashion portrait for a fictional magazine story called Daily Dream. Place a model in sculptural couture against a minimal dusk city backdrop, with wind moving fabric edges and hair. Use a restrained luxury palette, shallow depth of field, controlled rim light, and confident magazine-cover composition. The image should feel like high-end AI photography: polished skin texture, believable textile detail, dramatic but not overlit, with no visible watermark or random text.
+```
+
+#### Imagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzFAIYWgAExH1L.jpg" width="600" alt="Product Campaign - Cinematic editorial fashion session - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzFAIyWMAEN8Xm.jpg" width="600" alt="Product Campaign - Cinematic editorial fashion session - Image 2">
+</div>
+
+#### Detalii
+
+- **Autor:** [@westkast](https://x.com/westkast)
+- **Sursă:** [Sursă](https://x.com/westkast/status/2075250137698324850)
+- **Publicat:** 10 iulie 2026
+- **Limbi:** en
+
+**[Folosește acest prompt](https://x.com/westkast/status/2075250137698324850)**
+
+---
+
+### No. 68: Technical Drawing - Exploded engineering diagram layout
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Descriere
+
+A Seedream 5.0 Pro structural-control example from a public BytePlus/Lumina post, normalized into a reusable exploded technical diagram prompt.
+
+#### Prompt
+
+```
+Create an exploded technical diagram of a compact high-end AI camera module, every component separated in clean perspective as if prepared by an engineering studio. Show the outer shell, lens stack, sensor block, heat sink, screws, flex cables, and small circuit boards floating on aligned axes. Add precise callout labels, thin measurement lines, numbered part markers, and a restrained white-and-slate background. Keep spacing consistent, edges crisp, typography readable, and the overall composition believable as a product teardown sheet rather than a fantasy illustration.
+```
+
+#### Imagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzBgekbMAAoy_H.jpg" width="600" alt="Technical Drawing - Exploded engineering diagram layout - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzBlnqaYAA76FL.jpg" width="600" alt="Technical Drawing - Exploded engineering diagram layout - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzBsetaIAAlS9j.jpg" width="600" alt="Technical Drawing - Exploded engineering diagram layout - Image 3">
+</div>
+
+#### Detalii
+
+- **Autor:** [@Ciri_ai](https://x.com/Ciri_ai)
+- **Sursă:** [Sursă](https://x.com/Ciri_ai/status/2075248022515294567)
+- **Publicat:** 9 iulie 2026
+- **Limbi:** en
+
+**[Folosește acest prompt](https://x.com/Ciri_ai/status/2075248022515294567)**
+
+---
+
+### No. 69: Product Campaign - Overdose gold corrupted luxury moodboard
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Descriere
+
+A public Magnific Seedream 5.0 moodboard prompt pattern, rewritten for reusable luxury-color grading and toxic-gold atmosphere control.
+
+#### Prompt
+
+```
+Create an editorial fashion moodboard in the visual style OVERDOSE GOLD. Use a corrupted gold palette across the entire frame: highlights read as rich warm gold, midtones drift toward faint greenish brass, and shadows fall into deep brown-black with no clean transition. Skin should look golden but exhausted, luxurious on the surface and drained underneath. Velvet, metal, glass, jewelry, and wet lacquer all carry the same beautiful-but-wrong warmth. Make the atmosphere opulent and toxic at once, like wealth turning into slow poison. No visible light source; the gold must feel as if it comes from the palette itself.
+```
+
+#### Imagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzC0pOWwAAzNRG.jpg" width="600" alt="Product Campaign - Overdose gold corrupted luxury moodboard - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzC0pJX0AAhqPk.jpg" width="600" alt="Product Campaign - Overdose gold corrupted luxury moodboard - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzC0pLWIAAS9qN.jpg" width="600" alt="Product Campaign - Overdose gold corrupted luxury moodboard - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzC0pIXAAMh7zp.jpg" width="600" alt="Product Campaign - Overdose gold corrupted luxury moodboard - Image 4">
+</div>
+
+#### Detalii
+
+- **Autor:** [@shikoba_86](https://x.com/shikoba_86)
+- **Sursă:** [Sursă](https://x.com/shikoba_86/status/2075248011525910944)
+- **Publicat:** 9 iulie 2026
+- **Limbi:** en
+
+**[Folosește acest prompt](https://x.com/shikoba_86/status/2075248011525910944)**
+
+---
+
+### No. 70: Character Design - Master ink art animal study
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Descriere
+
+A public Renoise Seedream 5.0 Pro ink-art post normalized into a brush-control prompt for traditional monochrome image generation.
+
+#### Prompt
+
+```
+Generate a master-level traditional ink artwork of a mythic crane and pine tree on handmade rice paper. Use confident black brushwork, dry-brush feather texture, soft ink bleeding at the edges, and a few deliberate empty spaces so the composition breathes. The subject should feel created by years of calligraphy practice rather than a digital filter: uneven pressure, elegant negative space, expressive line economy, and subtle paper fibers visible under natural studio light.
+```
+
+#### Imagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMzClkIacAAPdN-.jpg" width="600" alt="Character Design - Master ink art animal study - Image 1">
+</div>
+
+#### Detalii
+
+- **Autor:** [@renoiseai](https://x.com/renoiseai)
+- **Sursă:** [Sursă](https://x.com/renoiseai/status/2075247860770357248)
+- **Publicat:** 9 iulie 2026
+- **Limbi:** en
+
+**[Folosește acest prompt](https://x.com/renoiseai/status/2075247860770357248)**
+
+---
+
+### No. 71: Reference Image Edit - Full-body dragon character extension
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+#### Descriere
+
+A public workflow using Seedream 5.0 Pro to extend a dragon into a full-body character view, normalized as a reference-image edit prompt.
+
+#### Prompt
+
+```
+Using the provided dragon head or partial-body reference, create a full-body character sheet that completes the creature while preserving the original silhouette language, horn shape, scale pattern, eye color, and personality. Show the dragon standing in a neutral three-quarter pose with wings, tail, claws, and torso fully visible. Add subtle studio lighting, a clean background, anatomical believability, and enough texture detail for concept-art review. Do not change the face identity from the reference image.
+```
+
+#### Imagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy2s8jXIAAOhQ8.jpg" width="600" alt="Reference Image Edit - Full-body dragon character extension - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy2s8uXcAEViN-.jpg" width="600" alt="Reference Image Edit - Full-body dragon character extension - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy2s8uWUAIql8d.jpg" width="600" alt="Reference Image Edit - Full-body dragon character extension - Image 3">
+</div>
+
+#### Detalii
+
+- **Autor:** [@JossMonzoni](https://x.com/JossMonzoni)
+- **Sursă:** [Sursă](https://x.com/JossMonzoni/status/2075245480108257448)
+- **Publicat:** 9 iulie 2026
+- **Limbi:** en
+
+**[Folosește acest prompt](https://x.com/JossMonzoni/status/2075245480108257448)**
+
+---
+
+### No. 72: Multilingual Poster - Arabic poster typography test
+
+![Language-AR](https://img.shields.io/badge/Language-AR-blue)
+
+#### Descriere
+
+A public Arabic-language Seedream 5.0 Pro typography observation from Magnific, normalized for testing Arabic poster readability and product layout.
+
+#### Prompt
+
+```
+Design two premium Arabic technology posters for Seedream 5 Pro. Use a dark cinematic background, bright controlled rim light, and a clean modern Arabic headline: "سيدريم 5 برو". Add a short Arabic subheading with crisp spacing and correct letter joining: "تصميم بصري ذكي ودقيق". Keep the typography large, legible, and centered in a professional advertising layout. Add a subtle product-light motif, gold-blue accents, and avoid broken Arabic glyphs, random Latin filler, or unreadable decorative text.
+```
+
+#### Imagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy-gAhXgAAVm8M.jpg" width="600" alt="Multilingual Poster - Arabic poster typography test - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy-gAeWYAAlc5q.jpg" width="600" alt="Multilingual Poster - Arabic poster typography test - Image 2">
+</div>
+
+#### Detalii
+
+- **Autor:** [@aziz4ai](https://x.com/aziz4ai)
+- **Sursă:** [Sursă](https://x.com/aziz4ai/status/2075242994102419920)
+- **Publicat:** 9 iulie 2026
+- **Limbi:** ar
+
+**[Folosește acest prompt](https://x.com/aziz4ai/status/2075242994102419920)**
+
+---
+
+### No. 73: Character Design - Pancake angel dessert illustration
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+
+#### Descriere
+
+A Japanese public Seedream 5 Pro test on Magnific, rewritten as a whimsical dessert-character prompt with controlled Japanese text handling.
+
+#### Prompt
+
+```
+Create a delicate pancake angel character sitting on a stack of fluffy pancakes, with small cream-colored wings, maple-syrup highlights, soft morning light, and fine pastry texture. Place the character in a cozy cafe tabletop scene with powdered sugar drifting like snow. Add a small handwritten Japanese title card reading "パンケーキ天使" on the plate rim, keeping the text simple and legible. Use polished storybook illustration detail, gentle colors, and a clean 1.5k-style high-resolution finish.
+```
+
+#### Imagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy5imDaUAAnT5y.jpg" width="600" alt="Character Design - Pancake angel dessert illustration - Image 1">
+</div>
+
+#### Detalii
+
+- **Autor:** [@ayumi_t820](https://x.com/ayumi_t820)
+- **Sursă:** [Sursă](https://x.com/ayumi_t820/status/2075239907006832996)
+- **Publicat:** 9 iulie 2026
+- **Limbi:** ja
+
+**[Folosește acest prompt](https://x.com/ayumi_t820/status/2075239907006832996)**
+
+---
+
+### No. 74: Character Design - Soft anime expression pair
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Descriere
+
+A public Seedream 5 Pro anime-style test, normalized into a two-image character expression prompt for evaluating line quality and color softness.
+
+#### Prompt
+
+```
+Generate a paired anime character study of the same young adventurer in two emotional beats: calm curiosity and sudden wonder. Use clean expressive eyes, soft painterly cel shading, light hair movement, and a gentle fantasy background that stays secondary to the face. Keep the character design consistent across both images: same hairstyle, outfit, color palette, and proportions. Make the linework crisp but not harsh, with luminous pastel highlights and a finished key-visual feel.
+```
+
+#### Imagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy1yWsWQAAOnCk.jpg" width="600" alt="Character Design - Soft anime expression pair - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMy1yWwWgAAqlKB.jpg" width="600" alt="Character Design - Soft anime expression pair - Image 2">
+</div>
+
+#### Detalii
+
+- **Autor:** [@stargliderbr](https://x.com/stargliderbr)
+- **Sursă:** [Sursă](https://x.com/stargliderbr/status/2075233749805957188)
+- **Publicat:** 9 iulie 2026
+- **Limbi:** en
+
+**[Folosește acest prompt](https://x.com/stargliderbr/status/2075233749805957188)**
+
+---
+
+### No. 75: Cinematic Film Still - Afternoon street portrait prompt
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### Descriere
+
+A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro, preserving the detailed street-photography prompt for reuse.
+
+#### Prompt
+
+```
+主体：一位25岁左右的中国女性，鹅蛋脸，黑色及肩微卷长发被风吹起几缕，穿米白色 oversized 西装外套内搭黑色吊带，锁骨清晰。
+动作与姿态：走在人行道上被镜头抓拍的瞬间，一只手轻拨耳边碎发，身体微微侧转，步伐自然。
+表情与视线：不经意间瞥向镜头的瞬间，嘴角似笑非笑，眼神松弛真实。
+场景环境：下午四点的城市街头，梧桐树影落在人行道上，背景是虚化的咖啡店橱窗和路人。
+镜头：中景，85mm 镜头，浅景深，主体位于画面右三分之一，前景有虚化树叶。
+光线：午后侧逆光勾勒发丝金边，树影在脸上形成斑驳光斑，自然柔和。
+风格：写实街拍摄影，富士胶片色调，轻微颗粒感。
+材质细节：可见皮肤毛孔和自然肤质，西装面料的编织纹理，发丝根根分明。
+约束：无文字水印，无畸形手指，避免过度磨皮的塑料感皮肤。
+```
+
+#### Imagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMywxT2XYAAgF2E.jpg" width="600" alt="Cinematic Film Still - Afternoon street portrait prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMywxT6XQAAy9ea.jpg" width="600" alt="Cinematic Film Still - Afternoon street portrait prompt - Image 2">
+</div>
+
+#### Detalii
+
+- **Autor:** [@johnAGI168](https://x.com/johnAGI168)
+- **Sursă:** [Sursă](https://x.com/johnAGI168/status/2075228822887157932)
+- **Publicat:** 9 iulie 2026
+- **Limbi:** zh
+
+**[Folosește acest prompt](https://x.com/johnAGI168/status/2075228822887157932)**
+
+---
+
+### No. 76: Character Design - Old-money creator turnaround sheet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Descriere
+
+A public multi-model character-design comparison using Seedream 5 Pro, preserving the full-body turnaround prompt for fashion-character workflows.
+
+#### Prompt
+
+```
+Character design sheet, full body turnaround, 23-year-old tall lean male creator, old money superstar aesthetic, royal and exquisite vibe. Wearing an extravagant, oversized long fur coat in arctic white and rich brown. Underneath the coat, a minimalist tailored matte charcoal turtleneck and dark ash trousers. Vintage gold-rimmed tinted aviator glasses, heavy gold signet ring. Confident, effortless posture. Set against a minimalist ash-grey studio background. High contrast, cinematic lighting, ultra-detailed luxury fashion, 8k, photorealistic --ar 16:9
+```
+
+#### Imagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyxUD8WwAAdP-C.jpg" width="600" alt="Character Design - Old-money creator turnaround sheet - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyxUD5WYAAwA44.jpg" width="600" alt="Character Design - Old-money creator turnaround sheet - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyxUENWEAA3T3x.jpg" width="600" alt="Character Design - Old-money creator turnaround sheet - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyxUEDX0AApRdu.jpg" width="600" alt="Character Design - Old-money creator turnaround sheet - Image 4">
+</div>
+
+#### Detalii
+
+- **Autor:** [@Boluwatifeolad7](https://x.com/Boluwatifeolad7)
+- **Sursă:** [Sursă](https://x.com/Boluwatifeolad7/status/2075228499653079138)
+- **Publicat:** 9 iulie 2026
+- **Limbi:** en
+
+**[Folosește acest prompt](https://x.com/Boluwatifeolad7/status/2075228499653079138)**
+
+---
+
+### No. 77: Cinematic Film Still - Cloud maker fantasy portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### Descriere
+
+A public Seedream 5 Pro fantasy image post, rewritten into a magical-realism prompt focused on atmosphere, hand gesture, and cloud-form control.
+
+#### Prompt
+
+```
+Create a magical realist portrait titled The Cloud Maker. Show a solitary figure standing on a high stone balcony at dawn, shaping a small storm cloud between both hands like wet clay. Wisps of vapor curl around their fingers, with tiny lightning threads glowing inside the cloud. The background opens into a vast pale sky over distant mountains, soft wind moving the cloak, cinematic realism, subtle film grain, cool blue-gold light, and a sense of quiet myth rather than superhero spectacle.
+```
+
+#### Imagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyvrMracAAXQ7s.jpg" width="600" alt="Cinematic Film Still - Cloud maker fantasy portrait - Image 1">
+</div>
+
+#### Detalii
+
+- **Autor:** [@higginswerx](https://x.com/higginswerx)
+- **Sursă:** [Sursă](https://x.com/higginswerx/status/2075226897085243767)
+- **Publicat:** 9 iulie 2026
+- **Limbi:** en
+
+**[Folosește acest prompt](https://x.com/higginswerx/status/2075226897085243767)**
+
+---
+
+### No. 78: Infographic & Typography - Same-prompt model comparison triptych
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### Descriere
+
+A public Chinese post comparing Seedream 5.0 Pro, GPT Image 2, and Midjourney V8.1, normalized into a controlled comparison-board prompt.
+
+#### Prompt
+
+```
+Create a clean three-panel comparison board for the same visual prompt across three image models. Panel one is labeled "Seedream 5.0 Pro", panel two "GPT Image 2", and panel three "Midjourney V8.1". Use the same subject, framing, lighting, and color palette in every panel so differences in detail, typography, and realism are easy to inspect. Keep labels crisp, the grid balanced, and the background neutral like a professional benchmark slide.
+```
+
+#### Imagini generate
+
+##### Image 1
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMynYDSboAAhCHO.jpg" width="600" alt="Infographic & Typography - Same-prompt model comparison triptych - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyoyNea8AIs_97.jpg" width="600" alt="Infographic & Typography - Same-prompt model comparison triptych - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://pbs.twimg.com/media/HMyo0BXboAA9pbs.jpg" width="600" alt="Infographic & Typography - Same-prompt model comparison triptych - Image 3">
+</div>
+
+#### Detalii
+
+- **Autor:** [@lukfan](https://x.com/lukfan)
+- **Sursă:** [Sursă](https://x.com/lukfan/status/2075219606617346357)
+- **Publicat:** 9 iulie 2026
+- **Limbi:** zh
+
+**[Folosește acest prompt](https://x.com/lukfan/status/2075219606617346357)**
+
+---
+
 ## Cum contribui
 
 We welcome high-quality prompt submissions through GitHub Issues.
@@ -2931,7 +3483,9 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 ## Istoric Star
 
-[![Star History Chart](https://api.star-history.com/svg?repos=imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&type=Date)](https://star-history.com/#imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&Date)
+[![GitHub stars](https://img.shields.io/github/stars/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills?style=for-the-badge&logo=github&label=GitHub%20Stars)](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/stargazers)
+
+**[Istoric Star](https://star-history.com/#imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills&Date)**
 
 ---
 
@@ -2941,6 +3495,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Trimite un prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dă Star acestui repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T16:08:00.128Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T16:18:41.382Z</sub>
 
 </div>
