@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Promptteja yhteensä | **113** |
 | Nosto | **10** |
-| Viimeksi päivitetty | **torstai 9. heinäkuuta 2026 klo 23.21.38 UTC** |
+| Viimeksi päivitetty | **torstai 9. heinäkuuta 2026 klo 23.25.36 UTC** |
 
 </div>
 
@@ -212,7 +212,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Tekijä:** [@characternexus](https://x.com/characternexus)
 - **Lähde:** [Lähde](https://x.com/characternexus/status/2074920654751592583)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/characternexus/status/2074920654751592583)**
@@ -556,7 +556,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Tekijä:** [@asheem01](https://x.com/asheem01)
 - **Lähde:** [Lähde](https://x.com/asheem01/status/2074941260863811644)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/asheem01/status/2074941260863811644)**
@@ -593,7 +593,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Tekijä:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Lähde:** [Lähde](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -701,7 +701,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Tekijä:** [@krea_ai](https://x.com/krea_ai)
 - **Lähde:** [Lähde](https://x.com/krea_ai/status/2074891481832456638)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/krea_ai/status/2074891481832456638)**
@@ -845,7 +845,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Tekijä:** [@runwayml](https://x.com/runwayml)
 - **Lähde:** [Lähde](https://x.com/runwayml/status/2074982268175630814)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/runwayml/status/2074982268175630814)**
@@ -882,7 +882,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Tekijä:** [@filodyprincess](https://x.com/filodyprincess)
 - **Lähde:** [Lähde](https://x.com/filodyprincess/status/2074916756452483224)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -958,7 +958,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Tekijä:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Lähde:** [Lähde](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -994,7 +994,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **Tekijä:** [@asheem01](https://x.com/asheem01)
 - **Lähde:** [Lähde](https://x.com/asheem01/status/2075324671214403879)
-- **Julkaistu:** 10. heinäkuuta 2026
+- **Julkaistu:** 9. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/asheem01/status/2075324671214403879)**
@@ -1205,7 +1205,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Tekijä:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Lähde:** [Lähde](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1511,7 +1511,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Tekijä:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Lähde:** [Lähde](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -1546,7 +1546,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Tekijä:** [@JameFalken](https://x.com/JameFalken)
 - **Lähde:** [Lähde](https://x.com/JameFalken/status/2074959430374867438)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/JameFalken/status/2074959430374867438)**
@@ -1653,7 +1653,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Tekijä:** [@westkast](https://x.com/westkast)
 - **Lähde:** [Lähde](https://x.com/westkast/status/2075250137698324850)
-- **Julkaistu:** 10. heinäkuuta 2026
+- **Julkaistu:** 9. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/westkast/status/2075250137698324850)**
@@ -1931,7 +1931,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Tekijä:** [@al_tools43377](https://x.com/al_tools43377)
 - **Lähde:** [Lähde](https://x.com/al_tools43377/status/2074971603054502365)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -2026,7 +2026,7 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 - **Tekijä:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Lähde:** [Lähde](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -3191,7 +3191,7 @@ world's landmarks, melting like wax
 
 - **Tekijä:** [@magnific](https://x.com/magnific)
 - **Lähde:** [Lähde](https://x.com/magnific/status/2074918700709523881)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/magnific/status/2074918700709523881)**
@@ -3226,7 +3226,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **Tekijä:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **Lähde:** [Lähde](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/SimplyAnnisa/status/2074900816662774189)**
@@ -3576,7 +3576,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **Tekijä:** [@Zubnet](https://x.com/Zubnet)
 - **Lähde:** [Lähde](https://x.com/Zubnet/status/2075295691652415799)
-- **Julkaistu:** 10. heinäkuuta 2026
+- **Julkaistu:** 9. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/Zubnet/status/2075295691652415799)**
@@ -3625,7 +3625,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **Tekijä:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **Lähde:** [Lähde](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **Julkaistu:** 10. heinäkuuta 2026
+- **Julkaistu:** 9. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3708,7 +3708,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **Tekijä:** [@ashen_one](https://x.com/ashen_one)
 - **Lähde:** [Lähde](https://x.com/ashen_one/status/2074915677815886071)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/ashen_one/status/2074915677815886071)**
@@ -3845,7 +3845,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 - **Tekijä:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Lähde:** [Lähde](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -3922,7 +3922,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Tekijä:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Lähde:** [Lähde](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Julkaistu:** 10. heinäkuuta 2026
+- **Julkaistu:** 9. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -4231,7 +4231,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **Tekijä:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Lähde:** [Lähde](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/emmanuel_2m/status/2075000114427375742)**
@@ -4267,7 +4267,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **Tekijä:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Lähde:** [Lähde](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/emmanuel_2m/status/2075000101362131350)**
@@ -4314,7 +4314,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **Tekijä:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **Lähde:** [Lähde](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** en
 
 **[Käytä tätä prompttia](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -4350,7 +4350,7 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 - **Tekijä:** [@liyue_ai](https://x.com/liyue_ai)
 - **Lähde:** [Lähde](https://x.com/liyue_ai/status/2074890690686005590)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** zh
 
 **[Käytä tätä prompttia](https://x.com/liyue_ai/status/2074890690686005590)**
@@ -4385,7 +4385,7 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 - **Tekijä:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **Lähde:** [Lähde](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **Julkaistu:** 9. heinäkuuta 2026
+- **Julkaistu:** 8. heinäkuuta 2026
 - **Kielet:** ja-JP
 
 **[Käytä tätä prompttia](https://x.com/roco_kn_roco/status/2074890020260094137)**
@@ -4587,6 +4587,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Lähetä promptti](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Anna repolle Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T23:21:38.376Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T23:25:36.787Z</sub>
 
 </div>

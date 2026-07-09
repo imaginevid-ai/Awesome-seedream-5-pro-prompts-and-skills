@@ -99,7 +99,7 @@ Bu depodaki kaynak bağlantılarını ve örnekleri inceleyin.
 |--------|-------|
 | Toplam prompt | **113** |
 | Öne çıkan | **10** |
-| Son güncelleme | **9 Temmuz 2026 Perşembe 23:21:38 UTC** |
+| Son güncelleme | **9 Temmuz 2026 Perşembe 23:25:36 UTC** |
 
 </div>
 
@@ -212,7 +212,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Yazar:** [@characternexus](https://x.com/characternexus)
 - **Kaynak:** [Kaynak](https://x.com/characternexus/status/2074920654751592583)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/characternexus/status/2074920654751592583)**
@@ -556,7 +556,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Yazar:** [@asheem01](https://x.com/asheem01)
 - **Kaynak:** [Kaynak](https://x.com/asheem01/status/2074941260863811644)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/asheem01/status/2074941260863811644)**
@@ -593,7 +593,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Yazar:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Kaynak:** [Kaynak](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -701,7 +701,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Yazar:** [@krea_ai](https://x.com/krea_ai)
 - **Kaynak:** [Kaynak](https://x.com/krea_ai/status/2074891481832456638)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/krea_ai/status/2074891481832456638)**
@@ -845,7 +845,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Yazar:** [@runwayml](https://x.com/runwayml)
 - **Kaynak:** [Kaynak](https://x.com/runwayml/status/2074982268175630814)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/runwayml/status/2074982268175630814)**
@@ -882,7 +882,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Yazar:** [@filodyprincess](https://x.com/filodyprincess)
 - **Kaynak:** [Kaynak](https://x.com/filodyprincess/status/2074916756452483224)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -958,7 +958,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Yazar:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Kaynak:** [Kaynak](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -994,7 +994,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **Yazar:** [@asheem01](https://x.com/asheem01)
 - **Kaynak:** [Kaynak](https://x.com/asheem01/status/2075324671214403879)
-- **Yayınlandı:** 10 Temmuz 2026
+- **Yayınlandı:** 9 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/asheem01/status/2075324671214403879)**
@@ -1205,7 +1205,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Yazar:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Kaynak:** [Kaynak](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1511,7 +1511,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Yazar:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Kaynak:** [Kaynak](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -1546,7 +1546,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Yazar:** [@JameFalken](https://x.com/JameFalken)
 - **Kaynak:** [Kaynak](https://x.com/JameFalken/status/2074959430374867438)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/JameFalken/status/2074959430374867438)**
@@ -1653,7 +1653,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Yazar:** [@westkast](https://x.com/westkast)
 - **Kaynak:** [Kaynak](https://x.com/westkast/status/2075250137698324850)
-- **Yayınlandı:** 10 Temmuz 2026
+- **Yayınlandı:** 9 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/westkast/status/2075250137698324850)**
@@ -1931,7 +1931,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Yazar:** [@al_tools43377](https://x.com/al_tools43377)
 - **Kaynak:** [Kaynak](https://x.com/al_tools43377/status/2074971603054502365)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -2026,7 +2026,7 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 - **Yazar:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Kaynak:** [Kaynak](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -3191,7 +3191,7 @@ world's landmarks, melting like wax
 
 - **Yazar:** [@magnific](https://x.com/magnific)
 - **Kaynak:** [Kaynak](https://x.com/magnific/status/2074918700709523881)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/magnific/status/2074918700709523881)**
@@ -3226,7 +3226,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **Yazar:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **Kaynak:** [Kaynak](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/SimplyAnnisa/status/2074900816662774189)**
@@ -3576,7 +3576,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **Yazar:** [@Zubnet](https://x.com/Zubnet)
 - **Kaynak:** [Kaynak](https://x.com/Zubnet/status/2075295691652415799)
-- **Yayınlandı:** 10 Temmuz 2026
+- **Yayınlandı:** 9 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/Zubnet/status/2075295691652415799)**
@@ -3625,7 +3625,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **Yazar:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **Kaynak:** [Kaynak](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **Yayınlandı:** 10 Temmuz 2026
+- **Yayınlandı:** 9 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3708,7 +3708,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **Yazar:** [@ashen_one](https://x.com/ashen_one)
 - **Kaynak:** [Kaynak](https://x.com/ashen_one/status/2074915677815886071)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/ashen_one/status/2074915677815886071)**
@@ -3845,7 +3845,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 - **Yazar:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Kaynak:** [Kaynak](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -3922,7 +3922,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Yazar:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Kaynak:** [Kaynak](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Yayınlandı:** 10 Temmuz 2026
+- **Yayınlandı:** 9 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -4231,7 +4231,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **Yazar:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Kaynak:** [Kaynak](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/emmanuel_2m/status/2075000114427375742)**
@@ -4267,7 +4267,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **Yazar:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Kaynak:** [Kaynak](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/emmanuel_2m/status/2075000101362131350)**
@@ -4314,7 +4314,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **Yazar:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **Kaynak:** [Kaynak](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** en
 
 **[Bu promptu kullan](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -4350,7 +4350,7 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 - **Yazar:** [@liyue_ai](https://x.com/liyue_ai)
 - **Kaynak:** [Kaynak](https://x.com/liyue_ai/status/2074890690686005590)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** zh
 
 **[Bu promptu kullan](https://x.com/liyue_ai/status/2074890690686005590)**
@@ -4385,7 +4385,7 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 - **Yazar:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **Kaynak:** [Kaynak](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **Yayınlandı:** 9 Temmuz 2026
+- **Yayınlandı:** 8 Temmuz 2026
 - **Diller:** ja-JP
 
 **[Bu promptu kullan](https://x.com/roco_kn_roco/status/2074890020260094137)**
@@ -4587,6 +4587,6 @@ Nasıl katkı verilir
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star geçmişi](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Son güncelleme: 2026-07-09T23:21:38.280Z</sub>
+<sub>Son güncelleme: 2026-07-09T23:25:36.640Z</sub>
 
 </div>

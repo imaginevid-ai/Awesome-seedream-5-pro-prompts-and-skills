@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | মোট প্রম্পট | **113** |
 | নির্বাচিত | **10** |
-| শেষ আপডেট | **বৃহস্পতিবার, ৯ জুলাই, ২০২৬ এ ১১:২১:৩৮ PM UTC** |
+| শেষ আপডেট | **বৃহস্পতিবার, ৯ জুলাই, ২০২৬ এ ১১:২৫:৩৬ PM UTC** |
 
 </div>
 
@@ -212,7 +212,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **লেখক:** [@characternexus](https://x.com/characternexus)
 - **উৎস:** [উৎস](https://x.com/characternexus/status/2074920654751592583)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/characternexus/status/2074920654751592583)**
@@ -556,7 +556,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **লেখক:** [@asheem01](https://x.com/asheem01)
 - **উৎস:** [উৎস](https://x.com/asheem01/status/2074941260863811644)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/asheem01/status/2074941260863811644)**
@@ -593,7 +593,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **লেখক:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **উৎস:** [উৎস](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -701,7 +701,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **লেখক:** [@krea_ai](https://x.com/krea_ai)
 - **উৎস:** [উৎস](https://x.com/krea_ai/status/2074891481832456638)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/krea_ai/status/2074891481832456638)**
@@ -845,7 +845,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **লেখক:** [@runwayml](https://x.com/runwayml)
 - **উৎস:** [উৎস](https://x.com/runwayml/status/2074982268175630814)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/runwayml/status/2074982268175630814)**
@@ -882,7 +882,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **লেখক:** [@filodyprincess](https://x.com/filodyprincess)
 - **উৎস:** [উৎস](https://x.com/filodyprincess/status/2074916756452483224)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -958,7 +958,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **লেখক:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **উৎস:** [উৎস](https://x.com/techxsarfraj/status/2074893823029998052)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -994,7 +994,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **লেখক:** [@asheem01](https://x.com/asheem01)
 - **উৎস:** [উৎস](https://x.com/asheem01/status/2075324671214403879)
-- **প্রকাশিত:** ১০ জুলাই, ২০২৬
+- **প্রকাশিত:** ৯ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/asheem01/status/2075324671214403879)**
@@ -1205,7 +1205,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **লেখক:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **উৎস:** [উৎস](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1511,7 +1511,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **লেখক:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **উৎস:** [উৎস](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -1546,7 +1546,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **লেখক:** [@JameFalken](https://x.com/JameFalken)
 - **উৎস:** [উৎস](https://x.com/JameFalken/status/2074959430374867438)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/JameFalken/status/2074959430374867438)**
@@ -1653,7 +1653,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **লেখক:** [@westkast](https://x.com/westkast)
 - **উৎস:** [উৎস](https://x.com/westkast/status/2075250137698324850)
-- **প্রকাশিত:** ১০ জুলাই, ২০২৬
+- **প্রকাশিত:** ৯ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/westkast/status/2075250137698324850)**
@@ -1931,7 +1931,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **লেখক:** [@al_tools43377](https://x.com/al_tools43377)
 - **উৎস:** [উৎস](https://x.com/al_tools43377/status/2074971603054502365)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -2026,7 +2026,7 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 - **লেখক:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **উৎস:** [উৎস](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -3191,7 +3191,7 @@ world's landmarks, melting like wax
 
 - **লেখক:** [@magnific](https://x.com/magnific)
 - **উৎস:** [উৎস](https://x.com/magnific/status/2074918700709523881)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/magnific/status/2074918700709523881)**
@@ -3226,7 +3226,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **লেখক:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **উৎস:** [উৎস](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/SimplyAnnisa/status/2074900816662774189)**
@@ -3576,7 +3576,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **লেখক:** [@Zubnet](https://x.com/Zubnet)
 - **উৎস:** [উৎস](https://x.com/Zubnet/status/2075295691652415799)
-- **প্রকাশিত:** ১০ জুলাই, ২০২৬
+- **প্রকাশিত:** ৯ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/Zubnet/status/2075295691652415799)**
@@ -3625,7 +3625,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **লেখক:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **উৎস:** [উৎস](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **প্রকাশিত:** ১০ জুলাই, ২০২৬
+- **প্রকাশিত:** ৯ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3708,7 +3708,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **লেখক:** [@ashen_one](https://x.com/ashen_one)
 - **উৎস:** [উৎস](https://x.com/ashen_one/status/2074915677815886071)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/ashen_one/status/2074915677815886071)**
@@ -3845,7 +3845,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 - **লেখক:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **উৎস:** [উৎস](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -3922,7 +3922,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **লেখক:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **উৎস:** [উৎস](https://x.com/Chain_Loader/status/2075251821342503352)
-- **প্রকাশিত:** ১০ জুলাই, ২০২৬
+- **প্রকাশিত:** ৯ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -4231,7 +4231,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **লেখক:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **উৎস:** [উৎস](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/emmanuel_2m/status/2075000114427375742)**
@@ -4267,7 +4267,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **লেখক:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **উৎস:** [উৎস](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/emmanuel_2m/status/2075000101362131350)**
@@ -4314,7 +4314,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **লেখক:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **উৎস:** [উৎস](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** en
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -4350,7 +4350,7 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 - **লেখক:** [@liyue_ai](https://x.com/liyue_ai)
 - **উৎস:** [উৎস](https://x.com/liyue_ai/status/2074890690686005590)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** zh
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/liyue_ai/status/2074890690686005590)**
@@ -4385,7 +4385,7 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 - **লেখক:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **উৎস:** [উৎস](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **প্রকাশিত:** ৯ জুলাই, ২০২৬
+- **প্রকাশিত:** ৮ জুলাই, ২০২৬
 - **ভাষা:** ja-JP
 
 **[এই প্রম্পট ব্যবহার করুন](https://x.com/roco_kn_roco/status/2074890020260094137)**
@@ -4587,6 +4587,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[প্রম্পট জমা দিন](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[এই রিপোতে Star দিন](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T23:21:38.295Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T23:25:36.663Z</sub>
 
 </div>

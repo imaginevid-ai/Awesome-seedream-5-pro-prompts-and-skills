@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | మొత్తం prompts | **113** |
 | ప్రత్యేకం | **10** |
-| చివరి నవీకరణ | **9, జులై 2026, గురువారం 11:21:38 PM UTCకి** |
+| చివరి నవీకరణ | **9, జులై 2026, గురువారం 11:25:36 PM UTCకి** |
 
 </div>
 
@@ -212,7 +212,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **రచయిత:** [@characternexus](https://x.com/characternexus)
 - **మూలం:** [మూలం](https://x.com/characternexus/status/2074920654751592583)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/characternexus/status/2074920654751592583)**
@@ -556,7 +556,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **రచయిత:** [@asheem01](https://x.com/asheem01)
 - **మూలం:** [మూలం](https://x.com/asheem01/status/2074941260863811644)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/asheem01/status/2074941260863811644)**
@@ -593,7 +593,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **రచయిత:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **మూలం:** [మూలం](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -701,7 +701,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **రచయిత:** [@krea_ai](https://x.com/krea_ai)
 - **మూలం:** [మూలం](https://x.com/krea_ai/status/2074891481832456638)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/krea_ai/status/2074891481832456638)**
@@ -845,7 +845,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **రచయిత:** [@runwayml](https://x.com/runwayml)
 - **మూలం:** [మూలం](https://x.com/runwayml/status/2074982268175630814)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/runwayml/status/2074982268175630814)**
@@ -882,7 +882,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **రచయిత:** [@filodyprincess](https://x.com/filodyprincess)
 - **మూలం:** [మూలం](https://x.com/filodyprincess/status/2074916756452483224)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -958,7 +958,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **రచయిత:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **మూలం:** [మూలం](https://x.com/techxsarfraj/status/2074893823029998052)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -994,7 +994,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **రచయిత:** [@asheem01](https://x.com/asheem01)
 - **మూలం:** [మూలం](https://x.com/asheem01/status/2075324671214403879)
-- **ప్రచురితం:** 10 జులై, 2026
+- **ప్రచురితం:** 9 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/asheem01/status/2075324671214403879)**
@@ -1205,7 +1205,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **రచయిత:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **మూలం:** [మూలం](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1511,7 +1511,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **రచయిత:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **మూలం:** [మూలం](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -1546,7 +1546,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **రచయిత:** [@JameFalken](https://x.com/JameFalken)
 - **మూలం:** [మూలం](https://x.com/JameFalken/status/2074959430374867438)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/JameFalken/status/2074959430374867438)**
@@ -1653,7 +1653,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **రచయిత:** [@westkast](https://x.com/westkast)
 - **మూలం:** [మూలం](https://x.com/westkast/status/2075250137698324850)
-- **ప్రచురితం:** 10 జులై, 2026
+- **ప్రచురితం:** 9 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/westkast/status/2075250137698324850)**
@@ -1931,7 +1931,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **రచయిత:** [@al_tools43377](https://x.com/al_tools43377)
 - **మూలం:** [మూలం](https://x.com/al_tools43377/status/2074971603054502365)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -2026,7 +2026,7 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 - **రచయిత:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **మూలం:** [మూలం](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -3191,7 +3191,7 @@ world's landmarks, melting like wax
 
 - **రచయిత:** [@magnific](https://x.com/magnific)
 - **మూలం:** [మూలం](https://x.com/magnific/status/2074918700709523881)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/magnific/status/2074918700709523881)**
@@ -3226,7 +3226,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **రచయిత:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **మూలం:** [మూలం](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/SimplyAnnisa/status/2074900816662774189)**
@@ -3576,7 +3576,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **రచయిత:** [@Zubnet](https://x.com/Zubnet)
 - **మూలం:** [మూలం](https://x.com/Zubnet/status/2075295691652415799)
-- **ప్రచురితం:** 10 జులై, 2026
+- **ప్రచురితం:** 9 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/Zubnet/status/2075295691652415799)**
@@ -3625,7 +3625,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **రచయిత:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **మూలం:** [మూలం](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **ప్రచురితం:** 10 జులై, 2026
+- **ప్రచురితం:** 9 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3708,7 +3708,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **రచయిత:** [@ashen_one](https://x.com/ashen_one)
 - **మూలం:** [మూలం](https://x.com/ashen_one/status/2074915677815886071)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/ashen_one/status/2074915677815886071)**
@@ -3845,7 +3845,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 - **రచయిత:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **మూలం:** [మూలం](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -3922,7 +3922,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **రచయిత:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **మూలం:** [మూలం](https://x.com/Chain_Loader/status/2075251821342503352)
-- **ప్రచురితం:** 10 జులై, 2026
+- **ప్రచురితం:** 9 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -4231,7 +4231,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **రచయిత:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **మూలం:** [మూలం](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/emmanuel_2m/status/2075000114427375742)**
@@ -4267,7 +4267,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **రచయిత:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **మూలం:** [మూలం](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/emmanuel_2m/status/2075000101362131350)**
@@ -4314,7 +4314,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **రచయిత:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **మూలం:** [మూలం](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** en
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -4350,7 +4350,7 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 - **రచయిత:** [@liyue_ai](https://x.com/liyue_ai)
 - **మూలం:** [మూలం](https://x.com/liyue_ai/status/2074890690686005590)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** zh
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/liyue_ai/status/2074890690686005590)**
@@ -4385,7 +4385,7 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 - **రచయిత:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **మూలం:** [మూలం](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **ప్రచురితం:** 9 జులై, 2026
+- **ప్రచురితం:** 8 జులై, 2026
 - **భాషలు:** ja-JP
 
 **[ఈ prompt ఉపయోగించండి](https://x.com/roco_kn_roco/status/2074890020260094137)**
@@ -4587,6 +4587,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt సమర్పించండి](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ఈ repo కు Star ఇవ్వండి](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T23:21:38.462Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T23:25:36.930Z</sub>
 
 </div>

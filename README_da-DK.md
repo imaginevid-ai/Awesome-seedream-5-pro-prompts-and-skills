@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Prompts i alt | **113** |
 | Udvalgt | **10** |
-| Sidst opdateret | **torsdag den 9. juli 2026 kl. 23.21.38 UTC** |
+| Sidst opdateret | **torsdag den 9. juli 2026 kl. 23.25.36 UTC** |
 
 </div>
 
@@ -212,7 +212,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Forfatter:** [@characternexus](https://x.com/characternexus)
 - **Kilde:** [Kilde](https://x.com/characternexus/status/2074920654751592583)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/characternexus/status/2074920654751592583)**
@@ -556,7 +556,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **Forfatter:** [@asheem01](https://x.com/asheem01)
 - **Kilde:** [Kilde](https://x.com/asheem01/status/2074941260863811644)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/asheem01/status/2074941260863811644)**
@@ -593,7 +593,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **Forfatter:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Kilde:** [Kilde](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -701,7 +701,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **Forfatter:** [@krea_ai](https://x.com/krea_ai)
 - **Kilde:** [Kilde](https://x.com/krea_ai/status/2074891481832456638)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/krea_ai/status/2074891481832456638)**
@@ -845,7 +845,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **Forfatter:** [@runwayml](https://x.com/runwayml)
 - **Kilde:** [Kilde](https://x.com/runwayml/status/2074982268175630814)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/runwayml/status/2074982268175630814)**
@@ -882,7 +882,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **Forfatter:** [@filodyprincess](https://x.com/filodyprincess)
 - **Kilde:** [Kilde](https://x.com/filodyprincess/status/2074916756452483224)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -958,7 +958,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **Forfatter:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **Kilde:** [Kilde](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -994,7 +994,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **Forfatter:** [@asheem01](https://x.com/asheem01)
 - **Kilde:** [Kilde](https://x.com/asheem01/status/2075324671214403879)
-- **Udgivet:** 10. juli 2026
+- **Udgivet:** 9. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/asheem01/status/2075324671214403879)**
@@ -1205,7 +1205,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **Forfatter:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **Kilde:** [Kilde](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1511,7 +1511,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **Forfatter:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **Kilde:** [Kilde](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -1546,7 +1546,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **Forfatter:** [@JameFalken](https://x.com/JameFalken)
 - **Kilde:** [Kilde](https://x.com/JameFalken/status/2074959430374867438)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/JameFalken/status/2074959430374867438)**
@@ -1653,7 +1653,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **Forfatter:** [@westkast](https://x.com/westkast)
 - **Kilde:** [Kilde](https://x.com/westkast/status/2075250137698324850)
-- **Udgivet:** 10. juli 2026
+- **Udgivet:** 9. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/westkast/status/2075250137698324850)**
@@ -1931,7 +1931,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **Forfatter:** [@al_tools43377](https://x.com/al_tools43377)
 - **Kilde:** [Kilde](https://x.com/al_tools43377/status/2074971603054502365)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -2026,7 +2026,7 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 - **Forfatter:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Kilde:** [Kilde](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -3191,7 +3191,7 @@ world's landmarks, melting like wax
 
 - **Forfatter:** [@magnific](https://x.com/magnific)
 - **Kilde:** [Kilde](https://x.com/magnific/status/2074918700709523881)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/magnific/status/2074918700709523881)**
@@ -3226,7 +3226,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **Forfatter:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **Kilde:** [Kilde](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/SimplyAnnisa/status/2074900816662774189)**
@@ -3576,7 +3576,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **Forfatter:** [@Zubnet](https://x.com/Zubnet)
 - **Kilde:** [Kilde](https://x.com/Zubnet/status/2075295691652415799)
-- **Udgivet:** 10. juli 2026
+- **Udgivet:** 9. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/Zubnet/status/2075295691652415799)**
@@ -3625,7 +3625,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **Forfatter:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **Kilde:** [Kilde](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **Udgivet:** 10. juli 2026
+- **Udgivet:** 9. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3708,7 +3708,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **Forfatter:** [@ashen_one](https://x.com/ashen_one)
 - **Kilde:** [Kilde](https://x.com/ashen_one/status/2074915677815886071)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/ashen_one/status/2074915677815886071)**
@@ -3845,7 +3845,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 - **Forfatter:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **Kilde:** [Kilde](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -3922,7 +3922,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **Forfatter:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **Kilde:** [Kilde](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Udgivet:** 10. juli 2026
+- **Udgivet:** 9. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -4231,7 +4231,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **Forfatter:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Kilde:** [Kilde](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/emmanuel_2m/status/2075000114427375742)**
@@ -4267,7 +4267,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **Forfatter:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **Kilde:** [Kilde](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/emmanuel_2m/status/2075000101362131350)**
@@ -4314,7 +4314,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **Forfatter:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **Kilde:** [Kilde](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** en
 
 **[Brug denne prompt](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -4350,7 +4350,7 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 - **Forfatter:** [@liyue_ai](https://x.com/liyue_ai)
 - **Kilde:** [Kilde](https://x.com/liyue_ai/status/2074890690686005590)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** zh
 
 **[Brug denne prompt](https://x.com/liyue_ai/status/2074890690686005590)**
@@ -4385,7 +4385,7 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 - **Forfatter:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **Kilde:** [Kilde](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **Udgivet:** 9. juli 2026
+- **Udgivet:** 8. juli 2026
 - **Sprog:** ja-JP
 
 **[Brug denne prompt](https://x.com/roco_kn_roco/status/2074890020260094137)**
@@ -4587,6 +4587,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Indsend prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Giv repoet en Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T23:21:38.353Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T23:25:36.758Z</sub>
 
 </div>

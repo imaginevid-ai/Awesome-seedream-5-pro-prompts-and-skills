@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | மொத்த prompts | **113** |
 | சிறப்பு | **10** |
-| கடைசியாக புதுப்பிக்கப்பட்டது | **வியாழன், 9 ஜூலை, 2026 அன்று 11:21:38 PM UTC** |
+| கடைசியாக புதுப்பிக்கப்பட்டது | **வியாழன், 9 ஜூலை, 2026 அன்று 11:25:36 PM UTC** |
 
 </div>
 
@@ -212,7 +212,7 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **ஆசிரியர்:** [@characternexus](https://x.com/characternexus)
 - **மூலம்:** [மூலம்](https://x.com/characternexus/status/2074920654751592583)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/characternexus/status/2074920654751592583)**
@@ -556,7 +556,7 @@ Use the uploaded selfie only as the facial-identity and makeup reference. Keep f
 
 - **ஆசிரியர்:** [@asheem01](https://x.com/asheem01)
 - **மூலம்:** [மூலம்](https://x.com/asheem01/status/2074941260863811644)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/asheem01/status/2074941260863811644)**
@@ -593,7 +593,7 @@ Use the uploaded living-room image and follow the markup notes only where indica
 
 - **ஆசிரியர்:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **மூலம்:** [மூலம்](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/ZariaTechAI/status/2074909390650634560)**
@@ -701,7 +701,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 - **ஆசிரியர்:** [@krea_ai](https://x.com/krea_ai)
 - **மூலம்:** [மூலம்](https://x.com/krea_ai/status/2074891481832456638)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/krea_ai/status/2074891481832456638)**
@@ -845,7 +845,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 
 - **ஆசிரியர்:** [@runwayml](https://x.com/runwayml)
 - **மூலம்:** [மூலம்](https://x.com/runwayml/status/2074982268175630814)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/runwayml/status/2074982268175630814)**
@@ -882,7 +882,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 - **ஆசிரியர்:** [@filodyprincess](https://x.com/filodyprincess)
 - **மூலம்:** [மூலம்](https://x.com/filodyprincess/status/2074916756452483224)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/filodyprincess/status/2074916756452483224)**
@@ -958,7 +958,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 - **ஆசிரியர்:** [@techxsarfraj](https://x.com/techxsarfraj)
 - **மூலம்:** [மூலம்](https://x.com/techxsarfraj/status/2074893823029998052)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/techxsarfraj/status/2074893823029998052)**
@@ -994,7 +994,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 - **ஆசிரியர்:** [@asheem01](https://x.com/asheem01)
 - **மூலம்:** [மூலம்](https://x.com/asheem01/status/2075324671214403879)
-- **வெளியிடப்பட்டது:** 10 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/asheem01/status/2075324671214403879)**
@@ -1205,7 +1205,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 - **ஆசிரியர்:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
 - **மூலம்:** [மூலம்](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/ahmetmertugrul/status/2074914214074872162)**
@@ -1511,7 +1511,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 - **ஆசிரியர்:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
 - **மூலம்:** [மூலம்](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/ThinkerSilentH/status/2074940762861814235)**
@@ -1546,7 +1546,7 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 - **ஆசிரியர்:** [@JameFalken](https://x.com/JameFalken)
 - **மூலம்:** [மூலம்](https://x.com/JameFalken/status/2074959430374867438)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/JameFalken/status/2074959430374867438)**
@@ -1653,7 +1653,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 - **ஆசிரியர்:** [@westkast](https://x.com/westkast)
 - **மூலம்:** [மூலம்](https://x.com/westkast/status/2075250137698324850)
-- **வெளியிடப்பட்டது:** 10 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/westkast/status/2075250137698324850)**
@@ -1931,7 +1931,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 - **ஆசிரியர்:** [@al_tools43377](https://x.com/al_tools43377)
 - **மூலம்:** [மூலம்](https://x.com/al_tools43377/status/2074971603054502365)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/al_tools43377/status/2074971603054502365)**
@@ -2026,7 +2026,7 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 - **ஆசிரியர்:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **மூலம்:** [மூலம்](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
@@ -3191,7 +3191,7 @@ world's landmarks, melting like wax
 
 - **ஆசிரியர்:** [@magnific](https://x.com/magnific)
 - **மூலம்:** [மூலம்](https://x.com/magnific/status/2074918700709523881)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/magnific/status/2074918700709523881)**
@@ -3226,7 +3226,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 - **ஆசிரியர்:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **மூலம்:** [மூலம்](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/SimplyAnnisa/status/2074900816662774189)**
@@ -3576,7 +3576,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 - **ஆசிரியர்:** [@Zubnet](https://x.com/Zubnet)
 - **மூலம்:** [மூலம்](https://x.com/Zubnet/status/2075295691652415799)
-- **வெளியிடப்பட்டது:** 10 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/Zubnet/status/2075295691652415799)**
@@ -3625,7 +3625,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 - **ஆசிரியர்:** [@itsPixieVerse](https://x.com/itsPixieVerse)
 - **மூலம்:** [மூலம்](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **வெளியிடப்பட்டது:** 10 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/itsPixieVerse/status/2075253671177404932)**
@@ -3708,7 +3708,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 - **ஆசிரியர்:** [@ashen_one](https://x.com/ashen_one)
 - **மூலம்:** [மூலம்](https://x.com/ashen_one/status/2074915677815886071)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/ashen_one/status/2074915677815886071)**
@@ -3845,7 +3845,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 - **ஆசிரியர்:** [@Bic_Revelation](https://x.com/Bic_Revelation)
 - **மூலம்:** [மூலம்](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/Bic_Revelation/status/2074959714366922857)**
@@ -3922,7 +3922,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 - **ஆசிரியர்:** [@Chain_Loader](https://x.com/Chain_Loader)
 - **மூலம்:** [மூலம்](https://x.com/Chain_Loader/status/2075251821342503352)
-- **வெளியிடப்பட்டது:** 10 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/Chain_Loader/status/2075251821342503352)**
@@ -4231,7 +4231,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 - **ஆசிரியர்:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **மூலம்:** [மூலம்](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/emmanuel_2m/status/2075000114427375742)**
@@ -4267,7 +4267,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 - **ஆசிரியர்:** [@emmanuel_2m](https://x.com/emmanuel_2m)
 - **மூலம்:** [மூலம்](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/emmanuel_2m/status/2075000101362131350)**
@@ -4314,7 +4314,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 - **ஆசிரியர்:** [@Arminn_Ai](https://x.com/Arminn_Ai)
 - **மூலம்:** [மூலம்](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** en
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/Arminn_Ai/status/2074959192096457130)**
@@ -4350,7 +4350,7 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 - **ஆசிரியர்:** [@liyue_ai](https://x.com/liyue_ai)
 - **மூலம்:** [மூலம்](https://x.com/liyue_ai/status/2074890690686005590)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** zh
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/liyue_ai/status/2074890690686005590)**
@@ -4385,7 +4385,7 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 - **ஆசிரியர்:** [@roco_kn_roco](https://x.com/roco_kn_roco)
 - **மூலம்:** [மூலம்](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **வெளியிடப்பட்டது:** 9 ஜூலை, 2026
+- **வெளியிடப்பட்டது:** 8 ஜூலை, 2026
 - **மொழிகள்:** ja-JP
 
 **[இந்த prompt-ஐ பயன்படுத்தவும்](https://x.com/roco_kn_roco/status/2074890020260094137)**
@@ -4587,6 +4587,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt சமர்ப்பிக்கவும்](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[இந்த repo-க்கு Star கொடுங்கள்](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T23:21:38.456Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T23:25:36.912Z</sub>
 
 </div>
