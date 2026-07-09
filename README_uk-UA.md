@@ -42,46 +42,12 @@
 
 ### Перегляд за категоріями
 
-- **Use Cases**
-  - <a id="cinematic-film-still"></a>[Cinematic Film Still](#cinematic-film-still)
-  - <a id="character-design"></a>[Character Design](#character-design)
-  - <a id="reference-image-edit"></a>[Reference Image Edit](#reference-image-edit)
-  - <a id="travel-visual"></a>[Travel Visual](#travel-visual)
-  - <a id="product-campaign"></a>[Product Campaign](#product-campaign)
-  - <a id="technical-drawing"></a>[Technical Drawing](#technical-drawing)
-  - <a id="infographic-typography"></a>[Infographic & Typography](#infographic-typography)
-  - <a id="precision-editing"></a>[Precision Editing](#precision-editing)
-  - <a id="multilingual-poster"></a>[Multilingual Poster](#multilingual-poster)
-  - <a id="architecture-interior"></a>[Architecture & Interior](#architecture-interior)
-  - <a id="storyboard-video-pipeline"></a>[Storyboard / Video Pipeline](#storyboard-video-pipeline)
-  - <a id="ui-product-mockup"></a>[UI / Product Mockup](#ui-product-mockup)
-- **Style**
-  - <a id="cinematic-realism"></a>[Cinematic Realism](#cinematic-realism)
-  - <a id="anime-splash-art"></a>[Anime Splash Art](#anime-splash-art)
-  - <a id="editorial-fashion"></a>[Editorial Fashion](#editorial-fashion)
-  - <a id="tropical-photography"></a>[Tropical Photography](#tropical-photography)
-  - <a id="commercial-photography"></a>[Commercial Photography](#commercial-photography)
-  - <a id="technical-blueprint"></a>[Technical Blueprint](#technical-blueprint)
-  - <a id="editorial-poster"></a>[Editorial Poster](#editorial-poster)
-  - <a id="historical-realism"></a>[Historical Realism](#historical-realism)
-  - <a id="anime-key-visual"></a>[Anime Key Visual](#anime-key-visual)
-  - <a id="documentary-realism"></a>[Documentary Realism](#documentary-realism)
-  - <a id="noir-lighting"></a>[Noir Lighting](#noir-lighting)
-  - <a id="magical-realism"></a>[Magical Realism](#magical-realism)
-- **Subjects**
-  - <a id="human-portrait"></a>[Human Portrait](#human-portrait)
-  - <a id="astronaut"></a>[Astronaut](#astronaut)
-  - <a id="fashion-creator"></a>[Fashion Creator](#fashion-creator)
-  - <a id="landscape"></a>[Landscape](#landscape)
-  - <a id="product-props"></a>[Product & Props](#product-props)
-  - <a id="vehicle"></a>[Vehicle](#vehicle)
-  - <a id="food-recipe"></a>[Food & Recipe](#food-recipe)
-  - <a id="interior-space"></a>[Interior Space](#interior-space)
-  - <a id="architecture"></a>[Architecture](#architecture)
-  - <a id="multilingual-text"></a>[Multilingual Text](#multilingual-text)
-  - <a id="sci-fi-world"></a>[Sci-Fi World](#sci-fi-world)
-  - <a id="historical-scene"></a>[Historical Scene](#historical-scene)
-  - <a id="marketing-layout"></a>[Marketing Layout](#marketing-layout)
+- [**Directed Editing & Input Control**](#workflow-directed-editing-input-control) - Prompts that modify an existing image or use regions, sketches, references, and positional instructions to control the result.
+- [**Commercial Design, UI & Posters**](#workflow-commercial-design-ui-posters) - Production briefs for advertisements, product campaigns, interfaces, posters, typography, and other designed assets.
+- [**Diagrams, Technical Art & Storyboards**](#workflow-diagrams-technical-storyboards) - Structured visuals where information order matters: diagrams, technical drawings, multi-panel sequences, and storyboards.
+- [**Characters, Cinema & Visual Styles**](#workflow-characters-cinema-visual-styles) - Character, portrait, fashion, cinematic-frame, and style-exploration prompts centered on visual direction and image language.
+- [**Environments, Architecture & Worldbuilding**](#workflow-environments-architecture-worldbuilding) - Environment, architecture, landscape, concept-art, and worldbuilding prompts where the place itself carries the idea.
+- [**Benchmarks & Model Comparisons**](#workflow-benchmarks-model-comparisons) - Controlled tests and comparisons used to evaluate prompt following, editing behavior, consistency, typography, or visual quality.
 
 ---
 
@@ -89,7 +55,6 @@
 
 - [Переглянути добірку](#)
 - [Що таке Seedream 5 Pro?](#seedream-5-pro)
-- [Галерея офіційних можливостей](#official-capability-gallery)
 - [Статистика](#)
 - [Відібрані промпти](#)
 - [Усі промпти](#)
@@ -102,16 +67,16 @@
 
 ## Що таке Seedream 5 Pro?
 
-**Seedream 5 Pro** is a high-end image generation model family suited for structured creative production:
+**Seedream 5.0 Pro** is ByteDance's professional image-generation and editing model, available as Image 5.0 Pro inside Dreamina's multimodal image workflow. It combines text prompts and a reference image for structured visual production rather than limiting creation to one-shot text-to-image output:
 
-- **Prompt Understanding** - Follow detailed scene, style, camera, and layout instructions
-- **High-Quality Generation** - Produce polished images for editorial, product, and concept work
-- **Fast Iteration** - Adapt a prompt pattern across many creative directions
-- **Diverse Styles** - Support cinematic, commercial, illustration, UI, and poster aesthetics
-- **Precise Control** - Encode composition, typography, color, lighting, and subject constraints
-- **Complex Scenes** - Handle multi-object, multi-panel, and workflow-style prompts
+- **Deep Prompt Understanding** - Interpret subjects, spatial relationships, camera language, composition, and layered constraints in complex instructions
+- **Production-Oriented Generation** - Create polished campaign visuals, product imagery, concept art, posters, and cinematic frames
+- **Reference-Driven Creation** - Use a reference image to guide identity, structure, materials, style, and composition
+- **Text and Layout Rendering** - Build typography-heavy posters, diagrams, interfaces, and multilingual visual designs
+- **Localized and Layered Editing** - Target regions, objects, text, materials, or positions while preserving the wider composition
+- **Reasoning-Assisted Creation** - Use deeper prompt interpretation and context-aware generation for structured creative tasks
 
-**Learn more:** follow the source links and examples collected in this repository.
+**Official sources:** [Seedream 5.0 Pro model page](https://dreamina.capcut.com/seedream/seedream-5-0-pro) · [Dreamina workflow guide](https://dreamina.capcut.com/seedream/how-to-use-seedream-5-0-pro)
 
 ### Prompt Skill Arguments
 
@@ -126,268 +91,6 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 
 ---
 
-<a id="official-capability-gallery"></a>
-
-## Галерея офіційних можливостей
-
-Ці приклади показують офіційні можливості Seedream 5 Pro із зазначенням джерела та ліцензії: [Evolink-AI/awesome-seedream-5-pro-guide-and-prompt](https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt) (CC BY 4.0).
-
-### 🎛️ Група можливостей 1
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#1</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/003-arrows-annotation-boxes.gif" width="100%" alt="Arrows and annotation boxes for spatial intent 1">
-
-</td>
-<td width="50%" valign="top">
-
-<strong>#2</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/004-Red-box-A-huge-blue-furred-head-with-a-ferocious-squished-ex.gif" width="100%" alt="Region-box object description for targeted editing 1">
-
-<details>
-<summary>Показати промпт</summary>
-
-```
-Red box: A huge blue-furred head with a ferocious squished expression, gazing at the bubble ahead. Green box: A transparent bubble reflecting the indoor lights. Yellow box: A large warm gray-beige yarn ball. Blue box: A stack of building blocks including a warm dark gray arch, a warm light gray half-cylinder, a lake blue cylinder, a deep lake blue ramp, and a cobalt blue half-disc. Purple box: A grass green tasseled blanket draped over the sofa.
-```
-
-</details>
-
-</td>
-</tr>
-</table>
-
-### ✏️ Група можливостей 2
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#3</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/005-doodles.gif" width="100%" alt="Doodle-guided object generation 1">
-
-</td>
-<td width="50%" valign="top">
-
-<strong>#4</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/006-color-block.gif" width="100%" alt="Color-block guided editing 1">
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#5</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/007-lines.gif" width="100%" alt="Line-guided detail editing 1">
-
-</td>
-<td width="50%" valign="top">
-
-<strong>#6</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/008-simple-sketches.gif" width="100%" alt="Simple sketch to refined image 1">
-
-</td>
-</tr>
-</table>
-
-### 🧱 Група можливостей 3
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#7</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/009-Feishu-Docs-Image.gif" width="100%" alt="Poster text and graphic layer edit: Avery Turns 1">
-
-</td>
-<td width="50%" valign="top">
-
-<strong>#8</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/010-Feishu-Docs-Image.gif" width="100%" alt="Poster offer layer edit: Happy Hour 1">
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#9</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/011-Feishu-Docs-Image.gif" width="100%" alt="Fashion image layer edit inside a design layout 1">
-
-</td>
-<td width="50%" valign="top">
-
-<strong>#10</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/012-Feishu-Docs-Image.gif" width="100%" alt="Sports poster graphic layer edit 1">
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#11</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/013-Feishu-Docs-Image.gif" width="100%" alt="Poster element edit: Public Joy 1">
-
-</td>
-<td width="50%" valign="top">
-
-<strong>#12</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/014-Feishu-Docs-Image.gif" width="100%" alt="Material surface swap with precise texture response 1">
-
-</td>
-</tr>
-</table>
-
-### 📍 Група можливостей 4
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#13</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/015-Feishu-Docs-Image.png" width="48%" alt="Grid-position object movement 1">
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/016-Feishu-Docs-Image.png" width="48%" alt="Grid-position object movement 2">
-
-<details>
-<summary>Показати промпт</summary>
-
-```
-Move the red car in the lower-left corner one grid cell to the right, and move the black pawn in the second column from the left of the black-square position one grid cell downward.
-```
-
-</details>
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-
-### 🧩 Група можливостей 5
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#14</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/017-Feishu-Docs-Image.png" width="100%" alt="Foreground/person layer separation 1">
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-
-### 🖼️ Група можливостей 6
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#15</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/018-Feishu-Docs-Image.png" width="48%" alt="Seven-reference still-life input/output composition 1">
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/019-Feishu-Docs-Image.png" width="48%" alt="Seven-reference still-life input/output composition 2">
-
-<details>
-<summary>Показати промпт</summary>
-
-```
-Precisely cut out the objects from my seven white-background reference photos and arrange them into a realistic still-life photography image according to the specified layout. Make sure the perspective, lighting, and spatial relationships are correct. Faithfully preserve material details such as wood grain, leather, lace, jelly glass, and feathers, creating a high-quality image that feels realistic and playful, with a blend of vintage and modern aesthetics.
-```
-
-</details>
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-
-### 🎬 Група можливостей 7
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#16</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/020-Cinematic-narrative-tennis-glass-shatter.png" width="100%" alt="Cinematic tennis glass shatter 1">
-
-</td>
-<td width="50%" valign="top">
-
-<strong>#17</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/021-Cinematic-narrative-action-boxing.png" width="100%" alt="Cinematic boxing action 1">
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#18</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/022-Cinematic-narrative-3D-animation.png" width="100%" alt="3D animation style scene 1">
-
-</td>
-<td width="50%" valign="top">
-
-<strong>#19</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/023-Cinematic-narrative-visual-concept.png" width="100%" alt="Visual concept art 1">
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#20</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/024-Cinematic-narrative-game-scene.png" width="100%" alt="Game scene visual 1">
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-
-### 🌐 Група можливостей 8
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#21</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/025-Welcome.png" width="100%" alt="Arabic and English welcome sign 1">
-
-</td>
-<td width="50%" valign="top">
-
-<strong>#22</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/026-24-Open-24-hours.png" width="100%" alt="Korean open-24-hours sign 1">
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#23</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/027-Please-help-keep-the-place-clean-together.png" width="100%" alt="Thai cleanliness sign 1">
-
-</td>
-<td width="50%" valign="top">
-
-<strong>#24</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/028-CREATION-FRANCAISE-Made-in-France.png" width="100%" alt="French creation poster 1">
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<strong>#25</strong><br><br>
-<img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-seedream-5-pro-guide-and-prompt/assets/media/029-Future.png" width="100%" alt="Russian future poster 1">
-
-</td>
-<td width="50%"></td>
-</tr>
-</table>
-
----
-
 ## Статистика
 
 <div align="center">
@@ -396,7 +99,7 @@ Precisely cut out the objects from my seven white-background reference photos an
 |--------|-------|
 | Усього промптів | **113** |
 | Відібране | **10** |
-| Останнє оновлення | **четвер, 9 липня 2026 р. о 22:58:38 UTC** |
+| Останнє оновлення | **четвер, 9 липня 2026 р. о 23:21:38 UTC** |
 
 </div>
 
@@ -405,6 +108,8 @@ Precisely cut out the objects from my seven white-background reference photos an
 ## Відібрані промпти
 
 > Hand-picked for reusable structure, visual clarity, and creative range
+
+<a id="prompt-1"></a>
 
 ### No. 1: Hard sci-fi airlock film still
 
@@ -439,6 +144,8 @@ Create a hard sci-fi movie still titled AIRLOCK. Frame one white EVA-suit astron
 **[Використати цей промпт](https://x.com/karim_yourself/status/2075165434827989207)**
 
 ---
+
+<a id="prompt-2"></a>
 
 ### No. 2: 1970s Dutch romantic drama camera memory
 
@@ -476,6 +183,8 @@ Generate a 1970s European romantic-drama still set inside a tense private moment
 
 ---
 
+<a id="prompt-3"></a>
+
 ### No. 3: Anime kunoichi portrait with fine identity details
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
@@ -503,12 +212,14 @@ Create a half-body modern anime splash-art portrait of a young woman in a black 
 
 - **Автор:** [@characternexus](https://x.com/characternexus)
 - **Джерело:** [Джерело](https://x.com/characternexus/status/2074920654751592583)
-- **Опубліковано:** 8 липня 2026 р.
+- **Опубліковано:** 9 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/characternexus/status/2074920654751592583)**
 
 ---
+
+<a id="prompt-7"></a>
 
 ### No. 4: Folk-horror sunset convergence
 
@@ -543,6 +254,8 @@ Frame a folk-horror film still from an extreme low angle inside dense wheat. Let
 **[Використати цей промпт](https://x.com/karim_yourself/status/2075165437856264581)**
 
 ---
+
+<a id="prompt-16"></a>
 
 ### No. 5: Post-match sports refreshment campaign
 
@@ -580,6 +293,8 @@ Create a premium sports refreshment campaign image on a locker-room floor or ben
 **[Використати цей промпт](https://x.com/bmx_ai13/status/2075082266695582012)**
 
 ---
+
+<a id="prompt-17"></a>
 
 ### No. 6: Futuristic sports car blueprint board
 
@@ -651,6 +366,8 @@ Source: [Source](https://x.com/AiwithZohaib/status/2074880584107909602)
 
 ---
 
+<a id="prompt-18"></a>
+
 ### No. 7: Outdoor editorial action poster template
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
@@ -685,6 +402,8 @@ Create a {argument name="aspect_ratio" default="16:9"} full-bleed editorial acti
 **[Використати цей промпт](https://x.com/AI__TSUBAKI/status/2075128188964159539)**
 
 ---
+
+<a id="prompt-58"></a>
 
 ### No. 8: Official precise editing control workflow
 
@@ -721,6 +440,8 @@ Use the uploaded image as the locked base. Edit exactly the marked area and pres
 
 ---
 
+<a id="prompt-59"></a>
+
 ### No. 9: Official complex information visualization
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
@@ -754,6 +475,8 @@ Create a complex information visualization that combines one diagram, one small 
 **[Використати цей промпт](https://x.com/BytePlusGlobal/status/2074878820122005880)**
 
 ---
+
+<a id="prompt-60"></a>
 
 ### No. 10: Official native multilingual generation
 
@@ -793,519 +516,116 @@ Generate a localized campaign asset directly in the target language. Respect the
 
 > Sorted by publish date and curation order
 
-### No. 1: Character Design - Avant-garde streetwear creator sheet
+<a id="workflow-directed-editing-input-control"></a>
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+### Directed Editing & Input Control (18)
 
-#### Опис
+Prompts that modify an existing image or use regions, sketches, references, and positional instructions to control the result.
 
-A character design sheet pattern, normalized from a public X comparison post, useful for full-body turnaround, techwear, and studio render tests.
+**Відібрані промпти**
 
-#### Промпт
+- [Official precise editing control workflow](#prompt-58)
 
-```
-Design a full-body character sheet for a male creator in avant-garde streetwear. Build the look around an oversized asymmetrical matte-black tech jacket, dark turtleneck, tactical cargo trousers with hardware straps, chunky futuristic shoes, geometric tinted smart glasses, and a small neon-green piping accent. Place the figure on a minimal ash-grey studio background. Use high-contrast cinematic lighting, sleek editorial styling, clean turnaround readability, ultra-detailed materials, and a 16:9 composition.
-```
+<a id="prompt-5"></a>
 
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyPTNdXwAAzU_j.jpg" width="100%" alt="Character Design - Avant-garde streetwear creator sheet - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyPTNmW4AEDnk0.jpg" width="100%" alt="Character Design - Avant-garde streetwear creator sheet - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyPTN6XoAA1Sym.jpg" width="100%" alt="Character Design - Avant-garde streetwear creator sheet - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyPKnuWgAALkzp.jpg" width="100%" alt="Character Design - Avant-garde streetwear creator sheet - Image 4"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Boluwatifeolad7](https://x.com/Boluwatifeolad7)
-- **Джерело:** [Джерело](https://x.com/Boluwatifeolad7/status/2075191098184442310)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Boluwatifeolad7/status/2075191098184442310)**
-
----
-
-### No. 2: Reference Image Edit - Y2K reference selfie coffee-shop edit
+#### No. 1: Y2K reference selfie coffee-shop edit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
-#### Опис
+##### Опис
 
 A reference-image editing pattern, normalized from a public X prompt, that keeps facial identity and makeup while changing styling and setting.
 
-#### Промпт
+##### Промпт
 
 ```
 Use the uploaded selfie only as the facial-identity and makeup reference. Keep face geometry recognizable, but replace the hairstyle with glossy side-parted blonde hair. Restyle the subject in a pale blue denim tube top, red bead necklace, and gold hoop earrings at an outdoor coffee-shop table on a bright New York summer morning around the year 2000. Shoot from a low phone-camera angle pointed toward the face, with one arm extending toward the edge of frame and the other near a half-empty coffee cup. Make the foreground candid, detailed, and lightly smiling, with blue sky and distant city architecture in the background.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMusDG6XQAAVvcV.jpg" width="100%" alt="Reference Image Edit - Y2K reference selfie coffee-shop edit - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMusEX5WoAA4Mir.jpg" width="100%" alt="Reference Image Edit - Y2K reference selfie coffee-shop edit - Image 2"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMusDG6XQAAVvcV.jpg" width="100%" alt="Y2K reference selfie coffee-shop edit - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMusEX5WoAA4Mir.jpg" width="100%" alt="Y2K reference selfie coffee-shop edit - Image 2"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@asheem01](https://x.com/asheem01)
 - **Джерело:** [Джерело](https://x.com/asheem01/status/2074941260863811644)
-- **Опубліковано:** 8 липня 2026 р.
+- **Опубліковано:** 9 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/asheem01/status/2074941260863811644)**
 
 ---
 
-### No. 3: Travel Visual - Maldives tropical paradise visual
+<a id="prompt-21"></a>
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A travel-poster visual pattern, normalized from public image ALT text, for clean composition, water clarity, and destination-brand mood.
-
-#### Промпт
-
-```
-Create an exotic tropical travel visual of the Maldives with crystal-clear turquoise water, clean white sand, vivid coral reef color beneath the surface, and a calm luxury-resort atmosphere. Keep the image bright, polished, and tranquil, with a wide composition that can work as a destination campaign banner. Preserve natural water texture, crisp sunlight, and a premium editorial finish.
-```
-
-<details>
-<summary>Related prompt variants (1)</summary>
-
-**Original Maldives travel-poster prompt**
-
-```
-With its crystal-clear waters, white sandy beaches, and vibrant coral reefs, the Maldives is a tropical paradise perfect for exotic and tranquil visuals. SIGNATURE: 'BicRevelation' cursive script lower-left.
-```
-
-Author: [@Bic_Revelation](https://x.com/Bic_Revelation)
-
-Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
-
-</details>
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMu8AX3WMAAquvx.jpg" width="100%" alt="Travel Visual - Maldives tropical paradise visual - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMu8AkwWMAAUGz4.jpg" width="100%" alt="Travel Visual - Maldives tropical paradise visual - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Bic_Revelation](https://x.com/Bic_Revelation)
-- **Джерело:** [Джерело](https://x.com/Bic_Revelation/status/2074959714366922857)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Bic_Revelation/status/2074959714366922857)**
-
----
-
-### No. 4: Cinematic Film Still - Rain-soaked noir roadside diner
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A noir lighting test from a public Seedream 5 Pro prompt thread, normalized for wet asphalt, sodium light, and black negative space.
-
-#### Промпт
-
-```
-Create a wide exterior noir shot of a lonely roadside diner during heavy night rain. Pool sodium-orange streetlight across wet asphalt so puddles fracture the reflections. Let the diner glow faintly warm against an otherwise black sky, with one detective silhouette barely visible through a rain-streaked window. Keep the surrounding darkness nearly absolute, add visible rain streaks, film grain, and anamorphic letterboxing.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2haFXgAARWHn.jpg" width="100%" alt="Cinematic Film Still - Rain-soaked noir roadside diner - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
-- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165441236803971)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/karim_yourself/status/2075165441236803971)**
-
----
-
-### No. 5: Cinematic Film Still - Sun Throne scale contrast
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A fantasy scale-composition prompt, rewritten from a public Seedream 5 Pro thread, for testing shafts of light and foreground blur.
-
-#### Промпт
-
-```
-Build a fantasy film still titled The Sun Throne. Place a bowed supplicant in soft foreground blur while enormous gilded steps climb sharply into a blinding golden shaft. Keep the god-king unseen so the architecture does the storytelling. Use deep hall shadows, one diagonal beam of light, extreme scale contrast, film grain, and a reverent but oppressive atmosphere.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2mEsWoAEBpZX.jpg" width="100%" alt="Cinematic Film Still - Sun Throne scale contrast - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
-- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165447490535486)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/karim_yourself/status/2075165447490535486)**
-
----
-
-### No. 6: Cinematic Film Still - Whiteout survival abstraction
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A minimal survival-film prompt, normalized from a public Seedream 5 Pro thread, for near-white compositions and directional ambiguity.
-
-#### Промпт
-
-```
-Create a survival film still in a total snow whiteout. Reduce the mountaineer to a tiny faint mark in a field of almost pure white with no horizon and no reliable sense of up or down. Let a taut climbing rope be the only clear line in the frame. Use flat blinding light, minimal contrast, subtle film grain, and an anamorphic composition that feels disorienting and desperate.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2zUfWUAAEEoV.jpg" width="100%" alt="Cinematic Film Still - Whiteout survival abstraction - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
-- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165459993784441)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/karim_yourself/status/2075165459993784441)**
-
----
-
-### No. 7: Cinematic Film Still - Lived-in afternoon kitchen portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A candid lifestyle photography pattern from a public Seedream 5 Pro prompt thread, rewritten for natural skin, domestic detail, and warm late light.
-
-#### Промпт
-
-```
-Photograph a relaxed adult woman leaning against a kitchen counter in a lived-in suburban home during late afternoon. Use a 35mm eye-level handheld feel, natural shallow depth of field, visible skin texture, loose hair, an oversized cream knit cardigan, worn denim, and both hands around a matte ceramic mug. Add window light from camera right, dust in the air, soft long shadows, muted domestic clutter, warm cream and denim blues, and no beauty-filter gloss.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyqPD5WgAAVHnq.jpg" width="100%" alt="Cinematic Film Still - Lived-in afternoon kitchen portrait - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075222988106932645)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Digitalwindai/status/2075222988106932645)**
-
----
-
-### No. 8: Cinematic Film Still - Western Front dawn trench still
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A historical realism pattern from a public Seedream 5 Pro prompt thread, useful for restrained color, period texture, and atmospheric depth.
-
-#### Промпт
-
-```
-Create a 1916 Western Front film still at dawn. Show an exhausted young soldier in period uniform standing in a muddy trench, rifle slung over one shoulder, staring past the camera. Build the scene with sandbags, timber supports, distant barbed wire, faint smoke over no-man’s land, cold overcast light, muted khaki, grey, rust, and realistic mud, fabric, and worn metal texture.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyqaGyXwAEMlFo.jpg" width="100%" alt="Cinematic Film Still - Western Front dawn trench still - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075222992515125388)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Digitalwindai/status/2075222992515125388)**
-
----
-
-### No. 9: Cinematic Film Still - Capital ship over alien planet
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A sci-fi scale prompt from a public Seedream 5 Pro thread, rewritten for deep-focus space realism and non-neon production design.
-
-#### Промпт
-
-```
-Render a massive capital-class spaceship orbiting a fictional alien planet. Use a wide deep-focus 35mm frame with the planet curve below, swirling atmosphere, tiny stars, and a faint nebula for scale. Light one side of the hull with hard directional sunlight while the other side falls into deep shadow, with a soft blue atmospheric rim on the metal. Avoid urban cyberpunk and neon; keep the mood vast, quiet, and photorealistic.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyqdGqWkAA0W3w.jpg" width="100%" alt="Cinematic Film Still - Capital ship over alien planet - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075222996810145816)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Digitalwindai/status/2075222996810145816)**
-
----
-
-### No. 10: Character Design - Anime sorceress key visual
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-An anime key-visual prompt from a public Seedream 5 Pro thread, rewritten for dynamic cel shading and magical lighting.
-
-#### Промпт
-
-```
-Create an epic Japanese anime key visual of a sorceress mid-incantation. Use a low-angle dynamic medium shot, flowing hair and robes, hands weaving glowing runes, an arcane circle below, floating debris, and a battlefield backdrop. Make the main light a vivid violet-cyan magic glow with gold accents, crisp cel-shaded fabric, clean hair detail, radiant particles, and no photorealistic skin or 3D-render look.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyq4JkW4AAazaX.jpg" width="100%" alt="Character Design - Anime sorceress key visual - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223017127383054)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223017127383054)**
-
----
-
-### No. 11: Cinematic Film Still - Floating temple archipelago key visual
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-An anime environment prompt from a public Seedream 5 Pro thread, rewritten for painterly background art and strong depth layering.
-
-#### Промпт
-
-```
-Design a wide anime establishing shot of ancient temple islands floating above a sea of clouds. Link the islands with long stone stairways, torii gates, pagoda rooftops, mist, drifting cherry petals, and one small figure crossing a bridge for scale. Use warm late-afternoon sun breaking through the cloud layer, soft god rays, coral-pink blossoms, teal distant sky, and clean painterly background detail.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyrCgQXwAAhNgQ.jpg" width="100%" alt="Cinematic Film Still - Floating temple archipelago key visual - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223022089154792)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223022089154792)**
-
----
-
-### No. 12: Technical Drawing - Flat-pack assembly guide stress test
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A layout prompt normalized from a public IKEA-style Seedream 5 Pro test, useful for instruction diagrams and procedural clarity.
-
-#### Промпт
-
-```
-Generate an IKEA-style flat-pack assembly guide for a compact modular side table. Show numbered steps, simplified line drawings, screws, dowels, panels, arrows, hand-tool icons, and a final assembled object. Keep the page clean, grayscale, realistic enough to be useful, and structured so each part and action is legible at a glance.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvHhyFXMAASna0.jpg" width="100%" alt="Technical Drawing - Flat-pack assembly guide stress test - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvHhyGXMAA7mA7.jpg" width="100%" alt="Technical Drawing - Flat-pack assembly guide stress test - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@al_tools43377](https://x.com/al_tools43377)
-- **Джерело:** [Джерело](https://x.com/al_tools43377/status/2074971603054502365)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/al_tools43377/status/2074971603054502365)**
-
----
-
-### No. 13: Infographic & Typography - Baklava recipe infographic
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A food infographic prompt normalized from a public Dreamina Seedream 5 Pro post, aimed at readable text, recipe structure, and illustrated steps.
-
-#### Промпт
-
-```
-Design a 4K food infographic explaining how to make baklava. Arrange ingredients, syrup ratios, layering steps, baking time, cutting pattern, and serving tips into clear panels. Use warm pastry colors, honey highlights, pistachio green accents, readable headings, small icons, and tidy recipe typography without fake brand marks.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuSugKWcAAMV7b.jpg" width="100%" alt="Infographic &amp; Typography - Baklava recipe infographic - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuS1dHW0AALW6h.jpg" width="100%" alt="Infographic &amp; Typography - Baklava recipe infographic - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuS1dGWMAEr0ES.jpg" width="100%" alt="Infographic &amp; Typography - Baklava recipe infographic - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuS1dWXoAAhxVC.jpg" width="100%" alt="Infographic &amp; Typography - Baklava recipe infographic - Image 4"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
-- **Джерело:** [Джерело](https://x.com/ahmetmertugrul/status/2074914214074872162)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/ahmetmertugrul/status/2074914214074872162)**
-
----
-
-### No. 14: Precision Editing - Marked-up living room redesign
+#### No. 2: Marked-up living room redesign
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
-#### Опис
+##### Опис
 
 A precision-editing workflow normalized from a public Seedream 5 Pro interior-design post, for maintaining realism while applying clear edit notes.
 
-#### Промпт
+##### Промпт
 
 ```
 Use the uploaded living-room image and follow the markup notes only where indicated. Replace the sofa, update curtains, adjust flooring, add warmer practical lighting, and introduce a few modern decor objects while preserving camera angle, windows, walls, room scale, and believable shadows. Keep the final image cohesive, realistic, and not over-styled.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuPFaLbEAABEgV.jpg" width="100%" alt="Precision Editing - Marked-up living room redesign - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuPF4kaIAAauHI.jpg" width="100%" alt="Precision Editing - Marked-up living room redesign - Image 2"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuPFaLbEAABEgV.jpg" width="100%" alt="Marked-up living room redesign - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuPF4kaIAAauHI.jpg" width="100%" alt="Marked-up living room redesign - Image 2"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@ZariaTechAI](https://x.com/ZariaTechAI)
 - **Джерело:** [Джерело](https://x.com/ZariaTechAI/status/2074909390650634560)
-- **Опубліковано:** 8 липня 2026 р.
+- **Опубліковано:** 9 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/ZariaTechAI/status/2074909390650634560)**
 
 ---
 
-### No. 15: Precision Editing - Sketch-to-polished product visual edit
+<a id="prompt-22"></a>
+
+#### No. 3: Sketch-to-polished product visual edit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
-#### Опис
+##### Опис
 
 A Dreamina capability workflow normalized from CapCut’s Seedream 5.0 Pro announcement, focused on pixel-level edits, recolor, sketch refinement, and multi-image blending.
 
-#### Промпт
+##### Промпт
 
 ```
 Start from a rough product sketch or reference collage. Preserve the original silhouette and intent, then turn it into a polished commercial product visual with clean contours, realistic materials, consistent recoloring, and a simple studio background. Blend any supplied references naturally, edit only the marked regions, and keep unmarked areas stable.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2075228737575272448/img/Uu4Tti5yl-rohB7a.jpg" width="100%" alt="Precision Editing - Sketch-to-polished product visual edit - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2075228737575272448/img/Uu4Tti5yl-rohB7a.jpg" width="100%" alt="Sketch-to-polished product visual edit - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@capcutapp](https://x.com/capcutapp)
 - **Джерело:** [Джерело](https://x.com/capcutapp/status/2075230628786970765)
@@ -1316,30 +636,32 @@ Start from a rough product sketch or reference collage. Preserve the original si
 
 ---
 
-### No. 16: Precision Editing - Region-precise product poster edit
+<a id="prompt-23"></a>
+
+#### No. 4: Region-precise product poster edit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
-#### Опис
+##### Опис
 
 A fal announcement workflow normalized into a reusable production prompt for changing one element while preserving the rest of a layout.
 
-#### Промпт
+##### Промпт
 
 ```
 Use the existing poster or product mockup as the base. Change only the selected region: replace the hero product color with a new seasonal palette, update the headline language, and leave background composition, shadows, layout spacing, typography style, and surrounding props untouched. Preserve production-ready detail and legible in-image text.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2074846795377565696/pu/img/TxWQhus9fd-LuXO2.jpg" width="100%" alt="Precision Editing - Region-precise product poster edit - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2074846795377565696/pu/img/TxWQhus9fd-LuXO2.jpg" width="100%" alt="Region-precise product poster edit - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@fal](https://x.com/fal)
 - **Джерело:** [Джерело](https://x.com/fal/status/2074846830198722944)
@@ -1350,64 +672,572 @@ Use the existing poster or product mockup as the base. Change only the selected 
 
 ---
 
-### No. 17: Reference Image Edit - Ten-reference brand moodboard fusion
+<a id="prompt-24"></a>
+
+#### No. 5: Ten-reference brand moodboard fusion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
-#### Опис
+##### Опис
 
 A Krea workflow normalized into a Seedream 5 Pro multi-reference prompt skill for brand-consistent image creation.
 
-#### Промпт
+##### Промпт
 
 ```
 Use up to ten reference images as a brand moodboard: product form, color palette, fabric texture, lighting, background architecture, model pose, typography feel, campaign tone, packaging finish, and negative examples. Generate one coherent hero image that merges those references without collage artifacts. Keep the final asset clean, realistic, brand-safe, and directly usable in a campaign.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074890722336178177/img/jgoQSoL0vgu3NWqm.jpg" width="100%" alt="Reference Image Edit - Ten-reference brand moodboard fusion - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074890722336178177/img/jgoQSoL0vgu3NWqm.jpg" width="100%" alt="Ten-reference brand moodboard fusion - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@krea_ai](https://x.com/krea_ai)
 - **Джерело:** [Джерело](https://x.com/krea_ai/status/2074891481832456638)
-- **Опубліковано:** 8 липня 2026 р.
+- **Опубліковано:** 9 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/krea_ai/status/2074891481832456638)**
 
 ---
 
-### No. 18: Infographic & Typography - Enterprise visual asset production brief
+<a id="prompt-47"></a>
+
+#### No. 6: Character silhouette to real pudding edit
+
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A Japanese image-to-image test normalized from a public Seedream 5 Pro post, focused on replacing a character shape with a realistic dessert.
+
+##### Промпт
+
+```
+Use the uploaded character silhouette and surface contours as the shape reference, then reinterpret it as a realistic custard pudding viewed from above. Preserve the overall outline and bumps, replace the material with glossy caramel, soft custard, plate shadows, and food-photography lighting.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMv3RPDaAAA4zYt.jpg" width="100%" alt="Character silhouette to real pudding edit - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMv3ZGLboAEdmzG.jpg" width="100%" alt="Character silhouette to real pudding edit - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@TlanoAI](https://x.com/TlanoAI)
+- **Джерело:** [Джерело](https://x.com/TlanoAI/status/2075024241284837875)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** ja
+
+**[Використати цей промпт](https://x.com/TlanoAI/status/2075024241284837875)**
+
+---
+
+<a id="prompt-61"></a>
+
+#### No. 7: Separate-layer design handoff
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A layer-separation workflow normalized from a high-engagement public Seedream 5.0 Pro post.
+
+##### Промпт
+
+```
+Create a design concept that can be separated into editable layers: background, subject, product, text, shadows, decorative marks, and callout labels. Keep edges clean, overlaps logical, and every layer visually independent enough for a Photoshop-style handoff.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2074854109195194368/pu/img/kw1gz03TrGY7dBjD.jpg" width="100%" alt="Separate-layer design handoff - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@bdsqlsz](https://x.com/bdsqlsz)
+- **Джерело:** [Джерело](https://x.com/bdsqlsz/status/2074854144469238254)
+- **Опубліковано:** 8 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/bdsqlsz/status/2074854144469238254)**
+
+---
+
+<a id="prompt-63"></a>
+
+#### No. 8: Region edit plus layer separation mockup
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A Morphic launch post normalized into a precise editing and layer-separation production brief.
+
+##### Промпт
+
+```
+Use the base visual as a production mockup. Perform a precise region edit, then organize the result as if the background, product, typography, shadows, and accent graphics could be exported separately. Keep multilingual text clean, layout balanced, and every changed element consistent with the original art direction.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074851748389531648/img/J1NlerZdGdBSd7pK.jpg" width="100%" alt="Region edit plus layer separation mockup - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@morphic](https://x.com/morphic)
+- **Джерело:** [Джерело](https://x.com/morphic/status/2074851991466205431)
+- **Опубліковано:** 8 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/morphic/status/2074851991466205431)**
+
+---
+
+<a id="prompt-64"></a>
+
+#### No. 9: Prompt-or-reference detail render
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A Runway availability post normalized into a flexible prompt/reference workflow for legible multilingual image generation.
+
+##### Промпт
+
+```
+Generate a highly detailed image from either a written prompt or a visual reference. If a reference is provided, preserve the key composition and material cues; if only text is provided, follow the scene description closely. Add readable in-image text in the requested language and keep the final image clean enough for editorial use.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074981967276187648/img/wTkNqS727wv_OW6O.jpg" width="100%" alt="Prompt-or-reference detail render - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@runwayml](https://x.com/runwayml)
+- **Джерело:** [Джерело](https://x.com/runwayml/status/2074982268175630814)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/runwayml/status/2074982268175630814)**
+
+---
+
+<a id="prompt-69"></a>
+
+#### No. 10: Photobomber removal replacement edit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A precision-editing workflow normalized from a public Seedream 5.0 Pro retouching post.
+
+##### Промпт
+
+```
+Use the uploaded street photo and remove the marked photobomber. Replace the area with a believable background object or environmental detail, preserving lighting, perspective, shadows, grain, and depth of field. Do not alter the main subject or surrounding composition.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuVx7AaEAAZGB2.jpg" width="100%" alt="Photobomber removal replacement edit - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuVyZEbsAEd-ow.jpg" width="100%" alt="Photobomber removal replacement edit - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@filodyprincess](https://x.com/filodyprincess)
+- **Джерело:** [Джерело](https://x.com/filodyprincess/status/2074916756452483224)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/filodyprincess/status/2074916756452483224)**
+
+---
+
+<a id="prompt-72"></a>
+
+#### No. 11: Street-to-rainy chase annotation edit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A cinematic annotation workflow normalized from a public Seedream 5.0 Pro post.
+
+##### Промпт
+
+```
+Start from a normal street still with markup notes. Transform the scene into a rainy chase moment: wet pavement, motion energy, darker sky, directional headlights, and tense composition. Keep any marked subjects and camera framing consistent, and make every annotation land in the final image.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtnI8TboAI0tWS.jpg" width="100%" alt="Street-to-rainy chase annotation edit - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtnLOKaAAAJ3G-.jpg" width="100%" alt="Street-to-rainy chase annotation edit - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@HarshBisen143](https://x.com/HarshBisen143)
+- **Джерело:** [Джерело](https://x.com/HarshBisen143/status/2074865604029550886)
+- **Опубліковано:** 8 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/HarshBisen143/status/2074865604029550886)**
+
+---
+
+<a id="prompt-73"></a>
+
+#### No. 12: Client feedback revision loop
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A client-feedback workflow normalized from a public Seedream 5.0 Pro revision-loop post.
+
+##### Промпт
+
+```
+Use an existing design comp covered with plain-language feedback such as bigger, warmer, less busy, and move this left. Apply the revisions in one pass while keeping the original brand system, spacing logic, and image quality intact. The result should feel like a designer interpreted the comments correctly.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuA5o2bgAAzCFa.jpg" width="100%" alt="Client feedback revision loop - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuA6KJaAAQi4y7.jpg" width="100%" alt="Client feedback revision loop - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuA6-iaAAAIqmP.jpg" width="100%" alt="Client feedback revision loop - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuA7l0bIAA1nn4.jpg" width="100%" alt="Client feedback revision loop - Image 4"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@techxsarfraj](https://x.com/techxsarfraj)
+- **Джерело:** [Джерело](https://x.com/techxsarfraj/status/2074893823029998052)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/techxsarfraj/status/2074893823029998052)**
+
+---
+
+<a id="prompt-90"></a>
+
+#### No. 13: Christmas editorial selfie identity edit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A complete public Seedream 5 Pro image-edit prompt for preserving facial identity while changing hair, wardrobe, pose, and festive editorial styling.
+
+##### Промпт
+
+```
+Use facial identity, facial geometry but not original hair from the reference image. Her new hair is of a two-tone blonde colour, long, flowing and professionally styled. Create a high-fashion editorial Christmas scene featuring a woman flirting with a young and strong man dressed as Santa Claus. The setting is a lived-in indoor festive environment with a deep red carpeted floor, scattered Christmas ornaments, mirrored disco balls, and a partially visible champagne bottle on the floor. The woman is wearing a fitted deep-red, shimmering, metallic mini-dress, thin straps, and natural fabric tension around the waist and hips to accentuate her feminine beauty. Visible healthy skin texture and pores. She is sitting with slightly arched torso, in the lap of a tall and muscly man dressed in loose Santa outfit. One arm resting on Santa's leg, the other holding a champagne glass. Lighting is dramatic, reflections from disco balls, flash-style editorial lighting with strong highlights and defined shadows, realistic reflections on velvet fabric and ornaments. Santa's costume is rich red velvet with white fur trim, textured beard, round glasses catching light naturally. Shot on a full-frame DSLR, 35mm lens, shallow depth of field, crisp focus on faces, cinematic party, editorial style with natural grain.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM0IxsjX0AEPndA.jpg" width="100%" alt="Christmas editorial selfie identity edit - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@asheem01](https://x.com/asheem01)
+- **Джерело:** [Джерело](https://x.com/asheem01/status/2075324671214403879)
+- **Опубліковано:** 10 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/asheem01/status/2075324671214403879)**
+
+---
+
+<a id="prompt-87"></a>
+
+#### No. 14: Full-body dragon character extension
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A public workflow using Seedream 5.0 Pro to extend a dragon into a full-body character view, normalized as a reference-image edit prompt.
+
+##### Промпт
+
+```
+Using the provided dragon head or partial-body reference, create a full-body character sheet that completes the creature while preserving the original silhouette language, horn shape, scale pattern, eye color, and personality. Show the dragon standing in a neutral three-quarter pose with wings, tail, claws, and torso fully visible. Add subtle studio lighting, a clean background, anatomical believability, and enough texture detail for concept-art review. Do not change the face identity from the reference image.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy2s8jXIAAOhQ8.jpg" width="100%" alt="Full-body dragon character extension - Image 1"></td>
+<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy2s8uXcAEViN-.jpg" width="100%" alt="Full-body dragon character extension - Image 2"></td>
+<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy2s8uWUAIql8d.jpg" width="100%" alt="Full-body dragon character extension - Image 3"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@JossMonzoni](https://x.com/JossMonzoni)
+- **Джерело:** [Джерело](https://x.com/JossMonzoni/status/2075245480108257448)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/JossMonzoni/status/2075245480108257448)**
+
+---
+
+<a id="prompt-120"></a>
+
+#### No. 15: Japanese no-makeup image edit instruction
+
+![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A source-backed tutorial from the original public X post, demonstrating japanese no-makeup image edit instruction.
+
+##### Промпт
+
+```
+すっぴんメイクにして
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwXj5aaAAAacEs.jpg" width="100%" alt="Japanese no-makeup image edit instruction - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwXkyDaEAAeX23.jpg" width="100%" alt="Japanese no-makeup image edit instruction - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@renataro9](https://x.com/renataro9)
+- **Джерело:** [Джерело](https://x.com/renataro9/status/2075059699112652908)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** ja-JP
+
+**[Використати цей промпт](https://x.com/renataro9/status/2075059699112652908)**
+
+---
+
+<a id="prompt-123"></a>
+
+#### No. 16: Localized anime edit preserving composition while changing one subject
+
+![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
+
+##### Опис
+
+A source-backed tutorial from the original public X post, demonstrating localized anime edit preserving composition while changing one subject.
+
+##### Промпт
+
+```
+元画像の構図、人物の横顔、顔の輪郭、髪型、花飾り、白いドレス、藤の花の背景、全体の淡いピンクとラベンダーの幻想的な雰囲気はそのまま維持してください。
+
+局所的に、少女の視線の先にいる紫の蝶を、より美しく印象的な「光をまとった宝石のような蝶」に変更してください。蝶の羽は透明感のある紫、水晶、ラベンダー、淡いピンクのグラデーションで、細かな発光粒子と繊細な羽脈を持たせてください。
+
+蝶から少女の瞳へ向かって、細い光の粒子と柔らかな魔法の軌跡を追加してください。光は強すぎず、白飛びさせず、既存の明るく儚い花園の空気感に自然に溶け込ませてください。
+
+少女の紫色の瞳には、蝶の光が小さく反射しているような宝石風のハイライトを少しだけ追加してください。瞳の形、顔立ち、表情、年齢感は変えないでください。
+
+前髪の一部にも、蝶の淡い紫光がわずかに反射しているようにしてください。ただし髪色全体は変えず、ピンクブロンドの柔らかさを維持してください。
+
+全体は高品質な日本アニメイラスト、幻想的、透明感、春の花園、上品、繊細、儚い美しさ。過度な発光、派手な魔法陣、強いコントラスト、顔の変形、衣装変更、背景変更は避けてください。
+
+顔を変えない、横顔を変えない、鼻を変えない、口を変えない、顎を変えない、髪型を変えない、花飾りを変えない、服を変えない、背景全体を変えない、暗くしない、ホラーにしない、強すぎる発光にしない、魔法陣を追加しない、羽を大きくしすぎない、蝶を主役にしすぎない、白飛びさせない、彩度を上げすぎない
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMv_Xn3bAAAiHQ2.jpg" width="100%" alt="Localized anime edit preserving composition while changing one subject - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMv_cFLawAAxkFT.jpg" width="100%" alt="Localized anime edit preserving composition while changing one subject - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@haruuraeadss](https://x.com/haruuraeadss)
+- **Джерело:** [Джерело](https://x.com/haruuraeadss/status/2075035201391255593)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** ja-JP
+
+**[Використати цей промпт](https://x.com/haruuraeadss/status/2075035201391255593)**
+
+---
+
+<a id="prompt-124"></a>
+
+#### No. 17: Image-input cat-to-mecha transformation
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A source-backed demo from the original public X post, demonstrating image-input cat-to-mecha transformation.
+
+##### Промпт
+
+```
+a pic of my cat, asked for a mecha version
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtqwoYbMAE7yRn.jpg" width="100%" alt="Image-input cat-to-mecha transformation - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtrDP3bYAAhgnM.jpg" width="100%" alt="Image-input cat-to-mecha transformation - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@JennyAITech](https://x.com/JennyAITech)
+- **Джерело:** [Джерело](https://x.com/JennyAITech/status/2074870477651398972)
+- **Опубліковано:** 8 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/JennyAITech/status/2074870477651398972)**
+
+---
+
+<a id="workflow-commercial-design-ui-posters"></a>
+
+### Commercial Design, UI & Posters (23)
+
+Production briefs for advertisements, product campaigns, interfaces, posters, typography, and other designed assets.
+
+**Відібрані промпти**
+
+- [Post-match sports refreshment campaign](#prompt-16)
+- [Outdoor editorial action poster template](#prompt-18)
+- [Official complex information visualization](#prompt-59)
+- [Official native multilingual generation](#prompt-60)
+
+<a id="prompt-20"></a>
+
+#### No. 18: Baklava recipe infographic
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A food infographic prompt normalized from a public Dreamina Seedream 5 Pro post, aimed at readable text, recipe structure, and illustrated steps.
+
+##### Промпт
+
+```
+Design a 4K food infographic explaining how to make baklava. Arrange ingredients, syrup ratios, layering steps, baking time, cutting pattern, and serving tips into clear panels. Use warm pastry colors, honey highlights, pistachio green accents, readable headings, small icons, and tidy recipe typography without fake brand marks.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuSugKWcAAMV7b.jpg" width="100%" alt="Baklava recipe infographic - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuS1dHW0AALW6h.jpg" width="100%" alt="Baklava recipe infographic - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuS1dGWMAEr0ES.jpg" width="100%" alt="Baklava recipe infographic - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuS1dWXoAAhxVC.jpg" width="100%" alt="Baklava recipe infographic - Image 4"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@ahmetmertugrul](https://x.com/ahmetmertugrul)
+- **Джерело:** [Джерело](https://x.com/ahmetmertugrul/status/2074914214074872162)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/ahmetmertugrul/status/2074914214074872162)**
+
+---
+
+<a id="prompt-25"></a>
+
+#### No. 19: Enterprise visual asset production brief
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/Raycast-Friendly-purple)
 
-#### Опис
+##### Опис
 
 A BytePlus announcement normalized into a broad prompt framework for production-ready enterprise visuals across editing, information graphics, realism, and multilingual output.
 
-#### Промпт
+##### Промпт
 
 ```
 Create a production-ready enterprise visual asset for {argument name="industry" default="global logistics"}. The image must combine realistic subject matter, clear information hierarchy, localized headline text, and one precise edited element requested by the art director. Keep the style polished enough for a campaign landing page, with readable annotations, consistent brand colors, and no hallucinated logos.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074850963991748608/img/BUqDTNDYcIimKWcH.jpg" width="100%" alt="Infographic &amp; Typography - Enterprise visual asset production brief - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074850963991748608/img/BUqDTNDYcIimKWcH.jpg" width="100%" alt="Enterprise visual asset production brief - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@BytePlusGlobal](https://x.com/BytePlusGlobal)
 - **Джерело:** [Джерело](https://x.com/BytePlusGlobal/status/2074851378879668708)
@@ -1418,29 +1248,31 @@ Create a production-ready enterprise visual asset for {argument name="industry" 
 
 ---
 
-### No. 19: Multilingual Poster - Fourteen-language infographic campaign
+<a id="prompt-26"></a>
+
+#### No. 20: Fourteen-language infographic campaign
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
 A Magnific availability post normalized into a multilingual infographic prompt for testing native text rendering and design consistency.
 
-#### Промпт
+##### Промпт
 
 ```
 Create the same clean campaign infographic in 14 language variants. Keep the layout, icon grid, color palette, spacing, and hierarchy identical while changing only the headline, labels, and call-to-action text. Use short safety, product, or education copy with correct script rendering, readable typography, and no decorative gibberish.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074843456372166656/img/HbQ47LaowF2sv_y_.jpg" width="100%" alt="Multilingual Poster - Fourteen-language infographic campaign - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074843456372166656/img/HbQ47LaowF2sv_y_.jpg" width="100%" alt="Fourteen-language infographic campaign - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@magnific](https://x.com/magnific)
 - **Джерело:** [Джерело](https://x.com/magnific/status/2074843521853636609)
@@ -1451,29 +1283,31 @@ Create the same clean campaign infographic in 14 language variants. Keep the lay
 
 ---
 
-### No. 20: Multilingual Poster - Five-language safety poster set
+<a id="prompt-27"></a>
+
+#### No. 21: Five-language safety poster set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
 A multilingual text-rendering test normalized from a public BytePlus Seedream 5.0 Pro post about same-layout posters in multiple scripts.
 
-#### Промпт
+##### Промпт
 
 ```
 Design a workplace safety poster template, then render it in five languages while preserving the same layout. Use one central warning icon, three short rules, a footer callout, high-contrast color, and clean sans-serif typography. Prioritize script correctness, spacing, and readable labels over decorative complexity.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtrayTWsAANC3u.jpg" width="100%" alt="Multilingual Poster - Five-language safety poster set - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtrayTWsAANC3u.jpg" width="100%" alt="Five-language safety poster set - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@Echoes999Y](https://x.com/Echoes999Y)
 - **Джерело:** [Джерело](https://x.com/Echoes999Y/status/2074870172230484301)
@@ -1484,114 +1318,35 @@ Design a workplace safety poster template, then render it in five languages whil
 
 ---
 
-### No. 21: Storyboard / Video Pipeline - 1960s Havana documentary video seed
+<a id="prompt-31"></a>
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A Seedream + Seedance workflow normalized from a public Magnific thread, designed to create a still image that can be animated into documentary footage.
-
-#### Промпт
-
-```
-Generate a realistic 1960s Havana documentary still as the first frame for video. Use natural imperfections, handheld street photography, period cars, sun-worn facades, varied faces, humid air, imperfect clothing, and archival film texture. Avoid modern objects, glossy fashion styling, duplicated faces, and over-clean AI skin. Leave enough motion cues for Seedance-style documentary animation.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2075167807415767040/img/dJKGm7JtAkTHw1p2.jpg" width="100%" alt="Storyboard / Video Pipeline - 1960s Havana documentary video seed - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@techhalla](https://x.com/techhalla)
-- **Джерело:** [Джерело](https://x.com/techhalla/status/2075170093626011858)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/techhalla/status/2075170093626011858)**
-
----
-
-### No. 22: Cinematic Film Still - San Francisco sunset phone candid
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A simple benchmark prompt normalized from a public Seedream 5.0 Pro test, useful for everyday realism and sunset phone-light handling.
-
-#### Промпт
-
-```
-Create a candid street photo of a Korean woman in her twenties using her phone in San Francisco at sunset. Keep the composition natural, with warm side light, believable city background blur, relaxed posture, real skin texture, and the casual imperfection of a quick everyday snapshot rather than a studio portrait.
-```
-
-<details>
-<summary>Related prompt variants (1)</summary>
-
-**Original San Francisco sunset prompt**
-
-```
-a Korean girl in her twenties on her iPhone in San Francisco at sunset
-```
-
-Author: [@mattworkman](https://x.com/mattworkman)
-
-Source: [Source](https://x.com/mattworkman/status/2074850550349222210)
-
-</details>
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtZW-oWcAAFcs5.jpg" width="100%" alt="Cinematic Film Still - San Francisco sunset phone candid - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@mattworkman](https://x.com/mattworkman)
-- **Джерело:** [Джерело](https://x.com/mattworkman/status/2074850550349222210)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/mattworkman/status/2074850550349222210)**
-
----
-
-### No. 23: UI / Product Mockup - Landing page style-transfer mockup
+#### No. 22: Landing page style-transfer mockup
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
 
-#### Опис
+##### Опис
 
 A UI/product mockup workflow normalized from Open Design’s Seedream 5 Pro template thread.
 
-#### Промпт
+##### Промпт
 
 ```
 Create a landing-page hero mockup by transferring a supplied visual style into a new product page. Preserve the reference palette, spacing rhythm, and visual density, but invent a fresh layout with a clear product screenshot area, headline, supporting copy blocks, CTA zone, and background image treatment. Keep it polished, commercial, and ready for design review.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyOGJJWoAAbEAt.png" width="100%" alt="UI / Product Mockup - Landing page style-transfer mockup - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyOILdXoAASHBR.png" width="100%" alt="UI / Product Mockup - Landing page style-transfer mockup - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyOKH5X0AAZ0JC.png" width="100%" alt="UI / Product Mockup - Landing page style-transfer mockup - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyOMD4XoAAFtBI.png" width="100%" alt="UI / Product Mockup - Landing page style-transfer mockup - Image 4"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyOGJJWoAAbEAt.png" width="100%" alt="Landing page style-transfer mockup - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyOILdXoAASHBR.png" width="100%" alt="Landing page style-transfer mockup - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyOKH5X0AAZ0JC.png" width="100%" alt="Landing page style-transfer mockup - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyOMD4XoAAFtBI.png" width="100%" alt="Landing page style-transfer mockup - Image 4"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@OpenDesignHQ](https://x.com/OpenDesignHQ)
 - **Джерело:** [Джерело](https://x.com/OpenDesignHQ/status/2075191289750937758)
@@ -1602,411 +1357,17 @@ Create a landing-page hero mockup by transferring a supplied visual style into a
 
 ---
 
-### No. 24: Cinematic Film Still - Noir cigarette ember close-up
+<a id="prompt-46"></a>
+
+#### No. 23: Squishcraft kids clay product ad
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
-
-A near-black noir close-up from a public Seedream 5 Pro cinematic thread, rewritten for micro-lighting and smoke texture.
-
-#### Промпт
-
-```
-Create an extreme noir close-up in near-total darkness. Let a cigarette ember glow orange-red as the only vivid point of light, revealing just a sliver of cheekbone, jaw, stubble, and drifting smoke. Use a distant sodium streetlight as a hard sculpting key, keep most of the frame pure black, add film grain, and compose in anamorphic 2.39:1 with severe contrast.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2jpgXMAAMTwx.jpg" width="100%" alt="Cinematic Film Still - Noir cigarette ember close-up - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
-- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165444453876197)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/karim_yourself/status/2075165444453876197)**
-
----
-
-### No. 25: Cinematic Film Still - Courtroom witness hard-key portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A single-light courtroom prompt from a public Seedream 5 Pro cinematic thread, normalized for emotional restraint and silhouette blocking.
-
-#### Промпт
-
-```
-Frame a tense courtroom witness in tight portrait. Half-light the face with a harsh overhead shaft so the eyes catch moisture while the rest drops into shadow. Let the lawyer appear only as a dark edge intruding from frame left. Keep the surrounding room nearly black, with restrained film grain, anamorphic framing, and a cornered but resolute mood.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2pH6WUAE8SxO.jpg" width="100%" alt="Cinematic Film Still - Courtroom witness hard-key portrait - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
-- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165450674069946)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/karim_yourself/status/2075165450674069946)**
-
----
-
-### No. 26: Cinematic Film Still - Mob kitchen sauce-and-threat still
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A crime-drama film still from a public Seedream 5 Pro prompt thread, rewritten around warm domestic menace.
-
-#### Промпт
-
-```
-Create a cramped mob-drama kitchen still. Steam rises from a pot of sauce while an older boss stands half-lit by the stove flame, discussing danger as casually as a family recipe. Use warm practical light, lived-in clutter, textured walls, realistic steam, film grain, and a cozy domestic palette that makes the threat feel worse.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2stJWwAAr-fE.jpg" width="100%" alt="Cinematic Film Still - Mob kitchen sauce-and-threat still - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
-- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165453568053713)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/karim_yourself/status/2075165453568053713)**
-
----
-
-### No. 27: Cinematic Film Still - Family table mob drama wide shot
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A companion mob-drama prompt from a public Seedream 5 Pro thread, normalized for group staging and warm overhead light.
-
-#### Промпт
-
-```
-Compose a wide shot of a cramped family kitchen table crowded with plates. Place the boss at the head, half-lit by warm overhead light, while a soldier leans in to whisper. Keep the room ordinary and lived-in, with sauce, dishes, and family warmth hiding the violence underneath. Use anamorphic framing, film grain, and a cozy-ominous tone.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2u3GWcAA4A0m.jpg" width="100%" alt="Cinematic Film Still - Family table mob drama wide shot - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
-- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165456822882498)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/karim_yourself/status/2075165456822882498)**
-
----
-
-### No. 28: Character Design - Aristocratic alien diplomat portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A sci-fi character still from a public Seedream 5 Pro prompt thread, rewritten for prosthetic-grade alien design.
-
-#### Промпт
-
-```
-Design a cinematic portrait of an aristocratic alien diplomat with pale lavender-gray skin, an elongated smooth skull, no visible nose, black almond eyes, and a delicate ridged brow. Dress the figure in an ornate high-collared ceremonial garment with filigree detail. Use quiet diplomatic tension, soft directional light, restrained color, and production-quality prosthetic realism.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx26KlWEAA3BJY.jpg" width="100%" alt="Character Design - Aristocratic alien diplomat portrait - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
-- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165463009501682)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/karim_yourself/status/2075165463009501682)**
-
----
-
-### No. 29: Cinematic Film Still - Villeneuve-style neutral mask portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A restrained character close-up from a public Seedream 5 Pro prompt thread, rewritten for sparse architecture and unreadable emotion.
-
-#### Промпт
-
-```
-Create a close character portrait with very pale skin, light eyes, and an entirely neutral expression. Suggest that a mask and robe have just been removed, leaving partial fabric at the neck. Keep the background a dark interior with only one faint architectural line. Use soft severity, minimal palette, and a quiet Villeneuve-inspired cinematic mood without copying a specific film.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx3tORWsAAj7zJ.jpg" width="100%" alt="Cinematic Film Still - Villeneuve-style neutral mask portrait - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
-- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165466041925663)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/karim_yourself/status/2075165466041925663)**
-
----
-
-### No. 30: Cinematic Film Still - Ash Country post-apocalypse wanderer
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A post-apocalyptic still from a public Seedream 5 Pro prompt thread, rewritten for desaturated restraint and one color accent.
-
-#### Промпт
-
-```
-Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray cloth over the face so only the eyes remain visible, with ash caught in the folds and a rust-red pack strap as the only color accent. Use flat overcast light, a desaturated void background, medium framing, film grain, and exhausted silence.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx31RhX0AA3Atp.jpg" width="100%" alt="Cinematic Film Still - Ash Country post-apocalypse wanderer - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
-- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165469107949677)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/karim_yourself/status/2075165469107949677)**
-
----
-
-### No. 31: Cinematic Film Still - War robot city cannon blast
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A blockbuster sci-fi action prompt from a public Seedream 5 Pro thread, rewritten for VFX-grade scale and debris timing.
-
-#### Промпт
-
-```
-Create a cinematic sci-fi action still of a massive humanoid war robot firing an oversized cannon between skyscrapers. Use a low wide 24mm angle, muzzle flash, shockwave, smoke, tanks below, collapsing facade, frozen glass and debris, hard explosion light against cold daylight, steel-gray materials, and blockbuster VFX realism.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyqtadXEAAW6xU.jpg" width="100%" alt="Cinematic Film Still - War robot city cannon blast - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223008038261027)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223008038261027)**
-
----
-
-### No. 32: Cinematic Film Still - Natural copper-red close portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A photoreal portrait prompt from a public Seedream 5 Pro thread, rewritten for untreated skin and medium-format feel.
-
-#### Промпт
-
-```
-Make a medium-format close portrait of a young European woman with copper-red hair, green eyes, natural freckles, and a calm direct gaze. Use an 85mm shallow-depth setup, soft window light, warm skin tones, muted neutral background, natural untouched skin, clear catchlights, and no beauty-filter smoothing.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyq0BVW8AAKFva.jpg" width="100%" alt="Cinematic Film Still - Natural copper-red close portrait - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223012589085119)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223012589085119)**
-
----
-
-### No. 33: Cinematic Film Still - Magical realist dry-lake fisherman
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A magical realism film-still prompt from a public Seedream 5 Pro thread, normalized for warm painterly light without losing realism.
-
-#### Промпт
-
-```
-Create a wide low-angle magical-realist film still of an old fisherman kneeling in the cracked bed of a vanished lake, calmly mending a boat that should not be there. Use saturated sunset color, warm painterly light, realistic weathered skin, dry mud texture, long shadows, and a quiet impossible mood without obvious magic particles.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyrIDgW8AAzJF0.jpg" width="100%" alt="Cinematic Film Still - Magical realist dry-lake fisherman - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223026656854053)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223026656854053)**
-
----
-
-### No. 34: Cinematic Film Still - Dense neon-noir city skyline
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A cyberpunk establishing shot from a public Seedream 5 Pro prompt thread, rewritten for dense urban depth and nocturnal atmosphere.
-
-#### Промпт
-
-```
-Render a dense neon-noir dystopian city skyline at night from a high 24mm vantage point. Stack towers, skybridges, traffic ribbons, wet rooftops, holographic signage, steam, and deep perspective layers. Keep the mood crowded and cinematic, with colored reflections, atmospheric haze, and no clean empty sci-fi minimalism.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyrRQpXEAADKRe.jpg" width="100%" alt="Cinematic Film Still - Dense neon-noir city skyline - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223031085957564)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223031085957564)**
-
----
-
-### No. 35: Cinematic Film Still - Bleach-bypass thriller pursuit
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A thriller film-still prompt from a public Seedream 5 Pro thread, rewritten for harsh desaturated contrast and motion tension.
-
-#### Промпт
-
-```
-Create a bleach-bypass thriller still with harsh desaturated contrast, blown highlights, and crushed blacks. Use a low 28mm tracking angle on a figure moving through an industrial corridor, with hard overhead fluorescents, gritty concrete, motion tension, and a realistic cinematic finish that avoids soft pastel digital color.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyrUUzXIAA6LmS.jpg" width="100%" alt="Cinematic Film Still - Bleach-bypass thriller pursuit - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
-- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223035406070068)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223035406070068)**
-
----
-
-### No. 36: Product Campaign - Squishcraft kids clay product ad
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
+##### Опис
 
 A real prompt-bearing Seedream 5.0 Pro product poster test, rewritten for playful commercial composition and integrated typography.
 
-#### Промпт
+##### Промпт
 
 ```
 Design a cheerful kids craft-product advertisement for a fictional clay set called SQUISHCRAFT. Show a laughing child with clay on their hands beside an oversized colorful clay box, with craft tools, sculptures, and handprints in a bright playroom. Use big rounded rainbow typography, a short tagline, warm commercial lighting, photoreal product polish, and no real brand logos.
@@ -2027,15 +1388,15 @@ Source: [Source](https://x.com/Strength04_X/status/2075063250656621054)
 
 </details>
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwbBLLasAAPnLu.jpg" width="100%" alt="Product Campaign - Squishcraft kids clay product ad - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwbBLLasAAPnLu.jpg" width="100%" alt="Squishcraft kids clay product ad - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@Strength04_X](https://x.com/Strength04_X)
 - **Джерело:** [Джерело](https://x.com/Strength04_X/status/2075063250656621054)
@@ -2046,84 +1407,583 @@ Source: [Source](https://x.com/Strength04_X/status/2075063250656621054)
 
 ---
 
-### No. 37: Reference Image Edit - Character silhouette to real pudding edit
+<a id="prompt-52"></a>
 
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A Japanese image-to-image test normalized from a public Seedream 5 Pro post, focused on replacing a character shape with a realistic dessert.
-
-#### Промпт
-
-```
-Use the uploaded character silhouette and surface contours as the shape reference, then reinterpret it as a realistic custard pudding viewed from above. Preserve the overall outline and bumps, replace the material with glossy caramel, soft custard, plate shadows, and food-photography lighting.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMv3RPDaAAA4zYt.jpg" width="100%" alt="Reference Image Edit - Character silhouette to real pudding edit - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMv3ZGLboAEdmzG.jpg" width="100%" alt="Reference Image Edit - Character silhouette to real pudding edit - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@TlanoAI](https://x.com/TlanoAI)
-- **Джерело:** [Джерело](https://x.com/TlanoAI/status/2075024241284837875)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** ja
-
-**[Використати цей промпт](https://x.com/TlanoAI/status/2075024241284837875)**
-
----
-
-### No. 38: Infographic & Typography - Parametric landmark infographic pair
+#### No. 24: Data-dense operations dashboard set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
-A technical infographic workflow normalized from a public Seedream 5.0 Pro post about Eiffel Tower and Pyramid diagram tests.
+A structured-information workflow normalized from a public Seedream 5.0 Pro infographic test.
 
-#### Промпт
+##### Промпт
 
 ```
-Create a parametric architectural infographic for a famous landmark. Combine a clean elevation, structural grid, measurement labels, material callouts, construction timeline, simplified formulas, and small diagram panels. Keep the information dense but logical, with professional technical illustration clarity and readable text.
+Create a set of data-dense visual panels: a global supply chain dashboard, a quantum-computer architecture diagram, and a film-production call sheet. Use readable labels, aligned grids, chart elements, timeline blocks, hierarchy, and clean technical illustration. Prioritize information structure over decorative effects.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMxNGvwWoAALsqd.jpg" width="100%" alt="Infographic &amp; Typography - Parametric landmark infographic pair - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMxNGy8WgAASBCA.jpg" width="100%" alt="Infographic &amp; Typography - Parametric landmark infographic pair - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMySOqPaQAAT4nQ.jpg" width="100%" alt="Data-dense operations dashboard set - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMySOqKasAILEOw.jpg" width="100%" alt="Data-dense operations dashboard set - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMySOpXbgAAAazn.jpg" width="100%" alt="Data-dense operations dashboard set - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMySOsDbsAAxFkL.jpg" width="100%" alt="Data-dense operations dashboard set - Image 4"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
-- **Автор:** [@ZaraIrahh](https://x.com/ZaraIrahh)
-- **Джерело:** [Джерело](https://x.com/ZaraIrahh/status/2075118336783089710)
+- **Автор:** [@rovvmut_](https://x.com/rovvmut_)
+- **Джерело:** [Джерело](https://x.com/rovvmut_/status/2075194313752088727)
 - **Опубліковано:** 9 липня 2026 р.
 - **Мови:** en
 
-**[Використати цей промпт](https://x.com/ZaraIrahh/status/2075118336783089710)**
+**[Використати цей промпт](https://x.com/rovvmut_/status/2075194313752088727)**
 
 ---
 
-### No. 39: Storyboard / Video Pipeline - Sixteen-panel cavalry charge narrative
+<a id="prompt-55"></a>
+
+#### No. 25: Spanish cultural altar explainer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
+
+A language-learning infographic pattern normalized from a public Seedream 5.0 Pro multilingual education post.
+
+##### Промпт
+
+```
+Design an authentic Spanish-language classroom infographic explaining a traditional altar. Include culturally specific objects, short Spanish labels, a clear title, three explanatory callouts, decorative but restrained color, and a teacher-friendly layout that reads naturally to native speakers.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvuQTUasAAaMZs.jpg" width="100%" alt="Spanish cultural altar explainer - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@ItsMaryAI](https://x.com/ItsMaryAI)
+- **Джерело:** [Джерело](https://x.com/ItsMaryAI/status/2075014028586524836)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/ItsMaryAI/status/2075014028586524836)**
+
+---
+
+<a id="prompt-56"></a>
+
+#### No. 26: Personal trading card generator
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A playful structured-layout workflow normalized from a public Seedream 5.0 Pro trading-card post.
+
+##### Промпт
+
+```
+Create a premium collectible trading card for a person, pet, or object. Include a portrait window, rarity badge, stats table, flavor text, holographic border, small icons, and a clear nameplate. Keep the layout crisp, legible, and game-card-like without using real franchise branding.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMurc2_aMAAtL3z.jpg" width="100%" alt="Personal trading card generator - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMurerTboAA4GCF.jpg" width="100%" alt="Personal trading card generator - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMurh5UbsAAEoHQ.jpg" width="100%" alt="Personal trading card generator - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMurmIva8AAdvG7.jpg" width="100%" alt="Personal trading card generator - Image 4"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
+- **Джерело:** [Джерело](https://x.com/ThinkerSilentH/status/2074940762861814235)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/ThinkerSilentH/status/2074940762861814235)**
+
+---
+
+<a id="prompt-57"></a>
+
+#### No. 27: Game-ready interface concept sheet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A game UI concept workflow normalized from a public Seedream 5.0 Pro interface post.
+
+##### Промпт
+
+```
+Design a game-ready interface concept sheet with multiple panels: inventory, stats, character card, minimap, skill buttons, notification toast, and settings micro-UI. Keep every tiny element intentional, aligned, and legible, with a coherent visual theme and production-polished spacing.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMu8l9_XUAAqDjN.jpg" width="100%" alt="Game-ready interface concept sheet - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@JameFalken](https://x.com/JameFalken)
+- **Джерело:** [Джерело](https://x.com/JameFalken/status/2074959430374867438)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/JameFalken/status/2074959430374867438)**
+
+---
+
+<a id="prompt-62"></a>
+
+#### No. 28: Dense infographic with sketch editing
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A Higgsfield availability post normalized into a prompt for dense text-rich visuals plus sketch-driven editing.
+
+##### Промпт
+
+```
+Create a dense text-rich infographic from a rough sketch. Follow the sketch structure, preserve the marked blocks, convert notes into clean labels, and render charts, icons, and subject photography with readable typography. Keep photographic skin and lighting natural where people appear.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074866663133188096/img/EDQbAT7uYP9E8P_u.jpg" width="100%" alt="Dense infographic with sketch editing - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@higgsfield](https://x.com/higgsfield)
+- **Джерело:** [Джерело](https://x.com/higgsfield/status/2074866864128430179)
+- **Опубліковано:** 8 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/higgsfield/status/2074866864128430179)**
+
+---
+
+<a id="prompt-67"></a>
+
+#### No. 29: Delivery receipt with tracking callout
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A receipt/document-layout workflow normalized from a public Seedream 5.0 Pro typography post.
+
+##### Промпт
+
+```
+Design a realistic delivery receipt with merchant name, order number, itemized rows, subtotal, delivery fee, tax, total, and a clear SCAN TO TRACK YOUR ORDER callout. Add thermal-paper texture, slight ink fading, aligned columns, and tiny but readable footer text.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMttQ9zakAEFzH5.jpg" width="100%" alt="Delivery receipt with tracking callout - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@noorwithwifi](https://x.com/noorwithwifi)
+- **Джерело:** [Джерело](https://x.com/noorwithwifi/status/2074872194858205529)
+- **Опубліковано:** 8 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/noorwithwifi/status/2074872194858205529)**
+
+---
+
+<a id="prompt-88"></a>
+
+#### No. 30: Cinematic editorial fashion session
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A public OpenArt Seedream 5 Pro editorial fashion session, rewritten into a reusable cinematic fashion-photography prompt.
+
+##### Промпт
+
+```
+Create a cinematic editorial fashion portrait for a fictional magazine story called Daily Dream. Place a model in sculptural couture against a minimal dusk city backdrop, with wind moving fabric edges and hair. Use a restrained luxury palette, shallow depth of field, controlled rim light, and confident magazine-cover composition. The image should feel like high-end AI photography: polished skin texture, believable textile detail, dramatic but not overlit, with no visible watermark or random text.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzFAIYWgAExH1L.jpg" width="100%" alt="Cinematic editorial fashion session - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzFAIyWMAEN8Xm.jpg" width="100%" alt="Cinematic editorial fashion session - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@westkast](https://x.com/westkast)
+- **Джерело:** [Джерело](https://x.com/westkast/status/2075250137698324850)
+- **Опубліковано:** 10 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/westkast/status/2075250137698324850)**
+
+---
+
+<a id="prompt-78"></a>
+
+#### No. 31: Overdose gold corrupted luxury moodboard
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A public Magnific Seedream 5.0 moodboard prompt pattern, rewritten for reusable luxury-color grading and toxic-gold atmosphere control.
+
+##### Промпт
+
+```
+Create an editorial fashion moodboard in the visual style OVERDOSE GOLD. Use a corrupted gold palette across the entire frame: highlights read as rich warm gold, midtones drift toward faint greenish brass, and shadows fall into deep brown-black with no clean transition. Skin should look golden but exhausted, luxurious on the surface and drained underneath. Velvet, metal, glass, jewelry, and wet lacquer all carry the same beautiful-but-wrong warmth. Make the atmosphere opulent and toxic at once, like wealth turning into slow poison. No visible light source; the gold must feel as if it comes from the palette itself.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzC0pOWwAAzNRG.jpg" width="100%" alt="Overdose gold corrupted luxury moodboard - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzC0pJX0AAhqPk.jpg" width="100%" alt="Overdose gold corrupted luxury moodboard - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzC0pLWIAAS9qN.jpg" width="100%" alt="Overdose gold corrupted luxury moodboard - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzC0pIXAAMh7zp.jpg" width="100%" alt="Overdose gold corrupted luxury moodboard - Image 4"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@shikoba_86](https://x.com/shikoba_86)
+- **Джерело:** [Джерело](https://x.com/shikoba_86/status/2075248011525910944)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/shikoba_86/status/2075248011525910944)**
+
+---
+
+<a id="prompt-80"></a>
+
+#### No. 32: Arabic poster typography test
+
+![Language-AR](https://img.shields.io/badge/Language-AR-blue)
+
+##### Опис
+
+A public Arabic-language Seedream 5.0 Pro typography observation from Magnific, normalized for testing Arabic poster readability and product layout.
+
+##### Промпт
+
+```
+Design two premium Arabic technology posters for Seedream 5 Pro. Use a dark cinematic background, bright controlled rim light, and a clean modern Arabic headline: "سيدريم 5 برو". Add a short Arabic subheading with crisp spacing and correct letter joining: "تصميم بصري ذكي ودقيق". Keep the typography large, legible, and centered in a professional advertising layout. Add a subtle product-light motif, gold-blue accents, and avoid broken Arabic glyphs, random Latin filler, or unreadable decorative text.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy-gAhXgAAVm8M.jpg" width="100%" alt="Arabic poster typography test - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy-gAeWYAAlc5q.jpg" width="100%" alt="Arabic poster typography test - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@aziz4ai](https://x.com/aziz4ai)
+- **Джерело:** [Джерело](https://x.com/aziz4ai/status/2075242994102419920)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** ar
+
+**[Використати цей промпт](https://x.com/aziz4ai/status/2075242994102419920)**
+
+---
+
+<a id="prompt-94"></a>
+
+#### No. 33: Japanese cinematic magazine cover layout
+
+![Language-ZH-TW](https://img.shields.io/badge/Language-ZH-TW-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A detailed public prompt tested with both GPT Image and Seedream 5.0 Pro, focused on identity preservation and dense Japanese editorial-cover typography.
+
+##### Промпт
+
+```
+你是一位顶级的世界级电影封面设计大师，根据以下需求，将我的图像作品进行顶级电影封面排版任务。
+
+以参考图中的角色为拍摄主体，严格保持人物五官特征、脸部骨相、眼型、鼻唇比例、发型轮廓、肤色质感与整体气质一致，保持画面中角色的真实皮肤纹理、自然毛孔、细微绒毛、高光反射真实可见，不使用过度磨皮，不网红脸，不要 AI 塑料感，保持角色的姿势神态、场景氛围与画面构图不变。
+
+封面主题：KishenArt Cinematic-Style Portraits。顶部超大日文刊名：PHOTO KISHEN DIGITAL。左上角：2026 July Vol.KishenArt002。画面左侧纵向排列摄影专题文字：終極特輯、プロ写真家インタビュー、Netflix 獨家海報、フィルムライクカラー研究。画面右上加入红色圆形贴纸：SPECIAL ISSUE KISHENART VISION。主标题采用超大红色日文字体：Sexy の毒液。副标题采用优雅手写英文：Cinematic Storytelling Vibe。画面底部大面积红色粗体文字覆盖：Netflix。
+
+左下角添加 AI 工具 Logo icon，只需要图标，不需要文字名称：ChatGPT、Grok、Gemini、Dreamina、Kling。工具图标下加入社交媒体 Logo icon：X、Instagram、微博、小红书、抖音、B 站、YouTube、Telegram。左下角添加两排文字：Ideas Without Limits；Video Director | AI Design | Photographer。
+
+整体版式遵循 Netflix 电影摄影海报杂志级别设计逻辑，专业摄影出版物质感，层级丰富但不拥挤，字体无阴影无描边，字体与图片融合自然。Ultra Photorealistic, 8K RAW, Editorial Cover Design, Japanese Magazine Layout, Real Skin Texture, Natural Light, Cinematic Depth of Field, Fine Art Portrait, Premium Print Quality, High Detail, 3:4 Vertical Cover, 4K HD Export.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMw0EEybsAA05e3.jpg" width="100%" alt="Japanese cinematic magazine cover layout - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@KishenArt](https://x.com/KishenArt)
+- **Джерело:** [Джерело](https://x.com/KishenArt/status/2075090846412927134)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** zh-TW
+
+**[Використати цей промпт](https://x.com/KishenArt/status/2075090846412927134)**
+
+---
+
+<a id="prompt-122"></a>
+
+#### No. 34: Premium sports footwear commercial ad set
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A source-backed demo from the original public X post, demonstrating premium sports footwear commercial ad set.
+
+##### Промпт
+
+```
+Ultra-realistic premium sports footwear commercial advertisement featuring a modern running shoe floating horizontally at the center of a futuristic cyan and deep blue gradient background. The sneaker is displayed in a clean side profile with ultra-detailed breathable knit mesh texture, glossy air-cushion sole, realistic stitching, premium materials, and crisp branding. Soft cinematic studio lighting creates realistic reflections, shadows, and depth.
+
+The composition is designed as a futuristic e-commerce product showcase inside a rounded glass-inspired interface with glowing white borders and translucent frosted panels. Large semi-transparent typography spelling the shoe model fills the background, creating depth without overpowering the product.
+
+Minimal modern UI elements surround the shoe, including elegant category labels, product title, search icon, shopping bag icon, menu icon, zoom percentage indicator connected by thin curved lines, price tag, size selector, color option, and a glowing rounded “BUY NOW” button. Add subtle neon cyan highlights, holographic interface accents, floating particles, soft bloom, and glassmorphism effects.
+
+Use a premium blue color palette with turquoise gradients, high-end sports branding aesthetics, luxury product presentation, Apple-inspired minimalism, futuristic web UI, perfect spacing, clean typography, ultra-sharp details, cinematic lighting, soft ambient glow, 3D depth, photorealistic textures, commercial advertising quality, Behance award-winning layout, 8K, HDR, octane render, Unreal Engine, global illumination, ray-traced reflections, ultra-realistic product photography.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwbTL0bcAAvtse.jpg" width="100%" alt="Premium sports footwear commercial ad set - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwbTM4aAAIV59s.jpg" width="100%" alt="Premium sports footwear commercial ad set - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwbTMbaIAAXsyD.jpg" width="100%" alt="Premium sports footwear commercial ad set - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwbTLZb0AAUI1X.jpg" width="100%" alt="Premium sports footwear commercial ad set - Image 4"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@iamrealsnow](https://x.com/iamrealsnow)
+- **Джерело:** [Джерело](https://x.com/iamrealsnow/status/2075063569486598281)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/iamrealsnow/status/2075063569486598281)**
+
+---
+
+<a id="prompt-119"></a>
+
+#### No. 35: Cyberpunk android graphic poster
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A source-backed demo from the original public X post, demonstrating cyberpunk android graphic poster.
+
+##### Промпт
+
+```
+A sci-fi cyberpunk graphic design poster. In the center, a striking portrait of a female android with glossy, liquid chrome skin. A vivid swirling streak of neon orange, yellow, and pink liquid paint brush stroke horizontally covers her eyes, soft smudged color overlay with smooth flowing pigment texture, no cracks or broken facial surfaces.
+
+The background is a dark, textured charcoal gray. Behind the central figure, large bold white futuristic typography reads "Seedream 5.0 Pro" with a subtle digital glitch and halftone texture. The composition is decorated with technical HUD elements, thin white lines, geometric wireframe diagrams, barcodes, and small sci-fi text boxes.
+
+Semi-transparent glassy spheres with grid textures overlap the foreground, creating depth. The overall mood is high-tech, dystopian, and avant-garde.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMv6yDTawAAyhoW.jpg" width="100%" alt="Cyberpunk android graphic poster - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@ComfyUI](https://x.com/ComfyUI)
+- **Джерело:** [Джерело](https://x.com/ComfyUI/status/2075027793491226677)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/ComfyUI/status/2075027793491226677)**
+
+---
+
+<a id="prompt-102"></a>
+
+#### No. 36: Trading terminal interface with market microstructure detail
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A source-backed demo from the original public X post, demonstrating trading terminal interface with market microstructure detail.
+
+##### Промпт
+
+```
+a full trading terminal — K-lines, order book, bid/ask, volume, timestamps
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtz5GxbkAA5mQT.jpg" width="100%" alt="Trading terminal interface with market microstructure detail - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@MishikaAI](https://x.com/MishikaAI)
+- **Джерело:** [Джерело](https://x.com/MishikaAI/status/2074879603446026333)
+- **Опубліковано:** 8 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/MishikaAI/status/2074879603446026333)**
+
+---
+
+<a id="workflow-diagrams-technical-storyboards"></a>
+
+### Diagrams, Technical Art & Storyboards (4)
+
+Structured visuals where information order matters: diagrams, technical drawings, multi-panel sequences, and storyboards.
+
+<a id="prompt-19"></a>
+
+#### No. 37: Flat-pack assembly guide stress test
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A layout prompt normalized from a public IKEA-style Seedream 5 Pro test, useful for instruction diagrams and procedural clarity.
+
+##### Промпт
+
+```
+Generate an IKEA-style flat-pack assembly guide for a compact modular side table. Show numbered steps, simplified line drawings, screws, dowels, panels, arrows, hand-tool icons, and a final assembled object. Keep the page clean, grayscale, realistic enough to be useful, and structured so each part and action is legible at a glance.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvHhyFXMAASna0.jpg" width="100%" alt="Flat-pack assembly guide stress test - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvHhyGXMAA7mA7.jpg" width="100%" alt="Flat-pack assembly guide stress test - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@al_tools43377](https://x.com/al_tools43377)
+- **Джерело:** [Джерело](https://x.com/al_tools43377/status/2074971603054502365)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/al_tools43377/status/2074971603054502365)**
+
+---
+
+<a id="prompt-29"></a>
+
+#### No. 38: 1960s Havana documentary video seed
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A Seedream + Seedance workflow normalized from a public Magnific thread, designed to create a still image that can be animated into documentary footage.
+
+##### Промпт
+
+```
+Generate a realistic 1960s Havana documentary still as the first frame for video. Use natural imperfections, handheld street photography, period cars, sun-worn facades, varied faces, humid air, imperfect clothing, and archival film texture. Avoid modern objects, glossy fashion styling, duplicated faces, and over-clean AI skin. Leave enough motion cues for Seedance-style documentary animation.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2075167807415767040/img/dJKGm7JtAkTHw1p2.jpg" width="100%" alt="1960s Havana documentary video seed - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@techhalla](https://x.com/techhalla)
+- **Джерело:** [Джерело](https://x.com/techhalla/status/2075170093626011858)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/techhalla/status/2075170093626011858)**
+
+---
+
+<a id="prompt-49"></a>
+
+#### No. 39: Sixteen-panel cavalry charge narrative
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
 
 A narrative-consistency workflow normalized from a public Seedream 5.0 Pro sequence test with knights and horses.
 
-#### Промпт
+##### Промпт
 
 ```
 Create a 16-panel grayscale storyboard of one cavalry charge from preparation to impact. Keep the same knights, horses, banners, armor shapes, and terrain consistent across every panel. Vary camera distance and angle like a shot list, add panel numbers, and make the action readable as one continuous sequence.
@@ -2154,751 +2014,52 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 </details>
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMt-7b3XMAAfEbD.jpg" width="100%" alt="Storyboard / Video Pipeline - Sixteen-panel cavalry charge narrative - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMt-7b3XMAAfEbD.jpg" width="100%" alt="Sixteen-panel cavalry charge narrative - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)
 - **Джерело:** [Джерело](https://x.com/ElaraGrace_AI/status/2074891631313015060)
-- **Опубліковано:** 8 липня 2026 р.
+- **Опубліковано:** 9 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/ElaraGrace_AI/status/2074891631313015060)**
 
 ---
 
-### No. 40: Infographic & Typography - Data-dense operations dashboard set
+<a id="prompt-77"></a>
+
+#### No. 40: Exploded engineering diagram layout
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
-
-A structured-information workflow normalized from a public Seedream 5.0 Pro infographic test.
-
-#### Промпт
-
-```
-Create a set of data-dense visual panels: a global supply chain dashboard, a quantum-computer architecture diagram, and a film-production call sheet. Use readable labels, aligned grids, chart elements, timeline blocks, hierarchy, and clean technical illustration. Prioritize information structure over decorative effects.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMySOqPaQAAT4nQ.jpg" width="100%" alt="Infographic &amp; Typography - Data-dense operations dashboard set - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMySOqKasAILEOw.jpg" width="100%" alt="Infographic &amp; Typography - Data-dense operations dashboard set - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMySOpXbgAAAazn.jpg" width="100%" alt="Infographic &amp; Typography - Data-dense operations dashboard set - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMySOsDbsAAxFkL.jpg" width="100%" alt="Infographic &amp; Typography - Data-dense operations dashboard set - Image 4"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@rovvmut_](https://x.com/rovvmut_)
-- **Джерело:** [Джерело](https://x.com/rovvmut_/status/2075194313752088727)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/rovvmut_/status/2075194313752088727)**
-
----
-
-### No. 41: Reference Image Edit - Makeup identity-preservation comparison
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A reference-editing workflow normalized from a public Seedream 5.0 Pro makeup comparison post.
-
-#### Промпт
-
-```
-Use the uploaded portrait as the identity anchor. Change only the makeup: add refined glitter eye detail, clean skin highlights, and a more polished beauty look while preserving facial geometry, expression, age, skin texture, lighting direction, and camera angle. Avoid changing the person into a different face.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtzyqXWEAAKJmZ.jpg" width="100%" alt="Reference Image Edit - Makeup identity-preservation comparison - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtzytfWkAAT-5U.jpg" width="100%" alt="Reference Image Edit - Makeup identity-preservation comparison - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtzytfXUAA1smX.jpg" width="100%" alt="Reference Image Edit - Makeup identity-preservation comparison - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtzyqYXEAAQp-d.jpg" width="100%" alt="Reference Image Edit - Makeup identity-preservation comparison - Image 4"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@SeharShinwari](https://x.com/SeharShinwari)
-- **Джерело:** [Джерело](https://x.com/SeharShinwari/status/2074879382326526377)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/SeharShinwari/status/2074879382326526377)**
-
----
-
-### No. 42: Multilingual Poster - Spanish cultural altar explainer
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A language-learning infographic pattern normalized from a public Seedream 5.0 Pro multilingual education post.
-
-#### Промпт
-
-```
-Design an authentic Spanish-language classroom infographic explaining a traditional altar. Include culturally specific objects, short Spanish labels, a clear title, three explanatory callouts, decorative but restrained color, and a teacher-friendly layout that reads naturally to native speakers.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvuQTUasAAaMZs.jpg" width="100%" alt="Multilingual Poster - Spanish cultural altar explainer - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@ItsMaryAI](https://x.com/ItsMaryAI)
-- **Джерело:** [Джерело](https://x.com/ItsMaryAI/status/2075014028586524836)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/ItsMaryAI/status/2075014028586524836)**
-
----
-
-### No. 43: UI / Product Mockup - Personal trading card generator
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A playful structured-layout workflow normalized from a public Seedream 5.0 Pro trading-card post.
-
-#### Промпт
-
-```
-Create a premium collectible trading card for a person, pet, or object. Include a portrait window, rarity badge, stats table, flavor text, holographic border, small icons, and a clear nameplate. Keep the layout crisp, legible, and game-card-like without using real franchise branding.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMurc2_aMAAtL3z.jpg" width="100%" alt="UI / Product Mockup - Personal trading card generator - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMurerTboAA4GCF.jpg" width="100%" alt="UI / Product Mockup - Personal trading card generator - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMurh5UbsAAEoHQ.jpg" width="100%" alt="UI / Product Mockup - Personal trading card generator - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMurmIva8AAdvG7.jpg" width="100%" alt="UI / Product Mockup - Personal trading card generator - Image 4"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@ThinkerSilentH](https://x.com/ThinkerSilentH)
-- **Джерело:** [Джерело](https://x.com/ThinkerSilentH/status/2074940762861814235)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/ThinkerSilentH/status/2074940762861814235)**
-
----
-
-### No. 44: UI / Product Mockup - Game-ready interface concept sheet
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A game UI concept workflow normalized from a public Seedream 5.0 Pro interface post.
-
-#### Промпт
-
-```
-Design a game-ready interface concept sheet with multiple panels: inventory, stats, character card, minimap, skill buttons, notification toast, and settings micro-UI. Keep every tiny element intentional, aligned, and legible, with a coherent visual theme and production-polished spacing.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMu8l9_XUAAqDjN.jpg" width="100%" alt="UI / Product Mockup - Game-ready interface concept sheet - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@JameFalken](https://x.com/JameFalken)
-- **Джерело:** [Джерело](https://x.com/JameFalken/status/2074959430374867438)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/JameFalken/status/2074959430374867438)**
-
----
-
-### No. 45: Precision Editing - Separate-layer design handoff
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A layer-separation workflow normalized from a high-engagement public Seedream 5.0 Pro post.
-
-#### Промпт
-
-```
-Create a design concept that can be separated into editable layers: background, subject, product, text, shadows, decorative marks, and callout labels. Keep edges clean, overlaps logical, and every layer visually independent enough for a Photoshop-style handoff.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2074854109195194368/pu/img/kw1gz03TrGY7dBjD.jpg" width="100%" alt="Precision Editing - Separate-layer design handoff - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@bdsqlsz](https://x.com/bdsqlsz)
-- **Джерело:** [Джерело](https://x.com/bdsqlsz/status/2074854144469238254)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/bdsqlsz/status/2074854144469238254)**
-
----
-
-### No. 46: Infographic & Typography - Dense infographic with sketch editing
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A Higgsfield availability post normalized into a prompt for dense text-rich visuals plus sketch-driven editing.
-
-#### Промпт
-
-```
-Create a dense text-rich infographic from a rough sketch. Follow the sketch structure, preserve the marked blocks, convert notes into clean labels, and render charts, icons, and subject photography with readable typography. Keep photographic skin and lighting natural where people appear.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074866663133188096/img/EDQbAT7uYP9E8P_u.jpg" width="100%" alt="Infographic &amp; Typography - Dense infographic with sketch editing - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@higgsfield](https://x.com/higgsfield)
-- **Джерело:** [Джерело](https://x.com/higgsfield/status/2074866864128430179)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/higgsfield/status/2074866864128430179)**
-
----
-
-### No. 47: Precision Editing - Region edit plus layer separation mockup
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A Morphic launch post normalized into a precise editing and layer-separation production brief.
-
-#### Промпт
-
-```
-Use the base visual as a production mockup. Perform a precise region edit, then organize the result as if the background, product, typography, shadows, and accent graphics could be exported separately. Keep multilingual text clean, layout balanced, and every changed element consistent with the original art direction.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074851748389531648/img/J1NlerZdGdBSd7pK.jpg" width="100%" alt="Precision Editing - Region edit plus layer separation mockup - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@morphic](https://x.com/morphic)
-- **Джерело:** [Джерело](https://x.com/morphic/status/2074851991466205431)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/morphic/status/2074851991466205431)**
-
----
-
-### No. 48: Reference Image Edit - Prompt-or-reference detail render
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A Runway availability post normalized into a flexible prompt/reference workflow for legible multilingual image generation.
-
-#### Промпт
-
-```
-Generate a highly detailed image from either a written prompt or a visual reference. If a reference is provided, preserve the key composition and material cues; if only text is provided, follow the scene description closely. Add readable in-image text in the requested language and keep the final image clean enough for editorial use.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2074981967276187648/img/wTkNqS727wv_OW6O.jpg" width="100%" alt="Reference Image Edit - Prompt-or-reference detail render - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@runwayml](https://x.com/runwayml)
-- **Джерело:** [Джерело](https://x.com/runwayml/status/2074982268175630814)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/runwayml/status/2074982268175630814)**
-
----
-
-### No. 49: Infographic & Typography - Delivery receipt with tracking callout
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A receipt/document-layout workflow normalized from a public Seedream 5.0 Pro typography post.
-
-#### Промпт
-
-```
-Design a realistic delivery receipt with merchant name, order number, itemized rows, subtotal, delivery fee, tax, total, and a clear SCAN TO TRACK YOUR ORDER callout. Add thermal-paper texture, slight ink fading, aligned columns, and tiny but readable footer text.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMttQ9zakAEFzH5.jpg" width="100%" alt="Infographic &amp; Typography - Delivery receipt with tracking callout - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@noorwithwifi](https://x.com/noorwithwifi)
-- **Джерело:** [Джерело](https://x.com/noorwithwifi/status/2074872194858205529)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/noorwithwifi/status/2074872194858205529)**
-
----
-
-### No. 50: Precision Editing - Photobomber removal replacement edit
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A precision-editing workflow normalized from a public Seedream 5.0 Pro retouching post.
-
-#### Промпт
-
-```
-Use the uploaded street photo and remove the marked photobomber. Replace the area with a believable background object or environmental detail, preserving lighting, perspective, shadows, grain, and depth of field. Do not alter the main subject or surrounding composition.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuVx7AaEAAZGB2.jpg" width="100%" alt="Precision Editing - Photobomber removal replacement edit - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuVyZEbsAEd-ow.jpg" width="100%" alt="Precision Editing - Photobomber removal replacement edit - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@filodyprincess](https://x.com/filodyprincess)
-- **Джерело:** [Джерело](https://x.com/filodyprincess/status/2074916756452483224)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/filodyprincess/status/2074916756452483224)**
-
----
-
-### No. 51: Precision Editing - Street-to-rainy chase annotation edit
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A cinematic annotation workflow normalized from a public Seedream 5.0 Pro post.
-
-#### Промпт
-
-```
-Start from a normal street still with markup notes. Transform the scene into a rainy chase moment: wet pavement, motion energy, darker sky, directional headlights, and tense composition. Keep any marked subjects and camera framing consistent, and make every annotation land in the final image.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtnI8TboAI0tWS.jpg" width="100%" alt="Precision Editing - Street-to-rainy chase annotation edit - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtnLOKaAAAJ3G-.jpg" width="100%" alt="Precision Editing - Street-to-rainy chase annotation edit - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@HarshBisen143](https://x.com/HarshBisen143)
-- **Джерело:** [Джерело](https://x.com/HarshBisen143/status/2074865604029550886)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/HarshBisen143/status/2074865604029550886)**
-
----
-
-### No. 52: Precision Editing - Client feedback revision loop
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A client-feedback workflow normalized from a public Seedream 5.0 Pro revision-loop post.
-
-#### Промпт
-
-```
-Use an existing design comp covered with plain-language feedback such as bigger, warmer, less busy, and move this left. Apply the revisions in one pass while keeping the original brand system, spacing logic, and image quality intact. The result should feel like a designer interpreted the comments correctly.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuA5o2bgAAzCFa.jpg" width="100%" alt="Precision Editing - Client feedback revision loop - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuA6KJaAAQi4y7.jpg" width="100%" alt="Precision Editing - Client feedback revision loop - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuA6-iaAAAIqmP.jpg" width="100%" alt="Precision Editing - Client feedback revision loop - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuA7l0bIAA1nn4.jpg" width="100%" alt="Precision Editing - Client feedback revision loop - Image 4"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@techxsarfraj](https://x.com/techxsarfraj)
-- **Джерело:** [Джерело](https://x.com/techxsarfraj/status/2074893823029998052)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/techxsarfraj/status/2074893823029998052)**
-
----
-
-### No. 53: Cinematic Film Still - Worldbuilding anchor frame color grade
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A worldbuilding workflow normalized from a public Seedream 5.0 Pro post about locking an anchor frame and color grade.
-
-#### Промпт
-
-```
-Create an anchor frame for a worldbuilding project. Establish the environment, hero object, atmosphere, and color grade in one image that future references can follow. Use consistent material language, cinematic depth, clear foreground-midground-background separation, and a palette stable enough to guide later scene generation.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2075026724396392448/img/rIxJGd5pioPxGtDm.jpg" width="100%" alt="Cinematic Film Still - Worldbuilding anchor frame color grade - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@diffractstudio](https://x.com/diffractstudio)
-- **Джерело:** [Джерело](https://x.com/diffractstudio/status/2075029719490195858)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/diffractstudio/status/2075029719490195858)**
-
----
-
-### No. 54: Reference Image Edit - Christmas editorial selfie identity edit
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A complete public Seedream 5 Pro image-edit prompt for preserving facial identity while changing hair, wardrobe, pose, and festive editorial styling.
-
-#### Промпт
-
-```
-Use facial identity, facial geometry but not original hair from the reference image. Her new hair is of a two-tone blonde colour, long, flowing and professionally styled. Create a high-fashion editorial Christmas scene featuring a woman flirting with a young and strong man dressed as Santa Claus. The setting is a lived-in indoor festive environment with a deep red carpeted floor, scattered Christmas ornaments, mirrored disco balls, and a partially visible champagne bottle on the floor. The woman is wearing a fitted deep-red, shimmering, metallic mini-dress, thin straps, and natural fabric tension around the waist and hips to accentuate her feminine beauty. Visible healthy skin texture and pores. She is sitting with slightly arched torso, in the lap of a tall and muscly man dressed in loose Santa outfit. One arm resting on Santa's leg, the other holding a champagne glass. Lighting is dramatic, reflections from disco balls, flash-style editorial lighting with strong highlights and defined shadows, realistic reflections on velvet fabric and ornaments. Santa's costume is rich red velvet with white fur trim, textured beard, round glasses catching light naturally. Shot on a full-frame DSLR, 35mm lens, shallow depth of field, crisp focus on faces, cinematic party, editorial style with natural grain.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM0IxsjX0AEPndA.jpg" width="100%" alt="Reference Image Edit - Christmas editorial selfie identity edit - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@asheem01](https://x.com/asheem01)
-- **Джерело:** [Джерело](https://x.com/asheem01/status/2075324671214403879)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/asheem01/status/2075324671214403879)**
-
----
-
-### No. 55: Cinematic Film Still - Ethereal librarian on a frozen lake
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A concise public Seedream 5.0 Pro prompt combining a surreal literary subject, frozen landscape, restrained palette, and oil-painted cinematic light.
-
-#### Промпт
-
-```
-Ethereal librarian in flowing velvet robes wandering across a cracked, translucent frozen lake. Ancient, glowing books float mid-air like frozen birds. Surreal cinematic lighting, dark teal and silver palette, oil painting style.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzuJE5WIAAaNpn.jpg" width="100%" alt="Cinematic Film Still - Ethereal librarian on a frozen lake - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Zubnet](https://x.com/Zubnet)
-- **Джерело:** [Джерело](https://x.com/Zubnet/status/2075295691652415799)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Zubnet/status/2075295691652415799)**
-
----
-
-### No. 56: Cinematic Film Still - Knight beneath a colossal stone sentinel
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-An original public Seedream 5 Pro prompt shared in an X reply, built for oppressive scale, dark-fantasy architecture, and high-contrast cinematic lighting.
-
-#### Промпт
-
-```
-ASPECT RATIO: 16:9
-
-RENDER ENGINE: Unreal Engine 5.4 (Path-Traced, 8K Resolution)
-
-CINEMATIC STYLE: Dark Fantasy, Melancholic Grandeur, High-Contrast Chiaroscuro
-
-An extreme low-angle, compositionally oppressive shot looking up from behind a battle-worn knight toward a colossal, mountain-sized Stone Sentinel.
-
-The Knight: Positioned in the lower-third, slightly off-center-left, back to the camera. Wearing intricately detailed, battle-scarred plate armor of blackened steel and tarnished silver filigree. A tattered, ash-stained royal blue surcoat clings to his shoulders, fraying into threads. He rests both hands on the pommel of a massive, notched greatsword planted deep into the cracked, flagstone earth.
-
-The Colossal Stone Giant: A monolithic entity of basalt and decaying marble, towering three hundred feet into the bruised, twilight sky. Its body is designed like gothic architecture; its ribcage resembles flying buttresses, and its shoulders are overgrown with weeping golden moss and petrified roots. Its head is a featureless, cracked stone monolith, with a single vertical crevice glowing with a cold, dying cosmic gold light.
-
-The Environment: A ruined cathedral plaza of colossal proportions, half-buried in volcanic ash. In the background, the skeletal remains of a mountain-sized gothic archway frame a bruised, crimson-and-charcoal sky. Thick, low-hanging volumetric fog pools around the giant's massive, pillar-like legs.
-
-Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonlight hits the right side of the giant, while the glowing gold from its face casts a warm, melancholic amber hue onto the wet, reflective armor of the knight below. Cinematic film grain, sub-surface scattering on the moss, and highly detailed dust motes suspended in the air.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyzrXIbYAABGyU.jpg" width="100%" alt="Cinematic Film Still - Knight beneath a colossal stone sentinel - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@itsPixieVerse](https://x.com/itsPixieVerse)
-- **Джерело:** [Джерело](https://x.com/itsPixieVerse/status/2075253671177404932)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/itsPixieVerse/status/2075253671177404932)**
-
----
-
-### No. 57: Cinematic Film Still - Sepia documentary portrait study
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A public Krea multi-model Seedream 5.0 Pro comparison with prompt details preserved from ALT text for a vintage documentary portrait workflow.
-
-#### Промпт
-
-```
-A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair and round wire-rimmed glasses, wearing a worn white button-down shirt with sleeves rolled to the elbows. He leans forward on a rough wooden railing, arms crossed, his weathered face turned slightly to the left with a distant pensive gaze. The background is swallowed by deep velvety darkness with only a faint warm glow from upper left hinting at an unseen light source. The entire image bears the patina of age: heavy grain, faded sepia chemistry, slightly uneven tonality, soft focus at the edges, and the textured feel of an old silver gelatin print or newspaper photograph. Exhaustion and quiet resilience etched into his features. Memory-like realism, not staged, documentary quality. No border, no frame, no margins, no white space. Aspect ratio 1:1.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzFDWraYAA9qBU.jpg" width="100%" alt="Cinematic Film Still - Sepia documentary portrait study - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy_yduaMAAOsCj.jpg" width="100%" alt="Cinematic Film Still - Sepia documentary portrait study - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzFNhHbwAEii6-.jpg" width="100%" alt="Cinematic Film Still - Sepia documentary portrait study - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzFT_7akAA7tt7.jpg" width="100%" alt="Cinematic Film Still - Sepia documentary portrait study - Image 4"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Chain_Loader](https://x.com/Chain_Loader)
-- **Джерело:** [Джерело](https://x.com/Chain_Loader/status/2075251821342503352)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Chain_Loader/status/2075251821342503352)**
-
----
-
-### No. 58: Product Campaign - Cinematic editorial fashion session
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A public OpenArt Seedream 5 Pro editorial fashion session, rewritten into a reusable cinematic fashion-photography prompt.
-
-#### Промпт
-
-```
-Create a cinematic editorial fashion portrait for a fictional magazine story called Daily Dream. Place a model in sculptural couture against a minimal dusk city backdrop, with wind moving fabric edges and hair. Use a restrained luxury palette, shallow depth of field, controlled rim light, and confident magazine-cover composition. The image should feel like high-end AI photography: polished skin texture, believable textile detail, dramatic but not overlit, with no visible watermark or random text.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzFAIYWgAExH1L.jpg" width="100%" alt="Product Campaign - Cinematic editorial fashion session - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzFAIyWMAEN8Xm.jpg" width="100%" alt="Product Campaign - Cinematic editorial fashion session - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@westkast](https://x.com/westkast)
-- **Джерело:** [Джерело](https://x.com/westkast/status/2075250137698324850)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/westkast/status/2075250137698324850)**
-
----
-
-### No. 59: Character Design - Extreme close-up portrait camera template
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A reusable public portrait prompt template retested with Seedream 5 Pro, with editable subject, attire, age, eye-color, camera, and shot-distance variables.
-
-#### Промпт
-
-```
-Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. The subject is {age}, with extremely natural skin texture and {eye-color} eyes, exquisite details, natural lighting, shot on a Canon EOS 250D / Rebel SL3 digital SLR camera at f/10. You can change the shot style to a mid shot, wide shot, or full-body shot while preserving the same natural skin detail and photographic realism.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzDBiybUAAlZy1.jpg" width="100%" alt="Character Design - Extreme close-up portrait camera template - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzDZS0aQAADdDK.jpg" width="100%" alt="Character Design - Extreme close-up portrait camera template - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@madpencil_](https://x.com/madpencil_)
-- **Джерело:** [Джерело](https://x.com/madpencil_/status/2075248453173858556)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/madpencil_/status/2075248453173858556)**
-
----
-
-### No. 60: Technical Drawing - Exploded engineering diagram layout
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
+##### Опис
 
 A Seedream 5.0 Pro structural-control example from a public BytePlus/Lumina post, normalized into a reusable exploded technical diagram prompt.
 
-#### Промпт
+##### Промпт
 
 ```
 Create an exploded technical diagram of a compact high-end AI camera module, every component separated in clean perspective as if prepared by an engineering studio. Show the outer shell, lens stack, sensor block, heat sink, screws, flex cables, and small circuit boards floating on aligned axes. Add precise callout labels, thin measurement lines, numbered part markers, and a restrained white-and-slate background. Keep spacing consistent, edges crisp, typography readable, and the overall composition believable as a product teardown sheet rather than a fantasy illustration.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzBgekbMAAoy_H.jpg" width="100%" alt="Technical Drawing - Exploded engineering diagram layout - Image 1"></td>
-<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzBlnqaYAA76FL.jpg" width="100%" alt="Technical Drawing - Exploded engineering diagram layout - Image 2"></td>
-<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzBsetaIAAlS9j.jpg" width="100%" alt="Technical Drawing - Exploded engineering diagram layout - Image 3"></td>
+<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzBgekbMAAoy_H.jpg" width="100%" alt="Exploded engineering diagram layout - Image 1"></td>
+<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzBlnqaYAA76FL.jpg" width="100%" alt="Exploded engineering diagram layout - Image 2"></td>
+<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzBsetaIAAlS9j.jpg" width="100%" alt="Exploded engineering diagram layout - Image 3"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@Ciri_ai](https://x.com/Ciri_ai)
 - **Джерело:** [Джерело](https://x.com/Ciri_ai/status/2075248022515294567)
@@ -2909,65 +2070,690 @@ Create an exploded technical diagram of a compact high-end AI camera module, eve
 
 ---
 
-### No. 61: Product Campaign - Overdose gold corrupted luxury moodboard
+<a id="workflow-characters-cinema-visual-styles"></a>
+
+### Characters, Cinema & Visual Styles (37)
+
+Character, portrait, fashion, cinematic-frame, and style-exploration prompts centered on visual direction and image language.
+
+**Відібрані промпти**
+
+- [Hard sci-fi airlock film still](#prompt-1)
+- [1970s Dutch romantic drama camera memory](#prompt-2)
+- [Anime kunoichi portrait with fine identity details](#prompt-3)
+- [Folk-horror sunset convergence](#prompt-7)
+
+<a id="prompt-8"></a>
+
+#### No. 41: Rain-soaked noir roadside diner
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
-A public Magnific Seedream 5.0 moodboard prompt pattern, rewritten for reusable luxury-color grading and toxic-gold atmosphere control.
+A noir lighting test from a public Seedream 5 Pro prompt thread, normalized for wet asphalt, sodium light, and black negative space.
 
-#### Промпт
+##### Промпт
 
 ```
-Create an editorial fashion moodboard in the visual style OVERDOSE GOLD. Use a corrupted gold palette across the entire frame: highlights read as rich warm gold, midtones drift toward faint greenish brass, and shadows fall into deep brown-black with no clean transition. Skin should look golden but exhausted, luxurious on the surface and drained underneath. Velvet, metal, glass, jewelry, and wet lacquer all carry the same beautiful-but-wrong warmth. Make the atmosphere opulent and toxic at once, like wealth turning into slow poison. No visible light source; the gold must feel as if it comes from the palette itself.
+Create a wide exterior noir shot of a lonely roadside diner during heavy night rain. Pool sodium-orange streetlight across wet asphalt so puddles fracture the reflections. Let the diner glow faintly warm against an otherwise black sky, with one detective silhouette barely visible through a rain-streaked window. Keep the surrounding darkness nearly absolute, add visible rain streaks, film grain, and anamorphic letterboxing.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzC0pOWwAAzNRG.jpg" width="100%" alt="Product Campaign - Overdose gold corrupted luxury moodboard - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzC0pJX0AAhqPk.jpg" width="100%" alt="Product Campaign - Overdose gold corrupted luxury moodboard - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzC0pLWIAAS9qN.jpg" width="100%" alt="Product Campaign - Overdose gold corrupted luxury moodboard - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzC0pIXAAMh7zp.jpg" width="100%" alt="Product Campaign - Overdose gold corrupted luxury moodboard - Image 4"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2haFXgAARWHn.jpg" width="100%" alt="Rain-soaked noir roadside diner - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
-- **Автор:** [@shikoba_86](https://x.com/shikoba_86)
-- **Джерело:** [Джерело](https://x.com/shikoba_86/status/2075248011525910944)
+- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
+- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165441236803971)
 - **Опубліковано:** 9 липня 2026 р.
 - **Мови:** en
 
-**[Використати цей промпт](https://x.com/shikoba_86/status/2075248011525910944)**
+**[Використати цей промпт](https://x.com/karim_yourself/status/2075165441236803971)**
 
 ---
 
-### No. 62: Character Design - Master ink art animal study
+<a id="prompt-9"></a>
+
+#### No. 42: Sun Throne scale contrast
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
+
+A fantasy scale-composition prompt, rewritten from a public Seedream 5 Pro thread, for testing shafts of light and foreground blur.
+
+##### Промпт
+
+```
+Build a fantasy film still titled The Sun Throne. Place a bowed supplicant in soft foreground blur while enormous gilded steps climb sharply into a blinding golden shaft. Keep the god-king unseen so the architecture does the storytelling. Use deep hall shadows, one diagonal beam of light, extreme scale contrast, film grain, and a reverent but oppressive atmosphere.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2mEsWoAEBpZX.jpg" width="100%" alt="Sun Throne scale contrast - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
+- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165447490535486)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/karim_yourself/status/2075165447490535486)**
+
+---
+
+<a id="prompt-10"></a>
+
+#### No. 43: Whiteout survival abstraction
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A minimal survival-film prompt, normalized from a public Seedream 5 Pro thread, for near-white compositions and directional ambiguity.
+
+##### Промпт
+
+```
+Create a survival film still in a total snow whiteout. Reduce the mountaineer to a tiny faint mark in a field of almost pure white with no horizon and no reliable sense of up or down. Let a taut climbing rope be the only clear line in the frame. Use flat blinding light, minimal contrast, subtle film grain, and an anamorphic composition that feels disorienting and desperate.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2zUfWUAAEEoV.jpg" width="100%" alt="Whiteout survival abstraction - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
+- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165459993784441)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/karim_yourself/status/2075165459993784441)**
+
+---
+
+<a id="prompt-11"></a>
+
+#### No. 44: Lived-in afternoon kitchen portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A candid lifestyle photography pattern from a public Seedream 5 Pro prompt thread, rewritten for natural skin, domestic detail, and warm late light.
+
+##### Промпт
+
+```
+Photograph a relaxed adult woman leaning against a kitchen counter in a lived-in suburban home during late afternoon. Use a 35mm eye-level handheld feel, natural shallow depth of field, visible skin texture, loose hair, an oversized cream knit cardigan, worn denim, and both hands around a matte ceramic mug. Add window light from camera right, dust in the air, soft long shadows, muted domestic clutter, warm cream and denim blues, and no beauty-filter gloss.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyqPD5WgAAVHnq.jpg" width="100%" alt="Lived-in afternoon kitchen portrait - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075222988106932645)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Digitalwindai/status/2075222988106932645)**
+
+---
+
+<a id="prompt-12"></a>
+
+#### No. 45: Western Front dawn trench still
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A historical realism pattern from a public Seedream 5 Pro prompt thread, useful for restrained color, period texture, and atmospheric depth.
+
+##### Промпт
+
+```
+Create a 1916 Western Front film still at dawn. Show an exhausted young soldier in period uniform standing in a muddy trench, rifle slung over one shoulder, staring past the camera. Build the scene with sandbags, timber supports, distant barbed wire, faint smoke over no-man’s land, cold overcast light, muted khaki, grey, rust, and realistic mud, fabric, and worn metal texture.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyqaGyXwAEMlFo.jpg" width="100%" alt="Western Front dawn trench still - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075222992515125388)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Digitalwindai/status/2075222992515125388)**
+
+---
+
+<a id="prompt-14"></a>
+
+#### No. 46: Anime sorceress key visual
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+An anime key-visual prompt from a public Seedream 5 Pro thread, rewritten for dynamic cel shading and magical lighting.
+
+##### Промпт
+
+```
+Create an epic Japanese anime key visual of a sorceress mid-incantation. Use a low-angle dynamic medium shot, flowing hair and robes, hands weaving glowing runes, an arcane circle below, floating debris, and a battlefield backdrop. Make the main light a vivid violet-cyan magic glow with gold accents, crisp cel-shaded fabric, clean hair detail, radiant particles, and no photorealistic skin or 3D-render look.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyq4JkW4AAazaX.jpg" width="100%" alt="Anime sorceress key visual - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223017127383054)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223017127383054)**
+
+---
+
+<a id="prompt-30"></a>
+
+#### No. 47: San Francisco sunset phone candid
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A simple benchmark prompt normalized from a public Seedream 5.0 Pro test, useful for everyday realism and sunset phone-light handling.
+
+##### Промпт
+
+```
+Create a candid street photo of a Korean woman in her twenties using her phone in San Francisco at sunset. Keep the composition natural, with warm side light, believable city background blur, relaxed posture, real skin texture, and the casual imperfection of a quick everyday snapshot rather than a studio portrait.
+```
+
+<details>
+<summary>Related prompt variants (1)</summary>
+
+**Original San Francisco sunset prompt**
+
+```
+a Korean girl in her twenties on her iPhone in San Francisco at sunset
+```
+
+Author: [@mattworkman](https://x.com/mattworkman)
+
+Source: [Source](https://x.com/mattworkman/status/2074850550349222210)
+
+</details>
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtZW-oWcAAFcs5.jpg" width="100%" alt="San Francisco sunset phone candid - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@mattworkman](https://x.com/mattworkman)
+- **Джерело:** [Джерело](https://x.com/mattworkman/status/2074850550349222210)
+- **Опубліковано:** 8 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/mattworkman/status/2074850550349222210)**
+
+---
+
+<a id="prompt-34"></a>
+
+#### No. 48: Noir cigarette ember close-up
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A near-black noir close-up from a public Seedream 5 Pro cinematic thread, rewritten for micro-lighting and smoke texture.
+
+##### Промпт
+
+```
+Create an extreme noir close-up in near-total darkness. Let a cigarette ember glow orange-red as the only vivid point of light, revealing just a sliver of cheekbone, jaw, stubble, and drifting smoke. Use a distant sodium streetlight as a hard sculpting key, keep most of the frame pure black, add film grain, and compose in anamorphic 2.39:1 with severe contrast.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2jpgXMAAMTwx.jpg" width="100%" alt="Noir cigarette ember close-up - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
+- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165444453876197)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/karim_yourself/status/2075165444453876197)**
+
+---
+
+<a id="prompt-35"></a>
+
+#### No. 49: Courtroom witness hard-key portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A single-light courtroom prompt from a public Seedream 5 Pro cinematic thread, normalized for emotional restraint and silhouette blocking.
+
+##### Промпт
+
+```
+Frame a tense courtroom witness in tight portrait. Half-light the face with a harsh overhead shaft so the eyes catch moisture while the rest drops into shadow. Let the lawyer appear only as a dark edge intruding from frame left. Keep the surrounding room nearly black, with restrained film grain, anamorphic framing, and a cornered but resolute mood.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2pH6WUAE8SxO.jpg" width="100%" alt="Courtroom witness hard-key portrait - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
+- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165450674069946)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/karim_yourself/status/2075165450674069946)**
+
+---
+
+<a id="prompt-36"></a>
+
+#### No. 50: Mob kitchen sauce-and-threat still
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A crime-drama film still from a public Seedream 5 Pro prompt thread, rewritten around warm domestic menace.
+
+##### Промпт
+
+```
+Create a cramped mob-drama kitchen still. Steam rises from a pot of sauce while an older boss stands half-lit by the stove flame, discussing danger as casually as a family recipe. Use warm practical light, lived-in clutter, textured walls, realistic steam, film grain, and a cozy domestic palette that makes the threat feel worse.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2stJWwAAr-fE.jpg" width="100%" alt="Mob kitchen sauce-and-threat still - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
+- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165453568053713)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/karim_yourself/status/2075165453568053713)**
+
+---
+
+<a id="prompt-37"></a>
+
+#### No. 51: Family table mob drama wide shot
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A companion mob-drama prompt from a public Seedream 5 Pro thread, normalized for group staging and warm overhead light.
+
+##### Промпт
+
+```
+Compose a wide shot of a cramped family kitchen table crowded with plates. Place the boss at the head, half-lit by warm overhead light, while a soldier leans in to whisper. Keep the room ordinary and lived-in, with sauce, dishes, and family warmth hiding the violence underneath. Use anamorphic framing, film grain, and a cozy-ominous tone.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx2u3GWcAA4A0m.jpg" width="100%" alt="Family table mob drama wide shot - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
+- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165456822882498)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/karim_yourself/status/2075165456822882498)**
+
+---
+
+<a id="prompt-38"></a>
+
+#### No. 52: Aristocratic alien diplomat portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A sci-fi character still from a public Seedream 5 Pro prompt thread, rewritten for prosthetic-grade alien design.
+
+##### Промпт
+
+```
+Design a cinematic portrait of an aristocratic alien diplomat with pale lavender-gray skin, an elongated smooth skull, no visible nose, black almond eyes, and a delicate ridged brow. Dress the figure in an ornate high-collared ceremonial garment with filigree detail. Use quiet diplomatic tension, soft directional light, restrained color, and production-quality prosthetic realism.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx26KlWEAA3BJY.jpg" width="100%" alt="Aristocratic alien diplomat portrait - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
+- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165463009501682)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/karim_yourself/status/2075165463009501682)**
+
+---
+
+<a id="prompt-39"></a>
+
+#### No. 53: Villeneuve-style neutral mask portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A restrained character close-up from a public Seedream 5 Pro prompt thread, rewritten for sparse architecture and unreadable emotion.
+
+##### Промпт
+
+```
+Create a close character portrait with very pale skin, light eyes, and an entirely neutral expression. Suggest that a mask and robe have just been removed, leaving partial fabric at the neck. Keep the background a dark interior with only one faint architectural line. Use soft severity, minimal palette, and a quiet Villeneuve-inspired cinematic mood without copying a specific film.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx3tORWsAAj7zJ.jpg" width="100%" alt="Villeneuve-style neutral mask portrait - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
+- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165466041925663)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/karim_yourself/status/2075165466041925663)**
+
+---
+
+<a id="prompt-41"></a>
+
+#### No. 54: War robot city cannon blast
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A blockbuster sci-fi action prompt from a public Seedream 5 Pro thread, rewritten for VFX-grade scale and debris timing.
+
+##### Промпт
+
+```
+Create a cinematic sci-fi action still of a massive humanoid war robot firing an oversized cannon between skyscrapers. Use a low wide 24mm angle, muzzle flash, shockwave, smoke, tanks below, collapsing facade, frozen glass and debris, hard explosion light against cold daylight, steel-gray materials, and blockbuster VFX realism.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyqtadXEAAW6xU.jpg" width="100%" alt="War robot city cannon blast - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223008038261027)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223008038261027)**
+
+---
+
+<a id="prompt-42"></a>
+
+#### No. 55: Natural copper-red close portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A photoreal portrait prompt from a public Seedream 5 Pro thread, rewritten for untreated skin and medium-format feel.
+
+##### Промпт
+
+```
+Make a medium-format close portrait of a young European woman with copper-red hair, green eyes, natural freckles, and a calm direct gaze. Use an 85mm shallow-depth setup, soft window light, warm skin tones, muted neutral background, natural untouched skin, clear catchlights, and no beauty-filter smoothing.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyq0BVW8AAKFva.jpg" width="100%" alt="Natural copper-red close portrait - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223012589085119)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223012589085119)**
+
+---
+
+<a id="prompt-43"></a>
+
+#### No. 56: Magical realist dry-lake fisherman
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A magical realism film-still prompt from a public Seedream 5 Pro thread, normalized for warm painterly light without losing realism.
+
+##### Промпт
+
+```
+Create a wide low-angle magical-realist film still of an old fisherman kneeling in the cracked bed of a vanished lake, calmly mending a boat that should not be there. Use saturated sunset color, warm painterly light, realistic weathered skin, dry mud texture, long shadows, and a quiet impossible mood without obvious magic particles.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyrIDgW8AAzJF0.jpg" width="100%" alt="Magical realist dry-lake fisherman - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223026656854053)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223026656854053)**
+
+---
+
+<a id="prompt-45"></a>
+
+#### No. 57: Bleach-bypass thriller pursuit
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A thriller film-still prompt from a public Seedream 5 Pro thread, rewritten for harsh desaturated contrast and motion tension.
+
+##### Промпт
+
+```
+Create a bleach-bypass thriller still with harsh desaturated contrast, blown highlights, and crushed blacks. Use a low 28mm tracking angle on a figure moving through an industrial corridor, with hard overhead fluorescents, gritty concrete, motion tension, and a realistic cinematic finish that avoids soft pastel digital color.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyrUUzXIAA6LmS.jpg" width="100%" alt="Bleach-bypass thriller pursuit - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223035406070068)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223035406070068)**
+
+---
+
+<a id="prompt-95"></a>
+
+#### No. 58: Extreme close-up portrait camera template
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A reusable public portrait prompt template retested with Seedream 5 Pro, with editable subject, attire, age, eye-color, camera, and shot-distance variables.
+
+##### Промпт
+
+```
+Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. The subject is {age}, with extremely natural skin texture and {eye-color} eyes, exquisite details, natural lighting, shot on a Canon EOS 250D / Rebel SL3 digital SLR camera at f/10. You can change the shot style to a mid shot, wide shot, or full-body shot while preserving the same natural skin detail and photographic realism.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzDBiybUAAlZy1.jpg" width="100%" alt="Extreme close-up portrait camera template - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzDZS0aQAADdDK.jpg" width="100%" alt="Extreme close-up portrait camera template - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@madpencil_](https://x.com/madpencil_)
+- **Джерело:** [Джерело](https://x.com/madpencil_/status/2075248453173858556)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/madpencil_/status/2075248453173858556)**
+
+---
+
+<a id="prompt-79"></a>
+
+#### No. 59: Master ink art animal study
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
 
 A public Renoise Seedream 5.0 Pro ink-art post normalized into a brush-control prompt for traditional monochrome image generation.
 
-#### Промпт
+##### Промпт
 
 ```
 Generate a master-level traditional ink artwork of a mythic crane and pine tree on handmade rice paper. Use confident black brushwork, dry-brush feather texture, soft ink bleeding at the edges, and a few deliberate empty spaces so the composition breathes. The subject should feel created by years of calligraphy practice rather than a digital filter: uneven pressure, elegant negative space, expressive line economy, and subtle paper fibers visible under natural studio light.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzClkIacAAPdN-.jpg" width="100%" alt="Character Design - Master ink art animal study - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzClkIacAAPdN-.jpg" width="100%" alt="Master ink art animal study - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@renoiseai](https://x.com/renoiseai)
 - **Джерело:** [Джерело](https://x.com/renoiseai/status/2075247860770357248)
@@ -2978,99 +2764,31 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 
 ---
 
-### No. 63: Reference Image Edit - Full-body dragon character extension
+<a id="prompt-81"></a>
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A public workflow using Seedream 5.0 Pro to extend a dragon into a full-body character view, normalized as a reference-image edit prompt.
-
-#### Промпт
-
-```
-Using the provided dragon head or partial-body reference, create a full-body character sheet that completes the creature while preserving the original silhouette language, horn shape, scale pattern, eye color, and personality. Show the dragon standing in a neutral three-quarter pose with wings, tail, claws, and torso fully visible. Add subtle studio lighting, a clean background, anatomical believability, and enough texture detail for concept-art review. Do not change the face identity from the reference image.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy2s8jXIAAOhQ8.jpg" width="100%" alt="Reference Image Edit - Full-body dragon character extension - Image 1"></td>
-<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy2s8uXcAEViN-.jpg" width="100%" alt="Reference Image Edit - Full-body dragon character extension - Image 2"></td>
-<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy2s8uWUAIql8d.jpg" width="100%" alt="Reference Image Edit - Full-body dragon character extension - Image 3"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@JossMonzoni](https://x.com/JossMonzoni)
-- **Джерело:** [Джерело](https://x.com/JossMonzoni/status/2075245480108257448)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/JossMonzoni/status/2075245480108257448)**
-
----
-
-### No. 64: Multilingual Poster - Arabic poster typography test
-
-![Language-AR](https://img.shields.io/badge/Language-AR-blue)
-
-#### Опис
-
-A public Arabic-language Seedream 5.0 Pro typography observation from Magnific, normalized for testing Arabic poster readability and product layout.
-
-#### Промпт
-
-```
-Design two premium Arabic technology posters for Seedream 5 Pro. Use a dark cinematic background, bright controlled rim light, and a clean modern Arabic headline: "سيدريم 5 برو". Add a short Arabic subheading with crisp spacing and correct letter joining: "تصميم بصري ذكي ودقيق". Keep the typography large, legible, and centered in a professional advertising layout. Add a subtle product-light motif, gold-blue accents, and avoid broken Arabic glyphs, random Latin filler, or unreadable decorative text.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy-gAhXgAAVm8M.jpg" width="100%" alt="Multilingual Poster - Arabic poster typography test - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy-gAeWYAAlc5q.jpg" width="100%" alt="Multilingual Poster - Arabic poster typography test - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@aziz4ai](https://x.com/aziz4ai)
-- **Джерело:** [Джерело](https://x.com/aziz4ai/status/2075242994102419920)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** ar
-
-**[Використати цей промпт](https://x.com/aziz4ai/status/2075242994102419920)**
-
----
-
-### No. 65: Character Design - Pancake angel dessert illustration
+#### No. 60: Pancake angel dessert illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
-#### Опис
+##### Опис
 
 A Japanese public Seedream 5 Pro test on Magnific, rewritten as a whimsical dessert-character prompt with controlled Japanese text handling.
 
-#### Промпт
+##### Промпт
 
 ```
 Create a delicate pancake angel character sitting on a stack of fluffy pancakes, with small cream-colored wings, maple-syrup highlights, soft morning light, and fine pastry texture. Place the character in a cozy cafe tabletop scene with powdered sugar drifting like snow. Add a small handwritten Japanese title card reading "パンケーキ天使" on the plate rim, keeping the text simple and legible. Use polished storybook illustration detail, gentle colors, and a clean 1.5k-style high-resolution finish.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy5imDaUAAnT5y.jpg" width="100%" alt="Character Design - Pancake angel dessert illustration - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy5imDaUAAnT5y.jpg" width="100%" alt="Pancake angel dessert illustration - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@ayumi_t820](https://x.com/ayumi_t820)
 - **Джерело:** [Джерело](https://x.com/ayumi_t820/status/2075239907006832996)
@@ -3081,30 +2799,32 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 
 ---
 
-### No. 66: Character Design - Soft anime expression pair
+<a id="prompt-82"></a>
+
+#### No. 61: Soft anime expression pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
 A public Seedream 5 Pro anime-style test, normalized into a two-image character expression prompt for evaluating line quality and color softness.
 
-#### Промпт
+##### Промпт
 
 ```
 Generate a paired anime character study of the same young adventurer in two emotional beats: calm curiosity and sudden wonder. Use clean expressive eyes, soft painterly cel shading, light hair movement, and a gentle fantasy background that stays secondary to the face. Keep the character design consistent across both images: same hairstyle, outfit, color palette, and proportions. Make the linework crisp but not harsh, with luminous pastel highlights and a finished key-visual feel.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy1yWsWQAAOnCk.jpg" width="100%" alt="Character Design - Soft anime expression pair - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy1yWwWgAAqlKB.jpg" width="100%" alt="Character Design - Soft anime expression pair - Image 2"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy1yWsWQAAOnCk.jpg" width="100%" alt="Soft anime expression pair - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy1yWwWgAAqlKB.jpg" width="100%" alt="Soft anime expression pair - Image 2"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@stargliderbr](https://x.com/stargliderbr)
 - **Джерело:** [Джерело](https://x.com/stargliderbr/status/2075233749805957188)
@@ -3115,141 +2835,31 @@ Generate a paired anime character study of the same young adventurer in two emot
 
 ---
 
-### No. 67: Precision Editing - Minimal painting replacement iteration test
+<a id="prompt-85"></a>
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A public three-model editing comparison using the same intentionally minimal instruction to measure how quickly repeated edits drift from the source.
-
-#### Промпт
-
-```
-Change the painting.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2075226893171793920/img/AdYm1_YfCCyoqZlX.jpg" width="100%" alt="Precision Editing - Minimal painting replacement iteration test - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@abdoul94_](https://x.com/abdoul94_)
-- **Джерело:** [Джерело](https://x.com/abdoul94_/status/2075229273179279409)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/abdoul94_/status/2075229273179279409)**
-
----
-
-### No. 68: Cinematic Film Still - Afternoon street portrait prompt
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### Опис
-
-A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro, preserving the detailed street-photography prompt for reuse.
-
-#### Промпт
-
-```
-主体：一位25岁左右的中国女性，鹅蛋脸，黑色及肩微卷长发被风吹起几缕，穿米白色 oversized 西装外套内搭黑色吊带，锁骨清晰。
-动作与姿态：走在人行道上被镜头抓拍的瞬间，一只手轻拨耳边碎发，身体微微侧转，步伐自然。
-表情与视线：不经意间瞥向镜头的瞬间，嘴角似笑非笑，眼神松弛真实。
-场景环境：下午四点的城市街头，梧桐树影落在人行道上，背景是虚化的咖啡店橱窗和路人。
-镜头：中景，85mm 镜头，浅景深，主体位于画面右三分之一，前景有虚化树叶。
-光线：午后侧逆光勾勒发丝金边，树影在脸上形成斑驳光斑，自然柔和。
-风格：写实街拍摄影，富士胶片色调，轻微颗粒感。
-材质细节：可见皮肤毛孔和自然肤质，西装面料的编织纹理，发丝根根分明。
-约束：无文字水印，无畸形手指，避免过度磨皮的塑料感皮肤。
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMywxT2XYAAgF2E.jpg" width="100%" alt="Cinematic Film Still - Afternoon street portrait prompt - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMywxT6XQAAy9ea.jpg" width="100%" alt="Cinematic Film Still - Afternoon street portrait prompt - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@johnAGI168](https://x.com/johnAGI168)
-- **Джерело:** [Джерело](https://x.com/johnAGI168/status/2075228822887157932)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** zh
-
-**[Використати цей промпт](https://x.com/johnAGI168/status/2075228822887157932)**
-
----
-
-### No. 69: Character Design - Old-money creator turnaround sheet
+#### No. 62: Cloud maker fantasy portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
-
-A public multi-model character-design comparison using Seedream 5 Pro, preserving the full-body turnaround prompt for fashion-character workflows.
-
-#### Промпт
-
-```
-Character design sheet, full body turnaround, 23-year-old tall lean male creator, old money superstar aesthetic, royal and exquisite vibe. Wearing an extravagant, oversized long fur coat in arctic white and rich brown. Underneath the coat, a minimalist tailored matte charcoal turtleneck and dark ash trousers. Vintage gold-rimmed tinted aviator glasses, heavy gold signet ring. Confident, effortless posture. Set against a minimalist ash-grey studio background. High contrast, cinematic lighting, ultra-detailed luxury fashion, 8k, photorealistic --ar 16:9
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyxUD8WwAAdP-C.jpg" width="100%" alt="Character Design - Old-money creator turnaround sheet - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyxUD5WYAAwA44.jpg" width="100%" alt="Character Design - Old-money creator turnaround sheet - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyxUENWEAA3T3x.jpg" width="100%" alt="Character Design - Old-money creator turnaround sheet - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyxUEDX0AApRdu.jpg" width="100%" alt="Character Design - Old-money creator turnaround sheet - Image 4"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Boluwatifeolad7](https://x.com/Boluwatifeolad7)
-- **Джерело:** [Джерело](https://x.com/Boluwatifeolad7/status/2075228499653079138)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Boluwatifeolad7/status/2075228499653079138)**
-
----
-
-### No. 70: Cinematic Film Still - Cloud maker fantasy portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
+##### Опис
 
 A public Seedream 5 Pro fantasy image post, rewritten into a magical-realism prompt focused on atmosphere, hand gesture, and cloud-form control.
 
-#### Промпт
+##### Промпт
 
 ```
 Create a magical realist portrait titled The Cloud Maker. Show a solitary figure standing on a high stone balcony at dawn, shaping a small storm cloud between both hands like wet clay. Wisps of vapor curl around their fingers, with tiny lightning threads glowing inside the cloud. The background opens into a vast pale sky over distant mountains, soft wind moving the cloak, cinematic realism, subtle film grain, cool blue-gold light, and a sense of quiet myth rather than superhero spectacle.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyvrMracAAXQ7s.jpg" width="100%" alt="Cinematic Film Still - Cloud maker fantasy portrait - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyvrMracAAXQ7s.jpg" width="100%" alt="Cloud maker fantasy portrait - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@higginswerx](https://x.com/higginswerx)
 - **Джерело:** [Джерело](https://x.com/higginswerx/status/2075226897085243767)
@@ -3260,50 +2870,17 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 
 ---
 
-### No. 71: Infographic & Typography - Same-prompt model comparison triptych
+<a id="prompt-98"></a>
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### Опис
-
-A public Chinese post comparing Seedream 5.0 Pro, GPT Image 2, and Midjourney V8.1, normalized into a controlled comparison-board prompt.
-
-#### Промпт
-
-```
-Create a clean three-panel comparison board for the same visual prompt across three image models. Panel one is labeled "Seedream 5.0 Pro", panel two "GPT Image 2", and panel three "Midjourney V8.1". Use the same subject, framing, lighting, and color palette in every panel so differences in detail, typography, and realism are easy to inspect. Keep labels crisp, the grid balanced, and the background neutral like a professional benchmark slide.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMynYDSboAAhCHO.jpg" width="100%" alt="Infographic &amp; Typography - Same-prompt model comparison triptych - Image 1"></td>
-<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyoyNea8AIs_97.jpg" width="100%" alt="Infographic &amp; Typography - Same-prompt model comparison triptych - Image 2"></td>
-<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyo0BXboAA9pbs.jpg" width="100%" alt="Infographic &amp; Typography - Same-prompt model comparison triptych - Image 3"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@lukfan](https://x.com/lukfan)
-- **Джерело:** [Джерело](https://x.com/lukfan/status/2075219606617346357)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** zh
-
-**[Використати цей промпт](https://x.com/lukfan/status/2075219606617346357)**
-
----
-
-### No. 72: Character Design - Casual cafe-step street portrait
+#### No. 63: Casual cafe-step street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
 A complete public blind-test prompt shared with GPT Image 2.0 and Seedream 5.0 Pro, emphasizing authentic smartphone texture and a detailed cafe environment.
 
-#### Промпт
+##### Промпт
 
 ```
 A realistic vertical 3:4 smartphone social-media street photo of a young adult woman sitting on a wooden step outside an urban cafe. Behind her are gray metal window frames and large glass panes showing the cafe interior: warm yellow lights, dining guests, wooden chairs and tables, distressed concrete walls, and tree reflections on the glass. The image should feel like a real casual snapshot, not a clean studio shoot, with natural background clutter, reflections, slight glare, and mild social-media compression.
@@ -3319,16 +2896,16 @@ Her styling follows a K-beauty / J-fashion sweet-cool idol-inspired direction: d
 Camera feel: taken by a friend standing in front of her with a smartphone, using a 26-35mm equivalent lens, front-facing slightly high angle, close environmental portrait framing, seated full-body view with shoes mostly included. Keep a fairly deep depth of field, clear subject, detailed cafe background, natural imperfections, reflections, mild noise, and authentic casual-photo texture.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMxgfDVb0AADuQW.jpg" width="100%" alt="Character Design - Casual cafe-step street portrait - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMxgkvibAAARSwa.jpg" width="100%" alt="Character Design - Casual cafe-step street portrait - Image 2"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMxgfDVb0AADuQW.jpg" width="100%" alt="Casual cafe-step street portrait - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMxgkvibAAARSwa.jpg" width="100%" alt="Casual cafe-step street portrait - Image 2"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@underwoodxie96](https://x.com/underwoodxie96)
 - **Джерело:** [Джерело](https://x.com/underwoodxie96/status/2075140186992939103)
@@ -3339,107 +2916,34 @@ Camera feel: taken by a friend standing in front of her with a smartphone, using
 
 ---
 
-### No. 73: Cinematic Film Still - 1990s Andalusian home-video still
+<a id="prompt-118"></a>
+
+#### No. 64: Fashion outfit editorial set in a parking structure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
-A public same-prompt Seedream 5 Pro comparison prompt recreating the imperfect exposure, tape texture, and unpolished framing of a 1990s Spanish home video.
+A source-backed demo from the original public X post, demonstrating fashion outfit editorial set in a parking structure.
 
-#### Промпт
-
-```
-1990s Spain home video still frame, consumer camcorder (Hi8 / VHS-C), whitewashed Andalusian village street at siesta hour, handheld casual framing, imperfect focus, auto exposure shift, VHS tape noise, interlaced video look, low resolution, faded warm colors, overexposed sunlit walls and deep shade mixed lighting, dry dusty afternoon atmosphere, raw documentary footage look, unpolished realism, no cinematic grading, no stylization, no text, no watermark. Old woman in a dark housecoat sitting on a wooden chair beside her doorway in the shade, a dog lying on the ground at her feet, long shadows down the empty street, unaware of the camera, neutral mood.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMw_09WagAASGSu.jpg" width="100%" alt="Cinematic Film Still - 1990s Andalusian home-video still - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@magnific](https://x.com/magnific)
-- **Джерело:** [Джерело](https://x.com/magnific/status/2075103712448831774)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/magnific/status/2075103712448831774)**
-
----
-
-### No. 74: Infographic & Typography - Japanese cinematic magazine cover layout
-
-![Language-ZH-TW](https://img.shields.io/badge/Language-ZH-TW-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A detailed public prompt tested with both GPT Image and Seedream 5.0 Pro, focused on identity preservation and dense Japanese editorial-cover typography.
-
-#### Промпт
-
-```
-你是一位顶级的世界级电影封面设计大师，根据以下需求，将我的图像作品进行顶级电影封面排版任务。
-
-以参考图中的角色为拍摄主体，严格保持人物五官特征、脸部骨相、眼型、鼻唇比例、发型轮廓、肤色质感与整体气质一致，保持画面中角色的真实皮肤纹理、自然毛孔、细微绒毛、高光反射真实可见，不使用过度磨皮，不网红脸，不要 AI 塑料感，保持角色的姿势神态、场景氛围与画面构图不变。
-
-封面主题：KishenArt Cinematic-Style Portraits。顶部超大日文刊名：PHOTO KISHEN DIGITAL。左上角：2026 July Vol.KishenArt002。画面左侧纵向排列摄影专题文字：終極特輯、プロ写真家インタビュー、Netflix 獨家海報、フィルムライクカラー研究。画面右上加入红色圆形贴纸：SPECIAL ISSUE KISHENART VISION。主标题采用超大红色日文字体：Sexy の毒液。副标题采用优雅手写英文：Cinematic Storytelling Vibe。画面底部大面积红色粗体文字覆盖：Netflix。
-
-左下角添加 AI 工具 Logo icon，只需要图标，不需要文字名称：ChatGPT、Grok、Gemini、Dreamina、Kling。工具图标下加入社交媒体 Logo icon：X、Instagram、微博、小红书、抖音、B 站、YouTube、Telegram。左下角添加两排文字：Ideas Without Limits；Video Director | AI Design | Photographer。
-
-整体版式遵循 Netflix 电影摄影海报杂志级别设计逻辑，专业摄影出版物质感，层级丰富但不拥挤，字体无阴影无描边，字体与图片融合自然。Ultra Photorealistic, 8K RAW, Editorial Cover Design, Japanese Magazine Layout, Real Skin Texture, Natural Light, Cinematic Depth of Field, Fine Art Portrait, Premium Print Quality, High Detail, 3:4 Vertical Cover, 4K HD Export.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMw0EEybsAA05e3.jpg" width="100%" alt="Infographic &amp; Typography - Japanese cinematic magazine cover layout - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@KishenArt](https://x.com/KishenArt)
-- **Джерело:** [Джерело](https://x.com/KishenArt/status/2075090846412927134)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** zh-TW
-
-**[Використати цей промпт](https://x.com/KishenArt/status/2075090846412927134)**
-
----
-
-### No. 75: Character Design - Fashion outfit editorial set in a parking structure
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating fashion outfit editorial set in a parking structure.
-
-#### Промпт
+##### Промпт
 
 ```
 A stylish young woman with long layered black hair and soft curtain bangs, wearing sleek black rectangular sunglasses, an oversized chocolate-brown tailored blazer with matching wide-leg trousers, and a fitted mocha-brown camisole. She carries a large structured ivory leather tote bag with gold hardware over one shoulder. Standing confidently with one hand in her pocket, looking back over her shoulder. Shot in a modern open-air parking structure beneath a concrete overpass, with parked cars softly blurred in the background. Natural midday sunlight creates soft shadows and clean highlights. Minimalist luxury aesthetic, quiet luxury fashion, effortless street style, neutral earth-tone color palette, premium editorial photography, shallow depth of field, ultra-realistic skin texture, subtle makeup with glossy nude lips, high-end fashion campaign, cinematic composition, 85mm lens, f/2.0, soft bokeh, crisp focus, HDR, RAW, 8K, Vogue-style luxury editorial.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwiJaNa0AA7gx7.jpg" width="100%" alt="Character Design - Fashion outfit editorial set in a parking structure - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwiJadbEAAlAYV.jpg" width="100%" alt="Character Design - Fashion outfit editorial set in a parking structure - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwiJaca0AAMG-v.jpg" width="100%" alt="Character Design - Fashion outfit editorial set in a parking structure - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwiJaYbsAAy_Za.jpg" width="100%" alt="Character Design - Fashion outfit editorial set in a parking structure - Image 4"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwiJaNa0AA7gx7.jpg" width="100%" alt="Fashion outfit editorial set in a parking structure - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwiJadbEAAlAYV.jpg" width="100%" alt="Fashion outfit editorial set in a parking structure - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwiJaca0AAMG-v.jpg" width="100%" alt="Fashion outfit editorial set in a parking structure - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwiJaYbsAAy_Za.jpg" width="100%" alt="Fashion outfit editorial set in a parking structure - Image 4"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@ChillaiKalan__](https://x.com/ChillaiKalan__)
 - **Джерело:** [Джерело](https://x.com/ChillaiKalan__/status/2075071088137208063)
@@ -3450,72 +2954,32 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 
 ---
 
-### No. 76: UI / Product Mockup - Premium sports footwear commercial ad set
+<a id="prompt-92"></a>
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating premium sports footwear commercial ad set.
-
-#### Промпт
-
-```
-Ultra-realistic premium sports footwear commercial advertisement featuring a modern running shoe floating horizontally at the center of a futuristic cyan and deep blue gradient background. The sneaker is displayed in a clean side profile with ultra-detailed breathable knit mesh texture, glossy air-cushion sole, realistic stitching, premium materials, and crisp branding. Soft cinematic studio lighting creates realistic reflections, shadows, and depth.
-
-The composition is designed as a futuristic e-commerce product showcase inside a rounded glass-inspired interface with glowing white borders and translucent frosted panels. Large semi-transparent typography spelling the shoe model fills the background, creating depth without overpowering the product.
-
-Minimal modern UI elements surround the shoe, including elegant category labels, product title, search icon, shopping bag icon, menu icon, zoom percentage indicator connected by thin curved lines, price tag, size selector, color option, and a glowing rounded “BUY NOW” button. Add subtle neon cyan highlights, holographic interface accents, floating particles, soft bloom, and glassmorphism effects.
-
-Use a premium blue color palette with turquoise gradients, high-end sports branding aesthetics, luxury product presentation, Apple-inspired minimalism, futuristic web UI, perfect spacing, clean typography, ultra-sharp details, cinematic lighting, soft ambient glow, 3D depth, photorealistic textures, commercial advertising quality, Behance award-winning layout, 8K, HDR, octane render, Unreal Engine, global illumination, ray-traced reflections, ultra-realistic product photography.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwbTL0bcAAvtse.jpg" width="100%" alt="UI / Product Mockup - Premium sports footwear commercial ad set - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwbTM4aAAIV59s.jpg" width="100%" alt="UI / Product Mockup - Premium sports footwear commercial ad set - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwbTMbaIAAXsyD.jpg" width="100%" alt="UI / Product Mockup - Premium sports footwear commercial ad set - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwbTLZb0AAUI1X.jpg" width="100%" alt="UI / Product Mockup - Premium sports footwear commercial ad set - Image 4"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@iamrealsnow](https://x.com/iamrealsnow)
-- **Джерело:** [Джерело](https://x.com/iamrealsnow/status/2075063569486598281)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/iamrealsnow/status/2075063569486598281)**
-
----
-
-### No. 77: Character Design - Backlit street portrait feeding stray cats
+#### No. 65: Backlit street portrait feeding stray cats
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
-#### Опис
+##### Опис
 
 A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid composition, specific styling, natural gestures, and hazy commercial backlight.
 
-#### Промпт
+##### Промпт
 
 ```
 正午（好日头），户外场景，仰拍镜头，正脸看镜头，慵懒外套白内衬。戴项链，戴手表，耳钉，钻石手链，做出可爱的表情，梦幻朦胧感，噪点，逆光，微微过曝，商业修图，日常抓拍，冷白皮，通透，清冷女爱豆，长发半遮面，一半自然披散，在小区楼下蹲着给流浪猫喂零食，猫在吃，她穿着浅灰 oversize 卫衣和浅蓝牛仔短裤，膝盖着地，一手摊着零食、一手比着耶，她头发垂下来挡着半张脸，眼神温柔又小心翼翼，阳光透过树叶投下光斑，背景有缩在角落的小猫、堆着的纸箱。
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwaIg0akAA0106.jpg" width="100%" alt="Character Design - Backlit street portrait feeding stray cats - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwaKfVaYAAwPyQ.jpg" width="100%" alt="Character Design - Backlit street portrait feeding stray cats - Image 2"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwaIg0akAA0106.jpg" width="100%" alt="Backlit street portrait feeding stray cats - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwaKfVaYAAwPyQ.jpg" width="100%" alt="Backlit street portrait feeding stray cats - Image 2"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@DeepBlueAIX](https://x.com/DeepBlueAIX)
 - **Джерело:** [Джерело](https://x.com/DeepBlueAIX/status/2075062633666089004)
@@ -3526,15 +2990,17 @@ A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid compos
 
 ---
 
-### No. 78: Character Design - Anime skateboard sequence with multiple shot prompts
+<a id="prompt-129"></a>
+
+#### No. 66: Anime skateboard sequence with multiple shot prompts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating anime skateboard sequence with multiple shot prompts.
+A source-backed demo from the original public X post, demonstrating anime skateboard sequence with multiple shot prompts.
 
-#### Промпт
+##### Промпт
 
 ```
 Prompt 1:
@@ -3550,18 +3016,18 @@ Prompt 4:
 A girl with a sharp bob cut, purple hair with black accent strands, stylized layered hair slightly tousled, wearing layered cloth with black accents, standing at a concrete skate park holding her skateboard under one arm, captured from a medium shot, casual confident pose, one hand flashing a peace sign, tongue playfully sticking out, skateboard tucked at her side, skate park ramps and graffiti walls in the softly blurred background, cinematic still, anamorphic lens, film grain, rich contrast, cinematic color grading, soft natural afternoon light, warm golden tones, playful rebellious attitude, 8K resolution, shallow depth of field, sharp focus on the face and peace sign, editorial finish
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwYFuAawAE2BGw.jpg" width="100%" alt="Character Design - Anime skateboard sequence with multiple shot prompts - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwYbvbbkAA2FiX.jpg" width="100%" alt="Character Design - Anime skateboard sequence with multiple shot prompts - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwYnSObYAE5NCe.jpg" width="100%" alt="Character Design - Anime skateboard sequence with multiple shot prompts - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwXqEoacAAPqx8.jpg" width="100%" alt="Character Design - Anime skateboard sequence with multiple shot prompts - Image 4"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwYFuAawAE2BGw.jpg" width="100%" alt="Anime skateboard sequence with multiple shot prompts - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwYbvbbkAA2FiX.jpg" width="100%" alt="Anime skateboard sequence with multiple shot prompts - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwYnSObYAE5NCe.jpg" width="100%" alt="Anime skateboard sequence with multiple shot prompts - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwXqEoacAAPqx8.jpg" width="100%" alt="Anime skateboard sequence with multiple shot prompts - Image 4"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@asatoucan](https://x.com/asatoucan)
 - **Джерело:** [Джерело](https://x.com/asatoucan/status/2075060881067769903)
@@ -3572,50 +3038,17 @@ A girl with a sharp bob cut, purple hair with black accent strands, stylized lay
 
 ---
 
-### No. 79: Reference Image Edit - Japanese no-makeup image edit instruction
+<a id="prompt-117"></a>
 
-![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A source-backed tutorial curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating japanese no-makeup image edit instruction.
-
-#### Промпт
-
-```
-すっぴんメイクにして
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwXj5aaAAAacEs.jpg" width="100%" alt="Reference Image Edit - Japanese no-makeup image edit instruction - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwXkyDaEAAeX23.jpg" width="100%" alt="Reference Image Edit - Japanese no-makeup image edit instruction - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@renataro9](https://x.com/renataro9)
-- **Джерело:** [Джерело](https://x.com/renataro9/status/2075059699112652908)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** ja-JP
-
-**[Використати цей промпт](https://x.com/renataro9/status/2075059699112652908)**
-
----
-
-### No. 80: Cinematic Film Still - ARRI-style cinematic city close-up
+#### No. 67: ARRI-style cinematic city close-up
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
-#### Опис
+##### Опис
 
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating arri-style cinematic city close-up.
+A source-backed demo from the original public X post, demonstrating arri-style cinematic city close-up.
 
-#### Промпт
+##### Промпт
 
 ```
 Prompt 1:
@@ -3630,18 +3063,18 @@ Prompt 3:
 A teenager stands behind a metal chain-link fence in a grassy outdoor area. She looks toward the camera while the fence is in the foreground. Teen white female, slim build, long straight brown hair, pale skin, light features., wearing dark blue puffy jacket over a reddish zip-up hoodie., neutral expression. Solo, A young woman stands behind a chain-link fence looking forward., facing frontal. Set in fence, day. Diffused natural overcast daylight provides even, shadowless illumination. The image features a cool, desaturated color grade with muted greens and grays. Live_action style with a neutral mood.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwSc30bAAAhMpu.jpg" width="100%" alt="Cinematic Film Still - ARRI-style cinematic city close-up - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwSSnObEAAobBH.jpg" width="100%" alt="Cinematic Film Still - ARRI-style cinematic city close-up - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwSk_wacAAHVki.jpg" width="100%" alt="Cinematic Film Still - ARRI-style cinematic city close-up - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwSrIEbEAEv_3I.jpg" width="100%" alt="Cinematic Film Still - ARRI-style cinematic city close-up - Image 4"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwSc30bAAAhMpu.jpg" width="100%" alt="ARRI-style cinematic city close-up - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwSSnObEAAobBH.jpg" width="100%" alt="ARRI-style cinematic city close-up - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwSk_wacAAHVki.jpg" width="100%" alt="ARRI-style cinematic city close-up - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwSrIEbEAEv_3I.jpg" width="100%" alt="ARRI-style cinematic city close-up - Image 4"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@df_reno](https://x.com/df_reno)
 - **Джерело:** [Джерело](https://x.com/df_reno/status/2075055332452106476)
@@ -3652,203 +3085,34 @@ A teenager stands behind a metal chain-link fence in a grassy outdoor area. She 
 
 ---
 
-### No. 81: Reference Image Edit - Reference-image camera-angle change comparison
+<a id="prompt-114"></a>
 
-![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating reference-image camera-angle change comparison.
-
-#### Промпт
-
-```
-リファレンス画像のスタイルを保ったまま、もう少し高い位置からの画角に変更してもらいました。
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuX1nNaIAAkR1Q.jpg" width="100%" alt="Reference Image Edit - Reference-image camera-angle change comparison - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuX3cRbIAAsM8B.jpg" width="100%" alt="Reference Image Edit - Reference-image camera-angle change comparison - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuX4tra0AAknaG.jpg" width="100%" alt="Reference Image Edit - Reference-image camera-angle change comparison - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuX5uIaYAA7Teh.jpg" width="100%" alt="Reference Image Edit - Reference-image camera-angle change comparison - Image 4"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@hasamaru_studio](https://x.com/hasamaru_studio)
-- **Джерело:** [Джерело](https://x.com/hasamaru_studio/status/2075052934409375918)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** ja-JP
-
-**[Використати цей промпт](https://x.com/hasamaru_studio/status/2075052934409375918)**
-
----
-
-### No. 82: Character Design - Lake Como fashion scene comparison against Banana Pro
+#### No. 68: Japanese casual portrait styling set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
-A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating lake como fashion scene comparison against banana pro.
+A source-backed demo from the original public X post, demonstrating japanese casual portrait styling set.
 
-#### Промпт
-
-```
-A straight-on medium-wide cinematic shot at eye-level, static locked frame, 4:5 vertical, captures a sun-bright late-morning inside a Lake Como villa courtyard room, camera perpendicular to the wall plane with no tilt, the atmosphere crisp and alive like the minute before heading out for gelato, the wall behind the scene a warm hand-troweled sable butter-yellow lime plaster slightly uneven with soft sun-bleach along the upper right edge, the floor matte burnt-terracotta chili tile grounding the frame, grout lines aged and dusty.
-
-Centered lower in the frame, a fully restored 1965 Vespa Primavera in glossy melon-orange lacquer parked on its side stand parallel to the camera, full profile visible, polished chrome Vespa badge on the legshield catching light, round chrome headlamp glinting, chrome handlebars and mirrors, aged cognac brown leather saddle, a silk twill scarf in marine navy, chili orange, cream and cognac pattern loosely tied around the right handlebar with tails cascading down, a small wicker basket bag on the left handlebar spilling a baguette and green grapes.
-
-The subject is a stunning World Cup beauty in her mid-twenties, with radiant sun-kissed skin and natural healthy glow, long silky dark chestnut brown hair loosely pulled into a soft low bun with gentle face-framing waves, striking hazel eyes with bright lively spark looking directly into the camera, high cheekbones, full lips in a soft warm cognac-rose shade with corners gently lifted in quiet joy. She is seated sideways on the Vespa saddle, body in a bright open three-quarter twist toward the camera, both legs crossed at the ankles on the same side, knees angled toward the lens, one hand resting lightly on the chrome handlebar, the other arm relaxed behind her on the rear of the saddle. Shoulders open and relaxed, natural breathing pose.
-
-She wears a fitted cream football jersey with subtle gold embroidery and thin spaghetti straps, tucked into a flowing cream bias-cut midi skirt that falls mid-calf, a slim cognac leather belt at the waist, flat cognac leather Roman sandals with ankle ties, stack of thin gold bangles on one wrist, delicate gold chain with small gold-and-coral pendant, small gold hoop earrings. Miu Miu oval sunglasses with thin gold frames and warm cognac lenses pushed up on her head. A cream quilted Miu Miu matelassé crossbody bag with gold chain slung across her torso.
-
-Natural skin texture with soft luminosity, gentle sheen on nose and lips, crisp morning sunlight, cinematic color grading, highly detailed, photorealistic, Slim Aarons style with modern World Cup energy.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwLnEra4AAp63F.jpg" width="100%" alt="Character Design - Lake Como fashion scene comparison against Banana Pro - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwLpZlbYAAHMMi.jpg" width="100%" alt="Character Design - Lake Como fashion scene comparison against Banana Pro - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@cso6709](https://x.com/cso6709)
-- **Джерело:** [Джерело](https://x.com/cso6709/status/2075046425277399261)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/cso6709/status/2075046425277399261)**
-
----
-
-### No. 83: Cinematic Film Still - Impossible-scale cinematic sci-fi worldbuilding set
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating impossible-scale cinematic sci-fi worldbuilding set.
-
-#### Промпт
-
-```
-Prompt 1:
-An industrial civilization is constructing an entire planet inside an enormous orbital shipyard. Giant robotic arms hold continents in place while molten oceans are poured into gigantic basins. Thousands of spacecraft weld mountain ranges together. The unfinished world glows from its molten core. Unreal scale, NASA realism, cinematic science fiction.
-
-Prompt 2:
-Gigantic floating whales drift above endless wheat fields while enormous wind-powered harvesting machines extend hundreds of meters into the sky to collect glowing crystals that grow beneath the creatures. Farmers below appear tiny. Warm sunset, golden dust, beautiful atmospheric perspective, ultra-realistic, cinematic masterpiece.
-
-Prompt 3:
-A massive ocean wave nearly one kilometer high has frozen in time just before crashing into a coastal city. Emergency helicopters fly through tunnels inside the transparent wall of water. Every droplet is perfectly suspended. Cold blue lighting mixed with sunrise reflections, photorealistic, impossible but believable physics.
-
-Prompt 4:
-A mountain village built on impossibly tall stone pillars extends far above Earth's weather. Massive thunderstorms rage thousands of meters below while peaceful gardens, waterfalls and wooden bridges sit in bright sunshine above the clouds. Eagles glide beneath the village instead of above it. Ultra realistic, breathtaking scale.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwCSVCWUAA0CRa.jpg" width="100%" alt="Cinematic Film Still - Impossible-scale cinematic sci-fi worldbuilding set - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwCjxSW0AAaZFu.jpg" width="100%" alt="Cinematic Film Still - Impossible-scale cinematic sci-fi worldbuilding set - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwCm1rWEAA4RnN.jpg" width="100%" alt="Cinematic Film Still - Impossible-scale cinematic sci-fi worldbuilding set - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwCqVmW8AAhP1u.jpg" width="100%" alt="Cinematic Film Still - Impossible-scale cinematic sci-fi worldbuilding set - Image 4"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@AllaAisling](https://x.com/AllaAisling)
-- **Джерело:** [Джерело](https://x.com/AllaAisling/status/2075036565147906511)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/AllaAisling/status/2075036565147906511)**
-
----
-
-### No. 84: Precision Editing - Localized anime edit preserving composition while changing one subject
-
-![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
-
-#### Опис
-
-A source-backed tutorial curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating localized anime edit preserving composition while changing one subject.
-
-#### Промпт
-
-```
-元画像の構図、人物の横顔、顔の輪郭、髪型、花飾り、白いドレス、藤の花の背景、全体の淡いピンクとラベンダーの幻想的な雰囲気はそのまま維持してください。
-
-局所的に、少女の視線の先にいる紫の蝶を、より美しく印象的な「光をまとった宝石のような蝶」に変更してください。蝶の羽は透明感のある紫、水晶、ラベンダー、淡いピンクのグラデーションで、細かな発光粒子と繊細な羽脈を持たせてください。
-
-蝶から少女の瞳へ向かって、細い光の粒子と柔らかな魔法の軌跡を追加してください。光は強すぎず、白飛びさせず、既存の明るく儚い花園の空気感に自然に溶け込ませてください。
-
-少女の紫色の瞳には、蝶の光が小さく反射しているような宝石風のハイライトを少しだけ追加してください。瞳の形、顔立ち、表情、年齢感は変えないでください。
-
-前髪の一部にも、蝶の淡い紫光がわずかに反射しているようにしてください。ただし髪色全体は変えず、ピンクブロンドの柔らかさを維持してください。
-
-全体は高品質な日本アニメイラスト、幻想的、透明感、春の花園、上品、繊細、儚い美しさ。過度な発光、派手な魔法陣、強いコントラスト、顔の変形、衣装変更、背景変更は避けてください。
-
-顔を変えない、横顔を変えない、鼻を変えない、口を変えない、顎を変えない、髪型を変えない、花飾りを変えない、服を変えない、背景全体を変えない、暗くしない、ホラーにしない、強すぎる発光にしない、魔法陣を追加しない、羽を大きくしすぎない、蝶を主役にしすぎない、白飛びさせない、彩度を上げすぎない
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMv_Xn3bAAAiHQ2.jpg" width="100%" alt="Precision Editing - Localized anime edit preserving composition while changing one subject - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMv_cFLawAAxkFT.jpg" width="100%" alt="Precision Editing - Localized anime edit preserving composition while changing one subject - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@haruuraeadss](https://x.com/haruuraeadss)
-- **Джерело:** [Джерело](https://x.com/haruuraeadss/status/2075035201391255593)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** ja-JP
-
-**[Використати цей промпт](https://x.com/haruuraeadss/status/2075035201391255593)**
-
----
-
-### No. 85: Character Design - Japanese casual portrait styling set
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating japanese casual portrait styling set.
-
-#### Промпт
+##### Промпт
 
 ```
 A beautiful young Japanese woman, natural and effortless beauty, soft glowing skin, wearing a fitted black tank top layered under an oversized cool white shirt worn open, casual chic styling. Cinematic movie-grade shot, anamorphic lens flare, shallow depth of field with creamy bokeh, slow dolly-in camera movement, dramatic rim lighting from golden hour sun, subtle film grain, volumetric light rays through window, color graded like a Denis Villeneuve film teal and warm amber tones, 35mm anamorphic lens, motion blur on hair strands from gentle breeze, realistic skin texture, ultra-detailed, photorealistic, --ar 16:9
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwAQvbagAAoDu7.jpg" width="100%" alt="Character Design - Japanese casual portrait styling set - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwARKtaMAE1QXc.jpg" width="100%" alt="Character Design - Japanese casual portrait styling set - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwARljbgAA0tO3.jpg" width="100%" alt="Character Design - Japanese casual portrait styling set - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwAR9YaAAApRf7.jpg" width="100%" alt="Character Design - Japanese casual portrait styling set - Image 4"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwAQvbagAAoDu7.jpg" width="100%" alt="Japanese casual portrait styling set - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwARKtaMAE1QXc.jpg" width="100%" alt="Japanese casual portrait styling set - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwARljbgAA0tO3.jpg" width="100%" alt="Japanese casual portrait styling set - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwAR9YaAAApRf7.jpg" width="100%" alt="Japanese casual portrait styling set - Image 4"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@Cia0_exe](https://x.com/Cia0_exe)
 - **Джерело:** [Джерело](https://x.com/Cia0_exe/status/2075033845032993261)
@@ -3859,15 +3123,17 @@ A beautiful young Japanese woman, natural and effortless beauty, soft glowing sk
 
 ---
 
-### No. 86: Cinematic Film Still - Iridescent glass-flower editorial poster
+<a id="prompt-121"></a>
+
+#### No. 69: Iridescent glass-flower editorial poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating iridescent glass-flower editorial poster.
+A source-backed demo from the original public X post, demonstrating iridescent glass-flower editorial poster.
 
-#### Промпт
+##### Промпт
 
 ```
 An editorial graphic design poster on a solid black background. The central elements are exquisite, translucent 3D glass flowers with iridescent, holographic petals in shades of electric blue, violet, and soft purple.
@@ -3877,15 +3143,15 @@ In the background, large, bold white sans-serif typography reads "Seedream 5.0 P
 The layout is filled with clean blocks of small white placeholder body text and delicate thin white vector lines, creating a futuristic, tech-organic informational poster. High-contrast, sharp details, refractive glass textures, glossy finish, professional UI/UX design aesthetic.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMv6y_ubcAAfVrP.jpg" width="100%" alt="Cinematic Film Still - Iridescent glass-flower editorial poster - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMv6y_ubcAAfVrP.jpg" width="100%" alt="Iridescent glass-flower editorial poster - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@ComfyUI](https://x.com/ComfyUI)
 - **Джерело:** [Джерело](https://x.com/ComfyUI/status/2075027810666914062)
@@ -3896,365 +3162,88 @@ The layout is filled with clean blocks of small white placeholder body text and 
 
 ---
 
-### No. 87: UI / Product Mockup - Cyberpunk android graphic poster
+<a id="prompt-106"></a>
+
+#### No. 70: Melting-world-landmarks concept generation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating cyberpunk android graphic poster.
+A source-backed demo from the original public X post, demonstrating melting-world-landmarks concept generation.
 
-#### Промпт
-
-```
-A sci-fi cyberpunk graphic design poster. In the center, a striking portrait of a female android with glossy, liquid chrome skin. A vivid swirling streak of neon orange, yellow, and pink liquid paint brush stroke horizontally covers her eyes, soft smudged color overlay with smooth flowing pigment texture, no cracks or broken facial surfaces.
-
-The background is a dark, textured charcoal gray. Behind the central figure, large bold white futuristic typography reads "Seedream 5.0 Pro" with a subtle digital glitch and halftone texture. The composition is decorated with technical HUD elements, thin white lines, geometric wireframe diagrams, barcodes, and small sci-fi text boxes.
-
-Semi-transparent glassy spheres with grid textures overlap the foreground, creating depth. The overall mood is high-tech, dystopian, and avant-garde.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMv6yDTawAAyhoW.jpg" width="100%" alt="UI / Product Mockup - Cyberpunk android graphic poster - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@ComfyUI](https://x.com/ComfyUI)
-- **Джерело:** [Джерело](https://x.com/ComfyUI/status/2075027793491226677)
-- **Опубліковано:** 9 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/ComfyUI/status/2075027793491226677)**
-
----
-
-### No. 88: Character Design - Fantasy village watermill comparison against GPT Image 2
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating fantasy village watermill comparison against gpt image 2.
-
-#### Промпт
-
-```
-stylized stylized fantasy village watermill, two-story half-timbered red-clay tower w/ thatched conical roof, big wooden water-wheel, attached small thatched cottage, wooden walkways and stairs, lush green meadow w/ stones, painterly Genshin-Impact / Studio Ghibli env art, fluffy cumulus clouds, sunny midday
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvhgeBXkAABXjq.jpg" width="100%" alt="Character Design - Fantasy village watermill comparison against GPT Image 2 - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvhhLhXMAA5p3E.jpg" width="100%" alt="Character Design - Fantasy village watermill comparison against GPT Image 2 - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@emmanuel_2m](https://x.com/emmanuel_2m)
-- **Джерело:** [Джерело](https://x.com/emmanuel_2m/status/2075000114427375742)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/emmanuel_2m/status/2075000114427375742)**
-
----
-
-### No. 89: Infographic & Typography - Oversized beverage-can advertising composition comparison
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating oversized beverage-can advertising composition comparison.
-
-#### Промпт
-
-```
-A premium infographic-style advertisement featuring an oversized Pepsi can placed beside a young woman. The can is scaled to be nearly the same size as her entire seated body, creating a striking surreal proportion. The woman sits casually leaning against the giant can, one arm resting on it, interacting naturally. The Pepsi can is ultra-detailed with crisp branding, condensation droplets, realistic reflections, and metallic texture. The logo is clean, sharp, and properly proportioned. Composition is modern and minimal, set in a clean studio with a soft gradient background. Subtle infographic-style annotation lines highlight features like 'refreshment', 'carbonation', 'chilled texture'. Lighting is soft studio with controlled highlights. The model wears minimal contemporary clothing that complements the red white and blue tones of the can. Color grading crisp and slightly vibrant, commercial ad aesthetic. High-end product infographic, commercial beverage advertisement, ultra high resolution, 4K, photorealistic.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvg7FkXgAAz_F8.jpg" width="100%" alt="Infographic &amp; Typography - Oversized beverage-can advertising composition comparison - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvg734W8AAiM_K.jpg" width="100%" alt="Infographic &amp; Typography - Oversized beverage-can advertising composition comparison - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@emmanuel_2m](https://x.com/emmanuel_2m)
-- **Джерело:** [Джерело](https://x.com/emmanuel_2m/status/2075000101362131350)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/emmanuel_2m/status/2075000101362131350)**
-
----
-
-### No. 90: Character Design - Bedroom mirror-selfie influencer portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A public same-prompt comparison retested with Seedream 5.0 Pro, specifying pose, wardrobe, accessories, room props, and natural smartphone photography.
-
-#### Промпт
-
-```
-Subject and Pose: Young woman taking a mirror selfie in a bedroom, standing in front of a bed, holding a phone in her right hand at chest level, her left hand holding an iced drink near her lips while sipping through a straw, relaxed casual pose, slight head tilt.
-
-Clothing: Fitted cream off-white ribbed knit tank top with thin straps and low scoop neckline, light-wash high-waisted straight-leg denim jeans, showing a small strip of midriff.
-
-Accessories: Olive green New York Yankees baseball cap worn forward, silver over-ear headphones worn over the cap, large chunky gold hoop earrings, delicate gold cross pendant necklace, multiple gold rings, and stacked gold bangle bracelets on both wrists.
-
-Items: iPhone with pink floral rose-pattern phone case, iced matcha green tea latte in a clear plastic cup with dark green straw.
-
-Hair and Makeup: Long brown wavy hair flowing past the shoulders, natural glam makeup, nude lip.
-
-Background: Minimalist white bedroom, white textured bedding, black woven leather shoulder bag lying on the bed, distressed white vintage nightstand with a white ceramic lamp, and a glimpse of a leopard-print pillow.
-
-Technical: Soft diffused natural window lighting, warm color tones, vertical 9:16 aspect ratio, lifestyle photography, influencer aesthetic, high resolution, shot on iPhone, realistic skin texture.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMu8T-YWsAAk5_9.jpg" width="100%" alt="Character Design - Bedroom mirror-selfie influencer portrait - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@Arminn_Ai](https://x.com/Arminn_Ai)
-- **Джерело:** [Джерело](https://x.com/Arminn_Ai/status/2074959192096457130)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/Arminn_Ai/status/2074959192096457130)**
-
----
-
-### No. 91: Cinematic Film Still - Melting-world-landmarks concept generation
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating melting-world-landmarks concept generation.
-
-#### Промпт
+##### Промпт
 
 ```
 world's landmarks, melting like wax
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuXjuJbYAApbP8.jpg" width="100%" alt="Cinematic Film Still - Melting-world-landmarks concept generation - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuXj8mbMAAP0Jm.jpg" width="100%" alt="Cinematic Film Still - Melting-world-landmarks concept generation - Image 2"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuXjuJbYAApbP8.jpg" width="100%" alt="Melting-world-landmarks concept generation - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuXj8mbMAAP0Jm.jpg" width="100%" alt="Melting-world-landmarks concept generation - Image 2"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@magnific](https://x.com/magnific)
 - **Джерело:** [Джерело](https://x.com/magnific/status/2074918700709523881)
-- **Опубліковано:** 8 липня 2026 р.
+- **Опубліковано:** 9 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/magnific/status/2074918700709523881)**
 
 ---
 
-### No. 92: Cinematic Film Still - Solar-powered desert research station concept
+<a id="prompt-113"></a>
+
+#### No. 71: Fantasy fallen-angel warrior key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating solar-powered desert research station concept.
+A source-backed demo from the original public X post, demonstrating fantasy fallen-angel warrior key visual.
 
-#### Промпт
-
-```
-A solar-powered research station in a desert, featuring domed structures, solar panels, and various equipment for energy and research management.
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuUz-gbUAAvKWr.jpg" width="100%" alt="Cinematic Film Still - Solar-powered desert research station concept - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@ashen_one](https://x.com/ashen_one)
-- **Джерело:** [Джерело](https://x.com/ashen_one/status/2074915677815886071)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/ashen_one/status/2074915677815886071)**
-
----
-
-### No. 93: Character Design - Fantasy fallen-angel warrior key visual
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating fantasy fallen-angel warrior key visual.
-
-#### Промпт
+##### Промпт
 
 ```
 A divine fallen angel warrior kneeling in the center of an ancient celestial temple, thrusting a massive flaming holy sword into a cracked white marble floor, the impact creating glowing lava-like fractures and flying debris. Gigantic pure white feathered wings spread wide behind the warrior, wearing ornate gold and crimson medieval armor with intricate engravings, a flowing dark red cape, and ram-like curled white horns. Glowing crimson eyes stare downward with an intense, wrathful expression. A colossal circular celestial halo filled with sacred runes, geometric symbols, and ancient inscriptions dominates the background. Powerful golden volumetric sunlight pours from the upper right, illuminating the wings and armor while dramatic shadows fill the environment. Dust, smoke, ash, and embers swirl around the impact point. Hyper-detailed feathers, realistic metal reflections, cinematic fantasy atmosphere, epic dark fantasy, divine judgment, ultra-realistic, photorealistic, Unreal Engine 5, Octane Render, ray-traced global illumination, volumetric fog, HDR lighting, 8K,
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuHS8ha4AA-xra.jpg" width="100%" alt="Character Design - Fantasy fallen-angel warrior key visual - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuHS8ha4AA-xra.jpg" width="100%" alt="Fantasy fallen-angel warrior key visual - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@SimplyAnnisa](https://x.com/SimplyAnnisa)
 - **Джерело:** [Джерело](https://x.com/SimplyAnnisa/status/2074900816662774189)
-- **Опубліковано:** 8 липня 2026 р.
+- **Опубліковано:** 9 липня 2026 р.
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/SimplyAnnisa/status/2074900816662774189)**
 
 ---
 
-### No. 94: Character Design - Seedream vs GPT Image 2 for clean lifestyle portrait styling
+<a id="prompt-105"></a>
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### Опис
-
-A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating seedream vs gpt image 2 for clean lifestyle portrait styling.
-
-#### Промпт
-
-```
-摄影风格：冷白清透CCD生活照风 写真方向：轻熟生活照 场景方向：酒店泳池外步道 / 白色躺椅 / 浅蓝池水 / 简洁遮阳伞 服装方向：浅鼠尾草色修身无袖针织短裙 气质标签：温柔、清透、轻熟、安静、有吸引力 五官方向：真实清透自然脸，安静干净，不网红 五官细节：柔和鹅蛋脸，面部轮廓自然；清亮杏眼，眼神温柔安静；鼻型流畅小巧；唇形柔软克制，低饱和裸粉唇色；整体是安静、通透、舒服的生活感美人脸 发型方向：自然黑长发或低扎发，发丝顺滑，额前少量碎发，带一点微风感 身形方向：轻盈纤细，上围饱满自然 线条强调：强 镜头方向：大腿及上半身 姿态动作：站在泳池步道边，身体轻微侧向镜头，一只手自然垂落，另一只手轻扶裙侧 光线氛围：高色温晴天自然光 + 水面反射光 + 冷白极弱柔闪 滤镜效果：冷白高光 + 蓝白清透生活照色彩 + 轻颗粒 + 轻数码噪点 + 轻微过曝 画幅比例：9:16 补充要求：连衣裙贴身柔软，突出胸部轮廓、腰线和整体修长感，人物五官要安静耐看，整体要冷白清爽，不要商业泳池大片感
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMt9I5-aMAAeyVy.jpg" width="100%" alt="Character Design - Seedream vs GPT Image 2 for clean lifestyle portrait styling - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMt9NQkaoAAbk2M.jpg" width="100%" alt="Character Design - Seedream vs GPT Image 2 for clean lifestyle portrait styling - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@liyue_ai](https://x.com/liyue_ai)
-- **Джерело:** [Джерело](https://x.com/liyue_ai/status/2074890690686005590)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** zh
-
-**[Використати цей промпт](https://x.com/liyue_ai/status/2074890690686005590)**
-
----
-
-### No. 95: Character Design - Anime key-visual comparison
-
-![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
-
-#### Опис
-
-A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating anime key-visual comparison.
-
-#### Промпт
-
-```
-新作アニメのキービジュアルを作って下さい
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMt9SH6bsAAJ_A1.jpg" width="100%" alt="Character Design - Anime key-visual comparison - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@roco_kn_roco](https://x.com/roco_kn_roco)
-- **Джерело:** [Джерело](https://x.com/roco_kn_roco/status/2074890020260094137)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** ja-JP
-
-**[Використати цей промпт](https://x.com/roco_kn_roco/status/2074890020260094137)**
-
----
-
-### No. 96: UI / Product Mockup - Trading terminal interface with market microstructure detail
+#### No. 72: Fisheye editorial portraits with miniature clone motif
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating trading terminal interface with market microstructure detail.
+A source-backed demo from the original public X post, demonstrating fisheye editorial portraits with miniature clone motif.
 
-#### Промпт
-
-```
-a full trading terminal — K-lines, order book, bid/ask, volume, timestamps
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtz5GxbkAA5mQT.jpg" width="100%" alt="UI / Product Mockup - Trading terminal interface with market microstructure detail - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@MishikaAI](https://x.com/MishikaAI)
-- **Джерело:** [Джерело](https://x.com/MishikaAI/status/2074879603446026333)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/MishikaAI/status/2074879603446026333)**
-
----
-
-### No. 97: Character Design - Fisheye editorial portraits with miniature clone motif
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating fisheye editorial portraits with miniature clone motif.
-
-#### Промпт
+##### Промпт
 
 ```
 Prompt 1:
@@ -4264,16 +3253,16 @@ Prompt 2:
 Unretouched natural photograph, shot on cinema camera with subtle halation, fine 35mm film grain, soft honest realism like an analog editorial photo. Extreme fisheye lens inside a retro neighborhood hair salon, the row of vintage hooded dryer chairs, mirrored wall and checkered floor curving with the distortion, warm tungsten light mixed with pale fluorescent, muted palette of dusty pink, mint green, cream and chrome, faded posters without readable text. An elderly woman in her early seventies photographed like a real person: silver grey hair set in rollers under a vintage hooded dryer, authentic aged skin with deep natural wrinkles, soft jowls, visible pores and gentle age spots, kind tired eyes, thin lips with no lipstick, no smoothing, no doll-like features, wearing large round glasses with gold frames, a floral blouse in muted tones under a dusty pink salon cape, a colorful beaded necklace and clip-on earrings. She and her 15cm miniature clone wear the exact same identical outfit.
 ```
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtt5zzbIAAJiVB.jpg" width="100%" alt="Character Design - Fisheye editorial portraits with miniature clone motif - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtt6PUbgAAhYwo.jpg" width="100%" alt="Character Design - Fisheye editorial portraits with miniature clone motif - Image 2"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtt5zzbIAAJiVB.jpg" width="100%" alt="Fisheye editorial portraits with miniature clone motif - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtt6PUbgAAhYwo.jpg" width="100%" alt="Fisheye editorial portraits with miniature clone motif - Image 2"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@magnific](https://x.com/magnific)
 - **Джерело:** [Джерело](https://x.com/magnific/status/2074872903938846900)
@@ -4284,215 +3273,17 @@ Unretouched natural photograph, shot on cinema camera with subtle halation, fine
 
 ---
 
-### No. 98: Travel Visual - Chengdu travel scrapbook poster comparison
+<a id="prompt-108"></a>
 
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### Опис
-
-A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating chengdu travel scrapbook poster comparison.
-
-#### Промпт
-
-```
-成都旅游 · 小红书手帐风海报
-
-一张竖版 9:16 的小红书风格拼贴海报，主题为**「成都旅游城市漫游计划」**。整体采用手帐风设计，像旅行日记一样丰富、有生活感和轻松氛围。
-
-画面以成都城市旅行为核心内容，包含宽窄巷子、锦里古街、春熙路、IFS熊猫、成都大熊猫繁育研究基地、东郊记忆、都江堰、青城山等真实场景照片，以拼贴方式散落在画面中，搭配撕纸边框与胶带装饰。画面中穿插熊猫元素、茶馆、人民公园、盖碗茶、街头巷尾、夜市、美食街、城市天际线等真实旅行场景，充分展现成都悠闲惬意的慢生活氛围。
-
-整体视觉使用天蓝色作为主色调，并点缀粉色、浅黄色与柔和绿色，营造清新明亮又富有烟火气的城市旅行氛围。
-
-画面中加入大量手帐元素，例如手绘箭头、涂鸦星星、对话气泡、便签标签、贴纸装饰、旅行地图、定位图标、拍立得照片、胶带、旅行印章、熊猫贴纸、相机、咖啡杯、小花、云朵、笑脸图标等，使画面具有强烈的小红书「种草笔记」视觉风格。
-
-主标题为**「成都达人计划 / Chengdu City Guide」，采用手写感或涂鸦字体，具有明显的年轻化社交媒体风格。画面中穿插中英文混排文字，如「City Walk Chengdu」「探索成都旅行路线」「熊猫打卡推荐」「成都美食地图」「Travel Notes」「Weekend Trip」**等，增强旅行攻略的真实感。
-
-局部可以加入旅行时间标签**「最佳旅行时间：3月～6月｜9月～11月」**，做成便签或贴纸形式，增强真实旅行计划感。
-
-画面中还可加入成都火锅、串串香、担担面、钟水饺、兔头、盖碗茶等特色美食照片，以拼贴方式自然分布在画面四周，与景点照片共同构成丰富的旅行内容。
-
-整体构图为非对称拼贴布局，中心突出成都城市主题，但四周元素丰富散落，呈现出活泼、松弛、像真实旅行手帐一样的视觉体验，适合小红书旅行种草海报风格。
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMttO7-acAA2e0c.jpg" width="100%" alt="Travel Visual - Chengdu travel scrapbook poster comparison - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMttSn8agAETxRS.jpg" width="100%" alt="Travel Visual - Chengdu travel scrapbook poster comparison - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@DeepBlueAIX](https://x.com/DeepBlueAIX)
-- **Джерело:** [Джерело](https://x.com/DeepBlueAIX/status/2074872447229419956)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** zh
-
-**[Використати цей промпт](https://x.com/DeepBlueAIX/status/2074872447229419956)**
-
----
-
-### No. 99: Storyboard / Video Pipeline - Seat-belted car selfie first frame
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### Опис
-
-A detailed public Chinese same-prompt comparison for a realistic 16:9 in-car selfie, with explicit seat-belt state, camera placement, styling, and negative constraints.
-
-#### Промпт
-
-```
-生成一张真实感车内自拍视频首帧照片，横屏 16:9。画面像固定在副驾驶前方或中控台附近的小型广角相机拍摄，轻微广角，近距离车内第一视角，像社交媒体短视频截图。
-
-主角是一位成年女性，气质清冷、安静、精致，整体像日常车内自拍视频里的主角。她脸型小巧偏鹅蛋脸，五官自然精致，鼻梁挺，嘴唇自然，表情平静、淡淡的，有一点冷感但不夸张。她正面面向镜头或略微看向前方，能清楚看到完整正脸，不低头，不侧脸。她戴细框透明或浅银色眼镜，长直发偏浅棕色，带轻微空气刘海，头发自然垂落在肩侧。穿简洁灰色无袖针织连衣裙或灰色无袖上衣搭配同色下装，造型干净日常、端庄自然。
-
-她坐在驾驶位，安全带已经插好并固定完成：黑色安全带清楚地从肩膀斜跨过上身到腰侧，状态自然贴合身体，不是在拉安全带，也不是正在插卡扣。她一只手自然放在方向盘附近或轻扶方向盘，另一只手放低在座椅边或腿侧，姿态像准备开车前刚坐正的一瞬间。表情专注平静，眼神可以看向镜头，也可以略微看向前方道路。
-
-车内是红棕色真皮座椅和红棕色门板，方向盘在画面右前方形成明显前景，仪表台、车窗边缘和后排座椅可见。车窗外是白天城市道路旁的绿化、树木和轻微模糊的街景，但车子此刻看起来还没有启动，背景相对静止。自然日光从车窗照进来，皮肤质感真实，头发有自然光泽。
-
-整体风格：真实摄影，高质量手机或运动相机车内自拍视频首帧，清晰自然，轻微广角畸变，真实车内空间，社交媒体短视频质感，不像棚拍写真。
-
-避免：低头、侧脸、正在插安全带、正在拉安全带、字幕、文字、水印、多余人物、夸张姿势、夸张摆拍、安全带消失、方向盘变形、手指畸形、眼镜变形、车内结构错乱、背景高速运动、夜景、动漫风、CG 感、塑料皮肤、过度美颜。
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtrgDYXwAArOU6.jpg" width="100%" alt="Storyboard / Video Pipeline - Seat-belted car selfie first frame - Image 1"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@johnAGI168](https://x.com/johnAGI168)
-- **Джерело:** [Джерело](https://x.com/johnAGI168/status/2074870910469677387)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** zh
-
-**[Використати цей промпт](https://x.com/johnAGI168/status/2074870910469677387)**
-
----
-
-### No. 100: Reference Image Edit - Image-input cat-to-mecha transformation
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-#### Опис
-
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating image-input cat-to-mecha transformation.
-
-#### Промпт
-
-```
-a pic of my cat, asked for a mecha version
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtqwoYbMAE7yRn.jpg" width="100%" alt="Reference Image Edit - Image-input cat-to-mecha transformation - Image 1"></td>
-<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtrDP3bYAAhgnM.jpg" width="100%" alt="Reference Image Edit - Image-input cat-to-mecha transformation - Image 2"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@JennyAITech](https://x.com/JennyAITech)
-- **Джерело:** [Джерело](https://x.com/JennyAITech/status/2074870477651398972)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/JennyAITech/status/2074870477651398972)**
-
----
-
-### No. 101: Architecture & Interior - Bedroom design variations for MBTI types
+#### No. 73: Photorealistic high-fashion portrait lighting
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
-#### Опис
+##### Опис
 
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating bedroom design variations for mbti types.
+A source-backed demo from the original public X post, demonstrating photorealistic high-fashion portrait lighting.
 
-#### Промпт
-
-```
-design a bedroom for each MBTI type
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtn4mDbIAAyuem.jpg" width="100%" alt="Architecture &amp; Interior - Bedroom design variations for MBTI types - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtn5X9bIAA8D0R.jpg" width="100%" alt="Architecture &amp; Interior - Bedroom design variations for MBTI types - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtn6E5aYAAQouz.jpg" width="100%" alt="Architecture &amp; Interior - Bedroom design variations for MBTI types - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtn6j5bMAARiMl.jpg" width="100%" alt="Architecture &amp; Interior - Bedroom design variations for MBTI types - Image 4"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@FloraTechAI](https://x.com/FloraTechAI)
-- **Джерело:** [Джерело](https://x.com/FloraTechAI/status/2074866317484794131)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** en
-
-**[Використати цей промпт](https://x.com/FloraTechAI/status/2074866317484794131)**
-
----
-
-### No. 102: Character Design - Multi-task Seedream capability sampling from four Chinese prompts
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### Опис
-
-A source-backed evaluation curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating multi-task seedream capability sampling from four chinese prompts.
-
-#### Промпт
-
-```
-1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和品种的科普图 3. 给它一个参考图，让它基于这个参考图的组件生成一个 Web 的 UI 设计稿 4. 让他用一张图介绍《凡人修仙传：人界篇》的剧情
-```
-
-#### Згенеровані зображення
-
-<table>
-<tr>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtkFfdagAACZeu.jpg" width="100%" alt="Character Design - Multi-task Seedream capability sampling from four Chinese prompts - Image 1"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtkF8WbcAApQud.jpg" width="100%" alt="Character Design - Multi-task Seedream capability sampling from four Chinese prompts - Image 2"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtkGTGbsAAKEpC.jpg" width="100%" alt="Character Design - Multi-task Seedream capability sampling from four Chinese prompts - Image 3"></td>
-<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtkGkabkAA4-ab.jpg" width="100%" alt="Character Design - Multi-task Seedream capability sampling from four Chinese prompts - Image 4"></td>
-</tr>
-</table>
-
-#### Деталі
-
-- **Автор:** [@op7418](https://x.com/op7418)
-- **Джерело:** [Джерело](https://x.com/op7418/status/2074862226905948549)
-- **Опубліковано:** 8 липня 2026 р.
-- **Мови:** zh
-
-**[Використати цей промпт](https://x.com/op7418/status/2074862226905948549)**
-
----
-
-### No. 103: Character Design - Photorealistic high-fashion portrait lighting
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### Опис
-
-A source-backed demo curated by Evolink-AI's CC BY 4.0 Seedream guide, demonstrating photorealistic high-fashion portrait lighting.
-
-#### Промпт
+##### Промпт
 
 ```
 This is a highly photorealistic, high-fashion full-body portrait with an overall dark-toned, dreamy, and hazy atmosphere, filled with the flowing beauty of light and shadow. The scene uses refined artificial lighting that is soft yet richly layered, with sparkling highlights, crystal-clear reflections, and a subtle lomo film texture in certain areas, creating a surreal and luxurious fashion mood that feels both realistic and dreamlike.
@@ -4521,15 +3312,15 @@ Source: [Source](https://x.com/OpenDesignHQ/status/2075191300366733710)
 
 </details>
 
-#### Згенеровані зображення
+##### Згенеровані зображення
 
 <table>
 <tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtfQqPbwAA3iSv.jpg" width="100%" alt="Character Design - Photorealistic high-fashion portrait lighting - Image 1"></td>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtfQqPbwAA3iSv.jpg" width="100%" alt="Photorealistic high-fashion portrait lighting - Image 1"></td>
 </tr>
 </table>
 
-#### Деталі
+##### Деталі
 
 - **Автор:** [@BubbleBrain](https://x.com/BubbleBrain)
 - **Джерело:** [Джерело](https://x.com/BubbleBrain/status/2074856963591290979)
@@ -4537,6 +3328,1202 @@ Source: [Source](https://x.com/OpenDesignHQ/status/2075191300366733710)
 - **Мови:** en
 
 **[Використати цей промпт](https://x.com/BubbleBrain/status/2074856963591290979)**
+
+---
+
+<a id="workflow-environments-architecture-worldbuilding"></a>
+
+### Environments, Architecture & Worldbuilding (11)
+
+Environment, architecture, landscape, concept-art, and worldbuilding prompts where the place itself carries the idea.
+
+<a id="prompt-13"></a>
+
+#### No. 74: Capital ship over alien planet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A sci-fi scale prompt from a public Seedream 5 Pro thread, rewritten for deep-focus space realism and non-neon production design.
+
+##### Промпт
+
+```
+Render a massive capital-class spaceship orbiting a fictional alien planet. Use a wide deep-focus 35mm frame with the planet curve below, swirling atmosphere, tiny stars, and a faint nebula for scale. Light one side of the hull with hard directional sunlight while the other side falls into deep shadow, with a soft blue atmospheric rim on the metal. Avoid urban cyberpunk and neon; keep the mood vast, quiet, and photorealistic.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyqdGqWkAA0W3w.jpg" width="100%" alt="Capital ship over alien planet - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075222996810145816)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Digitalwindai/status/2075222996810145816)**
+
+---
+
+<a id="prompt-15"></a>
+
+#### No. 75: Floating temple archipelago key visual
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+An anime environment prompt from a public Seedream 5 Pro thread, rewritten for painterly background art and strong depth layering.
+
+##### Промпт
+
+```
+Design a wide anime establishing shot of ancient temple islands floating above a sea of clouds. Link the islands with long stone stairways, torii gates, pagoda rooftops, mist, drifting cherry petals, and one small figure crossing a bridge for scale. Use warm late-afternoon sun breaking through the cloud layer, soft god rays, coral-pink blossoms, teal distant sky, and clean painterly background detail.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyrCgQXwAAhNgQ.jpg" width="100%" alt="Floating temple archipelago key visual - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223022089154792)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223022089154792)**
+
+---
+
+<a id="prompt-40"></a>
+
+#### No. 76: Ash Country post-apocalypse wanderer
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A post-apocalyptic still from a public Seedream 5 Pro prompt thread, rewritten for desaturated restraint and one color accent.
+
+##### Промпт
+
+```
+Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray cloth over the face so only the eyes remain visible, with ash caught in the folds and a rust-red pack strap as the only color accent. Use flat overcast light, a desaturated void background, medium framing, film grain, and exhausted silence.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMx31RhX0AA3Atp.jpg" width="100%" alt="Ash Country post-apocalypse wanderer - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@karim_yourself](https://x.com/karim_yourself)
+- **Джерело:** [Джерело](https://x.com/karim_yourself/status/2075165469107949677)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/karim_yourself/status/2075165469107949677)**
+
+---
+
+<a id="prompt-44"></a>
+
+#### No. 77: Dense neon-noir city skyline
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A cyberpunk establishing shot from a public Seedream 5 Pro prompt thread, rewritten for dense urban depth and nocturnal atmosphere.
+
+##### Промпт
+
+```
+Render a dense neon-noir dystopian city skyline at night from a high 24mm vantage point. Stack towers, skybridges, traffic ribbons, wet rooftops, holographic signage, steam, and deep perspective layers. Keep the mood crowded and cinematic, with colored reflections, atmospheric haze, and no clean empty sci-fi minimalism.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyrRQpXEAADKRe.jpg" width="100%" alt="Dense neon-noir city skyline - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Digitalwindai](https://x.com/Digitalwindai)
+- **Джерело:** [Джерело](https://x.com/Digitalwindai/status/2075223031085957564)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Digitalwindai/status/2075223031085957564)**
+
+---
+
+<a id="prompt-48"></a>
+
+#### No. 78: Parametric landmark infographic pair
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A technical infographic workflow normalized from a public Seedream 5.0 Pro post about Eiffel Tower and Pyramid diagram tests.
+
+##### Промпт
+
+```
+Create a parametric architectural infographic for a famous landmark. Combine a clean elevation, structural grid, measurement labels, material callouts, construction timeline, simplified formulas, and small diagram panels. Keep the information dense but logical, with professional technical illustration clarity and readable text.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMxNGvwWoAALsqd.jpg" width="100%" alt="Parametric landmark infographic pair - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMxNGy8WgAASBCA.jpg" width="100%" alt="Parametric landmark infographic pair - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@ZaraIrahh](https://x.com/ZaraIrahh)
+- **Джерело:** [Джерело](https://x.com/ZaraIrahh/status/2075118336783089710)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/ZaraIrahh/status/2075118336783089710)**
+
+---
+
+<a id="prompt-75"></a>
+
+#### No. 79: Worldbuilding anchor frame color grade
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A worldbuilding workflow normalized from a public Seedream 5.0 Pro post about locking an anchor frame and color grade.
+
+##### Промпт
+
+```
+Create an anchor frame for a worldbuilding project. Establish the environment, hero object, atmosphere, and color grade in one image that future references can follow. Use consistent material language, cinematic depth, clear foreground-midground-background separation, and a palette stable enough to guide later scene generation.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2075026724396392448/img/rIxJGd5pioPxGtDm.jpg" width="100%" alt="Worldbuilding anchor frame color grade - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@diffractstudio](https://x.com/diffractstudio)
+- **Джерело:** [Джерело](https://x.com/diffractstudio/status/2075029719490195858)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/diffractstudio/status/2075029719490195858)**
+
+---
+
+<a id="prompt-91"></a>
+
+#### No. 80: Ethereal librarian on a frozen lake
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A concise public Seedream 5.0 Pro prompt combining a surreal literary subject, frozen landscape, restrained palette, and oil-painted cinematic light.
+
+##### Промпт
+
+```
+Ethereal librarian in flowing velvet robes wandering across a cracked, translucent frozen lake. Ancient, glowing books float mid-air like frozen birds. Surreal cinematic lighting, dark teal and silver palette, oil painting style.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzuJE5WIAAaNpn.jpg" width="100%" alt="Ethereal librarian on a frozen lake - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Zubnet](https://x.com/Zubnet)
+- **Джерело:** [Джерело](https://x.com/Zubnet/status/2075295691652415799)
+- **Опубліковано:** 10 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Zubnet/status/2075295691652415799)**
+
+---
+
+<a id="prompt-89"></a>
+
+#### No. 81: Knight beneath a colossal stone sentinel
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+An original public Seedream 5 Pro prompt shared in an X reply, built for oppressive scale, dark-fantasy architecture, and high-contrast cinematic lighting.
+
+##### Промпт
+
+```
+ASPECT RATIO: 16:9
+
+RENDER ENGINE: Unreal Engine 5.4 (Path-Traced, 8K Resolution)
+
+CINEMATIC STYLE: Dark Fantasy, Melancholic Grandeur, High-Contrast Chiaroscuro
+
+An extreme low-angle, compositionally oppressive shot looking up from behind a battle-worn knight toward a colossal, mountain-sized Stone Sentinel.
+
+The Knight: Positioned in the lower-third, slightly off-center-left, back to the camera. Wearing intricately detailed, battle-scarred plate armor of blackened steel and tarnished silver filigree. A tattered, ash-stained royal blue surcoat clings to his shoulders, fraying into threads. He rests both hands on the pommel of a massive, notched greatsword planted deep into the cracked, flagstone earth.
+
+The Colossal Stone Giant: A monolithic entity of basalt and decaying marble, towering three hundred feet into the bruised, twilight sky. Its body is designed like gothic architecture; its ribcage resembles flying buttresses, and its shoulders are overgrown with weeping golden moss and petrified roots. Its head is a featureless, cracked stone monolith, with a single vertical crevice glowing with a cold, dying cosmic gold light.
+
+The Environment: A ruined cathedral plaza of colossal proportions, half-buried in volcanic ash. In the background, the skeletal remains of a mountain-sized gothic archway frame a bruised, crimson-and-charcoal sky. Thick, low-hanging volumetric fog pools around the giant's massive, pillar-like legs.
+
+Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonlight hits the right side of the giant, while the glowing gold from its face casts a warm, melancholic amber hue onto the wet, reflective armor of the knight below. Cinematic film grain, sub-surface scattering on the moss, and highly detailed dust motes suspended in the air.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyzrXIbYAABGyU.jpg" width="100%" alt="Knight beneath a colossal stone sentinel - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@itsPixieVerse](https://x.com/itsPixieVerse)
+- **Джерело:** [Джерело](https://x.com/itsPixieVerse/status/2075253671177404932)
+- **Опубліковано:** 10 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/itsPixieVerse/status/2075253671177404932)**
+
+---
+
+<a id="prompt-112"></a>
+
+#### No. 82: Impossible-scale cinematic sci-fi worldbuilding set
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A source-backed demo from the original public X post, demonstrating impossible-scale cinematic sci-fi worldbuilding set.
+
+##### Промпт
+
+```
+Prompt 1:
+An industrial civilization is constructing an entire planet inside an enormous orbital shipyard. Giant robotic arms hold continents in place while molten oceans are poured into gigantic basins. Thousands of spacecraft weld mountain ranges together. The unfinished world glows from its molten core. Unreal scale, NASA realism, cinematic science fiction.
+
+Prompt 2:
+Gigantic floating whales drift above endless wheat fields while enormous wind-powered harvesting machines extend hundreds of meters into the sky to collect glowing crystals that grow beneath the creatures. Farmers below appear tiny. Warm sunset, golden dust, beautiful atmospheric perspective, ultra-realistic, cinematic masterpiece.
+
+Prompt 3:
+A massive ocean wave nearly one kilometer high has frozen in time just before crashing into a coastal city. Emergency helicopters fly through tunnels inside the transparent wall of water. Every droplet is perfectly suspended. Cold blue lighting mixed with sunrise reflections, photorealistic, impossible but believable physics.
+
+Prompt 4:
+A mountain village built on impossibly tall stone pillars extends far above Earth's weather. Massive thunderstorms rage thousands of meters below while peaceful gardens, waterfalls and wooden bridges sit in bright sunshine above the clouds. Eagles glide beneath the village instead of above it. Ultra realistic, breathtaking scale.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwCSVCWUAA0CRa.jpg" width="100%" alt="Impossible-scale cinematic sci-fi worldbuilding set - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwCjxSW0AAaZFu.jpg" width="100%" alt="Impossible-scale cinematic sci-fi worldbuilding set - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwCm1rWEAA4RnN.jpg" width="100%" alt="Impossible-scale cinematic sci-fi worldbuilding set - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwCqVmW8AAhP1u.jpg" width="100%" alt="Impossible-scale cinematic sci-fi worldbuilding set - Image 4"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@AllaAisling](https://x.com/AllaAisling)
+- **Джерело:** [Джерело](https://x.com/AllaAisling/status/2075036565147906511)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/AllaAisling/status/2075036565147906511)**
+
+---
+
+<a id="prompt-109"></a>
+
+#### No. 83: Solar-powered desert research station concept
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A source-backed demo from the original public X post, demonstrating solar-powered desert research station concept.
+
+##### Промпт
+
+```
+A solar-powered research station in a desert, featuring domed structures, solar panels, and various equipment for energy and research management.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuUz-gbUAAvKWr.jpg" width="100%" alt="Solar-powered desert research station concept - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@ashen_one](https://x.com/ashen_one)
+- **Джерело:** [Джерело](https://x.com/ashen_one/status/2074915677815886071)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/ashen_one/status/2074915677815886071)**
+
+---
+
+<a id="prompt-125"></a>
+
+#### No. 84: Bedroom design variations for MBTI types
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A source-backed demo from the original public X post, demonstrating bedroom design variations for mbti types.
+
+##### Промпт
+
+```
+design a bedroom for each MBTI type
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtn4mDbIAAyuem.jpg" width="100%" alt="Bedroom design variations for MBTI types - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtn5X9bIAA8D0R.jpg" width="100%" alt="Bedroom design variations for MBTI types - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtn6E5aYAAQouz.jpg" width="100%" alt="Bedroom design variations for MBTI types - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtn6j5bMAARiMl.jpg" width="100%" alt="Bedroom design variations for MBTI types - Image 4"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@FloraTechAI](https://x.com/FloraTechAI)
+- **Джерело:** [Джерело](https://x.com/FloraTechAI/status/2074866317484794131)
+- **Опубліковано:** 8 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/FloraTechAI/status/2074866317484794131)**
+
+---
+
+<a id="workflow-benchmarks-model-comparisons"></a>
+
+### Benchmarks & Model Comparisons (20)
+
+Controlled tests and comparisons used to evaluate prompt following, editing behavior, consistency, typography, or visual quality.
+
+**Відібрані промпти**
+
+- [Futuristic sports car blueprint board](#prompt-17)
+
+<a id="prompt-4"></a>
+
+#### No. 85: Avant-garde streetwear creator sheet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A character design sheet pattern, normalized from a public X comparison post, useful for full-body turnaround, techwear, and studio render tests.
+
+##### Промпт
+
+```
+Design a full-body character sheet for a male creator in avant-garde streetwear. Build the look around an oversized asymmetrical matte-black tech jacket, dark turtleneck, tactical cargo trousers with hardware straps, chunky futuristic shoes, geometric tinted smart glasses, and a small neon-green piping accent. Place the figure on a minimal ash-grey studio background. Use high-contrast cinematic lighting, sleek editorial styling, clean turnaround readability, ultra-detailed materials, and a 16:9 composition.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyPTNdXwAAzU_j.jpg" width="100%" alt="Avant-garde streetwear creator sheet - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyPTNmW4AEDnk0.jpg" width="100%" alt="Avant-garde streetwear creator sheet - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyPTN6XoAA1Sym.jpg" width="100%" alt="Avant-garde streetwear creator sheet - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyPKnuWgAALkzp.jpg" width="100%" alt="Avant-garde streetwear creator sheet - Image 4"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Boluwatifeolad7](https://x.com/Boluwatifeolad7)
+- **Джерело:** [Джерело](https://x.com/Boluwatifeolad7/status/2075191098184442310)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Boluwatifeolad7/status/2075191098184442310)**
+
+---
+
+<a id="prompt-6"></a>
+
+#### No. 86: Maldives tropical paradise visual
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A travel-poster visual pattern, normalized from public image ALT text, for clean composition, water clarity, and destination-brand mood.
+
+##### Промпт
+
+```
+Create an exotic tropical travel visual of the Maldives with crystal-clear turquoise water, clean white sand, vivid coral reef color beneath the surface, and a calm luxury-resort atmosphere. Keep the image bright, polished, and tranquil, with a wide composition that can work as a destination campaign banner. Preserve natural water texture, crisp sunlight, and a premium editorial finish.
+```
+
+<details>
+<summary>Related prompt variants (1)</summary>
+
+**Original Maldives travel-poster prompt**
+
+```
+With its crystal-clear waters, white sandy beaches, and vibrant coral reefs, the Maldives is a tropical paradise perfect for exotic and tranquil visuals. SIGNATURE: 'BicRevelation' cursive script lower-left.
+```
+
+Author: [@Bic_Revelation](https://x.com/Bic_Revelation)
+
+Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
+
+</details>
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMu8AX3WMAAquvx.jpg" width="100%" alt="Maldives tropical paradise visual - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMu8AkwWMAAUGz4.jpg" width="100%" alt="Maldives tropical paradise visual - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Bic_Revelation](https://x.com/Bic_Revelation)
+- **Джерело:** [Джерело](https://x.com/Bic_Revelation/status/2074959714366922857)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Bic_Revelation/status/2074959714366922857)**
+
+---
+
+<a id="prompt-53"></a>
+
+#### No. 87: Makeup identity-preservation comparison
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A reference-editing workflow normalized from a public Seedream 5.0 Pro makeup comparison post.
+
+##### Промпт
+
+```
+Use the uploaded portrait as the identity anchor. Change only the makeup: add refined glitter eye detail, clean skin highlights, and a more polished beauty look while preserving facial geometry, expression, age, skin texture, lighting direction, and camera angle. Avoid changing the person into a different face.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtzyqXWEAAKJmZ.jpg" width="100%" alt="Makeup identity-preservation comparison - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtzytfWkAAT-5U.jpg" width="100%" alt="Makeup identity-preservation comparison - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtzytfXUAA1smX.jpg" width="100%" alt="Makeup identity-preservation comparison - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtzyqYXEAAQp-d.jpg" width="100%" alt="Makeup identity-preservation comparison - Image 4"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@SeharShinwari](https://x.com/SeharShinwari)
+- **Джерело:** [Джерело](https://x.com/SeharShinwari/status/2074879382326526377)
+- **Опубліковано:** 8 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/SeharShinwari/status/2074879382326526377)**
+
+---
+
+<a id="prompt-76"></a>
+
+#### No. 88: Sepia documentary portrait study
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A public Krea multi-model Seedream 5.0 Pro comparison with prompt details preserved from ALT text for a vintage documentary portrait workflow.
+
+##### Промпт
+
+```
+A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair and round wire-rimmed glasses, wearing a worn white button-down shirt with sleeves rolled to the elbows. He leans forward on a rough wooden railing, arms crossed, his weathered face turned slightly to the left with a distant pensive gaze. The background is swallowed by deep velvety darkness with only a faint warm glow from upper left hinting at an unseen light source. The entire image bears the patina of age: heavy grain, faded sepia chemistry, slightly uneven tonality, soft focus at the edges, and the textured feel of an old silver gelatin print or newspaper photograph. Exhaustion and quiet resilience etched into his features. Memory-like realism, not staged, documentary quality. No border, no frame, no margins, no white space. Aspect ratio 1:1.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzFDWraYAA9qBU.jpg" width="100%" alt="Sepia documentary portrait study - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMy_yduaMAAOsCj.jpg" width="100%" alt="Sepia documentary portrait study - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzFNhHbwAEii6-.jpg" width="100%" alt="Sepia documentary portrait study - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMzFT_7akAA7tt7.jpg" width="100%" alt="Sepia documentary portrait study - Image 4"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Chain_Loader](https://x.com/Chain_Loader)
+- **Джерело:** [Джерело](https://x.com/Chain_Loader/status/2075251821342503352)
+- **Опубліковано:** 10 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Chain_Loader/status/2075251821342503352)**
+
+---
+
+<a id="prompt-99"></a>
+
+#### No. 89: Minimal painting replacement iteration test
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A public three-model editing comparison using the same intentionally minimal instruction to measure how quickly repeated edits drift from the source.
+
+##### Промпт
+
+```
+Change the painting.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/amplify_video_thumb/2075226893171793920/img/AdYm1_YfCCyoqZlX.jpg" width="100%" alt="Minimal painting replacement iteration test - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@abdoul94_](https://x.com/abdoul94_)
+- **Джерело:** [Джерело](https://x.com/abdoul94_/status/2075229273179279409)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/abdoul94_/status/2075229273179279409)**
+
+---
+
+<a id="prompt-83"></a>
+
+#### No. 90: Afternoon street portrait prompt
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+##### Опис
+
+A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro, preserving the detailed street-photography prompt for reuse.
+
+##### Промпт
+
+```
+主体：一位25岁左右的中国女性，鹅蛋脸，黑色及肩微卷长发被风吹起几缕，穿米白色 oversized 西装外套内搭黑色吊带，锁骨清晰。
+动作与姿态：走在人行道上被镜头抓拍的瞬间，一只手轻拨耳边碎发，身体微微侧转，步伐自然。
+表情与视线：不经意间瞥向镜头的瞬间，嘴角似笑非笑，眼神松弛真实。
+场景环境：下午四点的城市街头，梧桐树影落在人行道上，背景是虚化的咖啡店橱窗和路人。
+镜头：中景，85mm 镜头，浅景深，主体位于画面右三分之一，前景有虚化树叶。
+光线：午后侧逆光勾勒发丝金边，树影在脸上形成斑驳光斑，自然柔和。
+风格：写实街拍摄影，富士胶片色调，轻微颗粒感。
+材质细节：可见皮肤毛孔和自然肤质，西装面料的编织纹理，发丝根根分明。
+约束：无文字水印，无畸形手指，避免过度磨皮的塑料感皮肤。
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMywxT2XYAAgF2E.jpg" width="100%" alt="Afternoon street portrait prompt - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMywxT6XQAAy9ea.jpg" width="100%" alt="Afternoon street portrait prompt - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@johnAGI168](https://x.com/johnAGI168)
+- **Джерело:** [Джерело](https://x.com/johnAGI168/status/2075228822887157932)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** zh
+
+**[Використати цей промпт](https://x.com/johnAGI168/status/2075228822887157932)**
+
+---
+
+<a id="prompt-84"></a>
+
+#### No. 91: Old-money creator turnaround sheet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A public multi-model character-design comparison using Seedream 5 Pro, preserving the full-body turnaround prompt for fashion-character workflows.
+
+##### Промпт
+
+```
+Character design sheet, full body turnaround, 23-year-old tall lean male creator, old money superstar aesthetic, royal and exquisite vibe. Wearing an extravagant, oversized long fur coat in arctic white and rich brown. Underneath the coat, a minimalist tailored matte charcoal turtleneck and dark ash trousers. Vintage gold-rimmed tinted aviator glasses, heavy gold signet ring. Confident, effortless posture. Set against a minimalist ash-grey studio background. High contrast, cinematic lighting, ultra-detailed luxury fashion, 8k, photorealistic --ar 16:9
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyxUD8WwAAdP-C.jpg" width="100%" alt="Old-money creator turnaround sheet - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyxUD5WYAAwA44.jpg" width="100%" alt="Old-money creator turnaround sheet - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyxUENWEAA3T3x.jpg" width="100%" alt="Old-money creator turnaround sheet - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyxUEDX0AApRdu.jpg" width="100%" alt="Old-money creator turnaround sheet - Image 4"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Boluwatifeolad7](https://x.com/Boluwatifeolad7)
+- **Джерело:** [Джерело](https://x.com/Boluwatifeolad7/status/2075228499653079138)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Boluwatifeolad7/status/2075228499653079138)**
+
+---
+
+<a id="prompt-86"></a>
+
+#### No. 92: Same-prompt model comparison triptych
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+##### Опис
+
+A public Chinese post comparing Seedream 5.0 Pro, GPT Image 2, and Midjourney V8.1, normalized into a controlled comparison-board prompt.
+
+##### Промпт
+
+```
+Create a clean three-panel comparison board for the same visual prompt across three image models. Panel one is labeled "Seedream 5.0 Pro", panel two "GPT Image 2", and panel three "Midjourney V8.1". Use the same subject, framing, lighting, and color palette in every panel so differences in detail, typography, and realism are easy to inspect. Keep labels crisp, the grid balanced, and the background neutral like a professional benchmark slide.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMynYDSboAAhCHO.jpg" width="100%" alt="Same-prompt model comparison triptych - Image 1"></td>
+<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyoyNea8AIs_97.jpg" width="100%" alt="Same-prompt model comparison triptych - Image 2"></td>
+<td width="33%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMyo0BXboAA9pbs.jpg" width="100%" alt="Same-prompt model comparison triptych - Image 3"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@lukfan](https://x.com/lukfan)
+- **Джерело:** [Джерело](https://x.com/lukfan/status/2075219606617346357)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** zh
+
+**[Використати цей промпт](https://x.com/lukfan/status/2075219606617346357)**
+
+---
+
+<a id="prompt-93"></a>
+
+#### No. 93: 1990s Andalusian home-video still
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A public same-prompt Seedream 5 Pro comparison prompt recreating the imperfect exposure, tape texture, and unpolished framing of a 1990s Spanish home video.
+
+##### Промпт
+
+```
+1990s Spain home video still frame, consumer camcorder (Hi8 / VHS-C), whitewashed Andalusian village street at siesta hour, handheld casual framing, imperfect focus, auto exposure shift, VHS tape noise, interlaced video look, low resolution, faded warm colors, overexposed sunlit walls and deep shade mixed lighting, dry dusty afternoon atmosphere, raw documentary footage look, unpolished realism, no cinematic grading, no stylization, no text, no watermark. Old woman in a dark housecoat sitting on a wooden chair beside her doorway in the shade, a dog lying on the ground at her feet, long shadows down the empty street, unaware of the camera, neutral mood.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMw_09WagAASGSu.jpg" width="100%" alt="1990s Andalusian home-video still - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@magnific](https://x.com/magnific)
+- **Джерело:** [Джерело](https://x.com/magnific/status/2075103712448831774)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/magnific/status/2075103712448831774)**
+
+---
+
+<a id="prompt-110"></a>
+
+#### No. 94: Reference-image camera-angle change comparison
+
+![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A source-backed evaluation from the original public X post, demonstrating reference-image camera-angle change comparison.
+
+##### Промпт
+
+```
+リファレンス画像のスタイルを保ったまま、もう少し高い位置からの画角に変更してもらいました。
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuX1nNaIAAkR1Q.jpg" width="100%" alt="Reference-image camera-angle change comparison - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuX3cRbIAAsM8B.jpg" width="100%" alt="Reference-image camera-angle change comparison - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuX4tra0AAknaG.jpg" width="100%" alt="Reference-image camera-angle change comparison - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMuX5uIaYAA7Teh.jpg" width="100%" alt="Reference-image camera-angle change comparison - Image 4"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@hasamaru_studio](https://x.com/hasamaru_studio)
+- **Джерело:** [Джерело](https://x.com/hasamaru_studio/status/2075052934409375918)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** ja-JP
+
+**[Використати цей промпт](https://x.com/hasamaru_studio/status/2075052934409375918)**
+
+---
+
+<a id="prompt-128"></a>
+
+#### No. 95: Lake Como fashion scene comparison against Banana Pro
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A source-backed evaluation from the original public X post, demonstrating lake como fashion scene comparison against banana pro.
+
+##### Промпт
+
+```
+A straight-on medium-wide cinematic shot at eye-level, static locked frame, 4:5 vertical, captures a sun-bright late-morning inside a Lake Como villa courtyard room, camera perpendicular to the wall plane with no tilt, the atmosphere crisp and alive like the minute before heading out for gelato, the wall behind the scene a warm hand-troweled sable butter-yellow lime plaster slightly uneven with soft sun-bleach along the upper right edge, the floor matte burnt-terracotta chili tile grounding the frame, grout lines aged and dusty.
+
+Centered lower in the frame, a fully restored 1965 Vespa Primavera in glossy melon-orange lacquer parked on its side stand parallel to the camera, full profile visible, polished chrome Vespa badge on the legshield catching light, round chrome headlamp glinting, chrome handlebars and mirrors, aged cognac brown leather saddle, a silk twill scarf in marine navy, chili orange, cream and cognac pattern loosely tied around the right handlebar with tails cascading down, a small wicker basket bag on the left handlebar spilling a baguette and green grapes.
+
+The subject is a stunning World Cup beauty in her mid-twenties, with radiant sun-kissed skin and natural healthy glow, long silky dark chestnut brown hair loosely pulled into a soft low bun with gentle face-framing waves, striking hazel eyes with bright lively spark looking directly into the camera, high cheekbones, full lips in a soft warm cognac-rose shade with corners gently lifted in quiet joy. She is seated sideways on the Vespa saddle, body in a bright open three-quarter twist toward the camera, both legs crossed at the ankles on the same side, knees angled toward the lens, one hand resting lightly on the chrome handlebar, the other arm relaxed behind her on the rear of the saddle. Shoulders open and relaxed, natural breathing pose.
+
+She wears a fitted cream football jersey with subtle gold embroidery and thin spaghetti straps, tucked into a flowing cream bias-cut midi skirt that falls mid-calf, a slim cognac leather belt at the waist, flat cognac leather Roman sandals with ankle ties, stack of thin gold bangles on one wrist, delicate gold chain with small gold-and-coral pendant, small gold hoop earrings. Miu Miu oval sunglasses with thin gold frames and warm cognac lenses pushed up on her head. A cream quilted Miu Miu matelassé crossbody bag with gold chain slung across her torso.
+
+Natural skin texture with soft luminosity, gentle sheen on nose and lips, crisp morning sunlight, cinematic color grading, highly detailed, photorealistic, Slim Aarons style with modern World Cup energy.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwLnEra4AAp63F.jpg" width="100%" alt="Lake Como fashion scene comparison against Banana Pro - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMwLpZlbYAAHMMi.jpg" width="100%" alt="Lake Como fashion scene comparison against Banana Pro - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@cso6709](https://x.com/cso6709)
+- **Джерело:** [Джерело](https://x.com/cso6709/status/2075046425277399261)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/cso6709/status/2075046425277399261)**
+
+---
+
+<a id="prompt-127"></a>
+
+#### No. 96: Fantasy village watermill comparison against GPT Image 2
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A source-backed evaluation from the original public X post, demonstrating fantasy village watermill comparison against gpt image 2.
+
+##### Промпт
+
+```
+stylized stylized fantasy village watermill, two-story half-timbered red-clay tower w/ thatched conical roof, big wooden water-wheel, attached small thatched cottage, wooden walkways and stairs, lush green meadow w/ stones, painterly Genshin-Impact / Studio Ghibli env art, fluffy cumulus clouds, sunny midday
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvhgeBXkAABXjq.jpg" width="100%" alt="Fantasy village watermill comparison against GPT Image 2 - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvhhLhXMAA5p3E.jpg" width="100%" alt="Fantasy village watermill comparison against GPT Image 2 - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@emmanuel_2m](https://x.com/emmanuel_2m)
+- **Джерело:** [Джерело](https://x.com/emmanuel_2m/status/2075000114427375742)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/emmanuel_2m/status/2075000114427375742)**
+
+---
+
+<a id="prompt-111"></a>
+
+#### No. 97: Oversized beverage-can advertising composition comparison
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A source-backed evaluation from the original public X post, demonstrating oversized beverage-can advertising composition comparison.
+
+##### Промпт
+
+```
+A premium infographic-style advertisement featuring an oversized Pepsi can placed beside a young woman. The can is scaled to be nearly the same size as her entire seated body, creating a striking surreal proportion. The woman sits casually leaning against the giant can, one arm resting on it, interacting naturally. The Pepsi can is ultra-detailed with crisp branding, condensation droplets, realistic reflections, and metallic texture. The logo is clean, sharp, and properly proportioned. Composition is modern and minimal, set in a clean studio with a soft gradient background. Subtle infographic-style annotation lines highlight features like 'refreshment', 'carbonation', 'chilled texture'. Lighting is soft studio with controlled highlights. The model wears minimal contemporary clothing that complements the red white and blue tones of the can. Color grading crisp and slightly vibrant, commercial ad aesthetic. High-end product infographic, commercial beverage advertisement, ultra high resolution, 4K, photorealistic.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvg7FkXgAAz_F8.jpg" width="100%" alt="Oversized beverage-can advertising composition comparison - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMvg734W8AAiM_K.jpg" width="100%" alt="Oversized beverage-can advertising composition comparison - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@emmanuel_2m](https://x.com/emmanuel_2m)
+- **Джерело:** [Джерело](https://x.com/emmanuel_2m/status/2075000101362131350)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/emmanuel_2m/status/2075000101362131350)**
+
+---
+
+<a id="prompt-96"></a>
+
+#### No. 98: Bedroom mirror-selfie influencer portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A public same-prompt comparison retested with Seedream 5.0 Pro, specifying pose, wardrobe, accessories, room props, and natural smartphone photography.
+
+##### Промпт
+
+```
+Subject and Pose: Young woman taking a mirror selfie in a bedroom, standing in front of a bed, holding a phone in her right hand at chest level, her left hand holding an iced drink near her lips while sipping through a straw, relaxed casual pose, slight head tilt.
+
+Clothing: Fitted cream off-white ribbed knit tank top with thin straps and low scoop neckline, light-wash high-waisted straight-leg denim jeans, showing a small strip of midriff.
+
+Accessories: Olive green New York Yankees baseball cap worn forward, silver over-ear headphones worn over the cap, large chunky gold hoop earrings, delicate gold cross pendant necklace, multiple gold rings, and stacked gold bangle bracelets on both wrists.
+
+Items: iPhone with pink floral rose-pattern phone case, iced matcha green tea latte in a clear plastic cup with dark green straw.
+
+Hair and Makeup: Long brown wavy hair flowing past the shoulders, natural glam makeup, nude lip.
+
+Background: Minimalist white bedroom, white textured bedding, black woven leather shoulder bag lying on the bed, distressed white vintage nightstand with a white ceramic lamp, and a glimpse of a leopard-print pillow.
+
+Technical: Soft diffused natural window lighting, warm color tones, vertical 9:16 aspect ratio, lifestyle photography, influencer aesthetic, high resolution, shot on iPhone, realistic skin texture.
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMu8T-YWsAAk5_9.jpg" width="100%" alt="Bedroom mirror-selfie influencer portrait - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@Arminn_Ai](https://x.com/Arminn_Ai)
+- **Джерело:** [Джерело](https://x.com/Arminn_Ai/status/2074959192096457130)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт](https://x.com/Arminn_Ai/status/2074959192096457130)**
+
+---
+
+<a id="prompt-107"></a>
+
+#### No. 99: Seedream vs GPT Image 2 for clean lifestyle portrait styling
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+##### Опис
+
+A source-backed evaluation from the original public X post, demonstrating seedream vs gpt image 2 for clean lifestyle portrait styling.
+
+##### Промпт
+
+```
+摄影风格：冷白清透CCD生活照风 写真方向：轻熟生活照 场景方向：酒店泳池外步道 / 白色躺椅 / 浅蓝池水 / 简洁遮阳伞 服装方向：浅鼠尾草色修身无袖针织短裙 气质标签：温柔、清透、轻熟、安静、有吸引力 五官方向：真实清透自然脸，安静干净，不网红 五官细节：柔和鹅蛋脸，面部轮廓自然；清亮杏眼，眼神温柔安静；鼻型流畅小巧；唇形柔软克制，低饱和裸粉唇色；整体是安静、通透、舒服的生活感美人脸 发型方向：自然黑长发或低扎发，发丝顺滑，额前少量碎发，带一点微风感 身形方向：轻盈纤细，上围饱满自然 线条强调：强 镜头方向：大腿及上半身 姿态动作：站在泳池步道边，身体轻微侧向镜头，一只手自然垂落，另一只手轻扶裙侧 光线氛围：高色温晴天自然光 + 水面反射光 + 冷白极弱柔闪 滤镜效果：冷白高光 + 蓝白清透生活照色彩 + 轻颗粒 + 轻数码噪点 + 轻微过曝 画幅比例：9:16 补充要求：连衣裙贴身柔软，突出胸部轮廓、腰线和整体修长感，人物五官要安静耐看，整体要冷白清爽，不要商业泳池大片感
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMt9I5-aMAAeyVy.jpg" width="100%" alt="Seedream vs GPT Image 2 for clean lifestyle portrait styling - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMt9NQkaoAAbk2M.jpg" width="100%" alt="Seedream vs GPT Image 2 for clean lifestyle portrait styling - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@liyue_ai](https://x.com/liyue_ai)
+- **Джерело:** [Джерело](https://x.com/liyue_ai/status/2074890690686005590)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** zh
+
+**[Використати цей промпт](https://x.com/liyue_ai/status/2074890690686005590)**
+
+---
+
+<a id="prompt-116"></a>
+
+#### No. 100: Anime key-visual comparison
+
+![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
+
+##### Опис
+
+A source-backed evaluation from the original public X post, demonstrating anime key-visual comparison.
+
+##### Промпт
+
+```
+新作アニメのキービジュアルを作って下さい
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMt9SH6bsAAJ_A1.jpg" width="100%" alt="Anime key-visual comparison - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@roco_kn_roco](https://x.com/roco_kn_roco)
+- **Джерело:** [Джерело](https://x.com/roco_kn_roco/status/2074890020260094137)
+- **Опубліковано:** 9 липня 2026 р.
+- **Мови:** ja-JP
+
+**[Використати цей промпт](https://x.com/roco_kn_roco/status/2074890020260094137)**
+
+---
+
+<a id="prompt-115"></a>
+
+#### No. 101: Chengdu travel scrapbook poster comparison
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+##### Опис
+
+A source-backed evaluation from the original public X post, demonstrating chengdu travel scrapbook poster comparison.
+
+##### Промпт
+
+```
+成都旅游 · 小红书手帐风海报
+
+一张竖版 9:16 的小红书风格拼贴海报，主题为**「成都旅游城市漫游计划」**。整体采用手帐风设计，像旅行日记一样丰富、有生活感和轻松氛围。
+
+画面以成都城市旅行为核心内容，包含宽窄巷子、锦里古街、春熙路、IFS熊猫、成都大熊猫繁育研究基地、东郊记忆、都江堰、青城山等真实场景照片，以拼贴方式散落在画面中，搭配撕纸边框与胶带装饰。画面中穿插熊猫元素、茶馆、人民公园、盖碗茶、街头巷尾、夜市、美食街、城市天际线等真实旅行场景，充分展现成都悠闲惬意的慢生活氛围。
+
+整体视觉使用天蓝色作为主色调，并点缀粉色、浅黄色与柔和绿色，营造清新明亮又富有烟火气的城市旅行氛围。
+
+画面中加入大量手帐元素，例如手绘箭头、涂鸦星星、对话气泡、便签标签、贴纸装饰、旅行地图、定位图标、拍立得照片、胶带、旅行印章、熊猫贴纸、相机、咖啡杯、小花、云朵、笑脸图标等，使画面具有强烈的小红书「种草笔记」视觉风格。
+
+主标题为**「成都达人计划 / Chengdu City Guide」，采用手写感或涂鸦字体，具有明显的年轻化社交媒体风格。画面中穿插中英文混排文字，如「City Walk Chengdu」「探索成都旅行路线」「熊猫打卡推荐」「成都美食地图」「Travel Notes」「Weekend Trip」**等，增强旅行攻略的真实感。
+
+局部可以加入旅行时间标签**「最佳旅行时间：3月～6月｜9月～11月」**，做成便签或贴纸形式，增强真实旅行计划感。
+
+画面中还可加入成都火锅、串串香、担担面、钟水饺、兔头、盖碗茶等特色美食照片，以拼贴方式自然分布在画面四周，与景点照片共同构成丰富的旅行内容。
+
+整体构图为非对称拼贴布局，中心突出成都城市主题，但四周元素丰富散落，呈现出活泼、松弛、像真实旅行手帐一样的视觉体验，适合小红书旅行种草海报风格。
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMttO7-acAA2e0c.jpg" width="100%" alt="Chengdu travel scrapbook poster comparison - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMttSn8agAETxRS.jpg" width="100%" alt="Chengdu travel scrapbook poster comparison - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@DeepBlueAIX](https://x.com/DeepBlueAIX)
+- **Джерело:** [Джерело](https://x.com/DeepBlueAIX/status/2074872447229419956)
+- **Опубліковано:** 8 липня 2026 р.
+- **Мови:** zh
+
+**[Використати цей промпт](https://x.com/DeepBlueAIX/status/2074872447229419956)**
+
+---
+
+<a id="prompt-97"></a>
+
+#### No. 102: Seat-belted car selfie first frame
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+##### Опис
+
+A detailed public Chinese same-prompt comparison for a realistic 16:9 in-car selfie, with explicit seat-belt state, camera placement, styling, and negative constraints.
+
+##### Промпт
+
+```
+生成一张真实感车内自拍视频首帧照片，横屏 16:9。画面像固定在副驾驶前方或中控台附近的小型广角相机拍摄，轻微广角，近距离车内第一视角，像社交媒体短视频截图。
+
+主角是一位成年女性，气质清冷、安静、精致，整体像日常车内自拍视频里的主角。她脸型小巧偏鹅蛋脸，五官自然精致，鼻梁挺，嘴唇自然，表情平静、淡淡的，有一点冷感但不夸张。她正面面向镜头或略微看向前方，能清楚看到完整正脸，不低头，不侧脸。她戴细框透明或浅银色眼镜，长直发偏浅棕色，带轻微空气刘海，头发自然垂落在肩侧。穿简洁灰色无袖针织连衣裙或灰色无袖上衣搭配同色下装，造型干净日常、端庄自然。
+
+她坐在驾驶位，安全带已经插好并固定完成：黑色安全带清楚地从肩膀斜跨过上身到腰侧，状态自然贴合身体，不是在拉安全带，也不是正在插卡扣。她一只手自然放在方向盘附近或轻扶方向盘，另一只手放低在座椅边或腿侧，姿态像准备开车前刚坐正的一瞬间。表情专注平静，眼神可以看向镜头，也可以略微看向前方道路。
+
+车内是红棕色真皮座椅和红棕色门板，方向盘在画面右前方形成明显前景，仪表台、车窗边缘和后排座椅可见。车窗外是白天城市道路旁的绿化、树木和轻微模糊的街景，但车子此刻看起来还没有启动，背景相对静止。自然日光从车窗照进来，皮肤质感真实，头发有自然光泽。
+
+整体风格：真实摄影，高质量手机或运动相机车内自拍视频首帧，清晰自然，轻微广角畸变，真实车内空间，社交媒体短视频质感，不像棚拍写真。
+
+避免：低头、侧脸、正在插安全带、正在拉安全带、字幕、文字、水印、多余人物、夸张姿势、夸张摆拍、安全带消失、方向盘变形、手指畸形、眼镜变形、车内结构错乱、背景高速运动、夜景、动漫风、CG 感、塑料皮肤、过度美颜。
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtrgDYXwAArOU6.jpg" width="100%" alt="Seat-belted car selfie first frame - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@johnAGI168](https://x.com/johnAGI168)
+- **Джерело:** [Джерело](https://x.com/johnAGI168/status/2074870910469677387)
+- **Опубліковано:** 8 липня 2026 р.
+- **Мови:** zh
+
+**[Використати цей промпт](https://x.com/johnAGI168/status/2074870910469677387)**
+
+---
+
+<a id="prompt-100"></a>
+
+#### No. 103: Multi-task Seedream capability sampling from four Chinese prompts
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+##### Опис
+
+A source-backed evaluation from the original public X post, demonstrating multi-task seedream capability sampling from four chinese prompts.
+
+##### Промпт
+
+```
+1. 一句话让它生成《黑神话：水浒传》的一个游戏截图 2. 让他生成一张茶叶制作和品种的科普图 3. 给它一个参考图，让它基于这个参考图的组件生成一个 Web 的 UI 设计稿 4. 让他用一张图介绍《凡人修仙传：人界篇》的剧情
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtkFfdagAACZeu.jpg" width="100%" alt="Multi-task Seedream capability sampling from four Chinese prompts - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtkF8WbcAApQud.jpg" width="100%" alt="Multi-task Seedream capability sampling from four Chinese prompts - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtkGTGbsAAKEpC.jpg" width="100%" alt="Multi-task Seedream capability sampling from four Chinese prompts - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtkGkabkAA4-ab.jpg" width="100%" alt="Multi-task Seedream capability sampling from four Chinese prompts - Image 4"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [@op7418](https://x.com/op7418)
+- **Джерело:** [Джерело](https://x.com/op7418/status/2074862226905948549)
+- **Опубліковано:** 8 липня 2026 р.
+- **Мови:** zh
+
+**[Використати цей промпт](https://x.com/op7418/status/2074862226905948549)**
 
 ---
 
@@ -4567,9 +4554,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 ## Подяки
 
 - [ImagineVid](https://imaginevid.com)
-- [Evolink-AI/awesome-seedream-5-pro-guide-and-prompt](https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt) - selected prompt references and official capability media under CC BY 4.0. We modified the source material by completing prompt excerpts from original posts, preserving source prompts as variants, rewriting collection descriptions, merging visual duplicates, and adapting the table layout.
-- The creators whose public prompts are attributed in this collection
-
 <details>
 <summary>Автори спільноти (85)</summary>
 
@@ -4603,6 +4587,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Надіслати промпт](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставити Star репозиторію](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-09T22:58:38.621Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-09T23:21:38.414Z</sub>
 
 </div>

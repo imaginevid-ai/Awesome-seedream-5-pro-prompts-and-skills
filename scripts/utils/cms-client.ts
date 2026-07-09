@@ -62,6 +62,7 @@ export interface Prompt {
   needReferenceImages?: boolean;
   sourceMeta?: Record<string, unknown>;
   imageCategories?: {
+    workflows?: Array<PromptCategory>;
     useCases?: Array<PromptCategory>;
     styles?: Array<PromptCategory>;
     subjects?: Array<PromptCategory>;
@@ -76,30 +77,6 @@ export interface FilterCategory {
   parentSlug?: string | null;
   featured?: boolean;
   sort?: number | null;
-}
-
-export interface OfficialCaseCategory {
-  id: string;
-  emoji: string;
-  title: string;
-  desc: string;
-  case_numbers: number[];
-}
-
-export interface OfficialCase {
-  number: number;
-  category: string;
-  title: string;
-  media: string[];
-  prompt?: string | null;
-  mediaLabels?: string[] | null;
-}
-
-export interface OfficialGallery {
-  sourceRepo: string;
-  sourceLicense: string;
-  categories: OfficialCaseCategory[];
-  cases: OfficialCase[];
 }
 
 type LocalizedText = string | Record<string, string>;
@@ -181,13 +158,9 @@ export async function fetchPromptCategories(locale = "en"): Promise<{
   };
 }
 
-export async function fetchOfficialGallery(): Promise<OfficialGallery> {
-  return readJson<OfficialGallery>("data/official-cases.json");
-}
-
 export async function fetchAllPrompts(
   locale = "en",
-  allCategories: FilterCategory[] = []
+  _allCategories: FilterCategory[] = []
 ): Promise<{ docs: Prompt[]; total: number }> {
   const storedPrompts = readJson<StoredPrompt[]>("data/prompts.json");
   const prompts = storedPrompts
@@ -195,36 +168,7 @@ export async function fetchAllPrompts(
     .filter((prompt) => prompt.model === "seedream-5-pro")
     .filter((prompt) => prompt.sourceMedia?.length > 0);
 
-  const featuredPrompts = prompts
-    .filter((prompt) => prompt.featured)
-    .sort(comparePrompts);
-  const seenIds = new Set(featuredPrompts.map((prompt) => prompt.id));
-
-  const useCaseCategories = allCategories.filter(
-    (category) => category.parentSlug === "use-cases"
-  );
-  const categoryPrompts: Prompt[] = [];
-
-  for (const category of useCaseCategories) {
-    const matches = prompts
-      .filter((prompt) =>
-        prompt.imageCategories?.useCases?.some((item) => item.slug === category.slug)
-      )
-      .sort(comparePrompts);
-
-    for (const prompt of matches) {
-      if (!seenIds.has(prompt.id)) {
-        seenIds.add(prompt.id);
-        categoryPrompts.push({
-          ...prompt,
-          title: `${category.title} - ${prompt.title}`,
-        });
-      }
-    }
-  }
-
-  const docs = [...featuredPrompts, ...categoryPrompts];
-  return { docs, total: prompts.length };
+  return { docs: prompts.sort(comparePrompts), total: prompts.length };
 }
 
 export function sortPrompts(prompts: Prompt[], total?: number) {

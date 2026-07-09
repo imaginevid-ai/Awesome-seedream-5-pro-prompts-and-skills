@@ -1,7 +1,6 @@
 import fs from "fs";
 import {
   fetchAllPrompts,
-  fetchOfficialGallery,
   sortPrompts,
   fetchPromptCategories,
 } from "./utils/cms-client.js";
@@ -12,8 +11,6 @@ import {
 
 async function main() {
   try {
-    const officialGallery = await fetchOfficialGallery();
-
     // Loop through all supported languages
     for (const lang of SUPPORTED_LANGUAGES) {
       console.log(`\n🌐 Processing language: ${lang.name} (${lang.code})...`);
@@ -35,7 +32,7 @@ async function main() {
 
       console.log("  📝 Generating README...");
       const markdown = generateMarkdown(
-        { ...sorted, categories: allCategories, officialGallery },
+        { ...sorted, categories: allCategories },
         total,
         lang.code
       );

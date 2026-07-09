@@ -147,7 +147,7 @@ export function scoreStoredTwitterPrompt(prompt: StoredTwitterPrompt): QualityRe
   let score = 0;
   const hardFailures: string[] = [];
   const hasPromptProvenance =
-    /(?:tweet_text|reply_text|thread_reply|quoted_tweet|alt_text)_prompt|evolink_verified_(?:tweet|alt_text)_prompt|rewritten|normalized/.test(
+    /(?:tweet_text|reply_text|thread_reply|quoted_tweet|alt_text)_prompt|rewritten|normalized/.test(
       promptSource
     );
 
@@ -168,7 +168,7 @@ export function scoreStoredTwitterPrompt(prompt: StoredTwitterPrompt): QualityRe
   if (content.length < 10) hardFailures.push("prompt is too short to be reusable");
 
   if (
-    /(?:tweet_text|reply_text|thread_reply|quoted_tweet|alt_text)_prompt|evolink_verified_(?:tweet|alt_text)_prompt/.test(
+    /(?:tweet_text|reply_text|thread_reply|quoted_tweet|alt_text)_prompt/.test(
       promptSource
     )
   ) {

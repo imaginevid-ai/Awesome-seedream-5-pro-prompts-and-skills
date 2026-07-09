@@ -49,4 +49,4 @@ pnpm run audit:duplicates
 
 ## Curated External Sources
 
-Prompt collections imported from another repository must have a compatible license and explicit attribution. Evolink-AI material in this repository is attributed to its CC BY 4.0 source, while each community prompt continues to credit the original X author. The acknowledgement also identifies our modifications: prompt completion from original posts, rewritten descriptions, duplicate merging, prompt variants, and adapted table presentation.
+External discoveries must be verified against the original public post before publication. Store the canonical X URL, preserve the original creator attribution, and label any rewritten or normalized prompt honestly.

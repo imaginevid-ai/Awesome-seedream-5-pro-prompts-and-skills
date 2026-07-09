@@ -33,6 +33,7 @@ Accepted prompts should be:
 - Distinct from existing prompts and visual examples.
 - Safe for work.
 - Useful as a repeatable creative workflow.
+- Assigned to one primary workflow using [CATEGORY_TAXONOMY.md](CATEGORY_TAXONOMY.md).
 
 We reject product announcements without a reusable prompt, unrelated or mismatched media, engagement bait, duplicates, and material that cannot be verified. See [TWITTER_QUALITY_POLICY.md](TWITTER_QUALITY_POLICY.md) for the repository's source-review and scoring rules.
 

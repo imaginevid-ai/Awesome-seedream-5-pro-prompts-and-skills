@@ -1,4 +1,4 @@
-import { Prompt, FilterCategory, OfficialGallery } from "./cms-client.js";
+import { Prompt, FilterCategory } from "./cms-client.js";
 import { t } from "./i18n.js";
 
 interface SortedPrompts {
@@ -10,7 +10,11 @@ interface SortedPrompts {
     featured: number;
   };
   categories?: FilterCategory[];
-  officialGallery?: OfficialGallery;
+}
+
+export interface WorkflowPromptGroup {
+  category: FilterCategory;
+  prompts: Prompt[];
 }
 
 export interface LanguageConfig {
@@ -90,11 +94,15 @@ export function generateMarkdown(data: SortedPrompts, total: number, locale = "e
   md += generateLanguageNavigation(locale);
   md += generateCollectionCTA(categories || [], locale);
   md += generateTOC(locale);
-  md += generateWhatIs(locale);
-  md += generateOfficialGallery(data.officialGallery, locale);
+  md += generateModelIntroduction(locale);
   md += generateStats(stats, locale);
   md += generateFeaturedSection(featured, locale);
-  md += generateAllPromptsSection(displayedRegular, Math.max(0, hiddenCount), locale);
+  md += generateAllPromptsSection(
+    [...featured, ...displayedRegular],
+    Math.max(0, hiddenCount),
+    categories || [],
+    locale
+  );
   md += generateContribute(locale);
   md += generateFooter(locale, data.all);
 
@@ -168,21 +176,40 @@ ${t("galleryFeatures", locale)}
 }
 
 function generateCategoriesSection(categories: FilterCategory[], locale: string): string {
-  const parentCategories = categories.filter((category) => category.parentId === null);
+  const workflowCategories = categories
+    .filter((category) => category.parentSlug === "workflow-groups")
+    .sort((left, right) => (left.sort || 0) - (right.sort || 0));
   let md = `\n### ${t("browseByCategory", locale)}\n\n`;
 
-  for (const parent of parentCategories) {
-    md += `- **${parent.title}**\n`;
-    const children = categories.filter((category) => category.parentId === parent.id);
-    for (const child of children) {
-      md += `  - <a id="${child.slug}"></a>[${child.title}](#${child.slug})\n`;
-    }
+  for (const category of workflowCategories) {
+    md += `- [**${category.title}**](#workflow-${category.slug}) - ${workflowDescription(category.slug, locale)}\n`;
   }
 
   return `${md}\n`;
 }
 
-function generatePromptSection(prompt: Prompt, index: number, locale: string): string {
+export function groupPromptsByWorkflow(
+  prompts: Prompt[],
+  categories: FilterCategory[]
+): WorkflowPromptGroup[] {
+  return categories
+    .filter((category) => category.parentSlug === "workflow-groups")
+    .sort((left, right) => (left.sort || 0) - (right.sort || 0))
+    .map((category) => ({
+      category,
+      prompts: prompts.filter((prompt) =>
+        prompt.imageCategories?.workflows?.some((workflow) => workflow.slug === category.slug)
+      ),
+    }))
+    .filter((group) => group.prompts.length > 0);
+}
+
+function generatePromptSection(
+  prompt: Prompt,
+  index: number,
+  locale: string,
+  headingLevel = 3
+): string {
   const authorLink = prompt.author.link || "#";
   const publishedDate = new Date(prompt.sourcePublishedAt).toLocaleDateString(locale, {
     year: "numeric",
@@ -193,7 +220,9 @@ function generatePromptSection(prompt: Prompt, index: number, locale: string): s
   const promptContent = cleanPromptContent(rawContent);
   const hasArguments = promptContent.includes("{argument");
 
-  let md = `### No. ${index + 1}: ${prompt.title}\n\n`;
+  const heading = "#".repeat(headingLevel);
+  const detailHeading = "#".repeat(headingLevel + 1);
+  let md = `<a id="prompt-${prompt.id}"></a>\n\n${heading} No. ${index + 1}: ${prompt.title}\n\n`;
   md += `![Language-${prompt.language.toUpperCase()}](https://img.shields.io/badge/Language-${prompt.language.toUpperCase()}-blue)\n`;
 
   if (prompt.featured) {
@@ -206,19 +235,19 @@ function generatePromptSection(prompt: Prompt, index: number, locale: string): s
     md += "![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)\n";
   }
 
-  md += `\n#### ${t("description", locale)}\n\n${prompt.description}\n\n`;
-  md += `#### ${t("prompt", locale)}\n\n\`\`\`\n${promptContent}\n\`\`\`\n\n`;
+  md += `\n${detailHeading} ${t("description", locale)}\n\n${prompt.description}\n\n`;
+  md += `${detailHeading} ${t("prompt", locale)}\n\n\`\`\`\n${promptContent}\n\`\`\`\n\n`;
 
   if (prompt.promptVariants?.length) {
     md += generatePromptVariants(prompt.promptVariants, locale);
   }
 
   if (prompt.sourceMedia && prompt.sourceMedia.length > 0) {
-    md += `#### ${t("generatedImages", locale)}\n\n`;
+    md += `${detailHeading} ${t("generatedImages", locale)}\n\n`;
     md += generateMediaTable(prompt.sourceMedia, prompt.title);
   }
 
-  md += `#### ${t("details", locale)}\n\n`;
+  md += `${detailHeading} ${t("details", locale)}\n\n`;
   md += `- **${t("author", locale)}:** [${prompt.author.name}](${authorLink})\n`;
   if (prompt.sourceLink) {
     md += `- **${t("source", locale)}:** [${t("source", locale)}](${prompt.sourceLink})\n`;
@@ -241,13 +270,35 @@ function generateFeaturedSection(featured: Prompt[], locale: string): string {
   return md;
 }
 
-function generateAllPromptsSection(regular: Prompt[], hiddenCount: number, locale: string): string {
-  if (regular.length === 0 && hiddenCount === 0) return "";
+function generateAllPromptsSection(
+  categorizedPrompts: Prompt[],
+  hiddenCount: number,
+  categories: FilterCategory[],
+  locale: string
+): string {
+  if (categorizedPrompts.length === 0 && hiddenCount === 0) return "";
   let md = `## ${t("allPrompts", locale)}\n\n`;
   md += `> ${t("sortedByDate", locale)}\n\n`;
-  regular.forEach((prompt, index) => {
-    md += generatePromptSection(prompt, index, locale);
-  });
+  const groups = groupPromptsByWorkflow(categorizedPrompts, categories);
+  let promptIndex = 0;
+
+  for (const group of groups) {
+    md += `<a id="workflow-${group.category.slug}"></a>\n\n`;
+    md += `### ${group.category.title} (${group.prompts.length})\n\n`;
+    md += `${workflowDescription(group.category.slug, locale)}\n\n`;
+    const featuredPrompts = group.prompts.filter((prompt) => prompt.featured);
+    if (featuredPrompts.length > 0) {
+      md += `**${t("featuredPrompts", locale)}**\n\n`;
+      for (const prompt of featuredPrompts) {
+        md += `- [${prompt.title}](#prompt-${prompt.id})\n`;
+      }
+      md += "\n";
+    }
+    for (const prompt of group.prompts.filter((item) => !item.featured)) {
+      md += generatePromptSection(prompt, promptIndex, locale, 4);
+      promptIndex += 1;
+    }
+  }
 
   if (hiddenCount > 0) {
     md += `---\n\n## ${t("morePrompts", locale)}\n\n`;
@@ -260,6 +311,43 @@ function generateAllPromptsSection(regular: Prompt[], hiddenCount: number, local
   }
 
   return md;
+}
+
+function workflowDescription(slug: string, locale: string): string {
+  const descriptions: Record<string, Record<string, string>> = {
+    "directed-editing-input-control": {
+      en: "Prompts that modify an existing image or use regions, sketches, references, and positional instructions to control the result.",
+      zh: "通过现有图片、区域、草图、参考图或位置指令，对结果进行定向控制与修改。",
+      "zh-TW": "透過現有圖片、區域、草圖、參考圖或位置指令，對結果進行定向控制與修改。",
+    },
+    "commercial-design-ui-posters": {
+      en: "Production briefs for advertisements, product campaigns, interfaces, posters, typography, and other designed assets.",
+      zh: "面向广告、产品营销、界面、海报、文字排版及其他设计资产的生产型提示词。",
+      "zh-TW": "面向廣告、產品行銷、介面、海報、文字排版及其他設計資產的製作型提示詞。",
+    },
+    "diagrams-technical-storyboards": {
+      en: "Structured visuals where information order matters: diagrams, technical drawings, multi-panel sequences, and storyboards.",
+      zh: "强调信息结构与顺序的视觉任务，包括图表、技术图纸、多格序列和分镜。",
+      "zh-TW": "強調資訊結構與順序的視覺任務，包括圖表、技術圖紙、多格序列和分鏡。",
+    },
+    "characters-cinema-visual-styles": {
+      en: "Character, portrait, fashion, cinematic-frame, and style-exploration prompts centered on visual direction and image language.",
+      zh: "以视觉方向和画面语言为核心的角色、肖像、时尚、电影画面与风格探索提示词。",
+      "zh-TW": "以視覺方向和畫面語言為核心的角色、肖像、時尚、電影畫面與風格探索提示詞。",
+    },
+    "environments-architecture-worldbuilding": {
+      en: "Environment, architecture, landscape, concept-art, and worldbuilding prompts where the place itself carries the idea.",
+      zh: "以环境本身承载创意的建筑、景观、概念艺术和世界构建提示词。",
+      "zh-TW": "以環境本身承載創意的建築、景觀、概念藝術和世界構建提示詞。",
+    },
+    "benchmarks-model-comparisons": {
+      en: "Controlled tests and comparisons used to evaluate prompt following, editing behavior, consistency, typography, or visual quality.",
+      zh: "用于评估提示词遵循、编辑行为、一致性、文字渲染或视觉质量的受控测试与模型对比。",
+      "zh-TW": "用於評估提示詞遵循、編輯行為、一致性、文字渲染或視覺品質的受控測試與模型比較。",
+    },
+  };
+  const copy = descriptions[slug];
+  return copy?.[locale] || copy?.en || "";
 }
 
 function generateStats(stats: { total: number; featured: number }, locale: string): string {
@@ -291,7 +379,6 @@ function generateTOC(locale: string): string {
 
 - [${t("viewInGallery", locale)}](#${anchor(t("viewInGallery", locale))})
 - [${t("whatIs", locale)}](#${anchor(t("whatIs", locale))})
-- [${officialGalleryCopy(locale).title}](#official-capability-gallery)
 - [${t("stats", locale)}](#${anchor(t("stats", locale))})
 - [${t("featuredPrompts", locale)}](#${anchor(t("featuredPrompts", locale))})
 - [${t("allPrompts", locale)}](#${anchor(t("allPrompts", locale))})
@@ -360,64 +447,31 @@ function promptVariantCopy(locale: string): {
   return { summary: "Related prompt variants", author: "Author", source: "Source" };
 }
 
-function generateOfficialGallery(
-  gallery: OfficialGallery | undefined,
-  locale: string
-): string {
-  if (!gallery || gallery.cases.length === 0) return "";
-  const copy = officialGalleryCopy(locale);
-  let md = `<a id="official-capability-gallery"></a>\n\n## ${copy.title}\n\n`;
-  md += `${copy.intro} [Evolink-AI/awesome-seedream-5-pro-guide-and-prompt](${gallery.sourceRepo}) (${gallery.sourceLicense}).\n\n`;
+export function generateModelIntroduction(locale: string): string {
+  const contentLocale = locale === "zh" || locale === "zh-TW" ? locale : "en";
+  const sourceLabel =
+    locale === "zh"
+      ? "官方资料"
+      : locale === "zh-TW"
+        ? "官方資料"
+        : locale === "ja-JP"
+          ? "公式資料"
+          : locale === "ko-KR"
+            ? "공식 자료"
+            : "Official sources";
 
-  for (const [categoryIndex, category] of gallery.categories.entries()) {
-    const cases = gallery.cases.filter((item) => item.category === category.id);
-    if (cases.length === 0) continue;
-    const categoryTitle =
-      locale === "en" ? category.title : `${copy.sectionLabel} ${categoryIndex + 1}`;
-    md += `### ${category.emoji} ${categoryTitle}\n\n`;
-    if (locale === "en") md += `${category.desc}\n\n`;
-    md += "<table>\n";
-
-    for (let index = 0; index < cases.length; index += 2) {
-      const row = cases.slice(index, index + 2);
-      md += "<tr>\n";
-      for (const item of row) {
-        md += '<td width="50%" valign="top">\n\n';
-        md += `<strong>${locale === "en" ? `Case ${item.number}: ${item.title}` : `#${item.number}`}</strong><br><br>\n`;
-        item.media.forEach((mediaUrl, mediaIndex) => {
-          if (locale === "en" && item.mediaLabels?.[mediaIndex]) {
-            md += `<strong>${item.mediaLabels[mediaIndex]}</strong><br>\n`;
-          }
-          md += `<img src="${escapeAttribute(mediaUrl)}" width="${item.media.length > 1 ? "48%" : "100%"}" alt="${escapeAttribute(item.title)} ${mediaIndex + 1}">\n`;
-        });
-        if (item.prompt) {
-          md += `\n<details>\n<summary>${copy.promptLabel}</summary>\n\n\`\`\`\n${item.prompt}\n\`\`\`\n\n</details>\n`;
-        }
-        md += "\n</td>\n";
-      }
-      if (row.length === 1) md += '<td width="50%"></td>\n';
-      md += "</tr>\n";
-    }
-
-    md += "</table>\n\n";
-  }
-
-  return `${md}---\n\n`;
-}
-
-function generateWhatIs(locale: string): string {
   return `## ${t("whatIs", locale)}
 
-${t("whatIsIntro", locale)}
+${t("whatIsIntro", contentLocale)}
 
-- ${t("multimodalUnderstanding", locale)}
-- ${t("highQualityGeneration", locale)}
-- ${t("fastIteration", locale)}
-- ${t("diverseStyles", locale)}
-- ${t("preciseControl", locale)}
-- ${t("complexScenes", locale)}
+- ${t("multimodalUnderstanding", contentLocale)}
+- ${t("highQualityGeneration", contentLocale)}
+- ${t("fastIteration", contentLocale)}
+- ${t("diverseStyles", contentLocale)}
+- ${t("preciseControl", contentLocale)}
+- ${t("complexScenes", contentLocale)}
 
-${t("learnMore", locale)}
+**${sourceLabel}:** [Seedream 5.0 Pro model page](https://dreamina.capcut.com/seedream/seedream-5-0-pro) · [Dreamina workflow guide](https://dreamina.capcut.com/seedream/how-to-use-seedream-5-0-pro)
 
 ### ${t("raycastIntegration", locale)}
 
@@ -470,9 +524,6 @@ ${t("licensedUnder", locale)}
 ## ${t("acknowledgements", locale)}
 
 - [ImagineVid](https://imaginevid.com)
-- [Evolink-AI/awesome-seedream-5-pro-guide-and-prompt](https://github.com/Evolink-AI/awesome-seedream-5-pro-guide-and-prompt) - selected prompt references and official capability media under CC BY 4.0. We modified the source material by completing prompt excerpts from original posts, preserving source prompts as variants, rewriting collection descriptions, merging visual duplicates, and adapting the table layout.
-- The creators whose public prompts are attributed in this collection
-
 ${creatorCredits}
 
 ---
@@ -498,7 +549,7 @@ ${creatorCredits}
 }
 
 function generateCreatorCredits(prompts: Prompt[], locale: string): string {
-  const copy = officialGalleryCopy(locale);
+  const summary = creatorSummary(locale);
   const attributedCreators = prompts.flatMap((prompt) => [
     prompt.author,
     ...(prompt.promptVariants || []).map((variant) => variant.author).filter(Boolean),
@@ -521,70 +572,57 @@ function generateCreatorCredits(prompts: Prompt[], locale: string): string {
     );
   }
 
-  return `<details>\n<summary>${copy.creatorSummary} (${creators.length})</summary>\n\n${rows.join("<br>\n")}\n\n</details>`;
+  return `<details>\n<summary>${summary} (${creators.length})</summary>\n\n${rows.join("<br>\n")}\n\n</details>`;
 }
 
-function officialGalleryCopy(locale: string): {
-  title: string;
-  intro: string;
-  promptLabel: string;
-  creatorSummary: string;
-  sectionLabel: string;
-} {
-  type Copy = {
-    title: string;
-    intro: string;
-    promptLabel: string;
-    creatorSummary: string;
-    sectionLabel: string;
-  };
-  const copies: Record<string, Copy> = {
-    en: { title: "Official Capability Gallery", intro: "These cases document the official Seedream 5 Pro capability baseline with source and license attribution:", promptLabel: "View prompt", creatorSummary: "Community creators we thank", sectionLabel: "Capability group" },
-    zh: { title: "官方能力案例图库", intro: "以下案例展示 Seedream 5 Pro 的官方能力基线，并注明来源与许可：", promptLabel: "查看提示词", creatorSummary: "查看并感谢社区作者", sectionLabel: "能力分组" },
-    "zh-TW": { title: "官方能力案例圖庫", intro: "以下案例展示 Seedream 5 Pro 的官方能力基準，並標註來源與授權：", promptLabel: "查看提示詞", creatorSummary: "查看並感謝社群作者", sectionLabel: "能力分組" },
-    "ja-JP": { title: "公式機能ギャラリー", intro: "以下は出典とライセンスを明記した Seedream 5 Pro の公式機能事例です：", promptLabel: "プロンプトを表示", creatorSummary: "コミュニティ作者への謝辞", sectionLabel: "機能グループ" },
-    "ko-KR": { title: "공식 기능 갤러리", intro: "다음은 출처와 라이선스를 명시한 Seedream 5 Pro 공식 기능 사례입니다:", promptLabel: "프롬프트 보기", creatorSummary: "커뮤니티 제작자 감사 명단", sectionLabel: "기능 그룹" },
-    "th-TH": { title: "แกลเลอรีความสามารถอย่างเป็นทางการ", intro: "กรณีต่อไปนี้แสดงความสามารถอย่างเป็นทางการของ Seedream 5 Pro พร้อมแหล่งที่มาและสัญญาอนุญาต:", promptLabel: "ดูพรอมต์", creatorSummary: "ขอบคุณผู้สร้างจากชุมชน", sectionLabel: "กลุ่มความสามารถ" },
-    "vi-VN": { title: "Thư viện năng lực chính thức", intro: "Các trường hợp sau minh họa năng lực chính thức của Seedream 5 Pro kèm nguồn và giấy phép:", promptLabel: "Xem câu lệnh", creatorSummary: "Các tác giả cộng đồng", sectionLabel: "Nhóm năng lực" },
-    "hi-IN": { title: "आधिकारिक क्षमता गैलरी", intro: "ये उदाहरण स्रोत और लाइसेंस सहित Seedream 5 Pro की आधिकारिक क्षमताएं दिखाते हैं:", promptLabel: "प्रॉम्प्ट देखें", creatorSummary: "समुदाय के रचनाकारों का आभार", sectionLabel: "क्षमता समूह" },
-    "es-ES": { title: "Galería oficial de capacidades", intro: "Estos casos muestran las capacidades oficiales de Seedream 5 Pro con fuente y licencia:", promptLabel: "Ver prompt", creatorSummary: "Autores de la comunidad", sectionLabel: "Grupo de capacidades" },
-    "es-419": { title: "Galería oficial de capacidades", intro: "Estos casos muestran las capacidades oficiales de Seedream 5 Pro con fuente y licencia:", promptLabel: "Ver prompt", creatorSummary: "Creadores de la comunidad", sectionLabel: "Grupo de capacidades" },
-    "de-DE": { title: "Offizielle Funktionsgalerie", intro: "Diese Beispiele zeigen offizielle Seedream-5-Pro-Funktionen mit Quellen- und Lizenzangabe:", promptLabel: "Prompt anzeigen", creatorSummary: "Community-Autoren", sectionLabel: "Funktionsgruppe" },
-    "fr-FR": { title: "Galerie officielle des fonctionnalités", intro: "Ces exemples présentent les fonctions officielles de Seedream 5 Pro avec leur source et leur licence :", promptLabel: "Afficher le prompt", creatorSummary: "Auteurs de la communauté", sectionLabel: "Groupe de fonctions" },
-    "it-IT": { title: "Galleria ufficiale delle funzionalità", intro: "Questi casi mostrano le funzionalità ufficiali di Seedream 5 Pro con fonte e licenza:", promptLabel: "Mostra prompt", creatorSummary: "Autori della community", sectionLabel: "Gruppo di funzionalità" },
-    "pt-BR": { title: "Galeria oficial de recursos", intro: "Estes casos mostram os recursos oficiais do Seedream 5 Pro com fonte e licença:", promptLabel: "Ver prompt", creatorSummary: "Criadores da comunidade", sectionLabel: "Grupo de recursos" },
-    "pt-PT": { title: "Galeria oficial de funcionalidades", intro: "Estes casos mostram as funcionalidades oficiais do Seedream 5 Pro com fonte e licença:", promptLabel: "Ver prompt", creatorSummary: "Autores da comunidade", sectionLabel: "Grupo de funcionalidades" },
-    "tr-TR": { title: "Resmi yetenek galerisi", intro: "Bu örnekler Seedream 5 Pro'nun resmi yeteneklerini kaynak ve lisans bilgileriyle gösterir:", promptLabel: "İstemi görüntüle", creatorSummary: "Topluluk üreticileri", sectionLabel: "Yetenek grubu" },
-    "ar-SA": { title: "معرض الإمكانات الرسمية", intro: "توضح هذه الحالات إمكانات Seedream 5 Pro الرسمية مع ذكر المصدر والترخيص:", promptLabel: "عرض الموجه", creatorSummary: "مبدعو المجتمع الذين نشكرهم", sectionLabel: "مجموعة الإمكانات" },
-    "bn-BD": { title: "অফিশিয়াল সক্ষমতা গ্যালারি", intro: "এই উদাহরণগুলো উৎস ও লাইসেন্সসহ Seedream 5 Pro-এর অফিশিয়াল সক্ষমতা দেখায়:", promptLabel: "প্রম্পট দেখুন", creatorSummary: "কমিউনিটি নির্মাতাদের প্রতি কৃতজ্ঞতা", sectionLabel: "সক্ষমতা বিভাগ" },
-    "ur-PK": { title: "سرکاری صلاحیتوں کی گیلری", intro: "یہ مثالیں ماخذ اور لائسنس کے ساتھ Seedream 5 Pro کی سرکاری صلاحیتیں دکھاتی ہیں:", promptLabel: "پرامپٹ دیکھیں", creatorSummary: "کمیونٹی تخلیق کاروں کا شکریہ", sectionLabel: "صلاحیتوں کا گروپ" },
-    "id-ID": { title: "Galeri kemampuan resmi", intro: "Contoh berikut menampilkan kemampuan resmi Seedream 5 Pro beserta sumber dan lisensinya:", promptLabel: "Lihat prompt", creatorSummary: "Kreator komunitas yang kami hargai", sectionLabel: "Kelompok kemampuan" },
-    "ms-MY": { title: "Galeri keupayaan rasmi", intro: "Contoh berikut menunjukkan keupayaan rasmi Seedream 5 Pro berserta sumber dan lesen:", promptLabel: "Lihat prompt", creatorSummary: "Pengkarya komuniti yang kami hargai", sectionLabel: "Kumpulan keupayaan" },
-    "ru-RU": { title: "Галерея официальных возможностей", intro: "Эти примеры показывают официальные возможности Seedream 5 Pro с указанием источника и лицензии:", promptLabel: "Показать промпт", creatorSummary: "Авторы сообщества", sectionLabel: "Группа возможностей" },
-    "nl-NL": { title: "Officiële functiegallerij", intro: "Deze voorbeelden tonen officiële Seedream 5 Pro-functies met bron- en licentievermelding:", promptLabel: "Prompt bekijken", creatorSummary: "Makers uit de community", sectionLabel: "Functiegroep" },
-    "pl-PL": { title: "Galeria oficjalnych możliwości", intro: "Te przykłady pokazują oficjalne możliwości Seedream 5 Pro wraz ze źródłem i licencją:", promptLabel: "Pokaż prompt", creatorSummary: "Twórcy społeczności", sectionLabel: "Grupa możliwości" },
-    "sv-SE": { title: "Officiellt funktionsgalleri", intro: "Exemplen visar officiella Seedream 5 Pro-funktioner med källa och licens:", promptLabel: "Visa prompt", creatorSummary: "Kreatörer i communityn", sectionLabel: "Funktionsgrupp" },
-    "da-DK": { title: "Officielt funktionsgalleri", intro: "Eksemplerne viser officielle Seedream 5 Pro-funktioner med kilde og licens:", promptLabel: "Vis prompt", creatorSummary: "Skabere fra fællesskabet", sectionLabel: "Funktionsgruppe" },
-    "nb-NO": { title: "Offisielt funksjonsgalleri", intro: "Eksemplene viser offisielle Seedream 5 Pro-funksjoner med kilde og lisens:", promptLabel: "Vis prompt", creatorSummary: "Skapere i fellesskapet", sectionLabel: "Funksjonsgruppe" },
-    "fi-FI": { title: "Virallinen ominaisuusgalleria", intro: "Esimerkit näyttävät Seedream 5 Pron viralliset ominaisuudet lähde- ja lisenssitietoineen:", promptLabel: "Näytä kehote", creatorSummary: "Yhteisön tekijät", sectionLabel: "Ominaisuusryhmä" },
-    "el-GR": { title: "Επίσημη συλλογή δυνατοτήτων", intro: "Τα παραδείγματα παρουσιάζουν τις επίσημες δυνατότητες του Seedream 5 Pro με πηγή και άδεια:", promptLabel: "Προβολή προτροπής", creatorSummary: "Δημιουργοί της κοινότητας", sectionLabel: "Ομάδα δυνατοτήτων" },
-    "cs-CZ": { title: "Galerie oficiálních funkcí", intro: "Tyto příklady ukazují oficiální funkce Seedream 5 Pro včetně zdroje a licence:", promptLabel: "Zobrazit prompt", creatorSummary: "Tvůrci z komunity", sectionLabel: "Skupina funkcí" },
-    "hu-HU": { title: "Hivatalos képességgaléria", intro: "A példák a Seedream 5 Pro hivatalos képességeit mutatják be forrás- és licencmegjelöléssel:", promptLabel: "Prompt megtekintése", creatorSummary: "Közösségi alkotók", sectionLabel: "Képességcsoport" },
-    "ro-RO": { title: "Galerie oficială de capabilități", intro: "Aceste exemple prezintă capabilitățile oficiale Seedream 5 Pro, cu sursă și licență:", promptLabel: "Vezi promptul", creatorSummary: "Creatorii comunității", sectionLabel: "Grup de capabilități" },
-    "uk-UA": { title: "Галерея офіційних можливостей", intro: "Ці приклади показують офіційні можливості Seedream 5 Pro із зазначенням джерела та ліцензії:", promptLabel: "Показати промпт", creatorSummary: "Автори спільноти", sectionLabel: "Група можливостей" },
-    "he-IL": { title: "גלריית יכולות רשמית", intro: "הדוגמאות מציגות את היכולות הרשמיות של Seedream 5 Pro בציון מקור ורישיון:", promptLabel: "הצגת הפרומפט", creatorSummary: "יוצרי הקהילה", sectionLabel: "קבוצת יכולות" },
-    "fa-IR": { title: "گالری قابلیت‌های رسمی", intro: "این نمونه‌ها قابلیت‌های رسمی Seedream 5 Pro را همراه با منبع و مجوز نشان می‌دهند:", promptLabel: "نمایش پرامپت", creatorSummary: "سازندگان جامعه", sectionLabel: "گروه قابلیت‌ها" },
-    "fil-PH": { title: "Opisyal na gallery ng kakayahan", intro: "Ipinapakita ng mga halimbawang ito ang opisyal na kakayahan ng Seedream 5 Pro kasama ang pinagmulan at lisensya:", promptLabel: "Tingnan ang prompt", creatorSummary: "Mga creator ng komunidad", sectionLabel: "Pangkat ng kakayahan" },
-    "sw-KE": { title: "Matunzio rasmi ya uwezo", intro: "Mifano hii inaonyesha uwezo rasmi wa Seedream 5 Pro pamoja na chanzo na leseni:", promptLabel: "Tazama prompti", creatorSummary: "Wabunifu wa jumuiya", sectionLabel: "Kikundi cha uwezo" },
-    "ta-IN": { title: "அதிகாரப்பூர்வ திறன் காட்சியகம்", intro: "இந்த எடுத்துக்காட்டுகள் மூலம் மற்றும் உரிமத்துடன் Seedream 5 Pro-வின் அதிகாரப்பூர்வ திறன்களைக் காட்டுகின்றன:", promptLabel: "ப்ராம்ப்டைக் காண்க", creatorSummary: "சமூக படைப்பாளர்களுக்கு நன்றி", sectionLabel: "திறன் குழு" },
-    "te-IN": { title: "అధికారిక సామర్థ్య గ్యాలరీ", intro: "ఈ ఉదాహరణలు మూలం మరియు లైసెన్స్‌తో Seedream 5 Pro అధికారిక సామర్థ్యాలను చూపిస్తాయి:", promptLabel: "ప్రాంప్ట్ చూడండి", creatorSummary: "కమ్యూనిటీ సృష్టికర్తలకు కృతజ్ఞతలు", sectionLabel: "సామర్థ్య సమూహం" },
-    "mr-IN": { title: "अधिकृत क्षमता गॅलरी", intro: "ही उदाहरणे स्रोत आणि परवान्यासह Seedream 5 Pro ची अधिकृत क्षमता दाखवतात:", promptLabel: "प्रॉम्प्ट पहा", creatorSummary: "समुदाय निर्मात्यांचे आभार", sectionLabel: "क्षमता गट" },
-    "pa-IN": { title: "ਅਧਿਕਾਰਤ ਸਮਰੱਥਾ ਗੈਲਰੀ", intro: "ਇਹ ਉਦਾਹਰਨਾਂ ਸਰੋਤ ਅਤੇ ਲਾਇਸੈਂਸ ਸਮੇਤ Seedream 5 Pro ਦੀਆਂ ਅਧਿਕਾਰਤ ਸਮਰੱਥਾਵਾਂ ਦਿਖਾਉਂਦੀਆਂ ਹਨ:", promptLabel: "ਪ੍ਰਾਮਪਟ ਵੇਖੋ", creatorSummary: "ਕਮਿਊਨਿਟੀ ਰਚਨਾਕਾਰਾਂ ਦਾ ਧੰਨਵਾਦ", sectionLabel: "ਸਮਰੱਥਾ ਸਮੂਹ" },
-    "gu-IN": { title: "સત્તાવાર ક્ષમતા ગેલેરી", intro: "આ ઉદાહરણો સ્રોત અને લાઇસન્સ સાથે Seedream 5 Pro ની સત્તાવાર ક્ષમતાઓ દર્શાવે છે:", promptLabel: "પ્રોમ્પ્ટ જુઓ", creatorSummary: "સમુદાય સર્જકોનો આભાર", sectionLabel: "ક્ષમતા જૂથ" },
-    "kn-IN": { title: "ಅಧಿಕೃತ ಸಾಮರ್ಥ್ಯ ಗ್ಯಾಲರಿ", intro: "ಈ ಉದಾಹರಣೆಗಳು ಮೂಲ ಮತ್ತು ಪರವಾನಗಿಯೊಂದಿಗೆ Seedream 5 Pro ಅಧಿಕೃತ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ತೋರಿಸುತ್ತವೆ:", promptLabel: "ಪ್ರಾಂಪ್ಟ್ ನೋಡಿ", creatorSummary: "ಸಮುದಾಯ ರಚಯಿತರಿಗೆ ಧನ್ಯವಾದ", sectionLabel: "ಸಾಮರ್ಥ್ಯ ಗುಂಪು" },
-    "ml-IN": { title: "ഔദ്യോഗിക ശേഷി ഗാലറി", intro: "ഈ ഉദാഹരണങ്ങൾ ഉറവിടവും ലൈസൻസും സഹിതം Seedream 5 Pro-യുടെ ഔദ്യോഗിക ശേഷികൾ കാണിക്കുന്നു:", promptLabel: "പ്രോംപ്റ്റ് കാണുക", creatorSummary: "കമ്മ്യൂണിറ്റി സ്രഷ്ടാക്കൾക്ക് നന്ദി", sectionLabel: "ശേഷി വിഭാഗം" },
-    "my-MM": { title: "တရားဝင် စွမ်းရည်ပြခန်း", intro: "ဤနမူနာများသည် ရင်းမြစ်နှင့် လိုင်စင်အချက်အလက်ပါဝင်သော Seedream 5 Pro ၏ တရားဝင်စွမ်းရည်များကို ပြသသည်:", promptLabel: "ပရောမ့်ကို ကြည့်ရန်", creatorSummary: "အသိုင်းအဝိုင်း ဖန်တီးသူများအား ကျေးဇူးတင်ပါသည်", sectionLabel: "စွမ်းရည်အုပ်စု" },
-    "jv-ID": { title: "Galeri kemampuan resmi", intro: "Tuladha iki nuduhake kemampuan resmi Seedream 5 Pro kanthi sumber lan lisensi:", promptLabel: "Deleng prompt", creatorSummary: "Pangripta komunitas", sectionLabel: "Klompok kemampuan" },
+function creatorSummary(locale: string): string {
+  const copies: Record<string, string> = {
+    "en": "Community creators we thank",
+    "zh": "查看并感谢社区作者",
+    "zh-TW": "查看並感謝社群作者",
+    "ja-JP": "コミュニティ作者への謝辞",
+    "ko-KR": "커뮤니티 제작자 감사 명단",
+    "th-TH": "ขอบคุณผู้สร้างจากชุมชน",
+    "vi-VN": "Các tác giả cộng đồng",
+    "hi-IN": "समुदाय के रचनाकारों का आभार",
+    "es-ES": "Autores de la comunidad",
+    "es-419": "Creadores de la comunidad",
+    "de-DE": "Community-Autoren",
+    "fr-FR": "Auteurs de la communauté",
+    "it-IT": "Autori della community",
+    "pt-BR": "Criadores da comunidade",
+    "pt-PT": "Autores da comunidade",
+    "tr-TR": "Topluluk üreticileri",
+    "ar-SA": "مبدعو المجتمع الذين نشكرهم",
+    "bn-BD": "কমিউনিটি নির্মাতাদের প্রতি কৃতজ্ঞতা",
+    "ur-PK": "کمیونٹی تخلیق کاروں کا شکریہ",
+    "id-ID": "Kreator komunitas yang kami hargai",
+    "ms-MY": "Pengkarya komuniti yang kami hargai",
+    "ru-RU": "Авторы сообщества",
+    "nl-NL": "Makers uit de community",
+    "pl-PL": "Twórcy społeczności",
+    "sv-SE": "Kreatörer i communityn",
+    "da-DK": "Skabere fra fællesskabet",
+    "nb-NO": "Skapere i fellesskapet",
+    "fi-FI": "Yhteisön tekijät",
+    "el-GR": "Δημιουργοί της κοινότητας",
+    "cs-CZ": "Tvůrci z komunity",
+    "hu-HU": "Közösségi alkotók",
+    "ro-RO": "Creatorii comunității",
+    "uk-UA": "Автори спільноти",
+    "he-IL": "יוצרי הקהילה",
+    "fa-IR": "سازندگان جامعه",
+    "fil-PH": "Mga creator ng komunidad",
+    "sw-KE": "Wabunifu wa jumuiya",
+    "ta-IN": "சமூக படைப்பாளர்களுக்கு நன்றி",
+    "te-IN": "కమ్యూనిటీ సృష్టికర్తలకు కృతజ్ఞతలు",
+    "mr-IN": "समुदाय निर्मात्यांचे आभार",
+    "pa-IN": "ਕਮਿਊਨਿਟੀ ਰਚਨਾਕਾਰਾਂ ਦਾ ਧੰਨਵਾਦ",
+    "gu-IN": "સમુદાય સર્જકોનો આભાર",
+    "kn-IN": "ಸಮುದಾಯ ರಚಯಿತರಿಗೆ ಧನ್ಯವಾದ",
+    "ml-IN": "കമ്മ്യൂണിറ്റി സ്രഷ്ടാക്കൾക്ക് നന്ദി",
+    "my-MM": "အသိုင်းအဝိုင်း ဖန်တီးသူများအား ကျေးဇူးတင်ပါသည်",
+    "jv-ID": "Pangripta komunitas",
   };
   return copies[locale] || copies.en;
 }

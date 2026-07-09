@@ -12,6 +12,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const ROOT_DIR = path.resolve(__dirname, "..");
 const PROMPTS_PATH = path.join(ROOT_DIR, "data/prompts.json");
+const CATEGORIES_PATH = path.join(ROOT_DIR, "data/categories.json");
 
 type LocalizedText = string | Record<string, string>;
 
@@ -39,8 +40,15 @@ interface StoredPrompt {
     link?: string;
   };
   imageCategories?: {
+    workflows?: Array<{ id?: number; slug?: string }>;
     useCases?: Array<{ slug?: string }>;
   };
+}
+
+interface StoredCategory {
+  id: number;
+  slug: string;
+  parentSlug?: string | null;
 }
 
 interface MediaAsset {
@@ -100,7 +108,10 @@ function findDuplicates(
     .map(([key, ids]) => `${label}: prompts ${ids.join(", ")} share ${JSON.stringify(key)}`);
 }
 
-function validateStructuralDuplicates(prompts: StoredPrompt[]): string[] {
+function validateStructuralDuplicates(
+  prompts: StoredPrompt[],
+  categories: StoredCategory[]
+): string[] {
   const errors = [
     ...findDuplicates(prompts, "ID", (prompt) => String(prompt.id)),
     ...findDuplicates(prompts, "Tweet", tweetId),
@@ -114,6 +125,22 @@ function validateStructuralDuplicates(prompts: StoredPrompt[]): string[] {
       normalizeText(localizedText(prompt.content))
     ),
   ];
+  const workflowById = new Map(
+    categories
+      .filter((category) => category.parentSlug === "workflow-groups")
+      .map((category) => [category.id, category])
+  );
+
+  for (const prompt of prompts) {
+    const workflows = prompt.imageCategories?.workflows || [];
+    if (workflows.length !== 1) {
+      errors.push(`Workflow: prompt ${prompt.id} must have exactly one primary workflow category`);
+    } else if (!workflowById.has(workflows[0].id || 0)) {
+      errors.push(`Workflow: prompt ${prompt.id} uses an unknown workflow category`);
+    } else if (workflowById.get(workflows[0].id || 0)?.slug !== workflows[0].slug) {
+      errors.push(`Workflow: prompt ${prompt.id} has a mismatched workflow id and slug`);
+    }
+  }
 
   const mediaOwners = new Map<string, number[]>();
   for (const prompt of prompts) {
@@ -291,7 +318,10 @@ async function findVisualDuplicates(prompts: StoredPrompt[]): Promise<string[]> 
 
 async function main(): Promise<void> {
   const prompts = JSON.parse(fs.readFileSync(PROMPTS_PATH, "utf8")) as StoredPrompt[];
-  const errors = validateStructuralDuplicates(prompts);
+  const categories = JSON.parse(
+    fs.readFileSync(CATEGORIES_PATH, "utf8")
+  ) as StoredCategory[];
+  const errors = validateStructuralDuplicates(prompts, categories);
 
   if (process.argv.includes("--media")) {
     errors.push(...(await findVisualDuplicates(prompts)));
