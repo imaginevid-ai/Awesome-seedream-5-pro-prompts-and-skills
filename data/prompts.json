@@ -6,7 +6,7 @@
     "description": "A high-negative-space cinematic still pattern, normalized from a public X prompt, for testing scale, isolation, black voids, and hard solar lighting.",
     "content": "Create a hard sci-fi movie still titled AIRLOCK. Frame one white EVA-suit astronaut drifting far from a tiny space station, with a loose tether trailing behind and the body angled as if slowly rotating. Let near-total black space dominate the composition, with no stars or nebulae. Use one harsh solar key light that burns the lit side of the suit white-silver while the opposite side drops into deep shadow. Keep the palette cold and desaturated, add subtle 35mm film grain, and compose in an anamorphic 2.39:1 frame with overwhelming negative space and realistic photographic detail.",
     "sourceLink": "https://x.com/karim_yourself/status/2075165434827989207",
-    "sourcePublishedAt": "2026-07-09T10:29:29.000Z",
+    "sourcePublishedAt": "2026-07-09T10:29:29Z",
     "sourceMedia": [
       "https://pbs.twimg.com/media/HMx2ZeoWMAAE0Dg.jpg"
     ],
@@ -24,9 +24,9 @@
       "prompt_source": "rewritten_from_tweet_text",
       "retweetCount": 0,
       "replyCount": 1,
-      "likeCount": 5,
+      "likeCount": 6,
       "quoteCount": 0,
-      "viewCount": 355,
+      "viewCount": 367,
       "bookmarkCount": 2
     },
     "imageCategories": {
@@ -60,7 +60,7 @@
     "description": "A cinematic language pattern, normalized from a public X prompt, that turns mood, lens behavior, and exposure notes into coherent film stills.",
     "content": "Generate a 1970s European romantic-drama still set inside a tense private moment. Use handheld framing that feels reactive and imperfect: close shots when the emotion tightens, wider distance when the scene fractures. Mix harsh daylight, blown windows, uneven room exposure, and very little artificial fill. Start with warm intimate golds but let the palette cool and desaturate as the mood becomes unstable. Preserve tactile skin, hair, and fabric texture, soft film grain, imperfect glass, and a documentary sense of emotional volatility.",
     "sourceLink": "https://x.com/UnityEagle/status/2075191214601572606",
-    "sourcePublishedAt": "2026-07-09T12:11:55.000Z",
+    "sourcePublishedAt": "2026-07-09T12:11:55Z",
     "sourceMedia": [
       "https://pbs.twimg.com/media/HMyPaOLWkAAiG-n.jpg",
       "https://pbs.twimg.com/media/HMyPaOQXAAEHKtN.jpg",
@@ -116,7 +116,7 @@
     "description": "A Seedream 5 Pro portrait pattern, normalized from public ALT text, focused on facial details, pose, costume, and clean splash-art style.",
     "content": "Create a half-body modern anime splash-art portrait of a young woman in a black kunoichi-inspired outfit without a headband. Give her short black hair, dark eyes, a confident narrowed-eye expression, subtle red eyeliner, and a small beauty mark under the right eye. Pose one hand on the hip and the other making a victory sign. Use a clean white background, crisp illustration lines, polished character-art finish, and enough facial detail to test whether the model preserves small identity cues.",
     "sourceLink": "https://x.com/characternexus/status/2074920654751592583",
-    "sourcePublishedAt": "2026-07-08T18:16:48.000Z",
+    "sourcePublishedAt": "2026-07-08T18:16:48Z",
     "sourceMedia": [
       "https://pbs.twimg.com/media/HMuYjvOWUAArwPA.jpg"
     ],
@@ -170,7 +170,7 @@
     "description": "A character design sheet pattern, normalized from a public X comparison post, useful for full-body turnaround, techwear, and studio render tests.",
     "content": "Design a full-body character sheet for a male creator in avant-garde streetwear. Build the look around an oversized asymmetrical matte-black tech jacket, dark turtleneck, tactical cargo trousers with hardware straps, chunky futuristic shoes, geometric tinted smart glasses, and a small neon-green piping accent. Place the figure on a minimal ash-grey studio background. Use high-contrast cinematic lighting, sleek editorial styling, clean turnaround readability, ultra-detailed materials, and a 16:9 composition.",
     "sourceLink": "https://x.com/Boluwatifeolad7/status/2075191098184442310",
-    "sourcePublishedAt": "2026-07-09T12:11:27.000Z",
+    "sourcePublishedAt": "2026-07-09T12:11:27Z",
     "sourceMedia": [
       "https://pbs.twimg.com/media/HMyPTNdXwAAzU_j.jpg",
       "https://pbs.twimg.com/media/HMyPTNmW4AEDnk0.jpg",
@@ -227,9 +227,10 @@
     "description": "A reference-image editing pattern, normalized from a public X prompt, that keeps facial identity and makeup while changing styling and setting.",
     "content": "Use the uploaded selfie only as the facial-identity and makeup reference. Keep face geometry recognizable, but replace the hairstyle with glossy side-parted blonde hair. Restyle the subject in a pale blue denim tube top, red bead necklace, and gold hoop earrings at an outdoor coffee-shop table on a bright New York summer morning around the year 2000. Shoot from a low phone-camera angle pointed toward the face, with one arm extending toward the edge of frame and the other near a half-empty coffee cup. Make the foreground candid, detailed, and lightly smiling, with blue sky and distant city architecture in the background.",
     "sourceLink": "https://x.com/asheem01/status/2074941260863811644",
-    "sourcePublishedAt": "2026-07-08T19:38:41.000Z",
+    "sourcePublishedAt": "2026-07-08T19:38:41Z",
     "sourceMedia": [
-      "https://pbs.twimg.com/media/HMusDG6XQAAVvcV.jpg"
+      "https://pbs.twimg.com/media/HMusDG6XQAAVvcV.jpg",
+      "https://pbs.twimg.com/media/HMusEX5WoAA4Mir.jpg"
     ],
     "author": {
       "name": "@asheem01",
@@ -260,9 +261,9 @@
       ],
       "styles": [
         {
-          "id": 23,
-          "title": "Editorial Fashion",
-          "slug": "editorial-fashion"
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
         }
       ],
       "subjects": [
@@ -278,10 +279,10 @@
     "id": 6,
     "model": "seedream-5-pro",
     "title": "Maldives tropical paradise visual",
-    "description": "A compact landscape pattern, normalized from public ALT text in a Seedream 5.0 Pro comparison post, focused on clean tropical travel imagery.",
-    "content": "Create a tranquil Maldives travel visual with clear turquoise water, bright white sand, shallow coral reefs, and a calm exotic-resort atmosphere. Keep the scene clean, luminous, and inviting, with high detail in the water surface, reef color, beach texture, and distant horizon. Use premium travel-photography polish and avoid cluttered foreground objects.",
+    "description": "A travel-poster visual pattern, normalized from public image ALT text, for clean composition, water clarity, and destination-brand mood.",
+    "content": "Create an exotic tropical travel visual of the Maldives with crystal-clear turquoise water, clean white sand, vivid coral reef color beneath the surface, and a calm luxury-resort atmosphere. Keep the image bright, polished, and tranquil, with a wide composition that can work as a destination campaign banner. Preserve natural water texture, crisp sunlight, and a premium editorial finish.",
     "sourceLink": "https://x.com/Bic_Revelation/status/2074959714366922857",
-    "sourcePublishedAt": "2026-07-08T20:52:01.000Z",
+    "sourcePublishedAt": "2026-07-08T20:52:01Z",
     "sourceMedia": [
       "https://pbs.twimg.com/media/HMu8AX3WMAAquvx.jpg",
       "https://pbs.twimg.com/media/HMu8AkwWMAAUGz4.jpg"
@@ -325,6 +326,1478 @@
           "id": 34,
           "title": "Landscape",
           "slug": "landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "model": "seedream-5-pro",
+    "title": "Folk-horror sunset convergence",
+    "description": "A horror-cinema still pattern pulled from a public Seedream 5 Pro prompt thread and rewritten for reusable lighting and blocking.",
+    "content": "Frame a folk-horror film still from an extreme low angle inside dense wheat. Let tall stalks cage the foreground while a swollen amber sun sinks on the horizon. Place hooded figures as faceless silhouettes converging toward the center through haze. Use backlit molten gold, deep shadow, flare, film grain, and an anamorphic 2.39:1 composition. The mood should feel ritualistic, oppressive, and impossible to escape.",
+    "sourceLink": "https://x.com/karim_yourself/status/2075165437856264581",
+    "sourcePublishedAt": "2026-07-09T10:29:29Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMx2by2WgAAfwog.jpg"
+    ],
+    "author": {
+      "name": "@karim_yourself",
+      "link": "https://x.com/karim_yourself"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 7,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075165437856264581",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "viewCount": 333,
+      "bookmarkCount": 2
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 58,
+          "title": "Historical Scene",
+          "slug": "historical-scene"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "model": "seedream-5-pro",
+    "title": "Rain-soaked noir roadside diner",
+    "description": "A noir lighting test from a public Seedream 5 Pro prompt thread, normalized for wet asphalt, sodium light, and black negative space.",
+    "content": "Create a wide exterior noir shot of a lonely roadside diner during heavy night rain. Pool sodium-orange streetlight across wet asphalt so puddles fracture the reflections. Let the diner glow faintly warm against an otherwise black sky, with one detective silhouette barely visible through a rain-streaked window. Keep the surrounding darkness nearly absolute, add visible rain streaks, film grain, and anamorphic letterboxing.",
+    "sourceLink": "https://x.com/karim_yourself/status/2075165441236803971",
+    "sourcePublishedAt": "2026-07-09T10:29:30Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMx2haFXgAARWHn.jpg"
+    ],
+    "author": {
+      "name": "@karim_yourself",
+      "link": "https://x.com/karim_yourself"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 8,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075165441236803971",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 4,
+      "quoteCount": 0,
+      "viewCount": 187,
+      "bookmarkCount": 1
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 47,
+          "title": "Noir Lighting",
+          "slug": "noir-lighting"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 54,
+          "title": "Interior Space",
+          "slug": "interior-space"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "model": "seedream-5-pro",
+    "title": "Sun Throne scale contrast",
+    "description": "A fantasy scale-composition prompt, rewritten from a public Seedream 5 Pro thread, for testing shafts of light and foreground blur.",
+    "content": "Build a fantasy film still titled The Sun Throne. Place a bowed supplicant in soft foreground blur while enormous gilded steps climb sharply into a blinding golden shaft. Keep the god-king unseen so the architecture does the storytelling. Use deep hall shadows, one diagonal beam of light, extreme scale contrast, film grain, and a reverent but oppressive atmosphere.",
+    "sourceLink": "https://x.com/karim_yourself/status/2075165447490535486",
+    "sourcePublishedAt": "2026-07-09T10:29:32Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMx2mEsWoAEBpZX.jpg"
+    ],
+    "author": {
+      "name": "@karim_yourself",
+      "link": "https://x.com/karim_yourself"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 9,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075165447490535486",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 136,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 58,
+          "title": "Historical Scene",
+          "slug": "historical-scene"
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "model": "seedream-5-pro",
+    "title": "Whiteout survival abstraction",
+    "description": "A minimal survival-film prompt, normalized from a public Seedream 5 Pro thread, for near-white compositions and directional ambiguity.",
+    "content": "Create a survival film still in a total snow whiteout. Reduce the mountaineer to a tiny faint mark in a field of almost pure white with no horizon and no reliable sense of up or down. Let a taut climbing rope be the only clear line in the frame. Use flat blinding light, minimal contrast, subtle film grain, and an anamorphic composition that feels disorienting and desperate.",
+    "sourceLink": "https://x.com/karim_yourself/status/2075165459993784441",
+    "sourcePublishedAt": "2026-07-09T10:29:35Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMx2zUfWUAAEEoV.jpg"
+    ],
+    "author": {
+      "name": "@karim_yourself",
+      "link": "https://x.com/karim_yourself"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 10,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075165459993784441",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "viewCount": 121,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 34,
+          "title": "Landscape",
+          "slug": "landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "model": "seedream-5-pro",
+    "title": "Lived-in afternoon kitchen portrait",
+    "description": "A candid lifestyle photography pattern from a public Seedream 5 Pro prompt thread, rewritten for natural skin, domestic detail, and warm late light.",
+    "content": "Photograph a relaxed adult woman leaning against a kitchen counter in a lived-in suburban home during late afternoon. Use a 35mm eye-level handheld feel, natural shallow depth of field, visible skin texture, loose hair, an oversized cream knit cardigan, worn denim, and both hands around a matte ceramic mug. Add window light from camera right, dust in the air, soft long shadows, muted domestic clutter, warm cream and denim blues, and no beauty-filter gloss.",
+    "sourceLink": "https://x.com/Digitalwindai/status/2075222988106932645",
+    "sourcePublishedAt": "2026-07-09T14:18:10Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMyqPD5WgAAVHnq.jpg"
+    ],
+    "author": {
+      "name": "@Digitalwindai",
+      "link": "https://x.com/Digitalwindai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 11,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075222988106932645",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 28,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "model": "seedream-5-pro",
+    "title": "Western Front dawn trench still",
+    "description": "A historical realism pattern from a public Seedream 5 Pro prompt thread, useful for restrained color, period texture, and atmospheric depth.",
+    "content": "Create a 1916 Western Front film still at dawn. Show an exhausted young soldier in period uniform standing in a muddy trench, rifle slung over one shoulder, staring past the camera. Build the scene with sandbags, timber supports, distant barbed wire, faint smoke over no-man’s land, cold overcast light, muted khaki, grey, rust, and realistic mud, fabric, and worn metal texture.",
+    "sourceLink": "https://x.com/Digitalwindai/status/2075222992515125388",
+    "sourcePublishedAt": "2026-07-09T14:18:11Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMyqaGyXwAEMlFo.jpg"
+    ],
+    "author": {
+      "name": "@Digitalwindai",
+      "link": "https://x.com/Digitalwindai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 12,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075222992515125388",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 8,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 44,
+          "title": "Historical Realism",
+          "slug": "historical-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 58,
+          "title": "Historical Scene",
+          "slug": "historical-scene"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "model": "seedream-5-pro",
+    "title": "Capital ship over alien planet",
+    "description": "A sci-fi scale prompt from a public Seedream 5 Pro thread, rewritten for deep-focus space realism and non-neon production design.",
+    "content": "Render a massive capital-class spaceship orbiting a fictional alien planet. Use a wide deep-focus 35mm frame with the planet curve below, swirling atmosphere, tiny stars, and a faint nebula for scale. Light one side of the hull with hard directional sunlight while the other side falls into deep shadow, with a soft blue atmospheric rim on the metal. Avoid urban cyberpunk and neon; keep the mood vast, quiet, and photorealistic.",
+    "sourceLink": "https://x.com/Digitalwindai/status/2075222996810145816",
+    "sourcePublishedAt": "2026-07-09T14:18:12Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMyqdGqWkAA0W3w.jpg"
+    ],
+    "author": {
+      "name": "@Digitalwindai",
+      "link": "https://x.com/Digitalwindai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 13,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075222996810145816",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 14,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 57,
+          "title": "Sci-Fi World",
+          "slug": "sci-fi-world"
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "model": "seedream-5-pro",
+    "title": "Anime sorceress key visual",
+    "description": "An anime key-visual prompt from a public Seedream 5 Pro thread, rewritten for dynamic cel shading and magical lighting.",
+    "content": "Create an epic Japanese anime key visual of a sorceress mid-incantation. Use a low-angle dynamic medium shot, flowing hair and robes, hands weaving glowing runes, an arcane circle below, floating debris, and a battlefield backdrop. Make the main light a vivid violet-cyan magic glow with gold accents, crisp cel-shaded fabric, clean hair detail, radiant particles, and no photorealistic skin or 3D-render look.",
+    "sourceLink": "https://x.com/Digitalwindai/status/2075223017127383054",
+    "sourcePublishedAt": "2026-07-09T14:18:17Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMyq4JkW4AAazaX.jpg"
+    ],
+    "author": {
+      "name": "@Digitalwindai",
+      "link": "https://x.com/Digitalwindai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 14,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075223017127383054",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 32,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "model": "seedream-5-pro",
+    "title": "Floating temple archipelago key visual",
+    "description": "An anime environment prompt from a public Seedream 5 Pro thread, rewritten for painterly background art and strong depth layering.",
+    "content": "Design a wide anime establishing shot of ancient temple islands floating above a sea of clouds. Link the islands with long stone stairways, torii gates, pagoda rooftops, mist, drifting cherry petals, and one small figure crossing a bridge for scale. Use warm late-afternoon sun breaking through the cloud layer, soft god rays, coral-pink blossoms, teal distant sky, and clean painterly background detail.",
+    "sourceLink": "https://x.com/Digitalwindai/status/2075223022089154792",
+    "sourcePublishedAt": "2026-07-09T14:18:18Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMyrCgQXwAAhNgQ.jpg"
+    ],
+    "author": {
+      "name": "@Digitalwindai",
+      "link": "https://x.com/Digitalwindai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 15,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075223022089154792",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 26,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 34,
+          "title": "Landscape",
+          "slug": "landscape"
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "model": "seedream-5-pro",
+    "title": "Post-match sports refreshment campaign",
+    "description": "A product-campaign setup from a public Dreamina Seedream 5.0 Pro post, rewritten for premium sports props and dramatic overhead light.",
+    "content": "Create a premium sports refreshment campaign image on a locker-room floor or bench: textured jersey fabric, football boots, towel, scattered water droplets, and the hero product in sharp focus. Use dramatic overhead lighting, warm cinematic grading, realistic fabric and rubber textures, post-match victory energy, 4K polish, no text, and no watermark.",
+    "sourceLink": "https://x.com/bmx_ai13/status/2075082266695582012",
+    "sourcePublishedAt": "2026-07-09T04:59:00Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMu-oPpbkAA2xSN.jpg",
+      "https://pbs.twimg.com/media/HMu-oPva4AAE2-s.jpg",
+      "https://pbs.twimg.com/media/HMu-oWfbMAAIjoh.jpg",
+      "https://pbs.twimg.com/media/HMu-oP3bYAAT9YT.jpg"
+    ],
+    "author": {
+      "name": "@bmx_ai13",
+      "link": "https://x.com/bmx_ai13"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 16,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075082266695582012",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 1,
+      "replyCount": 18,
+      "likeCount": 34,
+      "quoteCount": 0,
+      "viewCount": 606,
+      "bookmarkCount": 4
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 15,
+          "title": "Product Campaign",
+          "slug": "product-campaign"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "model": "seedream-5-pro",
+    "title": "Futuristic sports car blueprint board",
+    "description": "A technical drawing prompt from a public Seedream 5 Pro comparison post, rewritten for multi-view vehicle diagrams and measurement density.",
+    "content": "Design a blueprint-style technical sheet for a futuristic sports car. Include front, side, and rear line drawings, exploded component sketches, assembly diagrams, structural cutaways, dimension marks, grayscale line hierarchy, and small thumbnails from alternate angles. Make it read like a professional industrial design board with dense but orderly annotations.",
+    "sourceLink": "https://x.com/marmaduke091/status/2074866077499105416",
+    "sourcePublishedAt": "2026-07-08T14:39:56Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMtm9puWcAAhwvJ.jpg",
+      "https://pbs.twimg.com/media/HMtnjzTXUAAa9x8.jpg"
+    ],
+    "author": {
+      "name": "@marmaduke091",
+      "link": "https://x.com/marmaduke091"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 17,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074866077499105416",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 4,
+      "replyCount": 4,
+      "likeCount": 37,
+      "quoteCount": 0,
+      "viewCount": 2477,
+      "bookmarkCount": 11
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 16,
+          "title": "Technical Drawing",
+          "slug": "technical-drawing"
+        }
+      ],
+      "styles": [
+        {
+          "id": 42,
+          "title": "Technical Blueprint",
+          "slug": "technical-blueprint"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 52,
+          "title": "Vehicle",
+          "slug": "vehicle"
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "model": "seedream-5-pro",
+    "title": "Outdoor editorial action poster template",
+    "description": "A reusable commercial poster skill from a public Dreamina post, rewritten as a parameterized prompt with Raycast-style arguments.",
+    "content": "Create a {argument name=\"aspect_ratio\" default=\"16:9\"} full-bleed editorial action poster for {argument name=\"brand\" default=\"a fictional outdoor brand\"}. Put a bright outdoor photograph under hard midday sun behind huge warm-cream condensed block lettering that reads {argument name=\"main_text\" default=\"MOVE FAST\"}. Let {argument name=\"subject\" default=\"a runner\"} cut diagonally across the type while holding {argument name=\"product\" default=\"a lightweight action camera\"}. Add compact white microcopy, small rules, bottom info clusters, crisp shadows, print grain, one vivid accent color on the hero prop, and no real logos, QR codes, watermarks, or 3D-render styling.",
+    "sourceLink": "https://x.com/AI__TSUBAKI/status/2075128188964159539",
+    "sourcePublishedAt": "2026-07-09T08:01:28Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMxUBJqagAE3eKK.jpg"
+    ],
+    "author": {
+      "name": "@AI__TSUBAKI",
+      "link": "https://x.com/AI__TSUBAKI"
+    },
+    "language": "en",
+    "featured": true,
+    "sort": 18,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075128188964159539",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 4,
+      "likeCount": 9,
+      "quoteCount": 0,
+      "viewCount": 383,
+      "bookmarkCount": 10
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 15,
+          "title": "Product Campaign",
+          "slug": "product-campaign"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "model": "seedream-5-pro",
+    "title": "Flat-pack assembly guide stress test",
+    "description": "A layout prompt normalized from a public IKEA-style Seedream 5 Pro test, useful for instruction diagrams and procedural clarity.",
+    "content": "Generate an IKEA-style flat-pack assembly guide for a compact modular side table. Show numbered steps, simplified line drawings, screws, dowels, panels, arrows, hand-tool icons, and a final assembled object. Keep the page clean, grayscale, realistic enough to be useful, and structured so each part and action is legible at a glance.",
+    "sourceLink": "https://x.com/al_tools43377/status/2074971603054502365",
+    "sourcePublishedAt": "2026-07-08T21:39:15Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMvHhyFXMAASna0.jpg",
+      "https://pbs.twimg.com/media/HMvHhyGXMAA7mA7.jpg"
+    ],
+    "author": {
+      "name": "@al_tools43377",
+      "link": "https://x.com/al_tools43377"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 19,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074971603054502365",
+      "prompt_source": "normalized_from_keyword_related_tweet",
+      "retweetCount": 21,
+      "replyCount": 12,
+      "likeCount": 22,
+      "quoteCount": 0,
+      "viewCount": 3433,
+      "bookmarkCount": 1
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 16,
+          "title": "Technical Drawing",
+          "slug": "technical-drawing"
+        }
+      ],
+      "styles": [
+        {
+          "id": 42,
+          "title": "Technical Blueprint",
+          "slug": "technical-blueprint"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "model": "seedream-5-pro",
+    "title": "Baklava recipe infographic",
+    "description": "A food infographic prompt normalized from a public Dreamina Seedream 5 Pro post, aimed at readable text, recipe structure, and illustrated steps.",
+    "content": "Design a 4K food infographic explaining how to make baklava. Arrange ingredients, syrup ratios, layering steps, baking time, cutting pattern, and serving tips into clear panels. Use warm pastry colors, honey highlights, pistachio green accents, readable headings, small icons, and tidy recipe typography without fake brand marks.",
+    "sourceLink": "https://x.com/ahmetmertugrul/status/2074914214074872162",
+    "sourcePublishedAt": "2026-07-08T17:51:13Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMuSugKWcAAMV7b.jpg",
+      "https://pbs.twimg.com/media/HMuS1dHW0AALW6h.jpg",
+      "https://pbs.twimg.com/media/HMuS1dGWMAEr0ES.jpg",
+      "https://pbs.twimg.com/media/HMuS1dWXoAAhxVC.jpg"
+    ],
+    "author": {
+      "name": "@ahmetmertugrul",
+      "link": "https://x.com/ahmetmertugrul"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 20,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074914214074872162",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 109,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 53,
+          "title": "Food & Recipe",
+          "slug": "food-recipe"
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "model": "seedream-5-pro",
+    "title": "Marked-up living room redesign",
+    "description": "A precision-editing workflow normalized from a public Seedream 5 Pro interior-design post, for maintaining realism while applying clear edit notes.",
+    "content": "Use the uploaded living-room image and follow the markup notes only where indicated. Replace the sofa, update curtains, adjust flooring, add warmer practical lighting, and introduce a few modern decor objects while preserving camera angle, windows, walls, room scale, and believable shadows. Keep the final image cohesive, realistic, and not over-styled.",
+    "sourceLink": "https://x.com/ZariaTechAI/status/2074909390650634560",
+    "sourcePublishedAt": "2026-07-08T17:32:03Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMuPFaLbEAABEgV.jpg",
+      "https://pbs.twimg.com/media/HMuPF4kaIAAauHI.jpg"
+    ],
+    "author": {
+      "name": "@ZariaTechAI",
+      "link": "https://x.com/ZariaTechAI"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 21,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074909390650634560",
+      "prompt_source": "normalized_from_keyword_related_tweet",
+      "retweetCount": 12,
+      "replyCount": 10,
+      "likeCount": 12,
+      "quoteCount": 0,
+      "viewCount": 2699,
+      "bookmarkCount": 10
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 18,
+          "title": "Precision Editing",
+          "slug": "precision-editing"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 54,
+          "title": "Interior Space",
+          "slug": "interior-space"
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "model": "seedream-5-pro",
+    "title": "Sketch-to-polished product visual edit",
+    "description": "A Dreamina capability workflow normalized from CapCut’s Seedream 5.0 Pro announcement, focused on pixel-level edits, recolor, sketch refinement, and multi-image blending.",
+    "content": "Start from a rough product sketch or reference collage. Preserve the original silhouette and intent, then turn it into a polished commercial product visual with clean contours, realistic materials, consistent recoloring, and a simple studio background. Blend any supplied references naturally, edit only the marked regions, and keep unmarked areas stable.",
+    "sourceLink": "https://x.com/capcutapp/status/2075230628786970765",
+    "sourcePublishedAt": "2026-07-09T14:48:32Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2075228737575272448/img/Uu4Tti5yl-rohB7a.jpg"
+    ],
+    "author": {
+      "name": "@capcutapp",
+      "link": "https://x.com/capcutapp"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 22,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075230628786970765",
+      "prompt_source": "normalized_from_keyword_related_tweet",
+      "retweetCount": 4,
+      "replyCount": 9,
+      "likeCount": 23,
+      "quoteCount": 1,
+      "viewCount": 1097,
+      "bookmarkCount": 3
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 18,
+          "title": "Precision Editing",
+          "slug": "precision-editing"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "model": "seedream-5-pro",
+    "title": "Region-precise product poster edit",
+    "description": "A fal announcement workflow normalized into a reusable production prompt for changing one element while preserving the rest of a layout.",
+    "content": "Use the existing poster or product mockup as the base. Change only the selected region: replace the hero product color with a new seasonal palette, update the headline language, and leave background composition, shadows, layout spacing, typography style, and surrounding props untouched. Preserve production-ready detail and legible in-image text.",
+    "sourceLink": "https://x.com/fal/status/2074846830198722944",
+    "sourcePublishedAt": "2026-07-08T13:23:27Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/ext_tw_video_thumb/2074846795377565696/pu/img/TxWQhus9fd-LuXO2.jpg"
+    ],
+    "author": {
+      "name": "@fal",
+      "link": "https://x.com/fal"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 23,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074846830198722944",
+      "prompt_source": "normalized_from_keyword_related_tweet",
+      "retweetCount": 34,
+      "replyCount": 13,
+      "likeCount": 298,
+      "quoteCount": 6,
+      "viewCount": 27770,
+      "bookmarkCount": 141
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 18,
+          "title": "Precision Editing",
+          "slug": "precision-editing"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "model": "seedream-5-pro",
+    "title": "Ten-reference brand moodboard fusion",
+    "description": "A Krea workflow normalized into a Seedream 5 Pro multi-reference prompt skill for brand-consistent image creation.",
+    "content": "Use up to ten reference images as a brand moodboard: product form, color palette, fabric texture, lighting, background architecture, model pose, typography feel, campaign tone, packaging finish, and negative examples. Generate one coherent hero image that merges those references without collage artifacts. Keep the final asset clean, realistic, brand-safe, and directly usable in a campaign.",
+    "sourceLink": "https://x.com/krea_ai/status/2074891481832456638",
+    "sourcePublishedAt": "2026-07-08T16:20:53Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2074890722336178177/img/jgoQSoL0vgu3NWqm.jpg"
+    ],
+    "author": {
+      "name": "@krea_ai",
+      "link": "https://x.com/krea_ai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 24,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074891481832456638",
+      "prompt_source": "normalized_from_keyword_related_tweet",
+      "retweetCount": 25,
+      "replyCount": 21,
+      "likeCount": 401,
+      "quoteCount": 5,
+      "viewCount": 28542,
+      "bookmarkCount": 122
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "model": "seedream-5-pro",
+    "title": "Enterprise visual asset production brief",
+    "description": "A BytePlus announcement normalized into a broad prompt framework for production-ready enterprise visuals across editing, information graphics, realism, and multilingual output.",
+    "content": "Create a production-ready enterprise visual asset for {argument name=\"industry\" default=\"global logistics\"}. The image must combine realistic subject matter, clear information hierarchy, localized headline text, and one precise edited element requested by the art director. Keep the style polished enough for a campaign landing page, with readable annotations, consistent brand colors, and no hallucinated logos.",
+    "sourceLink": "https://x.com/BytePlusGlobal/status/2074851378879668708",
+    "sourcePublishedAt": "2026-07-08T13:41:32Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2074850963991748608/img/BUqDTNDYcIimKWcH.jpg"
+    ],
+    "author": {
+      "name": "@BytePlusGlobal",
+      "link": "https://x.com/BytePlusGlobal"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 25,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074851378879668708",
+      "prompt_source": "normalized_from_keyword_related_tweet",
+      "retweetCount": 369,
+      "replyCount": 183,
+      "likeCount": 1486,
+      "quoteCount": 385,
+      "viewCount": 1275941,
+      "bookmarkCount": 905
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "model": "seedream-5-pro",
+    "title": "Fourteen-language infographic campaign",
+    "description": "A Magnific availability post normalized into a multilingual infographic prompt for testing native text rendering and design consistency.",
+    "content": "Create the same clean campaign infographic in 14 language variants. Keep the layout, icon grid, color palette, spacing, and hierarchy identical while changing only the headline, labels, and call-to-action text. Use short safety, product, or education copy with correct script rendering, readable typography, and no decorative gibberish.",
+    "sourceLink": "https://x.com/magnific/status/2074843521853636609",
+    "sourcePublishedAt": "2026-07-08T13:10:18Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2074843456372166656/img/HbQ47LaowF2sv_y_.jpg"
+    ],
+    "author": {
+      "name": "@magnific",
+      "link": "https://x.com/magnific"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 26,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074843521853636609",
+      "prompt_source": "normalized_from_keyword_related_tweet",
+      "retweetCount": 49,
+      "replyCount": 31,
+      "likeCount": 432,
+      "quoteCount": 14,
+      "viewCount": 65751,
+      "bookmarkCount": 197
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 19,
+          "title": "Multilingual Poster",
+          "slug": "multilingual-poster"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 56,
+          "title": "Multilingual Text",
+          "slug": "multilingual-text"
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "model": "seedream-5-pro",
+    "title": "Five-language safety poster set",
+    "description": "A multilingual text-rendering test normalized from a public BytePlus Seedream 5.0 Pro post about same-layout posters in multiple scripts.",
+    "content": "Design a workplace safety poster template, then render it in five languages while preserving the same layout. Use one central warning icon, three short rules, a footer callout, high-contrast color, and clean sans-serif typography. Prioritize script correctness, spacing, and readable labels over decorative complexity.",
+    "sourceLink": "https://x.com/Echoes999Y/status/2074870172230484301",
+    "sourcePublishedAt": "2026-07-08T14:56:12Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMtrayTWsAANC3u.jpg"
+    ],
+    "author": {
+      "name": "@Echoes999Y",
+      "link": "https://x.com/Echoes999Y"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 27,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074870172230484301",
+      "prompt_source": "normalized_from_keyword_related_tweet",
+      "retweetCount": 133,
+      "replyCount": 5,
+      "likeCount": 127,
+      "quoteCount": 0,
+      "viewCount": 6618,
+      "bookmarkCount": 3
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 19,
+          "title": "Multilingual Poster",
+          "slug": "multilingual-poster"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 56,
+          "title": "Multilingual Text",
+          "slug": "multilingual-text"
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "model": "seedream-5-pro",
+    "title": "Labeled architecture concept board",
+    "description": "An architecture/interior labeling workflow normalized from a public Seedream 5.0 Pro post, aimed at client-ready dense annotations.",
+    "content": "Create a client-facing architecture concept board for a warm modern interior. Combine a central perspective render with dense but readable labels, material callouts, lighting notes, floor-plan snippets, elevation marks, furniture tags, and measurement guides. Keep the drawing conventions professional and the labels aligned to a clean grid.",
+    "sourceLink": "https://x.com/irdh34/status/2074910474609566115",
+    "sourcePublishedAt": "2026-07-08T17:36:21Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMuQEwNbcAAnL_y.jpg"
+    ],
+    "author": {
+      "name": "@irdh34",
+      "link": "https://x.com/irdh34"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 28,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074910474609566115",
+      "prompt_source": "normalized_from_keyword_related_tweet",
+      "retweetCount": 107,
+      "replyCount": 6,
+      "likeCount": 113,
+      "quoteCount": 0,
+      "viewCount": 9820,
+      "bookmarkCount": 3
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 20,
+          "title": "Architecture & Interior",
+          "slug": "architecture-interior"
+        }
+      ],
+      "styles": [
+        {
+          "id": 42,
+          "title": "Technical Blueprint",
+          "slug": "technical-blueprint"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 55,
+          "title": "Architecture",
+          "slug": "architecture"
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "model": "seedream-5-pro",
+    "title": "1960s Havana documentary video seed",
+    "description": "A Seedream + Seedance workflow normalized from a public Magnific thread, designed to create a still image that can be animated into documentary footage.",
+    "content": "Generate a realistic 1960s Havana documentary still as the first frame for video. Use natural imperfections, handheld street photography, period cars, sun-worn facades, varied faces, humid air, imperfect clothing, and archival film texture. Avoid modern objects, glossy fashion styling, duplicated faces, and over-clean AI skin. Leave enough motion cues for Seedance-style documentary animation.",
+    "sourceLink": "https://x.com/techhalla/status/2075170093626011858",
+    "sourcePublishedAt": "2026-07-09T10:47:59Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/amplify_video_thumb/2075167807415767040/img/dJKGm7JtAkTHw1p2.jpg"
+    ],
+    "author": {
+      "name": "@techhalla",
+      "link": "https://x.com/techhalla"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 29,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075170093626011858",
+      "prompt_source": "normalized_from_keyword_related_tweet",
+      "retweetCount": 5,
+      "replyCount": 16,
+      "likeCount": 77,
+      "quoteCount": 0,
+      "viewCount": 5755,
+      "bookmarkCount": 64
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 25,
+          "title": "Storyboard / Video Pipeline",
+          "slug": "storyboard-video-pipeline"
+        }
+      ],
+      "styles": [
+        {
+          "id": 46,
+          "title": "Documentary Realism",
+          "slug": "documentary-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 58,
+          "title": "Historical Scene",
+          "slug": "historical-scene"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "model": "seedream-5-pro",
+    "title": "San Francisco sunset phone candid",
+    "description": "A simple benchmark prompt normalized from a public Seedream 5.0 Pro test, useful for everyday realism and sunset phone-light handling.",
+    "content": "Create a candid street photo of a Korean woman in her twenties using her phone in San Francisco at sunset. Keep the composition natural, with warm side light, believable city background blur, relaxed posture, real skin texture, and the casual imperfection of a quick everyday snapshot rather than a studio portrait.",
+    "sourceLink": "https://x.com/mattworkman/status/2074850550349222210",
+    "sourcePublishedAt": "2026-07-08T13:38:14Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMtZW-oWcAAFcs5.jpg"
+    ],
+    "author": {
+      "name": "@mattworkman",
+      "link": "https://x.com/mattworkman"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 30,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2074850550349222210",
+      "prompt_source": "rewritten_from_tweet_text",
+      "retweetCount": 2,
+      "replyCount": 1,
+      "likeCount": 18,
+      "quoteCount": 0,
+      "viewCount": 2255,
+      "bookmarkCount": 9
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "model": "seedream-5-pro",
+    "title": "Landing page style-transfer mockup",
+    "description": "A UI/product mockup workflow normalized from Open Design’s Seedream 5 Pro template thread.",
+    "content": "Create a landing-page hero mockup by transferring a supplied visual style into a new product page. Preserve the reference palette, spacing rhythm, and visual density, but invent a fresh layout with a clear product screenshot area, headline, supporting copy blocks, CTA zone, and background image treatment. Keep it polished, commercial, and ready for design review.",
+    "sourceLink": "https://x.com/OpenDesignHQ/status/2075191289750937758",
+    "sourcePublishedAt": "2026-07-09T12:12:13Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMyOGJJWoAAbEAt.png",
+      "https://pbs.twimg.com/media/HMyOILdXoAASHBR.png",
+      "https://pbs.twimg.com/media/HMyOKH5X0AAZ0JC.png",
+      "https://pbs.twimg.com/media/HMyOMD4XoAAFtBI.png"
+    ],
+    "author": {
+      "name": "@OpenDesignHQ",
+      "link": "https://x.com/OpenDesignHQ"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 31,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075191289750937758",
+      "prompt_source": "normalized_from_keyword_related_tweet",
+      "retweetCount": 1,
+      "replyCount": 1,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 247,
+      "bookmarkCount": 1
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 26,
+          "title": "UI / Product Mockup",
+          "slug": "ui-product-mockup"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 59,
+          "title": "Marketing Layout",
+          "slug": "marketing-layout"
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "model": "seedream-5-pro",
+    "title": "Kids product ad poster",
+    "description": "A product-ad poster workflow normalized from Open Design’s Seedream 5 Pro prompt-template examples.",
+    "content": "Design a playful kids product ad poster with one hero toy or snack pack, bright friendly color, soft rounded shapes, clean shelf-ready lighting, short readable headline, small feature bubbles, and a safe cheerful background. Make it commercial and polished without using real brand logos.",
+    "sourceLink": "https://x.com/OpenDesignHQ/status/2075191295476105374",
+    "sourcePublishedAt": "2026-07-09T12:12:14Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMyOy6mWoAA1J1M.jpg"
+    ],
+    "author": {
+      "name": "@OpenDesignHQ",
+      "link": "https://x.com/OpenDesignHQ"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 32,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075191295476105374",
+      "prompt_source": "normalized_from_keyword_related_tweet",
+      "retweetCount": 0,
+      "replyCount": 2,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 258,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 15,
+          "title": "Product Campaign",
+          "slug": "product-campaign"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "model": "seedream-5-pro",
+    "title": "High-fashion full-body portrait template",
+    "description": "A fashion portrait workflow normalized from Open Design’s Seedream 5 Pro prompt-template examples.",
+    "content": "Create a high-fashion full-body portrait on a minimal editorial set. Use dramatic posture, couture silhouette, controlled studio lighting, crisp fabric texture, visible footwear, balanced negative space, and a magazine-ready finish. Keep the figure readable from head to toe and avoid cropped hands or distorted limbs.",
+    "sourceLink": "https://x.com/OpenDesignHQ/status/2075191300366733710",
+    "sourcePublishedAt": "2026-07-09T12:12:15Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HMyPFZ4WUAAmJIZ.jpg",
+      "https://pbs.twimg.com/media/HMyPH7SWYAEbO_-.jpg",
+      "https://pbs.twimg.com/media/HMyPK6hXwAAaDBJ.jpg"
+    ],
+    "author": {
+      "name": "@OpenDesignHQ",
+      "link": "https://x.com/OpenDesignHQ"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 33,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075191300366733710",
+      "prompt_source": "normalized_from_keyword_related_tweet",
+      "retweetCount": 0,
+      "replyCount": 2,
+      "likeCount": 4,
+      "quoteCount": 0,
+      "viewCount": 270,
+      "bookmarkCount": 0
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 33,
+          "title": "Fashion Creator",
+          "slug": "fashion-creator"
         }
       ]
     }

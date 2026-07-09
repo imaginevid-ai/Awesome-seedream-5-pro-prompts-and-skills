@@ -113,7 +113,7 @@ function generateCollectionCTA(categories: FilterCategory[], locale: string): st
 
 ${t("galleryFeatures", locale)}
 
-| Feature | ${t("githubReadme", locale)} | ${t("collection", locale)} |
+| ${t("feature", locale)} | ${t("githubReadme", locale)} | ${t("collection", locale)} |
 |---------|--------------|---------------------|
 | ${t("visualLayout", locale)} | ${t("linearList", locale)} | ${t("masonryGrid", locale)} |
 | ${t("search", locale)} | ${t("ctrlFOnly", locale)} | ${t("fullTextSearch", locale)} |
