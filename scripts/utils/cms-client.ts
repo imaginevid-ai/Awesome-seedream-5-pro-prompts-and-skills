@@ -80,6 +80,26 @@ export interface FilterCategory {
   sort?: number | null;
 }
 
+export interface OfficialCaseMedia {
+  label?: string;
+  url: string;
+  height?: number;
+}
+
+export interface OfficialCase {
+  id: number;
+  title: string;
+  media: OfficialCaseMedia[];
+  prompt?: string;
+}
+
+export interface OfficialCaseGroup {
+  slug: string;
+  title: string;
+  description: string;
+  cases: OfficialCase[];
+}
+
 type LocalizedText = string | Record<string, string>;
 
 interface StoredCategory extends Omit<FilterCategory, "title"> {
@@ -157,6 +177,10 @@ export async function fetchPromptCategories(locale = "en"): Promise<{
     allCategories: categories,
     featuredCategories,
   };
+}
+
+export async function fetchOfficialCases(): Promise<OfficialCaseGroup[]> {
+  return readJson<OfficialCaseGroup[]>("data/official-cases.json");
 }
 
 export async function fetchAllPrompts(

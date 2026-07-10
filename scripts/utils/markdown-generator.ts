@@ -1,4 +1,4 @@
-import { Prompt, FilterCategory } from "./cms-client.js";
+import { Prompt, FilterCategory, OfficialCaseGroup, OfficialCase } from "./cms-client.js";
 import { t } from "./i18n.js";
 
 interface SortedPrompts {
@@ -10,6 +10,7 @@ interface SortedPrompts {
     featured: number;
   };
   categories?: FilterCategory[];
+  officialCases?: OfficialCaseGroup[];
 }
 
 export interface WorkflowPromptGroup {
@@ -125,6 +126,7 @@ export function generateMarkdown(data: SortedPrompts, total: number, locale = "e
   md += generateCollectionCTA(categories || [], locale);
   md += generateTOC(locale);
   md += generateModelIntroduction(locale);
+  md += generateOfficialCasesSection(data.officialCases || []);
   md += generateStats(stats, locale);
   md += generateFeaturedSection(featured, locale);
   md += generateAllPromptsSection(
@@ -306,7 +308,8 @@ function generatePromptSection(
 
 function generateFeaturedSection(featured: Prompt[], locale: string): string {
   if (featured.length === 0) return "";
-  let md = `## ${t("featuredPrompts", locale)}\n\n`;
+  let md = `<a id="community-featured-prompts"></a>\n\n`;
+  md += `## ${communityFeaturedTitle(locale)}\n\n`;
   md += `> ${t("handPicked", locale)}\n\n`;
   featured.forEach((prompt, index) => {
     md += generatePromptSection(prompt, index, locale);
@@ -321,8 +324,9 @@ function generateAllPromptsSection(
   locale: string
 ): string {
   if (categorizedPrompts.length === 0 && hiddenCount === 0) return "";
-  let md = `## ${t("allPrompts", locale)}\n\n`;
-  md += `> ${t("sortedByDate", locale)}\n\n`;
+  let md = `<a id="community-prompt-cases"></a>\n\n`;
+  md += `## ${communityCasesTitle(locale)}\n\n`;
+  md += `> Twitter/X-sourced community prompt cases, ${t("sortedByDate", locale).toLowerCase()}.\n\n`;
   const groups = groupPromptsByWorkflow(categorizedPrompts, categories);
   let promptIndex = 0;
 
@@ -332,7 +336,7 @@ function generateAllPromptsSection(
     md += `${workflowDescription(group.category.slug, locale)}\n\n`;
     const featuredPrompts = group.prompts.filter((prompt) => prompt.featured);
     if (featuredPrompts.length > 0) {
-      md += `**${t("featuredPrompts", locale)}**\n\n`;
+      md += `**${communityFeaturedTitle(locale)}**\n\n`;
       for (const prompt of featuredPrompts) {
         md += `- [${prompt.title}](#prompt-${prompt.id})\n`;
       }
@@ -355,6 +359,16 @@ function generateAllPromptsSection(
   }
 
   return md;
+}
+
+function communityFeaturedTitle(locale: string): string {
+  return locale === "en"
+    ? "Featured Community Prompts"
+    : `Community · ${t("featuredPrompts", locale)}`;
+}
+
+function communityCasesTitle(locale: string): string {
+  return locale === "en" ? "Community Prompt Cases" : `Community · ${t("allPrompts", locale)}`;
 }
 
 function workflowDescription(slug: string, locale: string): string {
@@ -423,9 +437,10 @@ function generateTOC(locale: string): string {
 
 - [${t("viewInGallery", locale)}](#${anchor(t("viewInGallery", locale))})
 - [${t("whatIs", locale)}](#${anchor(t("whatIs", locale))})
+- [Official Capability Cases](#official-capability-cases)
 - [${t("stats", locale)}](#${anchor(t("stats", locale))})
-- [${t("featuredPrompts", locale)}](#${anchor(t("featuredPrompts", locale))})
-- [${t("allPrompts", locale)}](#${anchor(t("allPrompts", locale))})
+- [${communityFeaturedTitle(locale)}](#community-featured-prompts)
+- [${communityCasesTitle(locale)}](#community-prompt-cases)
 - [${t("howToContribute", locale)}](#${anchor(t("howToContribute", locale))})
 - [${t("license", locale)}](#${anchor(t("license", locale))})
 - [${t("acknowledgements", locale)}](#${anchor(t("acknowledgements", locale))})
@@ -434,6 +449,52 @@ function generateTOC(locale: string): string {
 ---
 
 `;
+}
+
+function generateOfficialCasesSection(groups: OfficialCaseGroup[]): string {
+  if (groups.length === 0) return "";
+
+  let md = `<a id="official-capability-cases"></a>\n\n`;
+  md += `## Official Capability Cases\n\n`;
+  md += `> Source-backed launch examples from the official ByteDance Seed release and Volcengine ModelArk documentation. The Twitter/X entries below are treated separately as community prompt cases.\n\n`;
+  md += `**Official sources:** [ByteDance Seed release](https://seed.bytedance.com/zh/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro) · [Volcengine ModelArk tutorial](https://www.volcengine.com/docs/82379/1824121)\n\n`;
+
+  for (const group of groups) {
+    md += `<a id="official-${group.slug}"></a>\n\n`;
+    md += `### ${group.title}\n\n`;
+    md += `${group.description}\n\n`;
+
+    for (const officialCase of group.cases) {
+      md += generateOfficialCase(officialCase);
+    }
+  }
+
+  return md;
+}
+
+function generateOfficialCase(officialCase: OfficialCase): string {
+  let md = `<a id="official-case-${officialCase.id}"></a>\n\n`;
+  md += `#### Case ${officialCase.id}: ${officialCase.title}\n\n`;
+
+  if (officialCase.media.length === 1) {
+    const media = officialCase.media[0];
+    md += `<img src="${escapeAttribute(media.url)}" height="${media.height || 420}" alt="${escapeAttribute(officialCase.title)}">\n\n`;
+  } else {
+    const cellWidth = `${Math.floor(100 / officialCase.media.length)}%`;
+    const cells = officialCase.media
+      .map((media) => {
+        const label = media.label ? `\n\n**${media.label}:**\n\n` : "\n\n";
+        return `<td width="${cellWidth}" valign="top">${label}<img src="${escapeAttribute(media.url)}" height="${media.height || 300}" alt="${escapeAttribute(`${officialCase.title} ${media.label || "media"}`)}">\n\n</td>`;
+      })
+      .join("\n");
+    md += `<table>\n<tr>\n${cells}\n</tr>\n</table>\n\n`;
+  }
+
+  if (officialCase.prompt) {
+    md += `**Prompt:**\n\n\`\`\`\n${officialCase.prompt}\n\`\`\`\n\n`;
+  }
+
+  return `${md}---\n\n`;
 }
 
 export function generateMediaTable(images: string[], title: string): string {

@@ -13,6 +13,7 @@ const __dirname = path.dirname(__filename);
 const ROOT_DIR = path.resolve(__dirname, "..");
 const PROMPTS_PATH = path.join(ROOT_DIR, "data/prompts.json");
 const CATEGORIES_PATH = path.join(ROOT_DIR, "data/categories.json");
+const OFFICIAL_CASES_PATH = path.join(ROOT_DIR, "data/official-cases.json");
 
 type LocalizedText = string | Record<string, string>;
 
@@ -54,6 +55,21 @@ interface StoredCategory {
   id: number;
   slug: string;
   parentSlug?: string | null;
+}
+
+interface StoredOfficialCaseGroup {
+  slug: string;
+  title: string;
+  cases: Array<{
+    id: number;
+    title: string;
+    media: Array<{
+      url: string;
+      label?: string;
+      height?: number;
+    }>;
+    prompt?: string;
+  }>;
 }
 
 interface MediaAsset {
@@ -115,7 +131,8 @@ function findDuplicates(
 
 function validateStructuralDuplicates(
   prompts: StoredPrompt[],
-  categories: StoredCategory[]
+  categories: StoredCategory[],
+  officialCaseGroups: StoredOfficialCaseGroup[]
 ): string[] {
   const errors = [
     ...findDuplicates(prompts, "ID", (prompt) => String(prompt.id)),
@@ -174,6 +191,37 @@ function validateStructuralDuplicates(
     if (uniqueIds.length > 1) {
       errors.push(`Media URL: prompts ${uniqueIds.join(", ")} share ${JSON.stringify(url)}`);
     }
+  }
+
+  const officialCaseIds = new Set<number>();
+  for (const group of officialCaseGroups) {
+    if (!group.slug || !group.title || !group.cases.length) {
+      errors.push(`Official cases: group ${group.slug || "(missing slug)"} is incomplete`);
+    }
+
+    for (const officialCase of group.cases) {
+      if (officialCaseIds.has(officialCase.id)) {
+        errors.push(`Official cases: duplicate case id ${officialCase.id}`);
+      }
+      officialCaseIds.add(officialCase.id);
+
+      if (!officialCase.title || !officialCase.media.length) {
+        errors.push(`Official cases: case ${officialCase.id} is missing title or media`);
+      }
+
+      for (const media of officialCase.media) {
+        const mediaPath = path.join(ROOT_DIR, media.url);
+        if (!media.url.startsWith("public/official-cases/")) {
+          errors.push(`Official cases: case ${officialCase.id} must use public/official-cases media`);
+        } else if (!fs.existsSync(mediaPath) || fs.statSync(mediaPath).size === 0) {
+          errors.push(`Official cases: case ${officialCase.id} media is missing or empty`);
+        }
+      }
+    }
+  }
+
+  if (officialCaseIds.size !== 25) {
+    errors.push(`Official cases: expected 25 cases, found ${officialCaseIds.size}`);
   }
 
   const promptEntries = prompts.flatMap((prompt) => [
@@ -344,7 +392,10 @@ async function main(): Promise<void> {
   const categories = JSON.parse(
     fs.readFileSync(CATEGORIES_PATH, "utf8")
   ) as StoredCategory[];
-  const errors = validateStructuralDuplicates(prompts, categories);
+  const officialCaseGroups = JSON.parse(
+    fs.readFileSync(OFFICIAL_CASES_PATH, "utf8")
+  ) as StoredOfficialCaseGroup[];
+  const errors = validateStructuralDuplicates(prompts, categories, officialCaseGroups);
 
   if (process.argv.includes("--media")) {
     errors.push(...(await findVisualDuplicates(prompts)));

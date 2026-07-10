@@ -3,6 +3,7 @@ import {
   fetchAllPrompts,
   sortPrompts,
   fetchPromptCategories,
+  fetchOfficialCases,
 } from "./utils/cms-client.js";
 import {
   generateMarkdown,
@@ -19,6 +20,8 @@ async function main() {
       const { allCategories } = await fetchPromptCategories(lang.code);
       console.log(`  ✅ Fetched ${allCategories.length} categories`);
 
+      const officialCases = await fetchOfficialCases();
+
       console.log(`  📥 Loading prompts from local data (locale: ${lang.code})...`);
       const { docs: prompts, total } = await fetchAllPrompts(
         lang.code,
@@ -32,7 +35,7 @@ async function main() {
 
       console.log("  📝 Generating README...");
       const markdown = generateMarkdown(
-        { ...sorted, categories: allCategories },
+        { ...sorted, categories: allCategories, officialCases },
         total,
         lang.code
       );

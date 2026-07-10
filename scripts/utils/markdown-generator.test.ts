@@ -2,6 +2,7 @@ import assert from "node:assert/strict";
 import test from "node:test";
 import type { Prompt, FilterCategory } from "./cms-client.js";
 import {
+  generateMarkdown,
   generateMediaTable,
   generateAnimationPreview,
   generateModelIntroduction,
@@ -10,6 +11,68 @@ import {
   groupPromptsByWorkflow,
   SUPPORTED_LANGUAGES,
 } from "./markdown-generator.js";
+
+test("renders official cases separately from community prompt cases", () => {
+  const markdown = generateMarkdown(
+    {
+      all: [],
+      featured: [],
+      regular: [
+        {
+          id: 101,
+          title: "Community test prompt",
+          description: "A community sourced prompt.",
+          content: "Create a clean product image.",
+          sourcePublishedAt: "2026-07-08T00:00:00Z",
+          sourceMedia: ["https://pbs.twimg.com/media/example.jpg"],
+          author: { name: "@creator", link: "https://x.com/creator" },
+          language: "en",
+          imageCategories: {
+            workflows: [
+              {
+                id: 61,
+                title: "Directed Editing & Input Control",
+                slug: "directed-editing-input-control",
+              },
+            ],
+          },
+        } as Prompt,
+      ],
+      stats: { total: 1, featured: 0 },
+      categories: [
+        {
+          id: 61,
+          title: "Directed Editing & Input Control",
+          slug: "directed-editing-input-control",
+          parentSlug: "workflow-groups",
+          sort: 61,
+        },
+      ],
+      officialCases: [
+        {
+          slug: "interaction-control",
+          title: "Interaction Control",
+          description: "Precise control cases.",
+          cases: [
+            {
+              id: 1,
+              title: "Box selection",
+              media: [{ url: "public/official-cases/case-01.gif", height: 420 }],
+              prompt: "Use the red box as the edit target.",
+            },
+          ],
+        },
+      ],
+    },
+    0,
+    "en"
+  );
+
+  assert.match(markdown, /## Official Capability Cases/);
+  assert.match(markdown, /#### Case 1: Box selection/);
+  assert.match(markdown, /## Community Prompt Cases/);
+  assert.ok(markdown.indexOf("Official Capability Cases") < markdown.indexOf("Community Prompt Cases"));
+});
 
 test("renders multiple prompt images in a single parallel table row", () => {
   const markdown = generateMediaTable(

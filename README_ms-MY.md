@@ -55,9 +55,10 @@ Mengapa gunakan koleksi ini?
 
 - [Lihat Koleksi Pilihan](#lihat-koleksi-pilihan)
 - [Apakah Seedream 5 Pro?](#apakah-seedream-5-pro)
+- [Official Capability Cases](#official-capability-cases)
 - [Statistik](#statistik)
-- [Prompt Pilihan](#prompt-pilihan)
-- [Semua Prompt](#semua-prompt)
+- [Community · Prompt Pilihan](#community-featured-prompts)
+- [Community · Semua Prompt](#community-prompt-cases)
 - [Cara Menyumbang](#cara-menyumbang)
 - [Lesen](#lesen)
 - [Penghargaan](#penghargaan)
@@ -91,21 +92,331 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 
 ---
 
+<a id="official-capability-cases"></a>
+
+## Official Capability Cases
+
+> Source-backed launch examples from the official ByteDance Seed release and Volcengine ModelArk documentation. The Twitter/X entries below are treated separately as community prompt cases.
+
+**Official sources:** [ByteDance Seed release](https://seed.bytedance.com/zh/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro) · [Volcengine ModelArk tutorial](https://www.volcengine.com/docs/82379/1824121)
+
+<a id="official-interaction-control"></a>
+
+### Interaction Control
+
+Use boxes, arrows, annotation marks, or coordinates to specify the target region.
+
+<a id="official-case-1"></a>
+
+#### Case 1: Arrows and annotation boxes for spatial intent
+
+<img src="public/official-cases/case-01-arrows-annotation-boxes.gif" height="420" alt="Arrows and annotation boxes for spatial intent">
+
+---
+
+<a id="official-case-2"></a>
+
+#### Case 2: Region-box object description for targeted editing
+
+<img src="public/official-cases/case-02-region-box-object-description.gif" height="420" alt="Region-box object description for targeted editing">
+
+**Prompt:**
+
+```
+Red box: A huge blue-furred head with a ferocious squished expression, gazing at the bubble ahead. Green box: A transparent bubble reflecting the indoor lights. Yellow box: A large warm gray-beige yarn ball. Blue box: A stack of building blocks including a warm dark gray arch, a warm light gray half-cylinder, a lake blue cylinder, a deep lake blue ramp, and a cobalt blue half-disc. Purple box: A grass green tasseled blanket draped over the sofa.
+```
+
+---
+
+<a id="official-sketch-editing"></a>
+
+### Sketch Editing
+
+Use doodles, color blocks, lines, or rough sketches as visual guidance.
+
+<a id="official-case-3"></a>
+
+#### Case 3: Doodle-guided object generation
+
+<img src="public/official-cases/case-03-doodle-guided-object-generation.gif" height="420" alt="Doodle-guided object generation">
+
+---
+
+<a id="official-case-4"></a>
+
+#### Case 4: Color-block guided editing
+
+<img src="public/official-cases/case-04-color-block-guided-editing.gif" height="420" alt="Color-block guided editing">
+
+---
+
+<a id="official-case-5"></a>
+
+#### Case 5: Line-guided detail editing
+
+<img src="public/official-cases/case-05-line-guided-detail-editing.gif" height="420" alt="Line-guided detail editing">
+
+---
+
+<a id="official-case-6"></a>
+
+#### Case 6: Simple sketch to refined image
+
+<img src="public/official-cases/case-06-simple-sketch-to-refined-image.gif" height="420" alt="Simple sketch to refined image">
+
+---
+
+<a id="official-layer-editing"></a>
+
+### Layer Editing
+
+Edit poster, graphic, text, material, or surface layers while preserving the broader composition.
+
+<a id="official-case-7"></a>
+
+#### Case 7: Poster text and graphic layer edit: Avery Turns
+
+<img src="public/official-cases/case-07-poster-text-graphic-layer-edit.gif" height="420" alt="Poster text and graphic layer edit: Avery Turns">
+
+---
+
+<a id="official-case-8"></a>
+
+#### Case 8: Poster offer layer edit: Happy Hour
+
+<img src="public/official-cases/case-08-poster-offer-layer-edit.gif" height="420" alt="Poster offer layer edit: Happy Hour">
+
+---
+
+<a id="official-case-9"></a>
+
+#### Case 9: Fashion image layer edit inside a design layout
+
+<img src="public/official-cases/case-09-fashion-image-layer-edit.gif" height="420" alt="Fashion image layer edit inside a design layout">
+
+---
+
+<a id="official-case-10"></a>
+
+#### Case 10: Sports poster graphic layer edit
+
+<img src="public/official-cases/case-10-sports-poster-graphic-layer-edit.gif" height="420" alt="Sports poster graphic layer edit">
+
+---
+
+<a id="official-case-11"></a>
+
+#### Case 11: Poster element edit: Public Joy
+
+<img src="public/official-cases/case-11-poster-element-edit.gif" height="420" alt="Poster element edit: Public Joy">
+
+---
+
+<a id="official-case-12"></a>
+
+#### Case 12: Material surface swap with precise texture response
+
+<img src="public/official-cases/case-12-material-surface-swap.gif" height="420" alt="Material surface swap with precise texture response">
+
+---
+
+<a id="official-anchor-position-editing"></a>
+
+### Anchor / Position Editing
+
+Use grid-like anchors or relative positions to move a target precisely.
+
+<a id="official-case-13"></a>
+
+#### Case 13: Grid-position object movement
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Before:**
+
+<img src="public/official-cases/case-13-grid-position-before.png" height="300" alt="Grid-position object movement Before">
+
+</td>
+<td width="50%" valign="top">
+
+**After:**
+
+<img src="public/official-cases/case-13-grid-position-after.png" height="300" alt="Grid-position object movement After">
+
+</td>
+</tr>
+</table>
+
+**Prompt:**
+
+```
+Move the red car in the lower-left corner one grid cell to the right, and move the black pawn in the second column from the left of the black-square position one grid cell downward.
+```
+
+---
+
+<a id="official-layer-separation"></a>
+
+### Layer Separation
+
+Separate foreground, background, and reusable components for downstream editing.
+
+<a id="official-case-14"></a>
+
+#### Case 14: Foreground/person layer separation
+
+<img src="public/official-cases/case-14-layer-separation.png" height="420" alt="Foreground/person layer separation">
+
+---
+
+<a id="official-multi-image-fusion-editing"></a>
+
+### Multi-image Fusion Editing
+
+Combine multiple reference images into one coherent composition under a single instruction.
+
+<a id="official-case-15"></a>
+
+#### Case 15: Seven-reference still-life input/output composition
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Input:**
+
+<img src="public/official-cases/case-15-seven-reference-input.png" height="300" alt="Seven-reference still-life input/output composition Input">
+
+</td>
+<td width="50%" valign="top">
+
+**Output:**
+
+<img src="public/official-cases/case-15-seven-reference-output.png" height="300" alt="Seven-reference still-life input/output composition Output">
+
+</td>
+</tr>
+</table>
+
+**Prompt:**
+
+```
+Precisely cut out the objects from my seven white-background reference photos and arrange them into a realistic still-life photography image according to the specified layout. Make sure the perspective, lighting, and spatial relationships are correct. Faithfully preserve material details such as wood grain, leather, lace, jelly glass, and feathers, creating a high-quality image that feels realistic and playful, with a blend of vintage and modern aesthetics.
+```
+
+---
+
+<a id="official-visual-quality-narrative"></a>
+
+### Visual Quality & Narrative
+
+Group effect samples by cinematic action, animation style, concept art, and game-scene output.
+
+<a id="official-case-16"></a>
+
+#### Case 16: Cinematic tennis glass shatter
+
+<img src="public/official-cases/case-16-cinematic-tennis-glass-shatter.png" height="420" alt="Cinematic tennis glass shatter">
+
+---
+
+<a id="official-case-17"></a>
+
+#### Case 17: Cinematic boxing action
+
+<img src="public/official-cases/case-17-cinematic-boxing-action.png" height="420" alt="Cinematic boxing action">
+
+---
+
+<a id="official-case-18"></a>
+
+#### Case 18: 3D animation style scene
+
+<img src="public/official-cases/case-18-3d-animation-style-scene.png" height="420" alt="3D animation style scene">
+
+---
+
+<a id="official-case-19"></a>
+
+#### Case 19: Visual concept art
+
+<img src="public/official-cases/case-19-visual-concept-art.png" height="420" alt="Visual concept art">
+
+---
+
+<a id="official-case-20"></a>
+
+#### Case 20: Game scene visual
+
+<img src="public/official-cases/case-20-game-scene-visual.png" height="420" alt="Game scene visual">
+
+---
+
+<a id="official-multilingual-text-rendering"></a>
+
+### Multilingual Text Rendering
+
+Group multilingual samples by rendered language and local-text use case.
+
+<a id="official-case-21"></a>
+
+#### Case 21: Arabic and English welcome sign
+
+<img src="public/official-cases/case-21-arabic-english-welcome-sign.png" height="420" alt="Arabic and English welcome sign">
+
+---
+
+<a id="official-case-22"></a>
+
+#### Case 22: Korean open-24-hours sign
+
+<img src="public/official-cases/case-22-korean-open-24-hours-sign.png" height="420" alt="Korean open-24-hours sign">
+
+---
+
+<a id="official-case-23"></a>
+
+#### Case 23: Thai cleanliness sign
+
+<img src="public/official-cases/case-23-thai-cleanliness-sign.png" height="420" alt="Thai cleanliness sign">
+
+---
+
+<a id="official-case-24"></a>
+
+#### Case 24: French creation poster
+
+<img src="public/official-cases/case-24-french-creation-poster.png" height="420" alt="French creation poster">
+
+---
+
+<a id="official-case-25"></a>
+
+#### Case 25: Russian future poster
+
+<img src="public/official-cases/case-25-russian-future-poster.png" height="420" alt="Russian future poster">
+
+---
+
 ## Statistik
 
 <div align="center">
 
 | Metrik | Bilangan |
 |--------|-------|
-| Jumlah Prompt | **113** |
+| Jumlah Prompt | **108** |
 | Pilihan | **10** |
-| Kemas Kini Terakhir | **Jumaat, 10 Julai 2026 pada 7:30:59 PG UTC** |
+| Kemas Kini Terakhir | **Jumaat, 10 Julai 2026 pada 8:26:56 PG UTC** |
 
 </div>
 
 ---
 
-## Prompt Pilihan
+<a id="community-featured-prompts"></a>
+
+## Community · Prompt Pilihan
 
 > Hand-picked for reusable structure, visual clarity, and creative range
 
@@ -500,17 +811,19 @@ Generate a localized campaign asset directly in the target language. Respect the
 
 ---
 
-## Semua Prompt
+<a id="community-prompt-cases"></a>
 
-> Sorted by publish date and curation order
+## Community · Semua Prompt
+
+> Twitter/X-sourced community prompt cases, sorted by publish date and curation order.
 
 <a id="workflow-directed-editing-input-control"></a>
 
-### Directed Editing & Input Control (18)
+### Directed Editing & Input Control (15)
 
 Prompts that modify an existing image or use regions, sketches, references, and positional instructions to control the result.
 
-**Prompt Pilihan**
+**Community · Prompt Pilihan**
 
 - [Official precise editing control workflow](#prompt-58)
 
@@ -620,41 +933,9 @@ Start from a rough product sketch or reference collage. Preserve the original si
 
 ---
 
-<a id="prompt-23"></a>
-
-#### No. 4: Region-precise product poster edit
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-##### Penerangan
-
-A fal announcement workflow normalized into a reusable production prompt for changing one element while preserving the rest of a layout.
-
-##### Prompt
-
-```
-Use the existing poster or product mockup as the base. Change only the selected region: replace the hero product color with a new seasonal palette, update the headline language, and leave background composition, shadows, layout spacing, typography style, and surrounding props untouched. Preserve production-ready detail and legible in-image text.
-```
-
-<div align="center">
-<a href="https://video.twimg.com/ext_tw_video/2074846795377565696/pu/vid/avc1/1280x720/kbZa_kGJ93OFLuAc.mp4?tag=12"><img src="public/animations/prompt-23-motion.gif" height="420" alt="Region-precise product poster edit - Motion preview"></a>
-</div>
-
-##### Butiran
-
-- **Pengarang:** [@fal](https://x.com/fal)
-- **Sumber:** [Sumber](https://x.com/fal/status/2074846830198722944)
-- **Diterbitkan:** 8 Julai 2026
-- **Bahasa:** en
-
-**[Gunakan prompt ini · ImagineVid](https://imaginevid.io/seedream-5-pro)**
-
----
-
 <a id="prompt-24"></a>
 
-#### No. 5: Ten-reference brand moodboard fusion
+#### No. 4: Ten-reference brand moodboard fusion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -686,7 +967,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 
 <a id="prompt-47"></a>
 
-#### No. 6: Character silhouette to real pudding edit
+#### No. 5: Character silhouette to real pudding edit
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -723,7 +1004,7 @@ Use the uploaded character silhouette and surface contours as the shape referenc
 
 <a id="prompt-61"></a>
 
-#### No. 7: Separate-layer design handoff
+#### No. 6: Separate-layer design handoff
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -752,73 +1033,9 @@ Create a design concept that can be separated into editable layers: background, 
 
 ---
 
-<a id="prompt-63"></a>
-
-#### No. 8: Region edit plus layer separation mockup
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-##### Penerangan
-
-A Morphic launch post normalized into a precise editing and layer-separation production brief.
-
-##### Prompt
-
-```
-Use the base visual as a production mockup. Perform a precise region edit, then organize the result as if the background, product, typography, shadows, and accent graphics could be exported separately. Keep multilingual text clean, layout balanced, and every changed element consistent with the original art direction.
-```
-
-<div align="center">
-<a href="https://video.twimg.com/amplify_video/2074851748389531648/vid/avc1/1280x720/7yXUlWTmfuSu3pUp.mp4?tag=28"><img src="public/animations/prompt-63-motion.gif" height="420" alt="Region edit plus layer separation mockup - Motion preview"></a>
-</div>
-
-##### Butiran
-
-- **Pengarang:** [@morphic](https://x.com/morphic)
-- **Sumber:** [Sumber](https://x.com/morphic/status/2074851991466205431)
-- **Diterbitkan:** 8 Julai 2026
-- **Bahasa:** en
-
-**[Gunakan prompt ini · ImagineVid](https://imaginevid.io/seedream-5-pro)**
-
----
-
-<a id="prompt-64"></a>
-
-#### No. 9: Prompt-or-reference detail render
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-##### Penerangan
-
-A Runway availability post normalized into a flexible prompt/reference workflow for legible multilingual image generation.
-
-##### Prompt
-
-```
-Generate a highly detailed image from either a written prompt or a visual reference. If a reference is provided, preserve the key composition and material cues; if only text is provided, follow the scene description closely. Add readable in-image text in the requested language and keep the final image clean enough for editorial use.
-```
-
-<div align="center">
-<a href="https://video.twimg.com/amplify_video/2074981967276187648/vid/avc1/1280x720/1lqs6jQPtTV5ygxv.mp4?tag=28"><img src="public/animations/prompt-64-motion.gif" height="420" alt="Prompt-or-reference detail render - Motion preview"></a>
-</div>
-
-##### Butiran
-
-- **Pengarang:** [@runwayml](https://x.com/runwayml)
-- **Sumber:** [Sumber](https://x.com/runwayml/status/2074982268175630814)
-- **Diterbitkan:** 8 Julai 2026
-- **Bahasa:** en
-
-**[Gunakan prompt ini · ImagineVid](https://imaginevid.io/seedream-5-pro)**
-
----
-
 <a id="prompt-69"></a>
 
-#### No. 10: Photobomber removal replacement edit
+#### No. 7: Photobomber removal replacement edit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -855,7 +1072,7 @@ Use the uploaded street photo and remove the marked photobomber. Replace the are
 
 <a id="prompt-72"></a>
 
-#### No. 11: Street-to-rainy chase annotation edit
+#### No. 8: Street-to-rainy chase annotation edit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -892,7 +1109,7 @@ Start from a normal street still with markup notes. Transform the scene into a r
 
 <a id="prompt-73"></a>
 
-#### No. 12: Client feedback revision loop
+#### No. 9: Client feedback revision loop
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -931,7 +1148,7 @@ Use an existing design comp covered with plain-language feedback such as bigger,
 
 <a id="prompt-90"></a>
 
-#### No. 13: Christmas editorial selfie identity edit
+#### No. 10: Christmas editorial selfie identity edit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -967,7 +1184,7 @@ Use facial identity, facial geometry but not original hair from the reference im
 
 <a id="prompt-87"></a>
 
-#### No. 14: Full-body dragon character extension
+#### No. 11: Full-body dragon character extension
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1005,7 +1222,7 @@ Using the provided dragon head or partial-body reference, create a full-body cha
 
 <a id="prompt-120"></a>
 
-#### No. 15: Japanese no-makeup image edit instruction
+#### No. 12: Japanese no-makeup image edit instruction
 
 ![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1046,7 +1263,7 @@ A source-backed tutorial from the original public X post, demonstrating japanese
 
 <a id="prompt-123"></a>
 
-#### No. 16: Localized anime edit preserving composition while changing one subject
+#### No. 13: Localized anime edit preserving composition while changing one subject
 
 ![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
 
@@ -1094,7 +1311,7 @@ A source-backed tutorial from the original public X post, demonstrating localize
 
 <a id="prompt-124"></a>
 
-#### No. 17: Image-input cat-to-mecha transformation
+#### No. 14: Image-input cat-to-mecha transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1131,11 +1348,11 @@ a pic of my cat, asked for a mecha version
 
 <a id="workflow-commercial-design-ui-posters"></a>
 
-### Commercial Design, UI & Posters (23)
+### Commercial Design, UI & Posters (21)
 
 Production briefs for advertisements, product campaigns, interfaces, posters, typography, and other designed assets.
 
-**Prompt Pilihan**
+**Community · Prompt Pilihan**
 
 - [Post-match sports refreshment campaign](#prompt-16)
 - [Outdoor editorial action poster template](#prompt-18)
@@ -1144,7 +1361,7 @@ Production briefs for advertisements, product campaigns, interfaces, posters, ty
 
 <a id="prompt-20"></a>
 
-#### No. 18: Baklava recipe infographic
+#### No. 15: Baklava recipe infographic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1182,7 +1399,7 @@ Design a 4K food infographic explaining how to make baklava. Arrange ingredients
 
 <a id="prompt-25"></a>
 
-#### No. 19: Enterprise visual asset production brief
+#### No. 16: Enterprise visual asset production brief
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/Raycast-Friendly-purple)
@@ -1212,40 +1429,9 @@ Create a production-ready enterprise visual asset for {argument name="industry" 
 
 ---
 
-<a id="prompt-26"></a>
-
-#### No. 20: Fourteen-language infographic campaign
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-##### Penerangan
-
-A Magnific availability post normalized into a multilingual infographic prompt for testing native text rendering and design consistency.
-
-##### Prompt
-
-```
-Create the same clean campaign infographic in 14 language variants. Keep the layout, icon grid, color palette, spacing, and hierarchy identical while changing only the headline, labels, and call-to-action text. Use short safety, product, or education copy with correct script rendering, readable typography, and no decorative gibberish.
-```
-
-<div align="center">
-<a href="https://video.twimg.com/amplify_video/2074843456372166656/vid/avc1/1280x720/_uuyZ5pwn2kZHFGm.mp4?tag=14"><img src="public/animations/prompt-26-motion.gif" height="420" alt="Fourteen-language infographic campaign - Motion preview"></a>
-</div>
-
-##### Butiran
-
-- **Pengarang:** [@magnific](https://x.com/magnific)
-- **Sumber:** [Sumber](https://x.com/magnific/status/2074843521853636609)
-- **Diterbitkan:** 8 Julai 2026
-- **Bahasa:** en
-
-**[Gunakan prompt ini · ImagineVid](https://imaginevid.io/seedream-5-pro)**
-
----
-
 <a id="prompt-27"></a>
 
-#### No. 21: Five-language safety poster set
+#### No. 17: Five-language safety poster set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1280,7 +1466,7 @@ Design a workplace safety poster template, then render it in five languages whil
 
 <a id="prompt-31"></a>
 
-#### No. 22: Landing page style-transfer mockup
+#### No. 18: Landing page style-transfer mockup
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1319,7 +1505,7 @@ Create a landing-page hero mockup by transferring a supplied visual style into a
 
 <a id="prompt-46"></a>
 
-#### No. 23: Squishcraft kids clay product ad
+#### No. 19: Squishcraft kids clay product ad
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1369,7 +1555,7 @@ Source: [Source](https://x.com/Strength04_X/status/2075063250656621054)
 
 <a id="prompt-52"></a>
 
-#### No. 24: Data-dense operations dashboard set
+#### No. 20: Data-dense operations dashboard set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1407,7 +1593,7 @@ Create a set of data-dense visual panels: a global supply chain dashboard, a qua
 
 <a id="prompt-55"></a>
 
-#### No. 25: Spanish cultural altar explainer
+#### No. 21: Spanish cultural altar explainer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1442,7 +1628,7 @@ Design an authentic Spanish-language classroom infographic explaining a traditio
 
 <a id="prompt-56"></a>
 
-#### No. 26: Personal trading card generator
+#### No. 22: Personal trading card generator
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1480,7 +1666,7 @@ Create a premium collectible trading card for a person, pet, or object. Include 
 
 <a id="prompt-57"></a>
 
-#### No. 27: Game-ready interface concept sheet
+#### No. 23: Game-ready interface concept sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1513,41 +1699,9 @@ Design a game-ready interface concept sheet with multiple panels: inventory, sta
 
 ---
 
-<a id="prompt-62"></a>
-
-#### No. 28: Dense infographic with sketch editing
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
-
-##### Penerangan
-
-A Higgsfield availability post normalized into a prompt for dense text-rich visuals plus sketch-driven editing.
-
-##### Prompt
-
-```
-Create a dense text-rich infographic from a rough sketch. Follow the sketch structure, preserve the marked blocks, convert notes into clean labels, and render charts, icons, and subject photography with readable typography. Keep photographic skin and lighting natural where people appear.
-```
-
-<div align="center">
-<a href="https://video.twimg.com/amplify_video/2074866663133188096/vid/avc1/1280x720/-cP-pAl7rThmuMTY.mp4?tag=28"><img src="public/animations/prompt-62-motion.gif" height="420" alt="Dense infographic with sketch editing - Motion preview"></a>
-</div>
-
-##### Butiran
-
-- **Pengarang:** [@higgsfield](https://x.com/higgsfield)
-- **Sumber:** [Sumber](https://x.com/higgsfield/status/2074866864128430179)
-- **Diterbitkan:** 8 Julai 2026
-- **Bahasa:** en
-
-**[Gunakan prompt ini · ImagineVid](https://imaginevid.io/seedream-5-pro)**
-
----
-
 <a id="prompt-67"></a>
 
-#### No. 29: Delivery receipt with tracking callout
+#### No. 24: Delivery receipt with tracking callout
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1582,7 +1736,7 @@ Design a realistic delivery receipt with merchant name, order number, itemized r
 
 <a id="prompt-88"></a>
 
-#### No. 30: Cinematic editorial fashion session
+#### No. 25: Cinematic editorial fashion session
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1618,7 +1772,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 <a id="prompt-78"></a>
 
-#### No. 31: Overdose gold corrupted luxury moodboard
+#### No. 26: Overdose gold corrupted luxury moodboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1656,7 +1810,7 @@ Create an editorial fashion moodboard in the visual style OVERDOSE GOLD. Use a c
 
 <a id="prompt-80"></a>
 
-#### No. 32: Arabic poster typography test
+#### No. 27: Arabic poster typography test
 
 ![Language-AR](https://img.shields.io/badge/Language-AR-blue)
 
@@ -1692,7 +1846,7 @@ Design two premium Arabic technology posters for Seedream 5 Pro. Use a dark cine
 
 <a id="prompt-94"></a>
 
-#### No. 33: Japanese cinematic magazine cover layout
+#### No. 28: Japanese cinematic magazine cover layout
 
 ![Language-ZH-TW](https://img.shields.io/badge/Language-ZH-TW-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1736,7 +1890,7 @@ A detailed public prompt tested with both GPT Image and Seedream 5.0 Pro, focuse
 
 <a id="prompt-122"></a>
 
-#### No. 34: Premium sports footwear commercial ad set
+#### No. 29: Premium sports footwear commercial ad set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1780,7 +1934,7 @@ Use a premium blue color palette with turquoise gradients, high-end sports brand
 
 <a id="prompt-119"></a>
 
-#### No. 35: Cyberpunk android graphic poster
+#### No. 30: Cyberpunk android graphic poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1819,7 +1973,7 @@ Semi-transparent glassy spheres with grid textures overlap the foreground, creat
 
 <a id="prompt-102"></a>
 
-#### No. 36: Trading terminal interface with market microstructure detail
+#### No. 31: Trading terminal interface with market microstructure detail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1860,7 +2014,7 @@ Structured visuals where information order matters: diagrams, technical drawings
 
 <a id="prompt-19"></a>
 
-#### No. 37: Flat-pack assembly guide stress test
+#### No. 32: Flat-pack assembly guide stress test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1896,7 +2050,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 <a id="prompt-29"></a>
 
-#### No. 38: 1960s Havana documentary video seed
+#### No. 33: 1960s Havana documentary video seed
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1927,7 +2081,7 @@ Generate a realistic 1960s Havana documentary still as the first frame for video
 
 <a id="prompt-49"></a>
 
-#### No. 39: Sixteen-panel cavalry charge narrative
+#### No. 34: Sixteen-panel cavalry charge narrative
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1987,7 +2141,7 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 <a id="prompt-77"></a>
 
-#### No. 40: Exploded engineering diagram layout
+#### No. 35: Exploded engineering diagram layout
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2028,7 +2182,7 @@ Create an exploded technical diagram of a compact high-end AI camera module, eve
 
 Character, portrait, fashion, cinematic-frame, and style-exploration prompts centered on visual direction and image language.
 
-**Prompt Pilihan**
+**Community · Prompt Pilihan**
 
 - [Hard sci-fi airlock film still](#prompt-1)
 - [1970s Dutch romantic drama camera memory](#prompt-2)
@@ -2037,7 +2191,7 @@ Character, portrait, fashion, cinematic-frame, and style-exploration prompts cen
 
 <a id="prompt-8"></a>
 
-#### No. 41: Rain-soaked noir roadside diner
+#### No. 36: Rain-soaked noir roadside diner
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2072,7 +2226,7 @@ Create a wide exterior noir shot of a lonely roadside diner during heavy night r
 
 <a id="prompt-9"></a>
 
-#### No. 42: Sun Throne scale contrast
+#### No. 37: Sun Throne scale contrast
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2107,7 +2261,7 @@ Build a fantasy film still titled The Sun Throne. Place a bowed supplicant in so
 
 <a id="prompt-10"></a>
 
-#### No. 43: Whiteout survival abstraction
+#### No. 38: Whiteout survival abstraction
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2142,7 +2296,7 @@ Create a survival film still in a total snow whiteout. Reduce the mountaineer to
 
 <a id="prompt-11"></a>
 
-#### No. 44: Lived-in afternoon kitchen portrait
+#### No. 39: Lived-in afternoon kitchen portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2177,7 +2331,7 @@ Photograph a relaxed adult woman leaning against a kitchen counter in a lived-in
 
 <a id="prompt-12"></a>
 
-#### No. 45: Western Front dawn trench still
+#### No. 40: Western Front dawn trench still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2212,7 +2366,7 @@ Create a 1916 Western Front film still at dawn. Show an exhausted young soldier 
 
 <a id="prompt-14"></a>
 
-#### No. 46: Anime sorceress key visual
+#### No. 41: Anime sorceress key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2247,7 +2401,7 @@ Create an epic Japanese anime key visual of a sorceress mid-incantation. Use a l
 
 <a id="prompt-30"></a>
 
-#### No. 47: San Francisco sunset phone candid
+#### No. 42: San Francisco sunset phone candid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2297,7 +2451,7 @@ Source: [Source](https://x.com/mattworkman/status/2074850550349222210)
 
 <a id="prompt-34"></a>
 
-#### No. 48: Noir cigarette ember close-up
+#### No. 43: Noir cigarette ember close-up
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2332,7 +2486,7 @@ Create an extreme noir close-up in near-total darkness. Let a cigarette ember gl
 
 <a id="prompt-35"></a>
 
-#### No. 49: Courtroom witness hard-key portrait
+#### No. 44: Courtroom witness hard-key portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2367,7 +2521,7 @@ Frame a tense courtroom witness in tight portrait. Half-light the face with a ha
 
 <a id="prompt-36"></a>
 
-#### No. 50: Mob kitchen sauce-and-threat still
+#### No. 45: Mob kitchen sauce-and-threat still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2402,7 +2556,7 @@ Create a cramped mob-drama kitchen still. Steam rises from a pot of sauce while 
 
 <a id="prompt-37"></a>
 
-#### No. 51: Family table mob drama wide shot
+#### No. 46: Family table mob drama wide shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2437,7 +2591,7 @@ Compose a wide shot of a cramped family kitchen table crowded with plates. Place
 
 <a id="prompt-38"></a>
 
-#### No. 52: Aristocratic alien diplomat portrait
+#### No. 47: Aristocratic alien diplomat portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2472,7 +2626,7 @@ Design a cinematic portrait of an aristocratic alien diplomat with pale lavender
 
 <a id="prompt-39"></a>
 
-#### No. 53: Villeneuve-style neutral mask portrait
+#### No. 48: Villeneuve-style neutral mask portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2507,7 +2661,7 @@ Create a close character portrait with very pale skin, light eyes, and an entire
 
 <a id="prompt-41"></a>
 
-#### No. 54: War robot city cannon blast
+#### No. 49: War robot city cannon blast
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2542,7 +2696,7 @@ Create a cinematic sci-fi action still of a massive humanoid war robot firing an
 
 <a id="prompt-42"></a>
 
-#### No. 55: Natural copper-red close portrait
+#### No. 50: Natural copper-red close portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2577,7 +2731,7 @@ Make a medium-format close portrait of a young European woman with copper-red ha
 
 <a id="prompt-43"></a>
 
-#### No. 56: Magical realist dry-lake fisherman
+#### No. 51: Magical realist dry-lake fisherman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2612,7 +2766,7 @@ Create a wide low-angle magical-realist film still of an old fisherman kneeling 
 
 <a id="prompt-45"></a>
 
-#### No. 57: Bleach-bypass thriller pursuit
+#### No. 52: Bleach-bypass thriller pursuit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2647,7 +2801,7 @@ Create a bleach-bypass thriller still with harsh desaturated contrast, blown hig
 
 <a id="prompt-95"></a>
 
-#### No. 58: Extreme close-up portrait camera template
+#### No. 53: Extreme close-up portrait camera template
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2683,7 +2837,7 @@ Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. 
 
 <a id="prompt-79"></a>
 
-#### No. 59: Master ink art animal study
+#### No. 54: Master ink art animal study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2718,7 +2872,7 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 
 <a id="prompt-81"></a>
 
-#### No. 60: Pancake angel dessert illustration
+#### No. 55: Pancake angel dessert illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2753,7 +2907,7 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 
 <a id="prompt-82"></a>
 
-#### No. 61: Soft anime expression pair
+#### No. 56: Soft anime expression pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2789,7 +2943,7 @@ Generate a paired anime character study of the same young adventurer in two emot
 
 <a id="prompt-85"></a>
 
-#### No. 62: Cloud maker fantasy portrait
+#### No. 57: Cloud maker fantasy portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2824,7 +2978,7 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 
 <a id="prompt-98"></a>
 
-#### No. 63: Casual cafe-step street portrait
+#### No. 58: Casual cafe-step street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2870,7 +3024,7 @@ Camera feel: taken by a friend standing in front of her with a smartphone, using
 
 <a id="prompt-118"></a>
 
-#### No. 64: Fashion outfit editorial set in a parking structure
+#### No. 59: Fashion outfit editorial set in a parking structure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2908,7 +3062,7 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 
 <a id="prompt-92"></a>
 
-#### No. 65: Backlit street portrait feeding stray cats
+#### No. 60: Backlit street portrait feeding stray cats
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -2944,7 +3098,7 @@ A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid compos
 
 <a id="prompt-129"></a>
 
-#### No. 66: Anime skateboard sequence with multiple shot prompts
+#### No. 61: Anime skateboard sequence with multiple shot prompts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2992,7 +3146,7 @@ A girl with a sharp bob cut, purple hair with black accent strands, stylized lay
 
 <a id="prompt-117"></a>
 
-#### No. 67: ARRI-style cinematic city close-up
+#### No. 62: ARRI-style cinematic city close-up
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3039,7 +3193,7 @@ A teenager stands behind a metal chain-link fence in a grassy outdoor area. She 
 
 <a id="prompt-114"></a>
 
-#### No. 68: Japanese casual portrait styling set
+#### No. 63: Japanese casual portrait styling set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3077,7 +3231,7 @@ A beautiful young Japanese woman, natural and effortless beauty, soft glowing sk
 
 <a id="prompt-121"></a>
 
-#### No. 69: Iridescent glass-flower editorial poster
+#### No. 64: Iridescent glass-flower editorial poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3116,7 +3270,7 @@ The layout is filled with clean blocks of small white placeholder body text and 
 
 <a id="prompt-106"></a>
 
-#### No. 70: Melting-world-landmarks concept generation
+#### No. 65: Melting-world-landmarks concept generation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3152,7 +3306,7 @@ world's landmarks, melting like wax
 
 <a id="prompt-113"></a>
 
-#### No. 71: Fantasy fallen-angel warrior key visual
+#### No. 66: Fantasy fallen-angel warrior key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3187,7 +3341,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 <a id="prompt-105"></a>
 
-#### No. 72: Fisheye editorial portraits with miniature clone motif
+#### No. 67: Fisheye editorial portraits with miniature clone motif
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3227,7 +3381,7 @@ Unretouched natural photograph, shot on cinema camera with subtle halation, fine
 
 <a id="prompt-108"></a>
 
-#### No. 73: Photorealistic high-fashion portrait lighting
+#### No. 68: Photorealistic high-fashion portrait lighting
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3291,7 +3445,7 @@ Environment, architecture, landscape, concept-art, and worldbuilding prompts whe
 
 <a id="prompt-13"></a>
 
-#### No. 74: Capital ship over alien planet
+#### No. 69: Capital ship over alien planet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3326,7 +3480,7 @@ Render a massive capital-class spaceship orbiting a fictional alien planet. Use 
 
 <a id="prompt-15"></a>
 
-#### No. 75: Floating temple archipelago key visual
+#### No. 70: Floating temple archipelago key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3361,7 +3515,7 @@ Design a wide anime establishing shot of ancient temple islands floating above a
 
 <a id="prompt-40"></a>
 
-#### No. 76: Ash Country post-apocalypse wanderer
+#### No. 71: Ash Country post-apocalypse wanderer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3396,7 +3550,7 @@ Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray 
 
 <a id="prompt-44"></a>
 
-#### No. 77: Dense neon-noir city skyline
+#### No. 72: Dense neon-noir city skyline
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3431,7 +3585,7 @@ Render a dense neon-noir dystopian city skyline at night from a high 24mm vantag
 
 <a id="prompt-48"></a>
 
-#### No. 78: Parametric landmark infographic pair
+#### No. 73: Parametric landmark infographic pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3467,7 +3621,7 @@ Create a parametric architectural infographic for a famous landmark. Combine a c
 
 <a id="prompt-75"></a>
 
-#### No. 79: Worldbuilding anchor frame color grade
+#### No. 74: Worldbuilding anchor frame color grade
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3498,7 +3652,7 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 
 <a id="prompt-91"></a>
 
-#### No. 80: Ethereal librarian on a frozen lake
+#### No. 75: Ethereal librarian on a frozen lake
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3533,7 +3687,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 <a id="prompt-89"></a>
 
-#### No. 81: Knight beneath a colossal stone sentinel
+#### No. 76: Knight beneath a colossal stone sentinel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3582,7 +3736,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 <a id="prompt-112"></a>
 
-#### No. 82: Impossible-scale cinematic sci-fi worldbuilding set
+#### No. 77: Impossible-scale cinematic sci-fi worldbuilding set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3630,7 +3784,7 @@ A mountain village built on impossibly tall stone pillars extends far above Eart
 
 <a id="prompt-109"></a>
 
-#### No. 83: Solar-powered desert research station concept
+#### No. 78: Solar-powered desert research station concept
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3665,7 +3819,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 <a id="prompt-125"></a>
 
-#### No. 84: Bedroom design variations for MBTI types
+#### No. 79: Bedroom design variations for MBTI types
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3707,13 +3861,13 @@ design a bedroom for each MBTI type
 
 Controlled tests and comparisons used to evaluate prompt following, editing behavior, consistency, typography, or visual quality.
 
-**Prompt Pilihan**
+**Community · Prompt Pilihan**
 
 - [Futuristic sports car blueprint board](#prompt-17)
 
 <a id="prompt-4"></a>
 
-#### No. 85: Avant-garde streetwear creator sheet
+#### No. 80: Avant-garde streetwear creator sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3751,7 +3905,7 @@ Design a full-body character sheet for a male creator in avant-garde streetwear.
 
 <a id="prompt-6"></a>
 
-#### No. 86: Maldives tropical paradise visual
+#### No. 81: Maldives tropical paradise visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3802,7 +3956,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 <a id="prompt-53"></a>
 
-#### No. 87: Makeup identity-preservation comparison
+#### No. 82: Makeup identity-preservation comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3841,7 +3995,7 @@ Use the uploaded portrait as the identity anchor. Change only the makeup: add re
 
 <a id="prompt-76"></a>
 
-#### No. 88: Sepia documentary portrait study
+#### No. 83: Sepia documentary portrait study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3879,7 +4033,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 <a id="prompt-99"></a>
 
-#### No. 89: Minimal painting replacement iteration test
+#### No. 84: Minimal painting replacement iteration test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3911,7 +4065,7 @@ Change the painting.
 
 <a id="prompt-83"></a>
 
-#### No. 90: Afternoon street portrait prompt
+#### No. 85: Afternoon street portrait prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3955,7 +4109,7 @@ A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro
 
 <a id="prompt-84"></a>
 
-#### No. 91: Old-money creator turnaround sheet
+#### No. 86: Old-money creator turnaround sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3993,7 +4147,7 @@ Character design sheet, full body turnaround, 23-year-old tall lean male creator
 
 <a id="prompt-86"></a>
 
-#### No. 92: Same-prompt model comparison triptych
+#### No. 87: Same-prompt model comparison triptych
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4030,7 +4184,7 @@ Create a clean three-panel comparison board for the same visual prompt across th
 
 <a id="prompt-93"></a>
 
-#### No. 93: 1990s Andalusian home-video still
+#### No. 88: 1990s Andalusian home-video still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4065,7 +4219,7 @@ A public same-prompt Seedream 5 Pro comparison prompt recreating the imperfect e
 
 <a id="prompt-110"></a>
 
-#### No. 94: Reference-image camera-angle change comparison
+#### No. 89: Reference-image camera-angle change comparison
 
 ![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4104,7 +4258,7 @@ A source-backed evaluation from the original public X post, demonstrating refere
 
 <a id="prompt-128"></a>
 
-#### No. 95: Lake Como fashion scene comparison against Banana Pro
+#### No. 90: Lake Como fashion scene comparison against Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4148,7 +4302,7 @@ Natural skin texture with soft luminosity, gentle sheen on nose and lips, crisp 
 
 <a id="prompt-127"></a>
 
-#### No. 96: Fantasy village watermill comparison against GPT Image 2
+#### No. 91: Fantasy village watermill comparison against GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4184,7 +4338,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 <a id="prompt-111"></a>
 
-#### No. 97: Oversized beverage-can advertising composition comparison
+#### No. 92: Oversized beverage-can advertising composition comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4220,7 +4374,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 <a id="prompt-96"></a>
 
-#### No. 98: Bedroom mirror-selfie influencer portrait
+#### No. 93: Bedroom mirror-selfie influencer portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4267,7 +4421,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 <a id="prompt-107"></a>
 
-#### No. 99: Seedream vs GPT Image 2 for clean lifestyle portrait styling
+#### No. 94: Seedream vs GPT Image 2 for clean lifestyle portrait styling
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4303,7 +4457,7 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 <a id="prompt-116"></a>
 
-#### No. 100: Anime key-visual comparison
+#### No. 95: Anime key-visual comparison
 
 ![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
 
@@ -4338,7 +4492,7 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 <a id="prompt-115"></a>
 
-#### No. 101: Chengdu travel scrapbook poster comparison
+#### No. 96: Chengdu travel scrapbook poster comparison
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4390,7 +4544,7 @@ A source-backed evaluation from the original public X post, demonstrating chengd
 
 <a id="prompt-97"></a>
 
-#### No. 102: Seat-belted car selfie first frame
+#### No. 97: Seat-belted car selfie first frame
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4435,7 +4589,7 @@ A detailed public Chinese same-prompt comparison for a realistic 16:9 in-car sel
 
 <a id="prompt-100"></a>
 
-#### No. 103: Multi-task Seedream capability sampling from four Chinese prompts
+#### No. 98: Multi-task Seedream capability sampling from four Chinese prompts
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4499,19 +4653,19 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 - [ImagineVid](https://imaginevid.io)
 <details>
-<summary>Pengkarya komuniti yang kami hargai (85)</summary>
+<summary>Pengkarya komuniti yang kami hargai (81)</summary>
 
 [@abdoul94_](https://x.com/abdoul94_) · [@ahmetmertugrul](https://x.com/ahmetmertugrul) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [@AiwithZohaib](https://x.com/AiwithZohaib) · [@al_tools43377](https://x.com/al_tools43377) · [@AllaAisling](https://x.com/AllaAisling) · [@Arminn_Ai](https://x.com/Arminn_Ai) · [@asatoucan](https://x.com/asatoucan)<br>
 [@asheem01](https://x.com/asheem01) · [@ashen_one](https://x.com/ashen_one) · [@ayumi_t820](https://x.com/ayumi_t820) · [@aziz4ai](https://x.com/aziz4ai) · [@bdsqlsz](https://x.com/bdsqlsz) · [@Bic_Revelation](https://x.com/Bic_Revelation) · [@bmx_ai13](https://x.com/bmx_ai13) · [@Boluwatifeolad7](https://x.com/Boluwatifeolad7)<br>
 [@BubbleBrain](https://x.com/BubbleBrain) · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · [@capcutapp](https://x.com/capcutapp) · [@Chain_Loader](https://x.com/Chain_Loader) · [@characternexus](https://x.com/characternexus) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Cia0_exe](https://x.com/Cia0_exe) · [@Ciri_ai](https://x.com/Ciri_ai)<br>
 [@ComfyUI](https://x.com/ComfyUI) · [@cso6709](https://x.com/cso6709) · [@DeepBlueAIX](https://x.com/DeepBlueAIX) · [@df_reno](https://x.com/df_reno) · [@diffractstudio](https://x.com/diffractstudio) · [@Digitalwindai](https://x.com/Digitalwindai) · [@Echoes999Y](https://x.com/Echoes999Y) · [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)<br>
-[@emmanuel_2m](https://x.com/emmanuel_2m) · [@fal](https://x.com/fal) · [@filodyprincess](https://x.com/filodyprincess) · [@FloraTechAI](https://x.com/FloraTechAI) · [@HarshBisen143](https://x.com/HarshBisen143) · [@haruuraeadss](https://x.com/haruuraeadss) · [@hasamaru_studio](https://x.com/hasamaru_studio) · [@higginswerx](https://x.com/higginswerx)<br>
-[@higgsfield](https://x.com/higgsfield) · [@iamrealsnow](https://x.com/iamrealsnow) · [@ItsMaryAI](https://x.com/ItsMaryAI) · [@itsPixieVerse](https://x.com/itsPixieVerse) · [@JameFalken](https://x.com/JameFalken) · [@JennyAITech](https://x.com/JennyAITech) · [@johnAGI168](https://x.com/johnAGI168) · [@JossMonzoni](https://x.com/JossMonzoni)<br>
-[@karim_yourself](https://x.com/karim_yourself) · [@KishenArt](https://x.com/KishenArt) · [@krea_ai](https://x.com/krea_ai) · [@LiamEtherson](https://x.com/LiamEtherson) · [@liyue_ai](https://x.com/liyue_ai) · [@lukfan](https://x.com/lukfan) · [@madpencil_](https://x.com/madpencil_) · [@magnific](https://x.com/magnific)<br>
-[@marmaduke091](https://x.com/marmaduke091) · [@mattworkman](https://x.com/mattworkman) · [@MishikaAI](https://x.com/MishikaAI) · [@morphic](https://x.com/morphic) · [@munzxsdv](https://x.com/munzxsdv) · [@noorwithwifi](https://x.com/noorwithwifi) · [@op7418](https://x.com/op7418) · [@OpenDesignHQ](https://x.com/OpenDesignHQ)<br>
-[@renataro9](https://x.com/renataro9) · [@renoiseai](https://x.com/renoiseai) · [@roco_kn_roco](https://x.com/roco_kn_roco) · [@rovvmut_](https://x.com/rovvmut_) · [@runwayml](https://x.com/runwayml) · [@SeharShinwari](https://x.com/SeharShinwari) · [@shikoba_86](https://x.com/shikoba_86) · [@SimplyAnnisa](https://x.com/SimplyAnnisa)<br>
-[@stargliderbr](https://x.com/stargliderbr) · [@Strength04_X](https://x.com/Strength04_X) · [@sulekhat95](https://x.com/sulekhat95) · [@techhalla](https://x.com/techhalla) · [@techxsarfraj](https://x.com/techxsarfraj) · [@ThinkerSilentH](https://x.com/ThinkerSilentH) · [@TlanoAI](https://x.com/TlanoAI) · [@underwoodxie96](https://x.com/underwoodxie96)<br>
-[@UnityEagle](https://x.com/UnityEagle) · [@westkast](https://x.com/westkast) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [@ZariaTechAI](https://x.com/ZariaTechAI) · [@Zubnet](https://x.com/Zubnet)
+[@emmanuel_2m](https://x.com/emmanuel_2m) · [@filodyprincess](https://x.com/filodyprincess) · [@FloraTechAI](https://x.com/FloraTechAI) · [@HarshBisen143](https://x.com/HarshBisen143) · [@haruuraeadss](https://x.com/haruuraeadss) · [@hasamaru_studio](https://x.com/hasamaru_studio) · [@higginswerx](https://x.com/higginswerx) · [@iamrealsnow](https://x.com/iamrealsnow)<br>
+[@ItsMaryAI](https://x.com/ItsMaryAI) · [@itsPixieVerse](https://x.com/itsPixieVerse) · [@JameFalken](https://x.com/JameFalken) · [@JennyAITech](https://x.com/JennyAITech) · [@johnAGI168](https://x.com/johnAGI168) · [@JossMonzoni](https://x.com/JossMonzoni) · [@karim_yourself](https://x.com/karim_yourself) · [@KishenArt](https://x.com/KishenArt)<br>
+[@krea_ai](https://x.com/krea_ai) · [@LiamEtherson](https://x.com/LiamEtherson) · [@liyue_ai](https://x.com/liyue_ai) · [@lukfan](https://x.com/lukfan) · [@madpencil_](https://x.com/madpencil_) · [@magnific](https://x.com/magnific) · [@marmaduke091](https://x.com/marmaduke091) · [@mattworkman](https://x.com/mattworkman)<br>
+[@MishikaAI](https://x.com/MishikaAI) · [@munzxsdv](https://x.com/munzxsdv) · [@noorwithwifi](https://x.com/noorwithwifi) · [@op7418](https://x.com/op7418) · [@OpenDesignHQ](https://x.com/OpenDesignHQ) · [@renataro9](https://x.com/renataro9) · [@renoiseai](https://x.com/renoiseai) · [@roco_kn_roco](https://x.com/roco_kn_roco)<br>
+[@rovvmut_](https://x.com/rovvmut_) · [@SeharShinwari](https://x.com/SeharShinwari) · [@shikoba_86](https://x.com/shikoba_86) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@stargliderbr](https://x.com/stargliderbr) · [@Strength04_X](https://x.com/Strength04_X) · [@sulekhat95](https://x.com/sulekhat95) · [@techhalla](https://x.com/techhalla)<br>
+[@techxsarfraj](https://x.com/techxsarfraj) · [@ThinkerSilentH](https://x.com/ThinkerSilentH) · [@TlanoAI](https://x.com/TlanoAI) · [@underwoodxie96](https://x.com/underwoodxie96) · [@UnityEagle](https://x.com/UnityEagle) · [@westkast](https://x.com/westkast) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [@ZariaTechAI](https://x.com/ZariaTechAI)<br>
+[@Zubnet](https://x.com/Zubnet)
 
 </details>
 
@@ -4531,6 +4685,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Hantar Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star repo ini](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-10T07:30:59.362Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-10T08:26:56.838Z</sub>
 
 </div>

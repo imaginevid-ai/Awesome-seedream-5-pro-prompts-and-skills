@@ -1,0 +1,323 @@
+[
+  {
+    "slug": "interaction-control",
+    "title": "Interaction Control",
+    "description": "Use boxes, arrows, annotation marks, or coordinates to specify the target region.",
+    "cases": [
+      {
+        "id": 1,
+        "title": "Arrows and annotation boxes for spatial intent",
+        "media": [
+          {
+            "url": "public/official-cases/case-01-arrows-annotation-boxes.gif",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Region-box object description for targeted editing",
+        "media": [
+          {
+            "url": "public/official-cases/case-02-region-box-object-description.gif",
+            "height": 420
+          }
+        ],
+        "prompt": "Red box: A huge blue-furred head with a ferocious squished expression, gazing at the bubble ahead. Green box: A transparent bubble reflecting the indoor lights. Yellow box: A large warm gray-beige yarn ball. Blue box: A stack of building blocks including a warm dark gray arch, a warm light gray half-cylinder, a lake blue cylinder, a deep lake blue ramp, and a cobalt blue half-disc. Purple box: A grass green tasseled blanket draped over the sofa."
+      }
+    ]
+  },
+  {
+    "slug": "sketch-editing",
+    "title": "Sketch Editing",
+    "description": "Use doodles, color blocks, lines, or rough sketches as visual guidance.",
+    "cases": [
+      {
+        "id": 3,
+        "title": "Doodle-guided object generation",
+        "media": [
+          {
+            "url": "public/official-cases/case-03-doodle-guided-object-generation.gif",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Color-block guided editing",
+        "media": [
+          {
+            "url": "public/official-cases/case-04-color-block-guided-editing.gif",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Line-guided detail editing",
+        "media": [
+          {
+            "url": "public/official-cases/case-05-line-guided-detail-editing.gif",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Simple sketch to refined image",
+        "media": [
+          {
+            "url": "public/official-cases/case-06-simple-sketch-to-refined-image.gif",
+            "height": 420
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "layer-editing",
+    "title": "Layer Editing",
+    "description": "Edit poster, graphic, text, material, or surface layers while preserving the broader composition.",
+    "cases": [
+      {
+        "id": 7,
+        "title": "Poster text and graphic layer edit: Avery Turns",
+        "media": [
+          {
+            "url": "public/official-cases/case-07-poster-text-graphic-layer-edit.gif",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Poster offer layer edit: Happy Hour",
+        "media": [
+          {
+            "url": "public/official-cases/case-08-poster-offer-layer-edit.gif",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Fashion image layer edit inside a design layout",
+        "media": [
+          {
+            "url": "public/official-cases/case-09-fashion-image-layer-edit.gif",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Sports poster graphic layer edit",
+        "media": [
+          {
+            "url": "public/official-cases/case-10-sports-poster-graphic-layer-edit.gif",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Poster element edit: Public Joy",
+        "media": [
+          {
+            "url": "public/official-cases/case-11-poster-element-edit.gif",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "title": "Material surface swap with precise texture response",
+        "media": [
+          {
+            "url": "public/official-cases/case-12-material-surface-swap.gif",
+            "height": 420
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "anchor-position-editing",
+    "title": "Anchor / Position Editing",
+    "description": "Use grid-like anchors or relative positions to move a target precisely.",
+    "cases": [
+      {
+        "id": 13,
+        "title": "Grid-position object movement",
+        "media": [
+          {
+            "label": "Before",
+            "url": "public/official-cases/case-13-grid-position-before.png",
+            "height": 300
+          },
+          {
+            "label": "After",
+            "url": "public/official-cases/case-13-grid-position-after.png",
+            "height": 300
+          }
+        ],
+        "prompt": "Move the red car in the lower-left corner one grid cell to the right, and move the black pawn in the second column from the left of the black-square position one grid cell downward."
+      }
+    ]
+  },
+  {
+    "slug": "layer-separation",
+    "title": "Layer Separation",
+    "description": "Separate foreground, background, and reusable components for downstream editing.",
+    "cases": [
+      {
+        "id": 14,
+        "title": "Foreground/person layer separation",
+        "media": [
+          {
+            "url": "public/official-cases/case-14-layer-separation.png",
+            "height": 420
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "multi-image-fusion-editing",
+    "title": "Multi-image Fusion Editing",
+    "description": "Combine multiple reference images into one coherent composition under a single instruction.",
+    "cases": [
+      {
+        "id": 15,
+        "title": "Seven-reference still-life input/output composition",
+        "media": [
+          {
+            "label": "Input",
+            "url": "public/official-cases/case-15-seven-reference-input.png",
+            "height": 300
+          },
+          {
+            "label": "Output",
+            "url": "public/official-cases/case-15-seven-reference-output.png",
+            "height": 300
+          }
+        ],
+        "prompt": "Precisely cut out the objects from my seven white-background reference photos and arrange them into a realistic still-life photography image according to the specified layout. Make sure the perspective, lighting, and spatial relationships are correct. Faithfully preserve material details such as wood grain, leather, lace, jelly glass, and feathers, creating a high-quality image that feels realistic and playful, with a blend of vintage and modern aesthetics."
+      }
+    ]
+  },
+  {
+    "slug": "visual-quality-narrative",
+    "title": "Visual Quality & Narrative",
+    "description": "Group effect samples by cinematic action, animation style, concept art, and game-scene output.",
+    "cases": [
+      {
+        "id": 16,
+        "title": "Cinematic tennis glass shatter",
+        "media": [
+          {
+            "url": "public/official-cases/case-16-cinematic-tennis-glass-shatter.png",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Cinematic boxing action",
+        "media": [
+          {
+            "url": "public/official-cases/case-17-cinematic-boxing-action.png",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "title": "3D animation style scene",
+        "media": [
+          {
+            "url": "public/official-cases/case-18-3d-animation-style-scene.png",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Visual concept art",
+        "media": [
+          {
+            "url": "public/official-cases/case-19-visual-concept-art.png",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "title": "Game scene visual",
+        "media": [
+          {
+            "url": "public/official-cases/case-20-game-scene-visual.png",
+            "height": 420
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "multilingual-text-rendering",
+    "title": "Multilingual Text Rendering",
+    "description": "Group multilingual samples by rendered language and local-text use case.",
+    "cases": [
+      {
+        "id": 21,
+        "title": "Arabic and English welcome sign",
+        "media": [
+          {
+            "url": "public/official-cases/case-21-arabic-english-welcome-sign.png",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "title": "Korean open-24-hours sign",
+        "media": [
+          {
+            "url": "public/official-cases/case-22-korean-open-24-hours-sign.png",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "title": "Thai cleanliness sign",
+        "media": [
+          {
+            "url": "public/official-cases/case-23-thai-cleanliness-sign.png",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "title": "French creation poster",
+        "media": [
+          {
+            "url": "public/official-cases/case-24-french-creation-poster.png",
+            "height": 420
+          }
+        ]
+      },
+      {
+        "id": 25,
+        "title": "Russian future poster",
+        "media": [
+          {
+            "url": "public/official-cases/case-25-russian-future-poster.png",
+            "height": 420
+          }
+        ]
+      }
+    ]
+  }
+]
