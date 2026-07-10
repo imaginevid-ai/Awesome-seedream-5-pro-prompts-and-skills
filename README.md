@@ -98,6 +98,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 
 > Source-backed launch examples from the official ByteDance Seed release and Volcengine ModelArk documentation. The Twitter/X entries below are treated separately as community prompt cases.
 
+**Official sources:** [ByteDance Seed release](https://seed.bytedance.com/zh/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro) · [Volcengine ModelArk tutorial](https://www.volcengine.com/docs/82379/1824121)
 
 <a id="official-interaction-control"></a>
 
@@ -407,7 +408,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Total Prompts | **108** |
 | Featured | **10** |
-| Last Updated | **Friday, July 10, 2026 at 8:29:22 AM UTC** |
+| Last Updated | **Friday, July 10, 2026 at 10:48:15 AM UTC** |
 
 </div>
 
@@ -4684,6 +4685,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star this repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-10T08:29:22.422Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-10T10:48:15.731Z</sub>
 
 </div>
