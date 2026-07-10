@@ -99,7 +99,7 @@
 |--------|-------|
 | 提示词总数 | **113** |
 | 精选 | **10** |
-| 最后更新 | **2026年7月10日星期五 UTC 04:34:31** |
+| 最后更新 | **2026年7月10日星期五 UTC 04:35:30** |
 
 </div>
 
@@ -4531,6 +4531,6 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 **[提交提示词](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[为仓库点 Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>本 README 自动生成。最后更新： 2026-07-10T04:34:31.848Z</sub>
+<sub>本 README 自动生成。最后更新： 2026-07-10T04:35:30.663Z</sub>
 
 </div>

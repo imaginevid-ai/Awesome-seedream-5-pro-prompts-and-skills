@@ -99,7 +99,7 @@
 |--------|-------|
 | จำนวน prompt ทั้งหมด | **113** |
 | แนะนำ | **10** |
-| อัปเดตล่าสุด | **วันศุกร์ที่ 10 กรกฎาคม พ.ศ. 2569 เวลา 4 นาฬิกา 34 นาที 31 วินาที UTC** |
+| อัปเดตล่าสุด | **วันศุกร์ที่ 10 กรกฎาคม พ.ศ. 2569 เวลา 4 นาฬิกา 35 นาที 30 วินาที UTC** |
 
 </div>
 
@@ -4531,6 +4531,6 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ประวัติ Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>อัปเดตล่าสุด: 2026-07-10T04:34:31.877Z</sub>
+<sub>อัปเดตล่าสุด: 2026-07-10T04:35:30.724Z</sub>
 
 </div>
