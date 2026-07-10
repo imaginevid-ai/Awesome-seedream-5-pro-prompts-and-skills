@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Σύνολο prompts | **113** |
 | Επιλεγμένο | **10** |
-| Τελευταία ενημέρωση | **Παρασκευή 10 Ιουλίου 2026 στις 2:28:55 π.μ. UTC** |
+| Τελευταία ενημέρωση | **Παρασκευή 10 Ιουλίου 2026 στις 4:09:00 π.μ. UTC** |
 
 </div>
 
@@ -4587,6 +4587,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Υποβολή prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Κάντε Star στο repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-10T02:28:55.817Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-10T04:09:00.127Z</sub>
 
 </div>

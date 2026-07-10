@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | کل پرامپت‌ها | **113** |
 | برگزیده | **10** |
-| آخرین به‌روزرسانی | **۱۴۰۵ تیر ۱۹, جمعه ساعت ۲:۲۸:۵۵ (UTC)** |
+| آخرین به‌روزرسانی | **۱۴۰۵ تیر ۱۹, جمعه ساعت ۴:۰۹:۰۰ (UTC)** |
 
 </div>
 
@@ -4587,6 +4587,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[ارسال پرامپت](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[به این مخزن Star بدهید](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-10T02:28:55.869Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-10T04:09:00.212Z</sub>
 
 </div>
