@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Celkem promptů | **113** |
 | Doporučené | **10** |
-| Naposledy aktualizováno | **pátek 10. července 2026 v 4:53:44 UTC** |
+| Naposledy aktualizováno | **pátek 10. července 2026 v 4:55:06 UTC** |
 
 </div>
 
@@ -4531,6 +4531,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Odeslat prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Dát repozitáři Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-10T04:53:44.269Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-10T04:55:06.400Z</sub>
 
 </div>

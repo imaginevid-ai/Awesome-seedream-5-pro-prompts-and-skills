@@ -99,7 +99,7 @@ Bu depodaki kaynak bağlantılarını ve örnekleri inceleyin.
 |--------|-------|
 | Toplam prompt | **113** |
 | Öne çıkan | **10** |
-| Son güncelleme | **10 Temmuz 2026 Cuma 04:53:44 UTC** |
+| Son güncelleme | **10 Temmuz 2026 Cuma 04:55:06 UTC** |
 
 </div>
 
@@ -4531,6 +4531,6 @@ Nasıl katkı verilir
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star geçmişi](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Son güncelleme: 2026-07-10T04:53:44.163Z</sub>
+<sub>Son güncelleme: 2026-07-10T04:55:06.217Z</sub>
 
 </div>

@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Totalt antal prompter | **113** |
 | Utvald | **10** |
-| Senast uppdaterad | **fredag 10 juli 2026 kl. 04:53:44 UTC** |
+| Senast uppdaterad | **fredag 10 juli 2026 kl. 04:55:06 UTC** |
 
 </div>
 
@@ -4531,6 +4531,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Skicka prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Stjärnmärk repot](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-10T04:53:44.234Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-10T04:55:06.335Z</sub>
 
 </div>

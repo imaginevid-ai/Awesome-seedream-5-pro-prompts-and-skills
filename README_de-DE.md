@@ -99,7 +99,7 @@ Ersetze die Argumente, um den Prompt als kompakten Kreativ-Skill wiederzuverwend
 |--------|-------|
 | Prompts gesamt | **113** |
 | Ausgewählt | **10** |
-| Zuletzt aktualisiert | **Freitag, 10. Juli 2026 um 04:53:44 UTC** |
+| Zuletzt aktualisiert | **Freitag, 10. Juli 2026 um 04:55:06 UTC** |
 
 </div>
 
@@ -4531,6 +4531,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt einreichen](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Repository mit Star markieren](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-10T04:53:44.127Z</sub>
+<sub>Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-10T04:55:06.154Z</sub>
 
 </div>
