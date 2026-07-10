@@ -35,14 +35,15 @@ test("wraps five images into two table rows without dropping media", () => {
 
 test("renders a GitHub-compatible animated preview linked to its X source", () => {
   const markdown = generateAnimationPreview(
-    "public/animations/example-motion.webp",
+    "public/animations/example-motion.gif",
     "Example prompt",
     "https://video.twimg.com/example.mp4"
   );
 
   assert.doesNotMatch(markdown, /<video/);
+  assert.match(markdown, /height="420"/);
   assert.match(markdown, /https:\/\/video\.twimg\.com\/example\.mp4/);
-  assert.match(markdown, /public\/animations\/example-motion\.webp/);
+  assert.match(markdown, /public\/animations\/example-motion\.gif/);
 });
 
 test("model introduction is source-backed and distinguishes generation from editing", () => {

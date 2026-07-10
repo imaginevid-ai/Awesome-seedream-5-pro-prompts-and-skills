@@ -99,7 +99,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 |--------|-------|
 | Jumlah Prompt | **113** |
 | Pilihan | **10** |
-| Kemas Kini Terakhir | **Jumaat, 10 Julai 2026 pada 4:35:30 PG UTC** |
+| Kemas Kini Terakhir | **Jumaat, 10 Julai 2026 pada 4:53:44 PG UTC** |
 
 </div>
 
@@ -422,7 +422,7 @@ Use the uploaded image as the locked base. Edit exactly the marked area and pres
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074857777923842048/vid/avc1/1280x720/KXa4awduC5vz6QGO.mp4?tag=28"><img src="public/animations/prompt-58-motion.webp" width="100%" alt="Official precise editing control workflow - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074857777923842048/vid/avc1/1280x720/KXa4awduC5vz6QGO.mp4?tag=28"><img src="public/animations/prompt-58-motion.gif" height="420" alt="Official precise editing control workflow - Motion preview"></a>
 </div>
 
 #### Butiran
@@ -454,7 +454,7 @@ Create a complex information visualization that combines one diagram, one small 
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074858039396749313/vid/avc1/1280x720/yLs85cOuUX3ItC7Q.mp4?tag=28"><img src="public/animations/prompt-59-motion.webp" width="100%" alt="Official complex information visualization - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074858039396749313/vid/avc1/1280x720/yLs85cOuUX3ItC7Q.mp4?tag=28"><img src="public/animations/prompt-59-motion.gif" height="420" alt="Official complex information visualization - Motion preview"></a>
 </div>
 
 #### Butiran
@@ -486,7 +486,7 @@ Generate a localized campaign asset directly in the target language. Respect the
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074858581493743616/vid/avc1/1280x720/o1wrqX-ohbORtRpU.mp4?tag=28"><img src="public/animations/prompt-60-motion.webp" width="100%" alt="Official native multilingual generation - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074858581493743616/vid/avc1/1280x720/o1wrqX-ohbORtRpU.mp4?tag=28"><img src="public/animations/prompt-60-motion.gif" height="420" alt="Official native multilingual generation - Motion preview"></a>
 </div>
 
 #### Butiran
@@ -606,7 +606,7 @@ Start from a rough product sketch or reference collage. Preserve the original si
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2075228737575272448/vid/avc1/1280x720/63P-FYHYapJl_Un3.mp4?tag=28"><img src="public/animations/prompt-22-motion.webp" width="100%" alt="Sketch-to-polished product visual edit - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2075228737575272448/vid/avc1/1280x720/63P-FYHYapJl_Un3.mp4?tag=28"><img src="public/animations/prompt-22-motion.gif" height="420" alt="Sketch-to-polished product visual edit - Motion preview"></a>
 </div>
 
 ##### Butiran
@@ -638,7 +638,7 @@ Use the existing poster or product mockup as the base. Change only the selected 
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/ext_tw_video/2074846795377565696/pu/vid/avc1/1280x720/kbZa_kGJ93OFLuAc.mp4?tag=12"><img src="public/animations/prompt-23-motion.webp" width="100%" alt="Region-precise product poster edit - Motion preview"></a>
+<a href="https://video.twimg.com/ext_tw_video/2074846795377565696/pu/vid/avc1/1280x720/kbZa_kGJ93OFLuAc.mp4?tag=12"><img src="public/animations/prompt-23-motion.gif" height="420" alt="Region-precise product poster edit - Motion preview"></a>
 </div>
 
 ##### Butiran
@@ -670,7 +670,7 @@ Use up to ten reference images as a brand moodboard: product form, color palette
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074890722336178177/vid/avc1/1280x720/2Z_T94P6AxOQrKsm.mp4?tag=28"><img src="public/animations/prompt-24-motion.webp" width="100%" alt="Ten-reference brand moodboard fusion - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074890722336178177/vid/avc1/1280x720/2Z_T94P6AxOQrKsm.mp4?tag=28"><img src="public/animations/prompt-24-motion.gif" height="420" alt="Ten-reference brand moodboard fusion - Motion preview"></a>
 </div>
 
 ##### Butiran
@@ -738,7 +738,7 @@ Create a design concept that can be separated into editable layers: background, 
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/ext_tw_video/2074854109195194368/pu/vid/avc1/1280x720/KKPMgT-m9RMO2cHE.mp4?tag=26"><img src="public/animations/prompt-61-motion.webp" width="100%" alt="Separate-layer design handoff - Motion preview"></a>
+<a href="https://video.twimg.com/ext_tw_video/2074854109195194368/pu/vid/avc1/1280x720/KKPMgT-m9RMO2cHE.mp4?tag=26"><img src="public/animations/prompt-61-motion.gif" height="420" alt="Separate-layer design handoff - Motion preview"></a>
 </div>
 
 ##### Butiran
@@ -770,7 +770,7 @@ Use the base visual as a production mockup. Perform a precise region edit, then 
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074851748389531648/vid/avc1/1280x720/7yXUlWTmfuSu3pUp.mp4?tag=28"><img src="public/animations/prompt-63-motion.webp" width="100%" alt="Region edit plus layer separation mockup - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074851748389531648/vid/avc1/1280x720/7yXUlWTmfuSu3pUp.mp4?tag=28"><img src="public/animations/prompt-63-motion.gif" height="420" alt="Region edit plus layer separation mockup - Motion preview"></a>
 </div>
 
 ##### Butiran
@@ -802,7 +802,7 @@ Generate a highly detailed image from either a written prompt or a visual refere
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074981967276187648/vid/avc1/1280x720/1lqs6jQPtTV5ygxv.mp4?tag=28"><img src="public/animations/prompt-64-motion.webp" width="100%" alt="Prompt-or-reference detail render - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074981967276187648/vid/avc1/1280x720/1lqs6jQPtTV5ygxv.mp4?tag=28"><img src="public/animations/prompt-64-motion.gif" height="420" alt="Prompt-or-reference detail render - Motion preview"></a>
 </div>
 
 ##### Butiran
@@ -1030,7 +1030,7 @@ A source-backed tutorial from the original public X post, demonstrating japanese
 </table>
 
 <div align="center">
-<img src="public/animations/prompt-120-japanese-no-makeup-image-edit-instruction.webp" width="100%" alt="Japanese no-makeup image edit instruction - Motion preview">
+<img src="public/animations/prompt-120-japanese-no-makeup-image-edit-instruction.webp" height="420" alt="Japanese no-makeup image edit instruction - Motion preview">
 </div>
 
 ##### Butiran
@@ -1198,7 +1198,7 @@ Create a production-ready enterprise visual asset for {argument name="industry" 
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074850963991748608/vid/avc1/1280x720/ODhCB80bgpUctSrG.mp4?tag=28"><img src="public/animations/prompt-25-motion.webp" width="100%" alt="Enterprise visual asset production brief - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074850963991748608/vid/avc1/1280x720/ODhCB80bgpUctSrG.mp4?tag=28"><img src="public/animations/prompt-25-motion.gif" height="420" alt="Enterprise visual asset production brief - Motion preview"></a>
 </div>
 
 ##### Butiran
@@ -1229,7 +1229,7 @@ Create the same clean campaign infographic in 14 language variants. Keep the lay
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074843456372166656/vid/avc1/1280x720/_uuyZ5pwn2kZHFGm.mp4?tag=14"><img src="public/animations/prompt-26-motion.webp" width="100%" alt="Fourteen-language infographic campaign - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074843456372166656/vid/avc1/1280x720/_uuyZ5pwn2kZHFGm.mp4?tag=14"><img src="public/animations/prompt-26-motion.gif" height="420" alt="Fourteen-language infographic campaign - Motion preview"></a>
 </div>
 
 ##### Butiran
@@ -1531,7 +1531,7 @@ Create a dense text-rich infographic from a rough sketch. Follow the sketch stru
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2074866663133188096/vid/avc1/1280x720/-cP-pAl7rThmuMTY.mp4?tag=28"><img src="public/animations/prompt-62-motion.webp" width="100%" alt="Dense infographic with sketch editing - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2074866663133188096/vid/avc1/1280x720/-cP-pAl7rThmuMTY.mp4?tag=28"><img src="public/animations/prompt-62-motion.gif" height="420" alt="Dense infographic with sketch editing - Motion preview"></a>
 </div>
 
 ##### Butiran
@@ -1911,7 +1911,7 @@ Generate a realistic 1960s Havana documentary still as the first frame for video
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2075167807415767040/vid/avc1/1280x720/U81a7nKFJpaq4PFN.mp4?tag=28"><img src="public/animations/prompt-29-motion.webp" width="100%" alt="1960s Havana documentary video seed - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2075167807415767040/vid/avc1/1280x720/U81a7nKFJpaq4PFN.mp4?tag=28"><img src="public/animations/prompt-29-motion.gif" height="420" alt="1960s Havana documentary video seed - Motion preview"></a>
 </div>
 
 ##### Butiran
@@ -3482,7 +3482,7 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2075026724396392448/vid/avc1/1280x720/Bu8O6tzxdB4Ch-Ac.mp4?tag=28"><img src="public/animations/prompt-75-motion.webp" width="100%" alt="Worldbuilding anchor frame color grade - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2075026724396392448/vid/avc1/1280x720/Bu8O6tzxdB4Ch-Ac.mp4?tag=28"><img src="public/animations/prompt-75-motion.gif" height="420" alt="Worldbuilding anchor frame color grade - Motion preview"></a>
 </div>
 
 ##### Butiran
@@ -3895,7 +3895,7 @@ Change the painting.
 ```
 
 <div align="center">
-<a href="https://video.twimg.com/amplify_video/2075226893171793920/vid/avc1/1552x656/xkovrTxbvOg2mk9R.mp4?tag=28"><img src="public/animations/prompt-99-motion.webp" width="100%" alt="Minimal painting replacement iteration test - Motion preview"></a>
+<a href="https://video.twimg.com/amplify_video/2075226893171793920/vid/avc1/1552x656/xkovrTxbvOg2mk9R.mp4?tag=28"><img src="public/animations/prompt-99-motion.gif" height="420" alt="Minimal painting replacement iteration test - Motion preview"></a>
 </div>
 
 ##### Butiran
@@ -4531,6 +4531,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Hantar Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star repo ini](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-10T04:35:30.931Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-10T04:53:44.201Z</sub>
 
 </div>

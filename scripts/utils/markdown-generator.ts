@@ -459,7 +459,7 @@ export function generateAnimationPreview(
   title: string,
   sourceUrl?: string
 ): string {
-  const image = `<img src="${escapeAttribute(url)}" width="100%" alt="${escapeAttribute(title)} - Motion preview">`;
+  const image = `<img src="${escapeAttribute(url)}" height="420" alt="${escapeAttribute(title)} - Motion preview">`;
   const content = sourceUrl ? `<a href="${escapeAttribute(sourceUrl)}">${image}</a>` : image;
   return `<div align="center">\n${content}\n</div>\n\n`;
 }
