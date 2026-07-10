@@ -96,9 +96,7 @@ Replace the arguments to reuse the prompt as a compact creative skill.
 
 ## Official Capability Cases
 
-> Source-backed launch examples from the official ByteDance Seed release and Volcengine ModelArk documentation. The Twitter/X entries below are treated separately as community prompt cases.
-
-**Official sources:** [ByteDance Seed release](https://seed.bytedance.com/zh/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro) · [Volcengine ModelArk tutorial](https://www.volcengine.com/docs/82379/1824121)
+> Source-backed launch examples collected as official capability cases. The Twitter/X entries below are treated separately as community prompt cases.
 
 <a id="official-interaction-control"></a>
 
@@ -406,9 +404,9 @@ Group multilingual samples by rendered language and local-text use case.
 
 | മെട്രിക് | എണ്ണം |
 |--------|-------|
-| ആകെ prompts | **108** |
+| ആകെ prompts | **112** |
 | Featured | **10** |
-| അവസാന അപ്ഡേറ്റ് | **2026 ജൂലൈ 10, വെള്ളിയാഴ്‌ച, UTC 10:48:16 AM-ന്** |
+| അവസാന അപ്ഡേറ്റ് | **2026 ജൂലൈ 10, വെള്ളിയാഴ്‌ച, UTC 12:39:00 PM-ന്** |
 
 </div>
 
@@ -2008,7 +2006,7 @@ a full trading terminal — K-lines, order book, bid/ask, volume, timestamps
 
 <a id="workflow-diagrams-technical-storyboards"></a>
 
-### Diagrams, Technical Art & Storyboards (4)
+### Diagrams, Technical Art & Storyboards (5)
 
 Structured visuals where information order matters: diagrams, technical drawings, multi-panel sequences, and storyboards.
 
@@ -2139,9 +2137,59 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 ---
 
+<a id="prompt-130"></a>
+
+#### No. 35: Spanish seafood paella production storyboard
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### വിവരണം
+
+A fresh public X prompt for a nine-panel cinematic food storyboard, useful for testing recipe sequencing, panel layout, and readable production-board captions.
+
+##### Prompt
+
+```
+A wide horizontal storyboard layout, 16:9 aspect ratio, arranged in a clean 3x3 grid with 9 panels total. Thin black borders separating each frame. Warm parchment/off-white background like a printed production board. At the top center, add the title: SPANISH SEAFOOD PAELLA — Production Storyboard. Each panel should have a small white label box in the top-left corner with the panel number in brackets: [1], [2], [3], etc. Under each panel, add a short italic serif caption starting with a two-digit number and an em dash.
+
+Visual style: High-end cinematic food photography, warm rustic Spanish outdoor kitchen, golden afternoon sunlight, open wood fire flame beneath a wide carbon-steel paella pan, smoke, rough wooden outdoor table, terracotta tiles, saffron-yellow rice, bright red and orange seafood, old Spanish kitchen tools in the background, realistic textures, caramelized socarrat, appetizing food details, premium commercial cooking video look.
+
+Panels:
+[1] Hands finely dicing ripe tomato and red pepper on a rough wooden board, golden olive oil in a small ceramic dish nearby, warm Spanish sunlight. Caption: 01 — Prepare sofrito base ingredients.
+[2] The sofrito of tomato, pepper, and garlic sizzling and slowly reducing in a wide carbon-steel paella pan over an open wood fire, smoke curling up. Caption: 02 — Fry sofrito in paella pan.
+[3] Dry bomba rice poured into the sofrito, stirred with a wooden spoon until each grain is coated and lightly toasted, shimmering in oil. Caption: 03 — Toast bomba rice in pan.
+[4] Bright saffron-infused golden stock being poured in a generous steady stream into the pan, steam surging dramatically as it hits the hot rice. Caption: 04 — Add saffron-infused stock.
+[5] Fresh mussels, clams, whole prawns, and squid rings arranged in a decorative circle over the simmering saffron rice, raw seafood glistening. Caption: 05 — Arrange seafood over the rice.
+[6] The paella pan on the open wood fire, rice cooking undisturbed, the edges beginning to caramelize into the deep golden-brown socarrat crust. Caption: 06 — Allow socarrat crust to form.
+[7] A wooden spoon lifting the edge of the rice to reveal the dark, crispy caramelized socarrat bottom — the sign of a perfect paella. Caption: 07 — Check the golden socarrat crust.
+[8] Pan removed from fire, lemon halves squeezed over the seafood in a golden mist of juice, fresh flat-leaf parsley scattered generously over the top. Caption: 08 — Rest, add lemon and parsley.
+[9] Final hero shot of the complete paella pan on a rough wooden outdoor table, afternoon Spanish light, steam rising, seafood glistening, wooden spoon beside it. Caption: 09 — Completed paella, hero shot.
+
+Make the entire storyboard feel like a polished production planning sheet for a premium Spanish food commercial. Keep every panel realistic, cinematic, warm golden-toned, detailed, consistent in lighting and outdoor kitchen environment.
+```
+
+##### Generated images
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM2cp7wbMAI3GCQ.jpg" width="100%" alt="Spanish seafood paella production storyboard - Image 1"></td>
+</tr>
+</table>
+
+##### വിവരങ്ങൾ
+
+- **രചയിതാവ്:** [@Strength04_X](https://x.com/Strength04_X)
+- **ഉറവിടം:** [ഉറവിടം](https://x.com/Strength04_X/status/2075487330996273442)
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 10
+- **ഭാഷകൾ:** en
+
+**[ഈ prompt ഉപയോഗിക്കുക · ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
 <a id="prompt-77"></a>
 
-#### No. 35: Exploded engineering diagram layout
+#### No. 36: Exploded engineering diagram layout
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2178,7 +2226,7 @@ Create an exploded technical diagram of a compact high-end AI camera module, eve
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### Characters, Cinema & Visual Styles (37)
+### Characters, Cinema & Visual Styles (39)
 
 Character, portrait, fashion, cinematic-frame, and style-exploration prompts centered on visual direction and image language.
 
@@ -2191,7 +2239,7 @@ Character, portrait, fashion, cinematic-frame, and style-exploration prompts cen
 
 <a id="prompt-8"></a>
 
-#### No. 36: Rain-soaked noir roadside diner
+#### No. 37: Rain-soaked noir roadside diner
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2226,7 +2274,7 @@ Create a wide exterior noir shot of a lonely roadside diner during heavy night r
 
 <a id="prompt-9"></a>
 
-#### No. 37: Sun Throne scale contrast
+#### No. 38: Sun Throne scale contrast
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2261,7 +2309,7 @@ Build a fantasy film still titled The Sun Throne. Place a bowed supplicant in so
 
 <a id="prompt-10"></a>
 
-#### No. 38: Whiteout survival abstraction
+#### No. 39: Whiteout survival abstraction
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2296,7 +2344,7 @@ Create a survival film still in a total snow whiteout. Reduce the mountaineer to
 
 <a id="prompt-11"></a>
 
-#### No. 39: Lived-in afternoon kitchen portrait
+#### No. 40: Lived-in afternoon kitchen portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2331,7 +2379,7 @@ Photograph a relaxed adult woman leaning against a kitchen counter in a lived-in
 
 <a id="prompt-12"></a>
 
-#### No. 40: Western Front dawn trench still
+#### No. 41: Western Front dawn trench still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2366,7 +2414,7 @@ Create a 1916 Western Front film still at dawn. Show an exhausted young soldier 
 
 <a id="prompt-14"></a>
 
-#### No. 41: Anime sorceress key visual
+#### No. 42: Anime sorceress key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2401,7 +2449,7 @@ Create an epic Japanese anime key visual of a sorceress mid-incantation. Use a l
 
 <a id="prompt-30"></a>
 
-#### No. 42: San Francisco sunset phone candid
+#### No. 43: San Francisco sunset phone candid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2451,7 +2499,7 @@ Source: [Source](https://x.com/mattworkman/status/2074850550349222210)
 
 <a id="prompt-34"></a>
 
-#### No. 43: Noir cigarette ember close-up
+#### No. 44: Noir cigarette ember close-up
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2486,7 +2534,7 @@ Create an extreme noir close-up in near-total darkness. Let a cigarette ember gl
 
 <a id="prompt-35"></a>
 
-#### No. 44: Courtroom witness hard-key portrait
+#### No. 45: Courtroom witness hard-key portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2521,7 +2569,7 @@ Frame a tense courtroom witness in tight portrait. Half-light the face with a ha
 
 <a id="prompt-36"></a>
 
-#### No. 45: Mob kitchen sauce-and-threat still
+#### No. 46: Mob kitchen sauce-and-threat still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2556,7 +2604,7 @@ Create a cramped mob-drama kitchen still. Steam rises from a pot of sauce while 
 
 <a id="prompt-37"></a>
 
-#### No. 46: Family table mob drama wide shot
+#### No. 47: Family table mob drama wide shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2591,7 +2639,7 @@ Compose a wide shot of a cramped family kitchen table crowded with plates. Place
 
 <a id="prompt-38"></a>
 
-#### No. 47: Aristocratic alien diplomat portrait
+#### No. 48: Aristocratic alien diplomat portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2626,7 +2674,7 @@ Design a cinematic portrait of an aristocratic alien diplomat with pale lavender
 
 <a id="prompt-39"></a>
 
-#### No. 48: Villeneuve-style neutral mask portrait
+#### No. 49: Villeneuve-style neutral mask portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2661,7 +2709,7 @@ Create a close character portrait with very pale skin, light eyes, and an entire
 
 <a id="prompt-41"></a>
 
-#### No. 49: War robot city cannon blast
+#### No. 50: War robot city cannon blast
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2696,7 +2744,7 @@ Create a cinematic sci-fi action still of a massive humanoid war robot firing an
 
 <a id="prompt-42"></a>
 
-#### No. 50: Natural copper-red close portrait
+#### No. 51: Natural copper-red close portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2731,7 +2779,7 @@ Make a medium-format close portrait of a young European woman with copper-red ha
 
 <a id="prompt-43"></a>
 
-#### No. 51: Magical realist dry-lake fisherman
+#### No. 52: Magical realist dry-lake fisherman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2766,7 +2814,7 @@ Create a wide low-angle magical-realist film still of an old fisherman kneeling 
 
 <a id="prompt-45"></a>
 
-#### No. 52: Bleach-bypass thriller pursuit
+#### No. 53: Bleach-bypass thriller pursuit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2799,9 +2847,92 @@ Create a bleach-bypass thriller still with harsh desaturated contrast, blown hig
 
 ---
 
+<a id="prompt-131"></a>
+
+#### No. 54: Four-film-still noir lighting prompt set
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### വിവരണം
+
+A public ALT-prompt set for western, gothic-horror, war-drama, and thriller film stills, focused on negative space, hard key light, and anamorphic composition.
+
+##### Prompt
+
+```
+Prompt 1:
+Cinematic western film still, "Salt Flat Reckoning" — SHOT 2. Close-up: the rider's sun-cracked face beneath a wide-brim hat, deep shadow carved under the brim, only the lower half of his face lit by blinding white noon sun, jaw set, eyes invisible in shadow. Heat shimmer softens the background to a white blur. Bleached desaturated palette, harsh top light, 35mm film grain, anamorphic 2.39:1 letterbox.
+
+Prompt 2:
+Cinematic gothic-horror film still, "The Hollow Choir". Interior of a ruined cathedral at night, moonlight falling through a single broken stained-glass window in a shaft of cold blue-white light across the stone floor. A lone robed figure kneels at the edge of the light, face in shadow. Vaulted ceiling dissolves into total black above. Desaturated blue-grey palette, dust motes visible in the light shaft, high-contrast noir shadow, 35mm grain, anamorphic 2.39:1, director's-note composition.
+
+Prompt 3:
+Cinematic war-drama film still, "Last Transmission". Extreme close-up: a soldier's hand gripping a cracked radio handset, knuckles white, mud and blood under the fingernails. Backlit by a single flare arcing somewhere off-frame, throwing hard orange rim-light across the hand while the rest stays near-black. Smoke drifting through the light shaft. Ultra high contrast, single hard practical key, 90% negative space in shadow, 35mm grain, anamorphic 2.39:1, cinematic.
+
+Prompt 4:
+Cinematic thriller film still, "Static Frequency". Interior wide shot: an abandoned lighthouse control room at night, banks of dead analog equipment glowing faint green from one dying monitor. A lone operator sits with back to camera, headphones on, face unseen. Dust hangs visible in the single shaft of light. Everything outside that glow drops to black. Cold teal-green key, high-contrast noir shadow, film grain, anamorphic 2.39:1 letterbox, director's-note style, shot on anamorphic 35mm.
+```
+
+##### Generated images
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM3BLMvaoAAxbFh.jpg" width="100%" alt="Four-film-still noir lighting prompt set - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM3BLM2asAA8d5O.jpg" width="100%" alt="Four-film-still noir lighting prompt set - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM3BLM5bsAAEoPz.jpg" width="100%" alt="Four-film-still noir lighting prompt set - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM3BLM-acAADVJY.jpg" width="100%" alt="Four-film-still noir lighting prompt set - Image 4"></td>
+</tr>
+</table>
+
+##### വിവരങ്ങൾ
+
+- **രചയിതാവ്:** [@Photonotix16](https://x.com/Photonotix16)
+- **ഉറവിടം:** [ഉറവിടം](https://x.com/Photonotix16/status/2075529012156539185)
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 10
+- **ഭാഷകൾ:** en
+
+**[ഈ prompt ഉപയോഗിക്കുക · ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
+<a id="prompt-132"></a>
+
+#### No. 55: Transparent android ballet halation portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### വിവരണം
+
+A public ALT prompt normalized into clean English for a translucent android fashion portrait with Kodak-style halation and cinematic grain.
+
+##### Prompt
+
+```
+Create a hybrid female android with translucent skin and white-gray mechanical plates. Give her a medium-length bob cut swept to the left, dyed white-blond, with soft strands framing the face. The blurred translucent latex-like skin reveals internal cybernetic mechanisms while keeping a glamorous ballet-inspired silhouette: narrow waist, strong shoulders, sculptural legs, and poised elegance. Place her in an empty park with autumn trees, an overcast sky, and dawn sunlight breaking through the clouds. Shoot the image as a full-body 35mm Kodak Vision3 cinematic photograph with red halation around the highlights, visible film grain, and a realistic analog finish. Pose her with one leg extended forward on pointe, wearing only a salmon-pink tutu. Keep the image refined, surreal, and fashion-editorial rather than plastic or cartoonish.
+```
+
+##### Generated images
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM2vcwGWQAAeheD.jpg" width="100%" alt="Transparent android ballet halation portrait - Image 1"></td>
+</tr>
+</table>
+
+##### വിവരങ്ങൾ
+
+- **രചയിതാവ്:** [@_wib_](https://x.com/_wib_)
+- **ഉറവിടം:** [ഉറവിടം](https://x.com/_wib_/status/2075508470468473030)
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 10
+- **ഭാഷകൾ:** en
+
+**[ഈ prompt ഉപയോഗിക്കുക · ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
 <a id="prompt-95"></a>
 
-#### No. 53: Extreme close-up portrait camera template
+#### No. 56: Extreme close-up portrait camera template
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2837,7 +2968,7 @@ Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. 
 
 <a id="prompt-79"></a>
 
-#### No. 54: Master ink art animal study
+#### No. 57: Master ink art animal study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2872,7 +3003,7 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 
 <a id="prompt-81"></a>
 
-#### No. 55: Pancake angel dessert illustration
+#### No. 58: Pancake angel dessert illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -2907,7 +3038,7 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 
 <a id="prompt-82"></a>
 
-#### No. 56: Soft anime expression pair
+#### No. 59: Soft anime expression pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2943,7 +3074,7 @@ Generate a paired anime character study of the same young adventurer in two emot
 
 <a id="prompt-85"></a>
 
-#### No. 57: Cloud maker fantasy portrait
+#### No. 60: Cloud maker fantasy portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2978,7 +3109,7 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 
 <a id="prompt-98"></a>
 
-#### No. 58: Casual cafe-step street portrait
+#### No. 61: Casual cafe-step street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3024,7 +3155,7 @@ Camera feel: taken by a friend standing in front of her with a smartphone, using
 
 <a id="prompt-118"></a>
 
-#### No. 59: Fashion outfit editorial set in a parking structure
+#### No. 62: Fashion outfit editorial set in a parking structure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3062,7 +3193,7 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 
 <a id="prompt-92"></a>
 
-#### No. 60: Backlit street portrait feeding stray cats
+#### No. 63: Backlit street portrait feeding stray cats
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3098,7 +3229,7 @@ A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid compos
 
 <a id="prompt-129"></a>
 
-#### No. 61: Anime skateboard sequence with multiple shot prompts
+#### No. 64: Anime skateboard sequence with multiple shot prompts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3146,7 +3277,7 @@ A girl with a sharp bob cut, purple hair with black accent strands, stylized lay
 
 <a id="prompt-117"></a>
 
-#### No. 62: ARRI-style cinematic city close-up
+#### No. 65: ARRI-style cinematic city close-up
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3193,7 +3324,7 @@ A teenager stands behind a metal chain-link fence in a grassy outdoor area. She 
 
 <a id="prompt-114"></a>
 
-#### No. 63: Japanese casual portrait styling set
+#### No. 66: Japanese casual portrait styling set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3231,7 +3362,7 @@ A beautiful young Japanese woman, natural and effortless beauty, soft glowing sk
 
 <a id="prompt-121"></a>
 
-#### No. 64: Iridescent glass-flower editorial poster
+#### No. 67: Iridescent glass-flower editorial poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3270,7 +3401,7 @@ The layout is filled with clean blocks of small white placeholder body text and 
 
 <a id="prompt-106"></a>
 
-#### No. 65: Melting-world-landmarks concept generation
+#### No. 68: Melting-world-landmarks concept generation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3306,7 +3437,7 @@ world's landmarks, melting like wax
 
 <a id="prompt-113"></a>
 
-#### No. 66: Fantasy fallen-angel warrior key visual
+#### No. 69: Fantasy fallen-angel warrior key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3341,7 +3472,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 <a id="prompt-105"></a>
 
-#### No. 67: Fisheye editorial portraits with miniature clone motif
+#### No. 70: Fisheye editorial portraits with miniature clone motif
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3381,7 +3512,7 @@ Unretouched natural photograph, shot on cinema camera with subtle halation, fine
 
 <a id="prompt-108"></a>
 
-#### No. 68: Photorealistic high-fashion portrait lighting
+#### No. 71: Photorealistic high-fashion portrait lighting
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3445,7 +3576,7 @@ Environment, architecture, landscape, concept-art, and worldbuilding prompts whe
 
 <a id="prompt-13"></a>
 
-#### No. 69: Capital ship over alien planet
+#### No. 72: Capital ship over alien planet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3480,7 +3611,7 @@ Render a massive capital-class spaceship orbiting a fictional alien planet. Use 
 
 <a id="prompt-15"></a>
 
-#### No. 70: Floating temple archipelago key visual
+#### No. 73: Floating temple archipelago key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3515,7 +3646,7 @@ Design a wide anime establishing shot of ancient temple islands floating above a
 
 <a id="prompt-40"></a>
 
-#### No. 71: Ash Country post-apocalypse wanderer
+#### No. 74: Ash Country post-apocalypse wanderer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3550,7 +3681,7 @@ Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray 
 
 <a id="prompt-44"></a>
 
-#### No. 72: Dense neon-noir city skyline
+#### No. 75: Dense neon-noir city skyline
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3585,7 +3716,7 @@ Render a dense neon-noir dystopian city skyline at night from a high 24mm vantag
 
 <a id="prompt-48"></a>
 
-#### No. 73: Parametric landmark infographic pair
+#### No. 76: Parametric landmark infographic pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3621,7 +3752,7 @@ Create a parametric architectural infographic for a famous landmark. Combine a c
 
 <a id="prompt-75"></a>
 
-#### No. 74: Worldbuilding anchor frame color grade
+#### No. 77: Worldbuilding anchor frame color grade
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3652,7 +3783,7 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 
 <a id="prompt-91"></a>
 
-#### No. 75: Ethereal librarian on a frozen lake
+#### No. 78: Ethereal librarian on a frozen lake
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3687,7 +3818,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 <a id="prompt-89"></a>
 
-#### No. 76: Knight beneath a colossal stone sentinel
+#### No. 79: Knight beneath a colossal stone sentinel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3736,7 +3867,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 <a id="prompt-112"></a>
 
-#### No. 77: Impossible-scale cinematic sci-fi worldbuilding set
+#### No. 80: Impossible-scale cinematic sci-fi worldbuilding set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3784,7 +3915,7 @@ A mountain village built on impossibly tall stone pillars extends far above Eart
 
 <a id="prompt-109"></a>
 
-#### No. 78: Solar-powered desert research station concept
+#### No. 81: Solar-powered desert research station concept
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3819,7 +3950,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 <a id="prompt-125"></a>
 
-#### No. 79: Bedroom design variations for MBTI types
+#### No. 82: Bedroom design variations for MBTI types
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3857,7 +3988,7 @@ design a bedroom for each MBTI type
 
 <a id="workflow-benchmarks-model-comparisons"></a>
 
-### Benchmarks & Model Comparisons (20)
+### Benchmarks & Model Comparisons (21)
 
 Controlled tests and comparisons used to evaluate prompt following, editing behavior, consistency, typography, or visual quality.
 
@@ -3867,7 +3998,7 @@ Controlled tests and comparisons used to evaluate prompt following, editing beha
 
 <a id="prompt-4"></a>
 
-#### No. 80: Avant-garde streetwear creator sheet
+#### No. 83: Avant-garde streetwear creator sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3905,7 +4036,7 @@ Design a full-body character sheet for a male creator in avant-garde streetwear.
 
 <a id="prompt-6"></a>
 
-#### No. 81: Maldives tropical paradise visual
+#### No. 84: Maldives tropical paradise visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3956,7 +4087,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 <a id="prompt-53"></a>
 
-#### No. 82: Makeup identity-preservation comparison
+#### No. 85: Makeup identity-preservation comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -3993,9 +4124,56 @@ Use the uploaded portrait as the identity anchor. Change only the makeup: add re
 
 ---
 
+<a id="prompt-133"></a>
+
+#### No. 86: Four Symbols macro eye poster comparison
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### വിവരണം
+
+A Chinese public comparison prompt translated and localized into English, preserving the Four Symbols art direction while avoiding Chinese prompt text.
+
+##### Prompt
+
+```
+Use the uploaded close-up eye reference as the only reference for the person's eye identity. Create a 3:4 four-panel Eastern fantasy art portrait focused on the eyes. Each panel represents one of the Four Symbols: Qinglong, Zhuque, Baihu, and Xuanwu. Overall style: Eastern mythological beauty, luxury makeup advertising, surreal art photography. Preserve realistic human eye anatomy, macro photographic detail, natural skin texture, fine eyelashes, delicate eye makeup, and the same eye shape. All four panels must keep the same identity, angle, and composition.
+
+Panel 1: Qinglong, spring awakening. The iris is jade-green, like a natural Eastern gemstone. Inside the iris, hide a miniature landscape with Qinglong coiling through mist, bamboo, peach blossoms, and flowing water. Transform the eyelashes into slender bamboo leaves and blue-green feather textures, with tiny peach petals near the corner of the eye. Add a gentle spring glow and green light around the eye. Place the Latin label "Qinglong" in translucent white seal-style lettering. Palette: elegant green, airy, alive.
+
+Panel 2: Zhuque, blazing summer. The iris is red-gold amber. Inside the iris, create a small phoenix world: Zhuque spreads its wings through golden flame, phoenix feathers, and sunset clouds. Give the eyelashes subtle flame-feather texture, with small golden feathers near the eye corner. Light the skin with warm gold illumination for a premium jewelry-campaign feel. Place the Latin label "Zhuque" in translucent white-gold seal-style lettering. Palette: red and gold, ornate, passionate, sacred.
+
+Panel 3: Baihu, autumn severity. The iris is golden amber. Inside the iris, create an Eastern autumn forest with Baihu hidden among golden trees, maple leaves, ancient trunks, and drifting dust. Blend white tiger-stripe texture and autumn leaf motifs into the eyelashes, with faint silver-white markings around the brow. Use sunset light through the forest for cinematic warmth. Place the Latin label "Baihu" in translucent white ink-style lettering. Palette: gold, silver-white, deep brown, mysterious and noble.
+
+Panel 4: Xuanwu, frozen mystic realm. The iris is ice-blue crystal. Inside the iris, create an Eastern snow world with Xuanwu sleeping among glaciers, a frozen lake, snow mountains, ice crystals, and cold mist. Cover the eyelashes with transparent ice-crystal texture and add tiny snowflakes with silver light at the eye corner. Use cold blue moonlight for an ice-goddess luxury visual. Place the Latin label "Xuanwu" in translucent white calligraphic lettering. Palette: ice blue and silver-white, cold, pure, ethereal.
+
+Unified requirements: arrange all four panels neatly like a high-end art exhibition poster. Use a minimal Eastern negative-space background with faint ink texture, mist, and metallic embossed detail. Typography should feel like traditional seal engraving rendered in white translucent Latin labels, never modern commercial type. Photography style: macro eye photography, ultra-realistic skin texture, cinematic lighting, luxury beauty campaign, 8K detail, high-fashion editorial. Avoid cartoon style, anime eyes, distorted eyeballs, low-quality CG, plastic skin, wrong text, and extra eyes.
+```
+
+##### Generated images
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM2Fir4aUAA606L.jpg" width="100%" alt="Four Symbols macro eye poster comparison - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM2Fjq0aAAAIb9A.jpg" width="100%" alt="Four Symbols macro eye poster comparison - Image 2"></td>
+</tr>
+</table>
+
+##### വിവരങ്ങൾ
+
+- **രചയിതാവ്:** [@Chengzilhy](https://x.com/Chengzilhy)
+- **ഉറവിടം:** [ഉറവിടം](https://x.com/Chengzilhy/status/2075462701887930745)
+- **പ്രസിദ്ധീകരിച്ചത്:** 2026 ജൂലൈ 10
+- **ഭാഷകൾ:** en
+
+**[ഈ prompt ഉപയോഗിക്കുക · ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
 <a id="prompt-76"></a>
 
-#### No. 83: Sepia documentary portrait study
+#### No. 87: Sepia documentary portrait study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4033,7 +4211,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 <a id="prompt-99"></a>
 
-#### No. 84: Minimal painting replacement iteration test
+#### No. 88: Minimal painting replacement iteration test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4065,7 +4243,7 @@ Change the painting.
 
 <a id="prompt-83"></a>
 
-#### No. 85: Afternoon street portrait prompt
+#### No. 89: Afternoon street portrait prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4109,7 +4287,7 @@ A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro
 
 <a id="prompt-84"></a>
 
-#### No. 86: Old-money creator turnaround sheet
+#### No. 90: Old-money creator turnaround sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4147,7 +4325,7 @@ Character design sheet, full body turnaround, 23-year-old tall lean male creator
 
 <a id="prompt-86"></a>
 
-#### No. 87: Same-prompt model comparison triptych
+#### No. 91: Same-prompt model comparison triptych
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4184,7 +4362,7 @@ Create a clean three-panel comparison board for the same visual prompt across th
 
 <a id="prompt-93"></a>
 
-#### No. 88: 1990s Andalusian home-video still
+#### No. 92: 1990s Andalusian home-video still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4219,7 +4397,7 @@ A public same-prompt Seedream 5 Pro comparison prompt recreating the imperfect e
 
 <a id="prompt-110"></a>
 
-#### No. 89: Reference-image camera-angle change comparison
+#### No. 93: Reference-image camera-angle change comparison
 
 ![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4258,7 +4436,7 @@ A source-backed evaluation from the original public X post, demonstrating refere
 
 <a id="prompt-128"></a>
 
-#### No. 90: Lake Como fashion scene comparison against Banana Pro
+#### No. 94: Lake Como fashion scene comparison against Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4302,7 +4480,7 @@ Natural skin texture with soft luminosity, gentle sheen on nose and lips, crisp 
 
 <a id="prompt-127"></a>
 
-#### No. 91: Fantasy village watermill comparison against GPT Image 2
+#### No. 95: Fantasy village watermill comparison against GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4338,7 +4516,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 <a id="prompt-111"></a>
 
-#### No. 92: Oversized beverage-can advertising composition comparison
+#### No. 96: Oversized beverage-can advertising composition comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4374,7 +4552,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 <a id="prompt-96"></a>
 
-#### No. 93: Bedroom mirror-selfie influencer portrait
+#### No. 97: Bedroom mirror-selfie influencer portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4421,7 +4599,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 <a id="prompt-107"></a>
 
-#### No. 94: Seedream vs GPT Image 2 for clean lifestyle portrait styling
+#### No. 98: Seedream vs GPT Image 2 for clean lifestyle portrait styling
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4457,7 +4635,7 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 <a id="prompt-116"></a>
 
-#### No. 95: Anime key-visual comparison
+#### No. 99: Anime key-visual comparison
 
 ![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
 
@@ -4492,7 +4670,7 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 <a id="prompt-115"></a>
 
-#### No. 96: Chengdu travel scrapbook poster comparison
+#### No. 100: Chengdu travel scrapbook poster comparison
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4544,7 +4722,7 @@ A source-backed evaluation from the original public X post, demonstrating chengd
 
 <a id="prompt-97"></a>
 
-#### No. 97: Seat-belted car selfie first frame
+#### No. 101: Seat-belted car selfie first frame
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4589,7 +4767,7 @@ A detailed public Chinese same-prompt comparison for a realistic 16:9 in-car sel
 
 <a id="prompt-100"></a>
 
-#### No. 98: Multi-task Seedream capability sampling from four Chinese prompts
+#### No. 102: Multi-task Seedream capability sampling from four Chinese prompts
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4653,19 +4831,19 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 - [ImagineVid](https://imaginevid.io)
 <details>
-<summary>കമ്മ്യൂണിറ്റി സ്രഷ്ടാക്കൾക്ക് നന്ദി (81)</summary>
+<summary>കമ്മ്യൂണിറ്റി സ്രഷ്ടാക്കൾക്ക് നന്ദി (84)</summary>
 
-[@abdoul94_](https://x.com/abdoul94_) · [@ahmetmertugrul](https://x.com/ahmetmertugrul) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [@AiwithZohaib](https://x.com/AiwithZohaib) · [@al_tools43377](https://x.com/al_tools43377) · [@AllaAisling](https://x.com/AllaAisling) · [@Arminn_Ai](https://x.com/Arminn_Ai) · [@asatoucan](https://x.com/asatoucan)<br>
-[@asheem01](https://x.com/asheem01) · [@ashen_one](https://x.com/ashen_one) · [@ayumi_t820](https://x.com/ayumi_t820) · [@aziz4ai](https://x.com/aziz4ai) · [@bdsqlsz](https://x.com/bdsqlsz) · [@Bic_Revelation](https://x.com/Bic_Revelation) · [@bmx_ai13](https://x.com/bmx_ai13) · [@Boluwatifeolad7](https://x.com/Boluwatifeolad7)<br>
-[@BubbleBrain](https://x.com/BubbleBrain) · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · [@capcutapp](https://x.com/capcutapp) · [@Chain_Loader](https://x.com/Chain_Loader) · [@characternexus](https://x.com/characternexus) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Cia0_exe](https://x.com/Cia0_exe) · [@Ciri_ai](https://x.com/Ciri_ai)<br>
-[@ComfyUI](https://x.com/ComfyUI) · [@cso6709](https://x.com/cso6709) · [@DeepBlueAIX](https://x.com/DeepBlueAIX) · [@df_reno](https://x.com/df_reno) · [@diffractstudio](https://x.com/diffractstudio) · [@Digitalwindai](https://x.com/Digitalwindai) · [@Echoes999Y](https://x.com/Echoes999Y) · [@ElaraGrace_AI](https://x.com/ElaraGrace_AI)<br>
-[@emmanuel_2m](https://x.com/emmanuel_2m) · [@filodyprincess](https://x.com/filodyprincess) · [@FloraTechAI](https://x.com/FloraTechAI) · [@HarshBisen143](https://x.com/HarshBisen143) · [@haruuraeadss](https://x.com/haruuraeadss) · [@hasamaru_studio](https://x.com/hasamaru_studio) · [@higginswerx](https://x.com/higginswerx) · [@iamrealsnow](https://x.com/iamrealsnow)<br>
-[@ItsMaryAI](https://x.com/ItsMaryAI) · [@itsPixieVerse](https://x.com/itsPixieVerse) · [@JameFalken](https://x.com/JameFalken) · [@JennyAITech](https://x.com/JennyAITech) · [@johnAGI168](https://x.com/johnAGI168) · [@JossMonzoni](https://x.com/JossMonzoni) · [@karim_yourself](https://x.com/karim_yourself) · [@KishenArt](https://x.com/KishenArt)<br>
-[@krea_ai](https://x.com/krea_ai) · [@LiamEtherson](https://x.com/LiamEtherson) · [@liyue_ai](https://x.com/liyue_ai) · [@lukfan](https://x.com/lukfan) · [@madpencil_](https://x.com/madpencil_) · [@magnific](https://x.com/magnific) · [@marmaduke091](https://x.com/marmaduke091) · [@mattworkman](https://x.com/mattworkman)<br>
-[@MishikaAI](https://x.com/MishikaAI) · [@munzxsdv](https://x.com/munzxsdv) · [@noorwithwifi](https://x.com/noorwithwifi) · [@op7418](https://x.com/op7418) · [@OpenDesignHQ](https://x.com/OpenDesignHQ) · [@renataro9](https://x.com/renataro9) · [@renoiseai](https://x.com/renoiseai) · [@roco_kn_roco](https://x.com/roco_kn_roco)<br>
-[@rovvmut_](https://x.com/rovvmut_) · [@SeharShinwari](https://x.com/SeharShinwari) · [@shikoba_86](https://x.com/shikoba_86) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@stargliderbr](https://x.com/stargliderbr) · [@Strength04_X](https://x.com/Strength04_X) · [@sulekhat95](https://x.com/sulekhat95) · [@techhalla](https://x.com/techhalla)<br>
-[@techxsarfraj](https://x.com/techxsarfraj) · [@ThinkerSilentH](https://x.com/ThinkerSilentH) · [@TlanoAI](https://x.com/TlanoAI) · [@underwoodxie96](https://x.com/underwoodxie96) · [@UnityEagle](https://x.com/UnityEagle) · [@westkast](https://x.com/westkast) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [@ZariaTechAI](https://x.com/ZariaTechAI)<br>
-[@Zubnet](https://x.com/Zubnet)
+[@_wib_](https://x.com/_wib_) · [@abdoul94_](https://x.com/abdoul94_) · [@ahmetmertugrul](https://x.com/ahmetmertugrul) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [@AiwithZohaib](https://x.com/AiwithZohaib) · [@al_tools43377](https://x.com/al_tools43377) · [@AllaAisling](https://x.com/AllaAisling) · [@Arminn_Ai](https://x.com/Arminn_Ai)<br>
+[@asatoucan](https://x.com/asatoucan) · [@asheem01](https://x.com/asheem01) · [@ashen_one](https://x.com/ashen_one) · [@ayumi_t820](https://x.com/ayumi_t820) · [@aziz4ai](https://x.com/aziz4ai) · [@bdsqlsz](https://x.com/bdsqlsz) · [@Bic_Revelation](https://x.com/Bic_Revelation) · [@bmx_ai13](https://x.com/bmx_ai13)<br>
+[@Boluwatifeolad7](https://x.com/Boluwatifeolad7) · [@BubbleBrain](https://x.com/BubbleBrain) · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · [@capcutapp](https://x.com/capcutapp) · [@Chain_Loader](https://x.com/Chain_Loader) · [@characternexus](https://x.com/characternexus) · [@Chengzilhy](https://x.com/Chengzilhy) · [@ChillaiKalan__](https://x.com/ChillaiKalan__)<br>
+[@Cia0_exe](https://x.com/Cia0_exe) · [@Ciri_ai](https://x.com/Ciri_ai) · [@ComfyUI](https://x.com/ComfyUI) · [@cso6709](https://x.com/cso6709) · [@DeepBlueAIX](https://x.com/DeepBlueAIX) · [@df_reno](https://x.com/df_reno) · [@diffractstudio](https://x.com/diffractstudio) · [@Digitalwindai](https://x.com/Digitalwindai)<br>
+[@Echoes999Y](https://x.com/Echoes999Y) · [@ElaraGrace_AI](https://x.com/ElaraGrace_AI) · [@emmanuel_2m](https://x.com/emmanuel_2m) · [@filodyprincess](https://x.com/filodyprincess) · [@FloraTechAI](https://x.com/FloraTechAI) · [@HarshBisen143](https://x.com/HarshBisen143) · [@haruuraeadss](https://x.com/haruuraeadss) · [@hasamaru_studio](https://x.com/hasamaru_studio)<br>
+[@higginswerx](https://x.com/higginswerx) · [@iamrealsnow](https://x.com/iamrealsnow) · [@ItsMaryAI](https://x.com/ItsMaryAI) · [@itsPixieVerse](https://x.com/itsPixieVerse) · [@JameFalken](https://x.com/JameFalken) · [@JennyAITech](https://x.com/JennyAITech) · [@johnAGI168](https://x.com/johnAGI168) · [@JossMonzoni](https://x.com/JossMonzoni)<br>
+[@karim_yourself](https://x.com/karim_yourself) · [@KishenArt](https://x.com/KishenArt) · [@krea_ai](https://x.com/krea_ai) · [@LiamEtherson](https://x.com/LiamEtherson) · [@liyue_ai](https://x.com/liyue_ai) · [@lukfan](https://x.com/lukfan) · [@madpencil_](https://x.com/madpencil_) · [@magnific](https://x.com/magnific)<br>
+[@marmaduke091](https://x.com/marmaduke091) · [@mattworkman](https://x.com/mattworkman) · [@MishikaAI](https://x.com/MishikaAI) · [@munzxsdv](https://x.com/munzxsdv) · [@noorwithwifi](https://x.com/noorwithwifi) · [@op7418](https://x.com/op7418) · [@OpenDesignHQ](https://x.com/OpenDesignHQ) · [@Photonotix16](https://x.com/Photonotix16)<br>
+[@renataro9](https://x.com/renataro9) · [@renoiseai](https://x.com/renoiseai) · [@roco_kn_roco](https://x.com/roco_kn_roco) · [@rovvmut_](https://x.com/rovvmut_) · [@SeharShinwari](https://x.com/SeharShinwari) · [@shikoba_86](https://x.com/shikoba_86) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@stargliderbr](https://x.com/stargliderbr)<br>
+[@Strength04_X](https://x.com/Strength04_X) · [@sulekhat95](https://x.com/sulekhat95) · [@techhalla](https://x.com/techhalla) · [@techxsarfraj](https://x.com/techxsarfraj) · [@ThinkerSilentH](https://x.com/ThinkerSilentH) · [@TlanoAI](https://x.com/TlanoAI) · [@underwoodxie96](https://x.com/underwoodxie96) · [@UnityEagle](https://x.com/UnityEagle)<br>
+[@westkast](https://x.com/westkast) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [@ZariaTechAI](https://x.com/ZariaTechAI) · [@Zubnet](https://x.com/Zubnet)
 
 </details>
 
@@ -4685,6 +4863,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt submit ചെയ്യുക](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ഈ repo-യ്ക്ക് Star നൽകുക](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-10T10:48:16.272Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-10T12:39:00.673Z</sub>
 
 </div>

@@ -456,9 +456,7 @@ function generateOfficialCasesSection(groups: OfficialCaseGroup[]): string {
 
   let md = `<a id="official-capability-cases"></a>\n\n`;
   md += `## Official Capability Cases\n\n`;
-  md += `> Source-backed launch examples from the official ByteDance Seed release and Volcengine ModelArk documentation. The Twitter/X entries below are treated separately as community prompt cases.\n\n`;
-  md += `**Official sources:** [ByteDance Seed release](https://seed.bytedance.com/zh/blog/beyond-generation-it-understands-design-introducing-seedream-5-0-pro) · [Volcengine ModelArk tutorial](https://www.volcengine.com/docs/82379/1824121)\n\n`;
-
+  md += `> Source-backed launch examples collected as official capability cases. The Twitter/X entries below are treated separately as community prompt cases.\n\n`;
   for (const group of groups) {
     md += `<a id="official-${group.slug}"></a>\n\n`;
     md += `### ${group.title}\n\n`;

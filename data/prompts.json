@@ -6887,5 +6887,253 @@
         }
       ]
     }
+  },
+  {
+    "id": 130,
+    "model": "seedream-5-pro",
+    "title": "Spanish seafood paella production storyboard",
+    "description": "A fresh public X prompt for a nine-panel cinematic food storyboard, useful for testing recipe sequencing, panel layout, and readable production-board captions.",
+    "content": "A wide horizontal storyboard layout, 16:9 aspect ratio, arranged in a clean 3x3 grid with 9 panels total. Thin black borders separating each frame. Warm parchment/off-white background like a printed production board. At the top center, add the title: SPANISH SEAFOOD PAELLA — Production Storyboard. Each panel should have a small white label box in the top-left corner with the panel number in brackets: [1], [2], [3], etc. Under each panel, add a short italic serif caption starting with a two-digit number and an em dash.\n\nVisual style: High-end cinematic food photography, warm rustic Spanish outdoor kitchen, golden afternoon sunlight, open wood fire flame beneath a wide carbon-steel paella pan, smoke, rough wooden outdoor table, terracotta tiles, saffron-yellow rice, bright red and orange seafood, old Spanish kitchen tools in the background, realistic textures, caramelized socarrat, appetizing food details, premium commercial cooking video look.\n\nPanels:\n[1] Hands finely dicing ripe tomato and red pepper on a rough wooden board, golden olive oil in a small ceramic dish nearby, warm Spanish sunlight. Caption: 01 — Prepare sofrito base ingredients.\n[2] The sofrito of tomato, pepper, and garlic sizzling and slowly reducing in a wide carbon-steel paella pan over an open wood fire, smoke curling up. Caption: 02 — Fry sofrito in paella pan.\n[3] Dry bomba rice poured into the sofrito, stirred with a wooden spoon until each grain is coated and lightly toasted, shimmering in oil. Caption: 03 — Toast bomba rice in pan.\n[4] Bright saffron-infused golden stock being poured in a generous steady stream into the pan, steam surging dramatically as it hits the hot rice. Caption: 04 — Add saffron-infused stock.\n[5] Fresh mussels, clams, whole prawns, and squid rings arranged in a decorative circle over the simmering saffron rice, raw seafood glistening. Caption: 05 — Arrange seafood over the rice.\n[6] The paella pan on the open wood fire, rice cooking undisturbed, the edges beginning to caramelize into the deep golden-brown socarrat crust. Caption: 06 — Allow socarrat crust to form.\n[7] A wooden spoon lifting the edge of the rice to reveal the dark, crispy caramelized socarrat bottom — the sign of a perfect paella. Caption: 07 — Check the golden socarrat crust.\n[8] Pan removed from fire, lemon halves squeezed over the seafood in a golden mist of juice, fresh flat-leaf parsley scattered generously over the top. Caption: 08 — Rest, add lemon and parsley.\n[9] Final hero shot of the complete paella pan on a rough wooden outdoor table, afternoon Spanish light, steam rising, seafood glistening, wooden spoon beside it. Caption: 09 — Completed paella, hero shot.\n\nMake the entire storyboard feel like a polished production planning sheet for a premium Spanish food commercial. Keep every panel realistic, cinematic, warm golden-toned, detailed, consistent in lighting and outdoor kitchen environment.",
+    "sourceLink": "https://x.com/Strength04_X/status/2075487330996273442",
+    "sourcePublishedAt": "2026-07-10T07:48:35.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM2cp7wbMAI3GCQ.jpg"
+    ],
+    "author": {
+      "name": "@Strength04_X",
+      "link": "https://x.com/Strength04_X"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075487330996273442",
+      "prompt_source": "reply_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 4,
+      "quoteCount": 0,
+      "viewCount": 350,
+      "bookmarkCount": 3,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 25,
+          "title": "Storyboard / Video Pipeline",
+          "slug": "storyboard-video-pipeline"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 53,
+          "title": "Food & Recipe",
+          "slug": "food-recipe"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 63,
+          "title": "Diagrams, Technical Art & Storyboards",
+          "slug": "diagrams-technical-storyboards"
+        }
+      ]
+    }
+  },
+  {
+    "id": 131,
+    "model": "seedream-5-pro",
+    "title": "Four-film-still noir lighting prompt set",
+    "description": "A public ALT-prompt set for western, gothic-horror, war-drama, and thriller film stills, focused on negative space, hard key light, and anamorphic composition.",
+    "content": "Prompt 1:\nCinematic western film still, \"Salt Flat Reckoning\" — SHOT 2. Close-up: the rider's sun-cracked face beneath a wide-brim hat, deep shadow carved under the brim, only the lower half of his face lit by blinding white noon sun, jaw set, eyes invisible in shadow. Heat shimmer softens the background to a white blur. Bleached desaturated palette, harsh top light, 35mm film grain, anamorphic 2.39:1 letterbox.\n\nPrompt 2:\nCinematic gothic-horror film still, \"The Hollow Choir\". Interior of a ruined cathedral at night, moonlight falling through a single broken stained-glass window in a shaft of cold blue-white light across the stone floor. A lone robed figure kneels at the edge of the light, face in shadow. Vaulted ceiling dissolves into total black above. Desaturated blue-grey palette, dust motes visible in the light shaft, high-contrast noir shadow, 35mm grain, anamorphic 2.39:1, director's-note composition.\n\nPrompt 3:\nCinematic war-drama film still, \"Last Transmission\". Extreme close-up: a soldier's hand gripping a cracked radio handset, knuckles white, mud and blood under the fingernails. Backlit by a single flare arcing somewhere off-frame, throwing hard orange rim-light across the hand while the rest stays near-black. Smoke drifting through the light shaft. Ultra high contrast, single hard practical key, 90% negative space in shadow, 35mm grain, anamorphic 2.39:1, cinematic.\n\nPrompt 4:\nCinematic thriller film still, \"Static Frequency\". Interior wide shot: an abandoned lighthouse control room at night, banks of dead analog equipment glowing faint green from one dying monitor. A lone operator sits with back to camera, headphones on, face unseen. Dust hangs visible in the single shaft of light. Everything outside that glow drops to black. Cold teal-green key, high-contrast noir shadow, film grain, anamorphic 2.39:1 letterbox, director's-note style, shot on anamorphic 35mm.",
+    "sourceLink": "https://x.com/Photonotix16/status/2075529012156539185",
+    "sourcePublishedAt": "2026-07-10T10:34:12.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM3BLMvaoAAxbFh.jpg",
+      "https://pbs.twimg.com/media/HM3BLM2asAA8d5O.jpg",
+      "https://pbs.twimg.com/media/HM3BLM5bsAAEoPz.jpg",
+      "https://pbs.twimg.com/media/HM3BLM-acAADVJY.jpg"
+    ],
+    "author": {
+      "name": "@Photonotix16",
+      "link": "https://x.com/Photonotix16"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075529012156539185",
+      "prompt_source": "alt_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 6,
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 11,
+          "title": "Cinematic Film Still",
+          "slug": "cinematic-film-still"
+        }
+      ],
+      "styles": [
+        {
+          "id": 47,
+          "title": "Noir Lighting",
+          "slug": "noir-lighting"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 58,
+          "title": "Historical Scene",
+          "slug": "historical-scene"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 132,
+    "model": "seedream-5-pro",
+    "title": "Transparent android ballet halation portrait",
+    "description": "A public ALT prompt normalized into clean English for a translucent android fashion portrait with Kodak-style halation and cinematic grain.",
+    "content": "Create a hybrid female android with translucent skin and white-gray mechanical plates. Give her a medium-length bob cut swept to the left, dyed white-blond, with soft strands framing the face. The blurred translucent latex-like skin reveals internal cybernetic mechanisms while keeping a glamorous ballet-inspired silhouette: narrow waist, strong shoulders, sculptural legs, and poised elegance. Place her in an empty park with autumn trees, an overcast sky, and dawn sunlight breaking through the clouds. Shoot the image as a full-body 35mm Kodak Vision3 cinematic photograph with red halation around the highlights, visible film grain, and a realistic analog finish. Pose her with one leg extended forward on pointe, wearing only a salmon-pink tutu. Keep the image refined, surreal, and fashion-editorial rather than plastic or cartoonish.",
+    "sourceLink": "https://x.com/_wib_/status/2075508470468473030",
+    "sourcePublishedAt": "2026-07-10T09:12:35.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM2vcwGWQAAeheD.jpg"
+    ],
+    "author": {
+      "name": "@_wib_",
+      "link": "https://x.com/_wib_"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075508470468473030",
+      "prompt_source": "rewritten_alt_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 63,
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 57,
+          "title": "Sci-Fi World",
+          "slug": "sci-fi-world"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 133,
+    "model": "seedream-5-pro",
+    "title": "Four Symbols macro eye poster comparison",
+    "description": "A Chinese public comparison prompt translated and localized into English, preserving the Four Symbols art direction while avoiding Chinese prompt text.",
+    "content": "Use the uploaded close-up eye reference as the only reference for the person's eye identity. Create a 3:4 four-panel Eastern fantasy art portrait focused on the eyes. Each panel represents one of the Four Symbols: Qinglong, Zhuque, Baihu, and Xuanwu. Overall style: Eastern mythological beauty, luxury makeup advertising, surreal art photography. Preserve realistic human eye anatomy, macro photographic detail, natural skin texture, fine eyelashes, delicate eye makeup, and the same eye shape. All four panels must keep the same identity, angle, and composition.\n\nPanel 1: Qinglong, spring awakening. The iris is jade-green, like a natural Eastern gemstone. Inside the iris, hide a miniature landscape with Qinglong coiling through mist, bamboo, peach blossoms, and flowing water. Transform the eyelashes into slender bamboo leaves and blue-green feather textures, with tiny peach petals near the corner of the eye. Add a gentle spring glow and green light around the eye. Place the Latin label \"Qinglong\" in translucent white seal-style lettering. Palette: elegant green, airy, alive.\n\nPanel 2: Zhuque, blazing summer. The iris is red-gold amber. Inside the iris, create a small phoenix world: Zhuque spreads its wings through golden flame, phoenix feathers, and sunset clouds. Give the eyelashes subtle flame-feather texture, with small golden feathers near the eye corner. Light the skin with warm gold illumination for a premium jewelry-campaign feel. Place the Latin label \"Zhuque\" in translucent white-gold seal-style lettering. Palette: red and gold, ornate, passionate, sacred.\n\nPanel 3: Baihu, autumn severity. The iris is golden amber. Inside the iris, create an Eastern autumn forest with Baihu hidden among golden trees, maple leaves, ancient trunks, and drifting dust. Blend white tiger-stripe texture and autumn leaf motifs into the eyelashes, with faint silver-white markings around the brow. Use sunset light through the forest for cinematic warmth. Place the Latin label \"Baihu\" in translucent white ink-style lettering. Palette: gold, silver-white, deep brown, mysterious and noble.\n\nPanel 4: Xuanwu, frozen mystic realm. The iris is ice-blue crystal. Inside the iris, create an Eastern snow world with Xuanwu sleeping among glaciers, a frozen lake, snow mountains, ice crystals, and cold mist. Cover the eyelashes with transparent ice-crystal texture and add tiny snowflakes with silver light at the eye corner. Use cold blue moonlight for an ice-goddess luxury visual. Place the Latin label \"Xuanwu\" in translucent white calligraphic lettering. Palette: ice blue and silver-white, cold, pure, ethereal.\n\nUnified requirements: arrange all four panels neatly like a high-end art exhibition poster. Use a minimal Eastern negative-space background with faint ink texture, mist, and metallic embossed detail. Typography should feel like traditional seal engraving rendered in white translucent Latin labels, never modern commercial type. Photography style: macro eye photography, ultra-realistic skin texture, cinematic lighting, luxury beauty campaign, 8K detail, high-fashion editorial. Avoid cartoon style, anime eyes, distorted eyeballs, low-quality CG, plastic skin, wrong text, and extra eyes.",
+    "sourceLink": "https://x.com/Chengzilhy/status/2075462701887930745",
+    "sourcePublishedAt": "2026-07-10T06:10:43.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM2Fir4aUAA606L.jpg",
+      "https://pbs.twimg.com/media/HM2Fjq0aAAAIb9A.jpg"
+    ],
+    "author": {
+      "name": "@Chengzilhy",
+      "link": "https://x.com/Chengzilhy"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075462701887930745",
+      "prompt_source": "translated_normalized_from_tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 5,
+      "likeCount": 5,
+      "quoteCount": 1,
+      "viewCount": 1298,
+      "bookmarkCount": 2,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 66,
+          "title": "Benchmarks & Model Comparisons",
+          "slug": "benchmarks-model-comparisons"
+        }
+      ]
+    }
   }
 ]
