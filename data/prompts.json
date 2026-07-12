@@ -7261,5 +7261,255 @@
       ]
     },
     "needReferenceImages": true
+  },
+  {
+    "id": 136,
+    "model": "seedream-5-pro",
+    "title": "Emerald ICON fashion magazine cover",
+    "description": "A high-engagement Seedream 5 Pro magazine-cover prompt that combines beauty photography with a controlled luxury editorial typography system.",
+    "content": "Ultra-realistic high-fashion editorial magazine cover featuring a stunning female model with flawless porcelain skin, piercing emerald eyes, and matte burgundy lips. She wears an oversized ivory sculptural hat, a sleek black turtleneck, oversized geometric gold earrings, and elegant satin emerald green opera gloves gently framing her face. Minimal luxury makeup, ultra-detailed skin texture, sharp eyebrows, cinematic catchlights, premium beauty photography, Vogue-level styling, perfectly centered composition, shallow depth of field, soft diffused studio lighting, creamy off-white background with subtle shadows. Modern graphic design layout with massive vertical typography reading “ICON” positioned along the left edge in oversized hollow letters with emerald outlines, partially masking the portrait for a layered editorial effect. Add bold horizontal headline “BEYOND BEAUTY” across the lower third in elegant uppercase typography, accompanied by small minimalist captions, thin editorial divider lines, issue number, barcode, and subtle geometric accents. Clean Swiss-inspired magazine design, luxury fashion branding, negative space, premium typography hierarchy, sophisticated balance between portrait and graphics, ultra-sharp focus, realistic fabric textures, cinematic color grading, high-end beauty campaign, 8K, IMAX quality, HDR, photorealistic, award-winning fashion editorial, elegant contemporary magazine cover.",
+    "sourceLink": "https://x.com/iamrealsnow/status/2075797065427529769",
+    "sourcePublishedAt": "2026-07-11T04:19:21.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM62a36awAACg1s.jpg",
+      "https://pbs.twimg.com/media/HM62a35aQAAPljV.jpg",
+      "https://pbs.twimg.com/media/HM62a35acAAF1Jg.jpg",
+      "https://pbs.twimg.com/media/HM62a35aIAAaYZ5.jpg"
+    ],
+    "author": {
+      "name": "@iamrealsnow",
+      "link": "https://x.com/iamrealsnow"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 78,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075797065427529769",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 5,
+      "replyCount": 30,
+      "likeCount": 51,
+      "quoteCount": 0,
+      "viewCount": 1348,
+      "bookmarkCount": 6,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 17,
+          "title": "Infographic & Typography",
+          "slug": "infographic-typography"
+        }
+      ],
+      "styles": [
+        {
+          "id": 43,
+          "title": "Editorial Poster",
+          "slug": "editorial-poster"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    }
+  },
+  {
+    "id": 137,
+    "model": "seedream-5-pro",
+    "title": "Crimson saree palace portrait at golden hour",
+    "description": "A fresh Seedream 5.0 Pro heritage-fashion portrait prompt with patterned sunlight, detailed silk texture, and an editorial 85mm composition.",
+    "content": "Ultra-realistic cinematic portrait of a beautiful young woman wearing a rich deep crimson red silk saree with a matching sleeveless blouse featuring subtle floral jacquard embroidery and a muted gold border. She is standing beside an intricately carved ivory stone pillar in a heritage palace corridor during golden hour, gazing softly into the distance with a calm, dreamy expression. Her hair is styled in a neat low bun adorned with a single fresh red rose, with a few loose curled strands framing her face. Smooth glowing natural skin, expressive brown eyes, soft pink lips, minimal makeup. Warm sunlight passes through ornate carved jali patterns, casting intricate floral shadows across her face, neck, shoulders, blouse, and saree. Soft cinematic backlight, creamy bokeh, shallow depth of field, luxurious heritage architecture blurred in the background, elegant composition, warm golden color grading, highly detailed silk texture, photorealistic skin, natural facial proportions, HDR, 8K, DSLR quality, 85mm portrait lens, f/1.8, ultra sharp focus on the face, premium editorial fashion photography.",
+    "sourceLink": "https://x.com/aaliya_va/status/2075924410423271453",
+    "sourcePublishedAt": "2026-07-11T12:45:22.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM8qDG0XgAAJWme.jpg",
+      "https://pbs.twimg.com/media/HM8qDGvXwAAZqnN.jpg",
+      "https://pbs.twimg.com/media/HM8qDGwWYAERaDP.jpg",
+      "https://pbs.twimg.com/media/HM8qDGqXYAA3xn1.jpg"
+    ],
+    "author": {
+      "name": "@aaliya_va",
+      "link": "https://x.com/aaliya_va"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 79,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075924410423271453",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 5,
+      "replyCount": 33,
+      "likeCount": 86,
+      "quoteCount": 0,
+      "viewCount": 7232,
+      "bookmarkCount": 8,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 138,
+    "model": "seedream-5-pro",
+    "title": "Low-angle financial district fashion portrait",
+    "description": "A recent Seedream 5.0 Pro street-photography prompt for ambitious city scale, natural curls, and a handheld 20mm editorial perspective.",
+    "content": "Ultra-realistic cinematic street photograph of a confident young woman standing between towering modern skyscrapers in a dense financial district. Captured from an extreme low angle perspective, making the dark glass and steel buildings rise dramatically around her and converge toward the cloudy blue sky. She has shoulder-length curly black hair and wears a deep burgundy leather jacket over a clean white high-neck top. Her expression is serious, calm, and determined as she looks upward toward something beyond the frame. The woman occupies the lower center of the composition while the massive architecture dominates the surrounding space, creating a strong sense of ambition, pressure, and scale. Blurred silhouettes of commuters move through the background, adding natural city energy without distracting from the subject. Cool overcast daylight, deep blue and charcoal tones, subtle warm reflections inside the buildings, soft directional light across her face, realistic skin texture, natural curls, detailed leather grain, authentic fabric folds, atmospheric depth, cinematic shadows, shallow depth of field, 20mm wide-angle lens, f/2.8, slight edge distortion, handheld editorial photography, high dynamic range, subtle film grain, photorealistic full-frame camera quality, no artificial beauty filter, no plastic skin, no CGI appearance, ultra-detailed, 8K.",
+    "sourceLink": "https://x.com/bmx_ai13/status/2075922805573751264",
+    "sourcePublishedAt": "2026-07-11T12:39:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM7WiDfboAAf9gY.jpg"
+    ],
+    "author": {
+      "name": "@bmx_ai13",
+      "link": "https://x.com/bmx_ai13"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 80,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2075922805573751264",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 8,
+      "likeCount": 25,
+      "quoteCount": 0,
+      "viewCount": 476,
+      "bookmarkCount": 6,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 21,
+          "title": "Cinematic Realism",
+          "slug": "cinematic-realism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 139,
+    "model": "seedream-5-pro",
+    "title": "Retro computer desk with curious squirrel",
+    "description": "A compact Seedream 5 Pro still-life prompt pairing tactile retro computing hardware with a sharply detailed animal subject and outdoor color contrast.",
+    "content": "A curious squirrel perched on a vintage beige computer keyboard connected to a chunky retro monitor, the computer resting on a worn, richly grained wooden desk. In softly diffused matte lighting, the squirrel’s detailed fur and delicate whiskers are clearly visible, as are the tactile keys and vents of the computer. In the softly blurred background, lush saturated green foliage and vivid orange fruit create a natural, slightly surreal outdoor setting that contrasts with the nostalgic technology.",
+    "sourceLink": "https://x.com/heathergreen/status/2076094185149730904",
+    "sourcePublishedAt": "2026-07-12T00:00:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HM0scVGX0AEEPll.jpg"
+    ],
+    "author": {
+      "name": "@heathergreen",
+      "link": "https://x.com/heathergreen"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 81,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076094185149730904",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 2,
+      "quoteCount": 0,
+      "viewCount": 35,
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 15,
+          "title": "Product Campaign",
+          "slug": "product-campaign"
+        }
+      ],
+      "styles": [
+        {
+          "id": 41,
+          "title": "Commercial Photography",
+          "slug": "commercial-photography"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 51,
+          "title": "Product & Props",
+          "slug": "product-props"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 62,
+          "title": "Commercial Design, UI & Posters",
+          "slug": "commercial-design-ui-posters"
+        }
+      ]
+    }
   }
 ]

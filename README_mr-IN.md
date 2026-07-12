@@ -404,9 +404,9 @@ Group multilingual samples by rendered language and local-text use case.
 
 | मेट्रिक | संख्या |
 |--------|-------|
-| एकूण prompts | **114** |
+| एकूण prompts | **118** |
 | निवडक | **10** |
-| शेवटचे अद्यतन | **रविवार, १२ जुलै, २०२६ रोजी ३:१७:१६ AM UTC** |
+| शेवटचे अद्यतन | **रविवार, १२ जुलै, २०२६ रोजी ३:१७:३७ AM UTC** |
 
 </div>
 
@@ -1385,7 +1385,7 @@ a pic of my cat, asked for a mecha version
 
 <a id="workflow-commercial-design-ui-posters"></a>
 
-### Commercial Design, UI & Posters (21)
+### Commercial Design, UI & Posters (23)
 
 Production briefs for advertisements, product campaigns, interfaces, posters, typography, and other designed assets.
 
@@ -1771,9 +1771,82 @@ Design a realistic delivery receipt with merchant name, order number, itemized r
 
 ---
 
+<a id="prompt-136"></a>
+
+#### No. 26: Emerald ICON fashion magazine cover
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### वर्णन
+
+A high-engagement Seedream 5 Pro magazine-cover prompt that combines beauty photography with a controlled luxury editorial typography system.
+
+##### Prompt
+
+```
+Ultra-realistic high-fashion editorial magazine cover featuring a stunning female model with flawless porcelain skin, piercing emerald eyes, and matte burgundy lips. She wears an oversized ivory sculptural hat, a sleek black turtleneck, oversized geometric gold earrings, and elegant satin emerald green opera gloves gently framing her face. Minimal luxury makeup, ultra-detailed skin texture, sharp eyebrows, cinematic catchlights, premium beauty photography, Vogue-level styling, perfectly centered composition, shallow depth of field, soft diffused studio lighting, creamy off-white background with subtle shadows. Modern graphic design layout with massive vertical typography reading “ICON” positioned along the left edge in oversized hollow letters with emerald outlines, partially masking the portrait for a layered editorial effect. Add bold horizontal headline “BEYOND BEAUTY” across the lower third in elegant uppercase typography, accompanied by small minimalist captions, thin editorial divider lines, issue number, barcode, and subtle geometric accents. Clean Swiss-inspired magazine design, luxury fashion branding, negative space, premium typography hierarchy, sophisticated balance between portrait and graphics, ultra-sharp focus, realistic fabric textures, cinematic color grading, high-end beauty campaign, 8K, IMAX quality, HDR, photorealistic, award-winning fashion editorial, elegant contemporary magazine cover.
+```
+
+##### निर्मित प्रतिमा
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM62a36awAACg1s.jpg" width="100%" alt="Emerald ICON fashion magazine cover - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM62a35aQAAPljV.jpg" width="100%" alt="Emerald ICON fashion magazine cover - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM62a35acAAF1Jg.jpg" width="100%" alt="Emerald ICON fashion magazine cover - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM62a35aIAAaYZ5.jpg" width="100%" alt="Emerald ICON fashion magazine cover - Image 4"></td>
+</tr>
+</table>
+
+##### तपशील
+
+- **लेखक:** [@iamrealsnow](https://x.com/iamrealsnow)
+- **स्रोत:** [स्रोत](https://x.com/iamrealsnow/status/2075797065427529769)
+- **प्रकाशित:** ११ जुलै, २०२६
+- **भाषा:** en
+
+**[हा prompt वापरा · ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
+<a id="prompt-139"></a>
+
+#### No. 27: Retro computer desk with curious squirrel
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### वर्णन
+
+A compact Seedream 5 Pro still-life prompt pairing tactile retro computing hardware with a sharply detailed animal subject and outdoor color contrast.
+
+##### Prompt
+
+```
+A curious squirrel perched on a vintage beige computer keyboard connected to a chunky retro monitor, the computer resting on a worn, richly grained wooden desk. In softly diffused matte lighting, the squirrel’s detailed fur and delicate whiskers are clearly visible, as are the tactile keys and vents of the computer. In the softly blurred background, lush saturated green foliage and vivid orange fruit create a natural, slightly surreal outdoor setting that contrasts with the nostalgic technology.
+```
+
+##### निर्मित प्रतिमा
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM0scVGX0AEEPll.jpg" width="100%" alt="Retro computer desk with curious squirrel - Image 1"></td>
+</tr>
+</table>
+
+##### तपशील
+
+- **लेखक:** [@heathergreen](https://x.com/heathergreen)
+- **स्रोत:** [स्रोत](https://x.com/heathergreen/status/2076094185149730904)
+- **प्रकाशित:** १२ जुलै, २०२६
+- **भाषा:** en
+
+**[हा prompt वापरा · ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
 <a id="prompt-88"></a>
 
-#### No. 26: Cinematic editorial fashion session
+#### No. 28: Cinematic editorial fashion session
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1809,7 +1882,7 @@ Create a cinematic editorial fashion portrait for a fictional magazine story cal
 
 <a id="prompt-78"></a>
 
-#### No. 27: Overdose gold corrupted luxury moodboard
+#### No. 29: Overdose gold corrupted luxury moodboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1847,7 +1920,7 @@ Create an editorial fashion moodboard in the visual style OVERDOSE GOLD. Use a c
 
 <a id="prompt-80"></a>
 
-#### No. 28: Arabic poster typography test
+#### No. 30: Arabic poster typography test
 
 ![Language-AR](https://img.shields.io/badge/Language-AR-blue)
 
@@ -1883,7 +1956,7 @@ Design two premium Arabic technology posters for Seedream 5 Pro. Use a dark cine
 
 <a id="prompt-94"></a>
 
-#### No. 29: Japanese cinematic magazine cover layout
+#### No. 31: Japanese cinematic magazine cover layout
 
 ![Language-ZH-TW](https://img.shields.io/badge/Language-ZH-TW-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -1927,7 +2000,7 @@ A detailed public prompt tested with both GPT Image and Seedream 5.0 Pro, focuse
 
 <a id="prompt-122"></a>
 
-#### No. 30: Premium sports footwear commercial ad set
+#### No. 32: Premium sports footwear commercial ad set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1971,7 +2044,7 @@ Use a premium blue color palette with turquoise gradients, high-end sports brand
 
 <a id="prompt-119"></a>
 
-#### No. 31: Cyberpunk android graphic poster
+#### No. 33: Cyberpunk android graphic poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2010,7 +2083,7 @@ Semi-transparent glassy spheres with grid textures overlap the foreground, creat
 
 <a id="prompt-102"></a>
 
-#### No. 32: Trading terminal interface with market microstructure detail
+#### No. 34: Trading terminal interface with market microstructure detail
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2051,7 +2124,7 @@ Structured visuals where information order matters: diagrams, technical drawings
 
 <a id="prompt-19"></a>
 
-#### No. 33: Flat-pack assembly guide stress test
+#### No. 35: Flat-pack assembly guide stress test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2087,7 +2160,7 @@ Generate an IKEA-style flat-pack assembly guide for a compact modular side table
 
 <a id="prompt-29"></a>
 
-#### No. 34: 1960s Havana documentary video seed
+#### No. 36: 1960s Havana documentary video seed
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2118,7 +2191,7 @@ Generate a realistic 1960s Havana documentary still as the first frame for video
 
 <a id="prompt-49"></a>
 
-#### No. 35: Sixteen-panel cavalry charge narrative
+#### No. 37: Sixteen-panel cavalry charge narrative
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2178,7 +2251,7 @@ Source: [Source](https://x.com/sulekhat95/status/2074966196563431636)
 
 <a id="prompt-130"></a>
 
-#### No. 36: Spanish seafood paella production storyboard
+#### No. 38: Spanish seafood paella production storyboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2228,7 +2301,7 @@ Make the entire storyboard feel like a polished production planning sheet for a 
 
 <a id="prompt-77"></a>
 
-#### No. 37: Exploded engineering diagram layout
+#### No. 39: Exploded engineering diagram layout
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2265,7 +2338,7 @@ Create an exploded technical diagram of a compact high-end AI camera module, eve
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### Characters, Cinema & Visual Styles (40)
+### Characters, Cinema & Visual Styles (42)
 
 Character, portrait, fashion, cinematic-frame, and style-exploration prompts centered on visual direction and image language.
 
@@ -2278,7 +2351,7 @@ Character, portrait, fashion, cinematic-frame, and style-exploration prompts cen
 
 <a id="prompt-8"></a>
 
-#### No. 38: Rain-soaked noir roadside diner
+#### No. 40: Rain-soaked noir roadside diner
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2313,7 +2386,7 @@ Create a wide exterior noir shot of a lonely roadside diner during heavy night r
 
 <a id="prompt-9"></a>
 
-#### No. 39: Sun Throne scale contrast
+#### No. 41: Sun Throne scale contrast
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2348,7 +2421,7 @@ Build a fantasy film still titled The Sun Throne. Place a bowed supplicant in so
 
 <a id="prompt-10"></a>
 
-#### No. 40: Whiteout survival abstraction
+#### No. 42: Whiteout survival abstraction
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2383,7 +2456,7 @@ Create a survival film still in a total snow whiteout. Reduce the mountaineer to
 
 <a id="prompt-11"></a>
 
-#### No. 41: Lived-in afternoon kitchen portrait
+#### No. 43: Lived-in afternoon kitchen portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2418,7 +2491,7 @@ Photograph a relaxed adult woman leaning against a kitchen counter in a lived-in
 
 <a id="prompt-12"></a>
 
-#### No. 42: Western Front dawn trench still
+#### No. 44: Western Front dawn trench still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2453,7 +2526,7 @@ Create a 1916 Western Front film still at dawn. Show an exhausted young soldier 
 
 <a id="prompt-14"></a>
 
-#### No. 43: Anime sorceress key visual
+#### No. 45: Anime sorceress key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2488,7 +2561,7 @@ Create an epic Japanese anime key visual of a sorceress mid-incantation. Use a l
 
 <a id="prompt-30"></a>
 
-#### No. 44: San Francisco sunset phone candid
+#### No. 46: San Francisco sunset phone candid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2538,7 +2611,7 @@ Source: [Source](https://x.com/mattworkman/status/2074850550349222210)
 
 <a id="prompt-34"></a>
 
-#### No. 45: Noir cigarette ember close-up
+#### No. 47: Noir cigarette ember close-up
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2573,7 +2646,7 @@ Create an extreme noir close-up in near-total darkness. Let a cigarette ember gl
 
 <a id="prompt-35"></a>
 
-#### No. 46: Courtroom witness hard-key portrait
+#### No. 48: Courtroom witness hard-key portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2608,7 +2681,7 @@ Frame a tense courtroom witness in tight portrait. Half-light the face with a ha
 
 <a id="prompt-36"></a>
 
-#### No. 47: Mob kitchen sauce-and-threat still
+#### No. 49: Mob kitchen sauce-and-threat still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2643,7 +2716,7 @@ Create a cramped mob-drama kitchen still. Steam rises from a pot of sauce while 
 
 <a id="prompt-37"></a>
 
-#### No. 48: Family table mob drama wide shot
+#### No. 50: Family table mob drama wide shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2678,7 +2751,7 @@ Compose a wide shot of a cramped family kitchen table crowded with plates. Place
 
 <a id="prompt-38"></a>
 
-#### No. 49: Aristocratic alien diplomat portrait
+#### No. 51: Aristocratic alien diplomat portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2713,7 +2786,7 @@ Design a cinematic portrait of an aristocratic alien diplomat with pale lavender
 
 <a id="prompt-39"></a>
 
-#### No. 50: Villeneuve-style neutral mask portrait
+#### No. 52: Villeneuve-style neutral mask portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2748,7 +2821,7 @@ Create a close character portrait with very pale skin, light eyes, and an entire
 
 <a id="prompt-41"></a>
 
-#### No. 51: War robot city cannon blast
+#### No. 53: War robot city cannon blast
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2783,7 +2856,7 @@ Create a cinematic sci-fi action still of a massive humanoid war robot firing an
 
 <a id="prompt-42"></a>
 
-#### No. 52: Natural copper-red close portrait
+#### No. 54: Natural copper-red close portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2818,7 +2891,7 @@ Make a medium-format close portrait of a young European woman with copper-red ha
 
 <a id="prompt-43"></a>
 
-#### No. 53: Magical realist dry-lake fisherman
+#### No. 55: Magical realist dry-lake fisherman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2853,7 +2926,7 @@ Create a wide low-angle magical-realist film still of an old fisherman kneeling 
 
 <a id="prompt-45"></a>
 
-#### No. 54: Bleach-bypass thriller pursuit
+#### No. 56: Bleach-bypass thriller pursuit
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2888,7 +2961,7 @@ Create a bleach-bypass thriller still with harsh desaturated contrast, blown hig
 
 <a id="prompt-134"></a>
 
-#### No. 55: Snowfall close-up with natural skin texture
+#### No. 57: Snowfall close-up with natural skin texture
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2921,9 +2994,82 @@ Ultra-realistic close-up portrait of a young woman outdoors during gentle snowfa
 
 ---
 
+<a id="prompt-137"></a>
+
+#### No. 58: Crimson saree palace portrait at golden hour
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### वर्णन
+
+A fresh Seedream 5.0 Pro heritage-fashion portrait prompt with patterned sunlight, detailed silk texture, and an editorial 85mm composition.
+
+##### Prompt
+
+```
+Ultra-realistic cinematic portrait of a beautiful young woman wearing a rich deep crimson red silk saree with a matching sleeveless blouse featuring subtle floral jacquard embroidery and a muted gold border. She is standing beside an intricately carved ivory stone pillar in a heritage palace corridor during golden hour, gazing softly into the distance with a calm, dreamy expression. Her hair is styled in a neat low bun adorned with a single fresh red rose, with a few loose curled strands framing her face. Smooth glowing natural skin, expressive brown eyes, soft pink lips, minimal makeup. Warm sunlight passes through ornate carved jali patterns, casting intricate floral shadows across her face, neck, shoulders, blouse, and saree. Soft cinematic backlight, creamy bokeh, shallow depth of field, luxurious heritage architecture blurred in the background, elegant composition, warm golden color grading, highly detailed silk texture, photorealistic skin, natural facial proportions, HDR, 8K, DSLR quality, 85mm portrait lens, f/1.8, ultra sharp focus on the face, premium editorial fashion photography.
+```
+
+##### निर्मित प्रतिमा
+
+<table>
+<tr>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM8qDG0XgAAJWme.jpg" width="100%" alt="Crimson saree palace portrait at golden hour - Image 1"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM8qDGvXwAAZqnN.jpg" width="100%" alt="Crimson saree palace portrait at golden hour - Image 2"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM8qDGwWYAERaDP.jpg" width="100%" alt="Crimson saree palace portrait at golden hour - Image 3"></td>
+<td width="25%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM8qDGqXYAA3xn1.jpg" width="100%" alt="Crimson saree palace portrait at golden hour - Image 4"></td>
+</tr>
+</table>
+
+##### तपशील
+
+- **लेखक:** [@aaliya_va](https://x.com/aaliya_va)
+- **स्रोत:** [स्रोत](https://x.com/aaliya_va/status/2075924410423271453)
+- **प्रकाशित:** ११ जुलै, २०२६
+- **भाषा:** en
+
+**[हा prompt वापरा · ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
+<a id="prompt-138"></a>
+
+#### No. 59: Low-angle financial district fashion portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### वर्णन
+
+A recent Seedream 5.0 Pro street-photography prompt for ambitious city scale, natural curls, and a handheld 20mm editorial perspective.
+
+##### Prompt
+
+```
+Ultra-realistic cinematic street photograph of a confident young woman standing between towering modern skyscrapers in a dense financial district. Captured from an extreme low angle perspective, making the dark glass and steel buildings rise dramatically around her and converge toward the cloudy blue sky. She has shoulder-length curly black hair and wears a deep burgundy leather jacket over a clean white high-neck top. Her expression is serious, calm, and determined as she looks upward toward something beyond the frame. The woman occupies the lower center of the composition while the massive architecture dominates the surrounding space, creating a strong sense of ambition, pressure, and scale. Blurred silhouettes of commuters move through the background, adding natural city energy without distracting from the subject. Cool overcast daylight, deep blue and charcoal tones, subtle warm reflections inside the buildings, soft directional light across her face, realistic skin texture, natural curls, detailed leather grain, authentic fabric folds, atmospheric depth, cinematic shadows, shallow depth of field, 20mm wide-angle lens, f/2.8, slight edge distortion, handheld editorial photography, high dynamic range, subtle film grain, photorealistic full-frame camera quality, no artificial beauty filter, no plastic skin, no CGI appearance, ultra-detailed, 8K.
+```
+
+##### निर्मित प्रतिमा
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HM7WiDfboAAf9gY.jpg" width="100%" alt="Low-angle financial district fashion portrait - Image 1"></td>
+</tr>
+</table>
+
+##### तपशील
+
+- **लेखक:** [@bmx_ai13](https://x.com/bmx_ai13)
+- **स्रोत:** [स्रोत](https://x.com/bmx_ai13/status/2075922805573751264)
+- **प्रकाशित:** ११ जुलै, २०२६
+- **भाषा:** en
+
+**[हा prompt वापरा · ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
 <a id="prompt-131"></a>
 
-#### No. 56: Four-film-still noir lighting prompt set
+#### No. 60: Four-film-still noir lighting prompt set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2971,7 +3117,7 @@ Cinematic thriller film still, "Static Frequency". Interior wide shot: an abando
 
 <a id="prompt-132"></a>
 
-#### No. 57: Transparent android ballet halation portrait
+#### No. 61: Transparent android ballet halation portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3006,7 +3152,7 @@ Create a hybrid female android with translucent skin and white-gray mechanical p
 
 <a id="prompt-95"></a>
 
-#### No. 58: Extreme close-up portrait camera template
+#### No. 62: Extreme close-up portrait camera template
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3042,7 +3188,7 @@ Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. 
 
 <a id="prompt-79"></a>
 
-#### No. 59: Master ink art animal study
+#### No. 63: Master ink art animal study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3077,7 +3223,7 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 
 <a id="prompt-81"></a>
 
-#### No. 60: Pancake angel dessert illustration
+#### No. 64: Pancake angel dessert illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3112,7 +3258,7 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 
 <a id="prompt-82"></a>
 
-#### No. 61: Soft anime expression pair
+#### No. 65: Soft anime expression pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3148,7 +3294,7 @@ Generate a paired anime character study of the same young adventurer in two emot
 
 <a id="prompt-85"></a>
 
-#### No. 62: Cloud maker fantasy portrait
+#### No. 66: Cloud maker fantasy portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3183,7 +3329,7 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 
 <a id="prompt-98"></a>
 
-#### No. 63: Casual cafe-step street portrait
+#### No. 67: Casual cafe-step street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3229,7 +3375,7 @@ Camera feel: taken by a friend standing in front of her with a smartphone, using
 
 <a id="prompt-118"></a>
 
-#### No. 64: Fashion outfit editorial set in a parking structure
+#### No. 68: Fashion outfit editorial set in a parking structure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3267,7 +3413,7 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 
 <a id="prompt-92"></a>
 
-#### No. 65: Backlit street portrait feeding stray cats
+#### No. 69: Backlit street portrait feeding stray cats
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3303,7 +3449,7 @@ A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid compos
 
 <a id="prompt-129"></a>
 
-#### No. 66: Anime skateboard sequence with multiple shot prompts
+#### No. 70: Anime skateboard sequence with multiple shot prompts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3351,7 +3497,7 @@ A girl with a sharp bob cut, purple hair with black accent strands, stylized lay
 
 <a id="prompt-117"></a>
 
-#### No. 67: ARRI-style cinematic city close-up
+#### No. 71: ARRI-style cinematic city close-up
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3398,7 +3544,7 @@ A teenager stands behind a metal chain-link fence in a grassy outdoor area. She 
 
 <a id="prompt-114"></a>
 
-#### No. 68: Japanese casual portrait styling set
+#### No. 72: Japanese casual portrait styling set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3436,7 +3582,7 @@ A beautiful young Japanese woman, natural and effortless beauty, soft glowing sk
 
 <a id="prompt-121"></a>
 
-#### No. 69: Iridescent glass-flower editorial poster
+#### No. 73: Iridescent glass-flower editorial poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3475,7 +3621,7 @@ The layout is filled with clean blocks of small white placeholder body text and 
 
 <a id="prompt-106"></a>
 
-#### No. 70: Melting-world-landmarks concept generation
+#### No. 74: Melting-world-landmarks concept generation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3511,7 +3657,7 @@ world's landmarks, melting like wax
 
 <a id="prompt-113"></a>
 
-#### No. 71: Fantasy fallen-angel warrior key visual
+#### No. 75: Fantasy fallen-angel warrior key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3546,7 +3692,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 <a id="prompt-105"></a>
 
-#### No. 72: Fisheye editorial portraits with miniature clone motif
+#### No. 76: Fisheye editorial portraits with miniature clone motif
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3586,7 +3732,7 @@ Unretouched natural photograph, shot on cinema camera with subtle halation, fine
 
 <a id="prompt-108"></a>
 
-#### No. 73: Photorealistic high-fashion portrait lighting
+#### No. 77: Photorealistic high-fashion portrait lighting
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3650,7 +3796,7 @@ Environment, architecture, landscape, concept-art, and worldbuilding prompts whe
 
 <a id="prompt-13"></a>
 
-#### No. 74: Capital ship over alien planet
+#### No. 78: Capital ship over alien planet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3685,7 +3831,7 @@ Render a massive capital-class spaceship orbiting a fictional alien planet. Use 
 
 <a id="prompt-15"></a>
 
-#### No. 75: Floating temple archipelago key visual
+#### No. 79: Floating temple archipelago key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3720,7 +3866,7 @@ Design a wide anime establishing shot of ancient temple islands floating above a
 
 <a id="prompt-40"></a>
 
-#### No. 76: Ash Country post-apocalypse wanderer
+#### No. 80: Ash Country post-apocalypse wanderer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3755,7 +3901,7 @@ Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray 
 
 <a id="prompt-44"></a>
 
-#### No. 77: Dense neon-noir city skyline
+#### No. 81: Dense neon-noir city skyline
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3790,7 +3936,7 @@ Render a dense neon-noir dystopian city skyline at night from a high 24mm vantag
 
 <a id="prompt-48"></a>
 
-#### No. 78: Parametric landmark infographic pair
+#### No. 82: Parametric landmark infographic pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3826,7 +3972,7 @@ Create a parametric architectural infographic for a famous landmark. Combine a c
 
 <a id="prompt-75"></a>
 
-#### No. 79: Worldbuilding anchor frame color grade
+#### No. 83: Worldbuilding anchor frame color grade
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3857,7 +4003,7 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 
 <a id="prompt-91"></a>
 
-#### No. 80: Ethereal librarian on a frozen lake
+#### No. 84: Ethereal librarian on a frozen lake
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3892,7 +4038,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 <a id="prompt-89"></a>
 
-#### No. 81: Knight beneath a colossal stone sentinel
+#### No. 85: Knight beneath a colossal stone sentinel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3941,7 +4087,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 <a id="prompt-112"></a>
 
-#### No. 82: Impossible-scale cinematic sci-fi worldbuilding set
+#### No. 86: Impossible-scale cinematic sci-fi worldbuilding set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3989,7 +4135,7 @@ A mountain village built on impossibly tall stone pillars extends far above Eart
 
 <a id="prompt-109"></a>
 
-#### No. 83: Solar-powered desert research station concept
+#### No. 87: Solar-powered desert research station concept
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4024,7 +4170,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 <a id="prompt-125"></a>
 
-#### No. 84: Bedroom design variations for MBTI types
+#### No. 88: Bedroom design variations for MBTI types
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4072,7 +4218,7 @@ Controlled tests and comparisons used to evaluate prompt following, editing beha
 
 <a id="prompt-4"></a>
 
-#### No. 85: Avant-garde streetwear creator sheet
+#### No. 89: Avant-garde streetwear creator sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4110,7 +4256,7 @@ Design a full-body character sheet for a male creator in avant-garde streetwear.
 
 <a id="prompt-6"></a>
 
-#### No. 86: Maldives tropical paradise visual
+#### No. 90: Maldives tropical paradise visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4161,7 +4307,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 <a id="prompt-53"></a>
 
-#### No. 87: Makeup identity-preservation comparison
+#### No. 91: Makeup identity-preservation comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4200,7 +4346,7 @@ Use the uploaded portrait as the identity anchor. Change only the makeup: add re
 
 <a id="prompt-133"></a>
 
-#### No. 88: Four Symbols macro eye poster comparison
+#### No. 92: Four Symbols macro eye poster comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4247,7 +4393,7 @@ Unified requirements: arrange all four panels neatly like a high-end art exhibit
 
 <a id="prompt-76"></a>
 
-#### No. 89: Sepia documentary portrait study
+#### No. 93: Sepia documentary portrait study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4285,7 +4431,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 <a id="prompt-99"></a>
 
-#### No. 90: Minimal painting replacement iteration test
+#### No. 94: Minimal painting replacement iteration test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4317,7 +4463,7 @@ Change the painting.
 
 <a id="prompt-83"></a>
 
-#### No. 91: Afternoon street portrait prompt
+#### No. 95: Afternoon street portrait prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4361,7 +4507,7 @@ A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro
 
 <a id="prompt-84"></a>
 
-#### No. 92: Old-money creator turnaround sheet
+#### No. 96: Old-money creator turnaround sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4399,7 +4545,7 @@ Character design sheet, full body turnaround, 23-year-old tall lean male creator
 
 <a id="prompt-86"></a>
 
-#### No. 93: Same-prompt model comparison triptych
+#### No. 97: Same-prompt model comparison triptych
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4436,7 +4582,7 @@ Create a clean three-panel comparison board for the same visual prompt across th
 
 <a id="prompt-93"></a>
 
-#### No. 94: 1990s Andalusian home-video still
+#### No. 98: 1990s Andalusian home-video still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4471,7 +4617,7 @@ A public same-prompt Seedream 5 Pro comparison prompt recreating the imperfect e
 
 <a id="prompt-110"></a>
 
-#### No. 95: Reference-image camera-angle change comparison
+#### No. 99: Reference-image camera-angle change comparison
 
 ![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4510,7 +4656,7 @@ A source-backed evaluation from the original public X post, demonstrating refere
 
 <a id="prompt-128"></a>
 
-#### No. 96: Lake Como fashion scene comparison against Banana Pro
+#### No. 100: Lake Como fashion scene comparison against Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4554,7 +4700,7 @@ Natural skin texture with soft luminosity, gentle sheen on nose and lips, crisp 
 
 <a id="prompt-127"></a>
 
-#### No. 97: Fantasy village watermill comparison against GPT Image 2
+#### No. 101: Fantasy village watermill comparison against GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4590,7 +4736,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 <a id="prompt-111"></a>
 
-#### No. 98: Oversized beverage-can advertising composition comparison
+#### No. 102: Oversized beverage-can advertising composition comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4626,7 +4772,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 <a id="prompt-96"></a>
 
-#### No. 99: Bedroom mirror-selfie influencer portrait
+#### No. 103: Bedroom mirror-selfie influencer portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4673,7 +4819,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 <a id="prompt-107"></a>
 
-#### No. 100: Seedream vs GPT Image 2 for clean lifestyle portrait styling
+#### No. 104: Seedream vs GPT Image 2 for clean lifestyle portrait styling
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4709,7 +4855,7 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 <a id="prompt-116"></a>
 
-#### No. 101: Anime key-visual comparison
+#### No. 105: Anime key-visual comparison
 
 ![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
 
@@ -4744,7 +4890,7 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 <a id="prompt-115"></a>
 
-#### No. 102: Chengdu travel scrapbook poster comparison
+#### No. 106: Chengdu travel scrapbook poster comparison
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4796,7 +4942,7 @@ A source-backed evaluation from the original public X post, demonstrating chengd
 
 <a id="prompt-97"></a>
 
-#### No. 103: Seat-belted car selfie first frame
+#### No. 107: Seat-belted car selfie first frame
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4841,7 +4987,7 @@ A detailed public Chinese same-prompt comparison for a realistic 16:9 in-car sel
 
 <a id="prompt-100"></a>
 
-#### No. 104: Multi-task Seedream capability sampling from four Chinese prompts
+#### No. 108: Multi-task Seedream capability sampling from four Chinese prompts
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4905,19 +5051,19 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 - [ImagineVid](https://imaginevid.io)
 <details>
-<summary>समुदाय निर्मात्यांचे आभार (84)</summary>
+<summary>समुदाय निर्मात्यांचे आभार (86)</summary>
 
-[@_wib_](https://x.com/_wib_) · [@abdoul94_](https://x.com/abdoul94_) · [@ahmetmertugrul](https://x.com/ahmetmertugrul) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [@AiwithZohaib](https://x.com/AiwithZohaib) · [@al_tools43377](https://x.com/al_tools43377) · [@AllaAisling](https://x.com/AllaAisling) · [@Arminn_Ai](https://x.com/Arminn_Ai)<br>
-[@asatoucan](https://x.com/asatoucan) · [@asheem01](https://x.com/asheem01) · [@ashen_one](https://x.com/ashen_one) · [@ayumi_t820](https://x.com/ayumi_t820) · [@aziz4ai](https://x.com/aziz4ai) · [@bdsqlsz](https://x.com/bdsqlsz) · [@Bic_Revelation](https://x.com/Bic_Revelation) · [@bmx_ai13](https://x.com/bmx_ai13)<br>
-[@Boluwatifeolad7](https://x.com/Boluwatifeolad7) · [@BubbleBrain](https://x.com/BubbleBrain) · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · [@capcutapp](https://x.com/capcutapp) · [@Chain_Loader](https://x.com/Chain_Loader) · [@characternexus](https://x.com/characternexus) · [@Chengzilhy](https://x.com/Chengzilhy) · [@ChillaiKalan__](https://x.com/ChillaiKalan__)<br>
-[@Cia0_exe](https://x.com/Cia0_exe) · [@Ciri_ai](https://x.com/Ciri_ai) · [@ComfyUI](https://x.com/ComfyUI) · [@cso6709](https://x.com/cso6709) · [@DeepBlueAIX](https://x.com/DeepBlueAIX) · [@df_reno](https://x.com/df_reno) · [@diffractstudio](https://x.com/diffractstudio) · [@Digitalwindai](https://x.com/Digitalwindai)<br>
-[@Echoes999Y](https://x.com/Echoes999Y) · [@ElaraGrace_AI](https://x.com/ElaraGrace_AI) · [@emmanuel_2m](https://x.com/emmanuel_2m) · [@filodyprincess](https://x.com/filodyprincess) · [@FloraTechAI](https://x.com/FloraTechAI) · [@HarshBisen143](https://x.com/HarshBisen143) · [@haruuraeadss](https://x.com/haruuraeadss) · [@hasamaru_studio](https://x.com/hasamaru_studio)<br>
-[@higginswerx](https://x.com/higginswerx) · [@iamrealsnow](https://x.com/iamrealsnow) · [@ItsMaryAI](https://x.com/ItsMaryAI) · [@itsPixieVerse](https://x.com/itsPixieVerse) · [@JameFalken](https://x.com/JameFalken) · [@JennyAITech](https://x.com/JennyAITech) · [@johnAGI168](https://x.com/johnAGI168) · [@JossMonzoni](https://x.com/JossMonzoni)<br>
-[@karim_yourself](https://x.com/karim_yourself) · [@KishenArt](https://x.com/KishenArt) · [@krea_ai](https://x.com/krea_ai) · [@LiamEtherson](https://x.com/LiamEtherson) · [@liyue_ai](https://x.com/liyue_ai) · [@lukfan](https://x.com/lukfan) · [@madpencil_](https://x.com/madpencil_) · [@magnific](https://x.com/magnific)<br>
-[@marmaduke091](https://x.com/marmaduke091) · [@mattworkman](https://x.com/mattworkman) · [@MishikaAI](https://x.com/MishikaAI) · [@munzxsdv](https://x.com/munzxsdv) · [@noorwithwifi](https://x.com/noorwithwifi) · [@op7418](https://x.com/op7418) · [@OpenDesignHQ](https://x.com/OpenDesignHQ) · [@Photonotix16](https://x.com/Photonotix16)<br>
-[@renataro9](https://x.com/renataro9) · [@renoiseai](https://x.com/renoiseai) · [@roco_kn_roco](https://x.com/roco_kn_roco) · [@rovvmut_](https://x.com/rovvmut_) · [@SeharShinwari](https://x.com/SeharShinwari) · [@shikoba_86](https://x.com/shikoba_86) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@stargliderbr](https://x.com/stargliderbr)<br>
-[@Strength04_X](https://x.com/Strength04_X) · [@sulekhat95](https://x.com/sulekhat95) · [@techhalla](https://x.com/techhalla) · [@techxsarfraj](https://x.com/techxsarfraj) · [@ThinkerSilentH](https://x.com/ThinkerSilentH) · [@TlanoAI](https://x.com/TlanoAI) · [@underwoodxie96](https://x.com/underwoodxie96) · [@UnityEagle](https://x.com/UnityEagle)<br>
-[@westkast](https://x.com/westkast) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [@ZariaTechAI](https://x.com/ZariaTechAI) · [@Zubnet](https://x.com/Zubnet)
+[@_wib_](https://x.com/_wib_) · [@aaliya_va](https://x.com/aaliya_va) · [@abdoul94_](https://x.com/abdoul94_) · [@ahmetmertugrul](https://x.com/ahmetmertugrul) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [@AiwithZohaib](https://x.com/AiwithZohaib) · [@al_tools43377](https://x.com/al_tools43377) · [@AllaAisling](https://x.com/AllaAisling)<br>
+[@Arminn_Ai](https://x.com/Arminn_Ai) · [@asatoucan](https://x.com/asatoucan) · [@asheem01](https://x.com/asheem01) · [@ashen_one](https://x.com/ashen_one) · [@ayumi_t820](https://x.com/ayumi_t820) · [@aziz4ai](https://x.com/aziz4ai) · [@bdsqlsz](https://x.com/bdsqlsz) · [@Bic_Revelation](https://x.com/Bic_Revelation)<br>
+[@bmx_ai13](https://x.com/bmx_ai13) · [@Boluwatifeolad7](https://x.com/Boluwatifeolad7) · [@BubbleBrain](https://x.com/BubbleBrain) · [@BytePlusGlobal](https://x.com/BytePlusGlobal) · [@capcutapp](https://x.com/capcutapp) · [@Chain_Loader](https://x.com/Chain_Loader) · [@characternexus](https://x.com/characternexus) · [@Chengzilhy](https://x.com/Chengzilhy)<br>
+[@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Cia0_exe](https://x.com/Cia0_exe) · [@Ciri_ai](https://x.com/Ciri_ai) · [@ComfyUI](https://x.com/ComfyUI) · [@cso6709](https://x.com/cso6709) · [@DeepBlueAIX](https://x.com/DeepBlueAIX) · [@df_reno](https://x.com/df_reno) · [@diffractstudio](https://x.com/diffractstudio)<br>
+[@Digitalwindai](https://x.com/Digitalwindai) · [@Echoes999Y](https://x.com/Echoes999Y) · [@ElaraGrace_AI](https://x.com/ElaraGrace_AI) · [@emmanuel_2m](https://x.com/emmanuel_2m) · [@filodyprincess](https://x.com/filodyprincess) · [@FloraTechAI](https://x.com/FloraTechAI) · [@HarshBisen143](https://x.com/HarshBisen143) · [@haruuraeadss](https://x.com/haruuraeadss)<br>
+[@hasamaru_studio](https://x.com/hasamaru_studio) · [@heathergreen](https://x.com/heathergreen) · [@higginswerx](https://x.com/higginswerx) · [@iamrealsnow](https://x.com/iamrealsnow) · [@ItsMaryAI](https://x.com/ItsMaryAI) · [@itsPixieVerse](https://x.com/itsPixieVerse) · [@JameFalken](https://x.com/JameFalken) · [@JennyAITech](https://x.com/JennyAITech)<br>
+[@johnAGI168](https://x.com/johnAGI168) · [@JossMonzoni](https://x.com/JossMonzoni) · [@karim_yourself](https://x.com/karim_yourself) · [@KishenArt](https://x.com/KishenArt) · [@krea_ai](https://x.com/krea_ai) · [@LiamEtherson](https://x.com/LiamEtherson) · [@liyue_ai](https://x.com/liyue_ai) · [@lukfan](https://x.com/lukfan)<br>
+[@madpencil_](https://x.com/madpencil_) · [@magnific](https://x.com/magnific) · [@marmaduke091](https://x.com/marmaduke091) · [@mattworkman](https://x.com/mattworkman) · [@MishikaAI](https://x.com/MishikaAI) · [@munzxsdv](https://x.com/munzxsdv) · [@noorwithwifi](https://x.com/noorwithwifi) · [@op7418](https://x.com/op7418)<br>
+[@OpenDesignHQ](https://x.com/OpenDesignHQ) · [@Photonotix16](https://x.com/Photonotix16) · [@renataro9](https://x.com/renataro9) · [@renoiseai](https://x.com/renoiseai) · [@roco_kn_roco](https://x.com/roco_kn_roco) · [@rovvmut_](https://x.com/rovvmut_) · [@SeharShinwari](https://x.com/SeharShinwari) · [@shikoba_86](https://x.com/shikoba_86)<br>
+[@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@stargliderbr](https://x.com/stargliderbr) · [@Strength04_X](https://x.com/Strength04_X) · [@sulekhat95](https://x.com/sulekhat95) · [@techhalla](https://x.com/techhalla) · [@techxsarfraj](https://x.com/techxsarfraj) · [@ThinkerSilentH](https://x.com/ThinkerSilentH) · [@TlanoAI](https://x.com/TlanoAI)<br>
+[@underwoodxie96](https://x.com/underwoodxie96) · [@UnityEagle](https://x.com/UnityEagle) · [@westkast](https://x.com/westkast) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [@ZariaTechAI](https://x.com/ZariaTechAI) · [@Zubnet](https://x.com/Zubnet)
 
 </details>
 
@@ -4937,6 +5083,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt सबमिट करा](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[या repo ला Star द्या](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-12T03:17:16.847Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-12T03:17:37.391Z</sub>
 
 </div>
