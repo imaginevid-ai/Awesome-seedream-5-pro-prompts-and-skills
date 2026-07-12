@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Prompts စုစုပေါင်း | **112** |
 | Featured | **10** |
-| နောက်ဆုံး update | **၂၀၂၆ ဇူလိုင် ၁၁ စနေ UTC ၂၀:၄၁:၃၃** |
+| နောက်ဆုံး update | **၂၀၂၆ ဇူလိုင် ၁၂ တနင်္ဂနွေ UTC ၀၂:၁၀:၀၅** |
 
 </div>
 
@@ -4863,6 +4863,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt submit လုပ်ရန်](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ဒီ repo ကို Star ပေးပါ](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-11T20:41:33.677Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-12T02:10:05.577Z</sub>
 
 </div>
