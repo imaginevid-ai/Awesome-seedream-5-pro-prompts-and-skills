@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Prompts i alt | **121** |
 | Udvalgt | **10** |
-| Sidst opdateret | **mandag den 13. juli 2026 kl. 03.18.35 UTC** |
+| Sidst opdateret | **mandag den 13. juli 2026 kl. 06.49.05 UTC** |
 
 </div>
 
@@ -5198,6 +5198,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Indsend prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Giv repoet en Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-13T03:18:35.807Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-13T06:49:05.286Z</sub>
 
 </div>
