@@ -7699,5 +7699,189 @@
         }
       ]
     }
+  },
+  {
+    "id": 143,
+    "model": "seedream-5-pro",
+    "title": "The Star Ritual manga storyboard",
+    "description": "A Seedream 5 Pro sequential-art prompt that directs a complete black-and-white shrine ritual across eight dramatic manga panels.",
+    "content": "Gritty black-and-white Japanese manga storyboard page, dense ink linework, heavy screentone shading, dramatic cross-hatching, irregular panel grid layout like a professional seinen manga spread, Japanese onomatopoeia sound effects lettering in several panels. Recurring character: a young shrine maiden witch with long brown twin ponytails tied with red ribbons, golden eyes, wearing a white haori robe and red hakama skirt, carrying a golden ceremonial bell staff (kagura suzu). Story: a starlit incantation ritual, titled THE STAR RITUAL. Panel 1: wide shot of the shrine maiden standing on a shrine veranda under a vast starry night sky, ribbons flowing in the wind. Panel 2: close-up of her raising the bell staff high overhead with both hands. Panel 3: extreme close-up of the golden bells on the staff beginning to glow. Panel 4: medium shot, she chants an incantation, eyes closed, mouth open. Panel 5: close-up of her free hand forming a mystic seal gesture, fingers interlaced. Panel 6: wide shot, the stars above swirl together into a glowing magic circle. Panel 7: dynamic burst panel, a beam of light descends from the sky onto the shrine, bold sound effect lettering, radiant light streaks. Panel 8: final shot, she stands calm and serene as glowing petal-like light particles drift down around her, ribbons still fluttering. High contrast dramatic lighting, monochrome ink illustration, no color.",
+    "sourceLink": "https://x.com/renoiseai/status/2076578475700523447",
+    "sourcePublishedAt": "2026-07-13T08:04:24.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNF9Gl6agAE5eab.jpg"
+    ],
+    "author": {
+      "name": "@renoiseai",
+      "link": "https://x.com/renoiseai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 85,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076578475700523447",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 1,
+      "quoteCount": 0,
+      "viewCount": 261,
+      "bookmarkCount": 0,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 144,
+    "model": "seedream-5-pro",
+    "title": "Red-background urban webtoon portrait",
+    "description": "A Seedream 5 Pro character-design prompt for a severe, graphic webtoon portrait with a disciplined red palette and tailored-suit silhouette.",
+    "content": "[Subject], centered in a vertical 2:3 composition, shown from above the knees to the head in a bust-style framing, facing directly forward with a cold and tense expression. Bold solid red background with dramatic brown and dark green shadows created by strong directional lighting. Clean digital illustration style with sharp outlines, smooth gradients, and refined East Asian modern webtoon aesthetics without photorealistic textures. Wearing a black pinstripe or solid black tailored suit with a black shirt, optional black tie or leather choker, silver drop earrings, and a necklace maintained at accurate size and placement. Sharp eyes with a calm, piercing gaze. Hair flows naturally with a red hair tie accent. Flat monochrome background with no foreground objects or surrounding people. Sophisticated urban atmosphere. No photographic rendering or bright pastel colors.",
+    "sourceLink": "https://x.com/ChillaiKalan__/status/2076523680860151863",
+    "sourcePublishedAt": "2026-07-13T04:26:40.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNFLRkVaQAAGkcz.jpg",
+      "https://pbs.twimg.com/media/HNFLRisagAAR20Z.jpg"
+    ],
+    "author": {
+      "name": "@ChillaiKalan__",
+      "link": "https://x.com/ChillaiKalan__"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 86,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076523680860151863",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 35,
+      "likeCount": 52,
+      "quoteCount": 0,
+      "viewCount": 1301,
+      "bookmarkCount": 8,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 145,
+    "model": "seedream-5-pro",
+    "title": "Apple blossom spring selfie portrait",
+    "description": "A Seedream 5 Pro portrait prompt that combines a playful eye-level selfie with crisp spring blossoms, natural glam, and warm outdoor light.",
+    "content": "Sunny outdoor selfie-style portrait of a young woman standing beneath a blooming apple tree, white-and-pink blossoms framing and partly covering her face. She tilts her head to rest gently on her own shoulder, gazing at the camera with a soft playful smile. Long sleek hair parted in the middle, falling straight past the shoulders. Fresh natural glam makeup: defined brows, bronze-neutral lids, long lashes, glowing sun-kissed skin, soft glossy nude lips. She wears a white ribbed scoop-neck tank under a cream knit cardigan, chunky gold hoop earrings and a thin gold chain choker. Background: a bright green spring garden with blossoming branches and a clear blue sky. Vertical shot, eye-level angle, bright natural sunlight, warm airy spring aesthetic.",
+    "sourceLink": "https://x.com/dreamydigiarts/status/2076630217180041662",
+    "sourcePublishedAt": "2026-07-13T11:30:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNGF46Oa8AE1N6R.jpg"
+    ],
+    "author": {
+      "name": "@dreamydigiarts",
+      "link": "https://x.com/dreamydigiarts"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 87,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076630217180041662",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 1,
+      "replyCount": 2,
+      "likeCount": 14,
+      "quoteCount": 0,
+      "viewCount": 412,
+      "bookmarkCount": 10,
+      "model_evidence": "seedream-5-pro"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
   }
 ]
