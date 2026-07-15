@@ -7883,5 +7883,132 @@
         }
       ]
     }
+  },
+  {
+    "id": 146,
+    "model": "seedream-5-pro",
+    "title": "Dual-character urban fantasy design sheet",
+    "description": "A production-ready character comparison board with opposing visual identities, turnaround poses, weapon callouts, palettes, traits, and a shared abandoned-mall key scene.",
+    "content": "Character comparison design sheet, dual character reference layout,\nmodern urban fantasy anime style, white/light gray background with\nsymmetrical left-right panel structure,\n\nCENTER MAIN ILLUSTRATION:\ntwo full-body anime characters standing face to face in a large abandoned\nmodern shopping mall interior, glass dome skylight ceiling, escalators,\nstore displays, mannequins, scattered debris and fallen mannequin parts,\ncinematic lighting with soft daylight through glass ceiling,\n\nCHARACTER A (left, purple/lavender theme):\nyoung woman with long flowing silver-lavender hair, high ponytail with\ndark flower hair ornament, purple eyes, elegant fantasy streetwear -\nblack crop top, black mini skirt with layered sheer white/purple cape-like\noverlay, gold chain belt details, purple tassel accessories, thigh-high\ngap showing legwarmers, white knee-high heeled boots with gold buckle\ndetails, holding an ornate rapier sword with circular guard and purple\ntassel, confident graceful pose, hand near collarbone,\n\nCHARACTER B (right, red/black theme):\nyoung woman with long black hair streaked with red, high ponytail with\nred ribbon, red eyes, aggressive streetwear - red bandeau top, black\nopen jacket with red trim and asian-inspired patterns, black cargo pants\nwith red straps and chain details, red belt, black and white sneakers,\nfingerless gloves, wielding a large dark scythe with red blade and chain\ntassel over shoulder, confident wild stance, hand on hip,\n\nsmall text label center top: \"ABANDONED DEPARTMENT STORE\" in gray serif\nfont with small decorative slash marks,\n\nLEFT SIDE PANEL (Character A info):\ntop-left bold purple header \"CHARACTER A\" with subtitle traits in caps\n(\"GRACEFUL / CONTROL / SHARP\"),\nbelow: close-up portrait bust shot of character A in bordered box,\nbelow that: \"TURNAROUND\" label with 4 small full-body reference poses\n(front, 3/4, back, side) in a row,\nbelow that: \"WEAPON\" label with weapon name \"RAPIER\" and detailed weapon\nillustration,\nbottom: \"COLOR PALETTE (A)\" with 5 color swatch squares (lavender, dark\npurple, gray, cream, gold),\nnext to it: \"KEY TRAITS (A)\" with 3 small icon badges and labels\n(\"AGILITY\" \"PRECISION\" \"INTELLIGENCE\"),\n\nRIGHT SIDE PANEL (Character B info) - mirrored layout:\ntop-right bold red header \"CHARACTER B\" with subtitle traits in caps\n(\"WILD / AGGRESSIVE / UNBREAKABLE\"),\nclose-up portrait bust shot of character B in bordered box,\n\"TURNAROUND\" label with 4 small full-body reference poses,\n\"WEAPON\" label with weapon name \"SCYTHE\" and detailed weapon illustration,\n\"COLOR PALETTE (B)\" with 5 color swatch squares (red, black, gray, white,\ndark maroon),\n\"KEY TRAITS (B)\" with 3 small icon badges and labels (\"STRENGTH\" \"IMPACT\"\n\"RESILIENCE\"),\n\nSTYLE:\nhigh-detail modern anime illustration, semi-realistic proportions,\nglossy rendering, dramatic character design contrast (elegant/refined vs\nwild/aggressive), professional game character design document layout,\nclean white background panels, thin border boxes, minimalist typography,\ncolor-coded sections (purple for A, red for B),\n\nhigh resolution, polished digital painting, official character design\nsheet presentation",
+    "sourceLink": "https://x.com/renoiseai/status/2076993082587779465",
+    "sourcePublishedAt": "2026-07-14T11:31:54.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNL2In7aMAA07W9.jpg"
+    ],
+    "author": {
+      "name": "Renoise",
+      "link": "https://x.com/renoiseai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 88,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076993082587779465",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 0,
+      "replyCount": 1,
+      "likeCount": 5,
+      "quoteCount": 0,
+      "viewCount": 372,
+      "bookmarkCount": 1,
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-15"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 12,
+          "title": "Character Design",
+          "slug": "character-design"
+        }
+      ],
+      "styles": [
+        {
+          "id": 45,
+          "title": "Anime Key Visual",
+          "slug": "anime-key-visual"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
+  },
+  {
+    "id": 147,
+    "model": "seedream-5-pro",
+    "title": "Low-angle skatepark fashion portrait",
+    "description": "A structured reference-image prompt for preserving facial identity while directing streetwear, a ground-level heroic camera angle, foreground skateboard depth, and hard summer light.",
+    "content": "{\n    \"subject_and_outfit_formula\": \"A stylish young East Asian woman with a confident and cool expression, her dark, shoulder-length hair gently tousled by a light breeze. She is dressed in an oversized, retro-style red athletic jersey with white side panels and bold graphic lettering on the chest. Below, she wears high-waisted light-wash denim shorts featuring aggressive distressing, large ripped panels across the thighs, and raw, frayed hems. Her footwear includes thick white crew socks with classic red and blue stripes at the top, paired with chunky, multi-layered cream and beige platform sneakers that add to her urban, sporty aesthetic.\",\n    \"background_and_environment\": \"The scene is set in a minimalist, sun-drenched outdoor skatepark featuring smooth, sweeping gray concrete ramps and bowls. The backdrop is an expansive, vibrant azure sky dotted with soft, feathered white clouds, suggesting a clear and bright summer afternoon. Intense, direct sunlight originates from a high angle, creating a luminous rim-lighting effect around the subject's silhouette and casting sharp, defined shadows on the concrete surface, evoking a sense of high-energy urban life.\",\n    \"camera_angle_and_composition\": \"An extreme low-angle 'worm's eye view' shot captured from a ground-level perspective looking steeply upward, which emphasizes the subject's height and commanding, heroic presence. A colorful, illustrative skateboard with intricate pop-art graphics and bold 'SKATE' typography is held vertically in the immediate foreground, acting as a powerful visual anchor and creating a strong sense of depth. The composition utilizes a wide-angle perspective to frame the subject against the vastness of the sky, making her the central focal point of the frame.\",\n    \"face_reference\": \"Use the uploaded photo as the primary reference for facial structure and features.\",\n    \"camera_and_vintage_style_settings\": \"Standard high-quality digital photography, crisp and clear.\"\n}",
+    "sourceLink": "https://x.com/Kashberg_0/status/2076518233956622760",
+    "sourcePublishedAt": "2026-07-13T04:05:01.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNFGUR8aEAA_ln7.jpg",
+      "https://pbs.twimg.com/media/HNFGUwza8AALD17.jpg"
+    ],
+    "author": {
+      "name": "Kashberg",
+      "link": "https://x.com/Kashberg_0"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 89,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2076518233956622760",
+      "prompt_source": "tweet_text_prompt",
+      "retweetCount": 7,
+      "replyCount": 47,
+      "likeCount": 82,
+      "quoteCount": 1,
+      "viewCount": 2682,
+      "bookmarkCount": 24,
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-15"
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 13,
+          "title": "Reference Image Edit",
+          "slug": "reference-image-edit"
+        }
+      ],
+      "styles": [
+        {
+          "id": 23,
+          "title": "Editorial Fashion",
+          "slug": "editorial-fashion"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 33,
+          "title": "Fashion Creator",
+          "slug": "fashion-creator"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    }
   }
 ]

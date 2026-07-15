@@ -404,9 +404,9 @@ Group multilingual samples by rendered language and local-text use case.
 
 | Показник | Кількість |
 |--------|-------|
-| Усього промптів | **124** |
+| Усього промптів | **126** |
 | Відібране | **10** |
-| Останнє оновлення | **середа, 15 липня 2026 р. о 13:24:32 UTC** |
+| Останнє оновлення | **середа, 15 липня 2026 р. о 14:24:08 UTC** |
 
 </div>
 
@@ -2417,7 +2417,7 @@ Create an exploded technical diagram of a compact high-end AI camera module, eve
 
 <a id="workflow-characters-cinema-visual-styles"></a>
 
-### Characters, Cinema & Visual Styles (46)
+### Characters, Cinema & Visual Styles (48)
 
 Character, portrait, fashion, cinematic-frame, and style-exploration prompts centered on visual direction and image language.
 
@@ -3288,9 +3288,149 @@ Sunny outdoor selfie-style portrait of a young woman standing beneath a blooming
 
 ---
 
+<a id="prompt-146"></a>
+
+#### No. 66: Dual-character urban fantasy design sheet
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### Опис
+
+A production-ready character comparison board with opposing visual identities, turnaround poses, weapon callouts, palettes, traits, and a shared abandoned-mall key scene.
+
+##### Промпт
+
+```
+Character comparison design sheet, dual character reference layout,
+modern urban fantasy anime style, white/light gray background with
+symmetrical left-right panel structure,
+
+CENTER MAIN ILLUSTRATION:
+two full-body anime characters standing face to face in a large abandoned
+modern shopping mall interior, glass dome skylight ceiling, escalators,
+store displays, mannequins, scattered debris and fallen mannequin parts,
+cinematic lighting with soft daylight through glass ceiling,
+
+CHARACTER A (left, purple/lavender theme):
+young woman with long flowing silver-lavender hair, high ponytail with
+dark flower hair ornament, purple eyes, elegant fantasy streetwear -
+black crop top, black mini skirt with layered sheer white/purple cape-like
+overlay, gold chain belt details, purple tassel accessories, thigh-high
+gap showing legwarmers, white knee-high heeled boots with gold buckle
+details, holding an ornate rapier sword with circular guard and purple
+tassel, confident graceful pose, hand near collarbone,
+
+CHARACTER B (right, red/black theme):
+young woman with long black hair streaked with red, high ponytail with
+red ribbon, red eyes, aggressive streetwear - red bandeau top, black
+open jacket with red trim and asian-inspired patterns, black cargo pants
+with red straps and chain details, red belt, black and white sneakers,
+fingerless gloves, wielding a large dark scythe with red blade and chain
+tassel over shoulder, confident wild stance, hand on hip,
+
+small text label center top: "ABANDONED DEPARTMENT STORE" in gray serif
+font with small decorative slash marks,
+
+LEFT SIDE PANEL (Character A info):
+top-left bold purple header "CHARACTER A" with subtitle traits in caps
+("GRACEFUL / CONTROL / SHARP"),
+below: close-up portrait bust shot of character A in bordered box,
+below that: "TURNAROUND" label with 4 small full-body reference poses
+(front, 3/4, back, side) in a row,
+below that: "WEAPON" label with weapon name "RAPIER" and detailed weapon
+illustration,
+bottom: "COLOR PALETTE (A)" with 5 color swatch squares (lavender, dark
+purple, gray, cream, gold),
+next to it: "KEY TRAITS (A)" with 3 small icon badges and labels
+("AGILITY" "PRECISION" "INTELLIGENCE"),
+
+RIGHT SIDE PANEL (Character B info) - mirrored layout:
+top-right bold red header "CHARACTER B" with subtitle traits in caps
+("WILD / AGGRESSIVE / UNBREAKABLE"),
+close-up portrait bust shot of character B in bordered box,
+"TURNAROUND" label with 4 small full-body reference poses,
+"WEAPON" label with weapon name "SCYTHE" and detailed weapon illustration,
+"COLOR PALETTE (B)" with 5 color swatch squares (red, black, gray, white,
+dark maroon),
+"KEY TRAITS (B)" with 3 small icon badges and labels ("STRENGTH" "IMPACT"
+"RESILIENCE"),
+
+STYLE:
+high-detail modern anime illustration, semi-realistic proportions,
+glossy rendering, dramatic character design contrast (elegant/refined vs
+wild/aggressive), professional game character design document layout,
+clean white background panels, thin border boxes, minimalist typography,
+color-coded sections (purple for A, red for B),
+
+high resolution, polished digital painting, official character design
+sheet presentation
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNL2In7aMAA07W9.jpg" width="100%" alt="Dual-character urban fantasy design sheet - Image 1"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [Renoise](https://x.com/renoiseai)
+- **Джерело:** [Джерело](https://x.com/renoiseai/status/2076993082587779465)
+- **Опубліковано:** 14 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт · ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
+<a id="prompt-147"></a>
+
+#### No. 67: Low-angle skatepark fashion portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
+
+##### Опис
+
+A structured reference-image prompt for preserving facial identity while directing streetwear, a ground-level heroic camera angle, foreground skateboard depth, and hard summer light.
+
+##### Промпт
+
+```
+{
+    "subject_and_outfit_formula": "A stylish young East Asian woman with a confident and cool expression, her dark, shoulder-length hair gently tousled by a light breeze. She is dressed in an oversized, retro-style red athletic jersey with white side panels and bold graphic lettering on the chest. Below, she wears high-waisted light-wash denim shorts featuring aggressive distressing, large ripped panels across the thighs, and raw, frayed hems. Her footwear includes thick white crew socks with classic red and blue stripes at the top, paired with chunky, multi-layered cream and beige platform sneakers that add to her urban, sporty aesthetic.",
+    "background_and_environment": "The scene is set in a minimalist, sun-drenched outdoor skatepark featuring smooth, sweeping gray concrete ramps and bowls. The backdrop is an expansive, vibrant azure sky dotted with soft, feathered white clouds, suggesting a clear and bright summer afternoon. Intense, direct sunlight originates from a high angle, creating a luminous rim-lighting effect around the subject's silhouette and casting sharp, defined shadows on the concrete surface, evoking a sense of high-energy urban life.",
+    "camera_angle_and_composition": "An extreme low-angle 'worm's eye view' shot captured from a ground-level perspective looking steeply upward, which emphasizes the subject's height and commanding, heroic presence. A colorful, illustrative skateboard with intricate pop-art graphics and bold 'SKATE' typography is held vertically in the immediate foreground, acting as a powerful visual anchor and creating a strong sense of depth. The composition utilizes a wide-angle perspective to frame the subject against the vastness of the sky, making her the central focal point of the frame.",
+    "face_reference": "Use the uploaded photo as the primary reference for facial structure and features.",
+    "camera_and_vintage_style_settings": "Standard high-quality digital photography, crisp and clear."
+}
+```
+
+##### Згенеровані зображення
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNFGUR8aEAA_ln7.jpg" width="100%" alt="Low-angle skatepark fashion portrait - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNFGUwza8AALD17.jpg" width="100%" alt="Low-angle skatepark fashion portrait - Image 2"></td>
+</tr>
+</table>
+
+##### Деталі
+
+- **Автор:** [Kashberg](https://x.com/Kashberg_0)
+- **Джерело:** [Джерело](https://x.com/Kashberg_0/status/2076518233956622760)
+- **Опубліковано:** 13 липня 2026 р.
+- **Мови:** en
+
+**[Використати цей промпт · ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
 <a id="prompt-131"></a>
 
-#### No. 66: Four-film-still noir lighting prompt set
+#### No. 68: Four-film-still noir lighting prompt set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3338,7 +3478,7 @@ Cinematic thriller film still, "Static Frequency". Interior wide shot: an abando
 
 <a id="prompt-132"></a>
 
-#### No. 67: Transparent android ballet halation portrait
+#### No. 69: Transparent android ballet halation portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3373,7 +3513,7 @@ Create a hybrid female android with translucent skin and white-gray mechanical p
 
 <a id="prompt-95"></a>
 
-#### No. 68: Extreme close-up portrait camera template
+#### No. 70: Extreme close-up portrait camera template
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3409,7 +3549,7 @@ Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. 
 
 <a id="prompt-79"></a>
 
-#### No. 69: Master ink art animal study
+#### No. 71: Master ink art animal study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3444,7 +3584,7 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 
 <a id="prompt-81"></a>
 
-#### No. 70: Pancake angel dessert illustration
+#### No. 72: Pancake angel dessert illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3479,7 +3619,7 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 
 <a id="prompt-82"></a>
 
-#### No. 71: Soft anime expression pair
+#### No. 73: Soft anime expression pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3515,7 +3655,7 @@ Generate a paired anime character study of the same young adventurer in two emot
 
 <a id="prompt-85"></a>
 
-#### No. 72: Cloud maker fantasy portrait
+#### No. 74: Cloud maker fantasy portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3550,7 +3690,7 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 
 <a id="prompt-98"></a>
 
-#### No. 73: Casual cafe-step street portrait
+#### No. 75: Casual cafe-step street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3596,7 +3736,7 @@ Camera feel: taken by a friend standing in front of her with a smartphone, using
 
 <a id="prompt-118"></a>
 
-#### No. 74: Fashion outfit editorial set in a parking structure
+#### No. 76: Fashion outfit editorial set in a parking structure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3634,7 +3774,7 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 
 <a id="prompt-92"></a>
 
-#### No. 75: Backlit street portrait feeding stray cats
+#### No. 77: Backlit street portrait feeding stray cats
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3670,7 +3810,7 @@ A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid compos
 
 <a id="prompt-129"></a>
 
-#### No. 76: Anime skateboard sequence with multiple shot prompts
+#### No. 78: Anime skateboard sequence with multiple shot prompts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3718,7 +3858,7 @@ A girl with a sharp bob cut, purple hair with black accent strands, stylized lay
 
 <a id="prompt-117"></a>
 
-#### No. 77: ARRI-style cinematic city close-up
+#### No. 79: ARRI-style cinematic city close-up
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3765,7 +3905,7 @@ A teenager stands behind a metal chain-link fence in a grassy outdoor area. She 
 
 <a id="prompt-114"></a>
 
-#### No. 78: Japanese casual portrait styling set
+#### No. 80: Japanese casual portrait styling set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3803,7 +3943,7 @@ A beautiful young Japanese woman, natural and effortless beauty, soft glowing sk
 
 <a id="prompt-121"></a>
 
-#### No. 79: Iridescent glass-flower editorial poster
+#### No. 81: Iridescent glass-flower editorial poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3842,7 +3982,7 @@ The layout is filled with clean blocks of small white placeholder body text and 
 
 <a id="prompt-106"></a>
 
-#### No. 80: Melting-world-landmarks concept generation
+#### No. 82: Melting-world-landmarks concept generation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3878,7 +4018,7 @@ world's landmarks, melting like wax
 
 <a id="prompt-113"></a>
 
-#### No. 81: Fantasy fallen-angel warrior key visual
+#### No. 83: Fantasy fallen-angel warrior key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3913,7 +4053,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 <a id="prompt-105"></a>
 
-#### No. 82: Fisheye editorial portraits with miniature clone motif
+#### No. 84: Fisheye editorial portraits with miniature clone motif
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3953,7 +4093,7 @@ Unretouched natural photograph, shot on cinema camera with subtle halation, fine
 
 <a id="prompt-108"></a>
 
-#### No. 83: Photorealistic high-fashion portrait lighting
+#### No. 85: Photorealistic high-fashion portrait lighting
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4017,7 +4157,7 @@ Environment, architecture, landscape, concept-art, and worldbuilding prompts whe
 
 <a id="prompt-13"></a>
 
-#### No. 84: Capital ship over alien planet
+#### No. 86: Capital ship over alien planet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4052,7 +4192,7 @@ Render a massive capital-class spaceship orbiting a fictional alien planet. Use 
 
 <a id="prompt-15"></a>
 
-#### No. 85: Floating temple archipelago key visual
+#### No. 87: Floating temple archipelago key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4087,7 +4227,7 @@ Design a wide anime establishing shot of ancient temple islands floating above a
 
 <a id="prompt-40"></a>
 
-#### No. 86: Ash Country post-apocalypse wanderer
+#### No. 88: Ash Country post-apocalypse wanderer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4122,7 +4262,7 @@ Frame a post-apocalyptic wanderer paused in a bleached ash landscape. Wrap gray 
 
 <a id="prompt-44"></a>
 
-#### No. 87: Dense neon-noir city skyline
+#### No. 89: Dense neon-noir city skyline
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4157,7 +4297,7 @@ Render a dense neon-noir dystopian city skyline at night from a high 24mm vantag
 
 <a id="prompt-48"></a>
 
-#### No. 88: Parametric landmark infographic pair
+#### No. 90: Parametric landmark infographic pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4193,7 +4333,7 @@ Create a parametric architectural infographic for a famous landmark. Combine a c
 
 <a id="prompt-75"></a>
 
-#### No. 89: Worldbuilding anchor frame color grade
+#### No. 91: Worldbuilding anchor frame color grade
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4224,7 +4364,7 @@ Create an anchor frame for a worldbuilding project. Establish the environment, h
 
 <a id="prompt-91"></a>
 
-#### No. 90: Ethereal librarian on a frozen lake
+#### No. 92: Ethereal librarian on a frozen lake
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4259,7 +4399,7 @@ Ethereal librarian in flowing velvet robes wandering across a cracked, transluce
 
 <a id="prompt-89"></a>
 
-#### No. 91: Knight beneath a colossal stone sentinel
+#### No. 93: Knight beneath a colossal stone sentinel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4308,7 +4448,7 @@ Lighting and Color: High-contrast chiaroscuro. Strong, directional cold moonligh
 
 <a id="prompt-112"></a>
 
-#### No. 92: Impossible-scale cinematic sci-fi worldbuilding set
+#### No. 94: Impossible-scale cinematic sci-fi worldbuilding set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4356,7 +4496,7 @@ A mountain village built on impossibly tall stone pillars extends far above Eart
 
 <a id="prompt-109"></a>
 
-#### No. 93: Solar-powered desert research station concept
+#### No. 95: Solar-powered desert research station concept
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4391,7 +4531,7 @@ A solar-powered research station in a desert, featuring domed structures, solar 
 
 <a id="prompt-125"></a>
 
-#### No. 94: Bedroom design variations for MBTI types
+#### No. 96: Bedroom design variations for MBTI types
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4439,7 +4579,7 @@ Controlled tests and comparisons used to evaluate prompt following, editing beha
 
 <a id="prompt-4"></a>
 
-#### No. 95: Avant-garde streetwear creator sheet
+#### No. 97: Avant-garde streetwear creator sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4477,7 +4617,7 @@ Design a full-body character sheet for a male creator in avant-garde streetwear.
 
 <a id="prompt-6"></a>
 
-#### No. 96: Maldives tropical paradise visual
+#### No. 98: Maldives tropical paradise visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4528,7 +4668,7 @@ Source: [Source](https://x.com/Bic_Revelation/status/2074959714366922857)
 
 <a id="prompt-53"></a>
 
-#### No. 97: Makeup identity-preservation comparison
+#### No. 99: Makeup identity-preservation comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4567,7 +4707,7 @@ Use the uploaded portrait as the identity anchor. Change only the makeup: add re
 
 <a id="prompt-133"></a>
 
-#### No. 98: Four Symbols macro eye poster comparison
+#### No. 100: Four Symbols macro eye poster comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4614,7 +4754,7 @@ Unified requirements: arrange all four panels neatly like a high-end art exhibit
 
 <a id="prompt-76"></a>
 
-#### No. 99: Sepia documentary portrait study
+#### No. 101: Sepia documentary portrait study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4652,7 +4792,7 @@ A sepia-toned vintage portrait of a middle-aged man with wind-tousled light hair
 
 <a id="prompt-99"></a>
 
-#### No. 100: Minimal painting replacement iteration test
+#### No. 102: Minimal painting replacement iteration test
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4684,7 +4824,7 @@ Change the painting.
 
 <a id="prompt-83"></a>
 
-#### No. 101: Afternoon street portrait prompt
+#### No. 103: Afternoon street portrait prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4728,7 +4868,7 @@ A public Chinese same-prompt comparison between GPT Image 2 and Seedream 5.0 Pro
 
 <a id="prompt-84"></a>
 
-#### No. 102: Old-money creator turnaround sheet
+#### No. 104: Old-money creator turnaround sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4766,7 +4906,7 @@ Character design sheet, full body turnaround, 23-year-old tall lean male creator
 
 <a id="prompt-86"></a>
 
-#### No. 103: Same-prompt model comparison triptych
+#### No. 105: Same-prompt model comparison triptych
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4803,7 +4943,7 @@ Create a clean three-panel comparison board for the same visual prompt across th
 
 <a id="prompt-93"></a>
 
-#### No. 104: 1990s Andalusian home-video still
+#### No. 106: 1990s Andalusian home-video still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4838,7 +4978,7 @@ A public same-prompt Seedream 5 Pro comparison prompt recreating the imperfect e
 
 <a id="prompt-110"></a>
 
-#### No. 105: Reference-image camera-angle change comparison
+#### No. 107: Reference-image camera-angle change comparison
 
 ![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
 ![Reference](https://img.shields.io/badge/Reference-Image%20Needed-orange)
@@ -4877,7 +5017,7 @@ A source-backed evaluation from the original public X post, demonstrating refere
 
 <a id="prompt-128"></a>
 
-#### No. 106: Lake Como fashion scene comparison against Banana Pro
+#### No. 108: Lake Como fashion scene comparison against Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4921,7 +5061,7 @@ Natural skin texture with soft luminosity, gentle sheen on nose and lips, crisp 
 
 <a id="prompt-127"></a>
 
-#### No. 107: Fantasy village watermill comparison against GPT Image 2
+#### No. 109: Fantasy village watermill comparison against GPT Image 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4957,7 +5097,7 @@ stylized stylized fantasy village watermill, two-story half-timbered red-clay to
 
 <a id="prompt-111"></a>
 
-#### No. 108: Oversized beverage-can advertising composition comparison
+#### No. 110: Oversized beverage-can advertising composition comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4993,7 +5133,7 @@ A premium infographic-style advertisement featuring an oversized Pepsi can place
 
 <a id="prompt-96"></a>
 
-#### No. 109: Bedroom mirror-selfie influencer portrait
+#### No. 111: Bedroom mirror-selfie influencer portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5040,7 +5180,7 @@ Technical: Soft diffused natural window lighting, warm color tones, vertical 9:1
 
 <a id="prompt-107"></a>
 
-#### No. 110: Seedream vs GPT Image 2 for clean lifestyle portrait styling
+#### No. 112: Seedream vs GPT Image 2 for clean lifestyle portrait styling
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5076,7 +5216,7 @@ A source-backed evaluation from the original public X post, demonstrating seedre
 
 <a id="prompt-116"></a>
 
-#### No. 111: Anime key-visual comparison
+#### No. 113: Anime key-visual comparison
 
 ![Language-JA-JP](https://img.shields.io/badge/Language-JA-JP-blue)
 
@@ -5111,7 +5251,7 @@ A source-backed evaluation from the original public X post, demonstrating anime 
 
 <a id="prompt-115"></a>
 
-#### No. 112: Chengdu travel scrapbook poster comparison
+#### No. 114: Chengdu travel scrapbook poster comparison
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5163,7 +5303,7 @@ A source-backed evaluation from the original public X post, demonstrating chengd
 
 <a id="prompt-97"></a>
 
-#### No. 113: Seat-belted car selfie first frame
+#### No. 115: Seat-belted car selfie first frame
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5208,7 +5348,7 @@ A detailed public Chinese same-prompt comparison for a realistic 16:9 in-car sel
 
 <a id="prompt-100"></a>
 
-#### No. 114: Multi-task Seedream capability sampling from four Chinese prompts
+#### No. 116: Multi-task Seedream capability sampling from four Chinese prompts
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -5272,7 +5412,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 - [ImagineVid](https://imaginevid.io)
 <details>
-<summary>Автори спільноти (89)</summary>
+<summary>Автори спільноти (90)</summary>
 
 [@_wib_](https://x.com/_wib_) · [@aaliya_va](https://x.com/aaliya_va) · [@abdoul94_](https://x.com/abdoul94_) · [@ahmetmertugrul](https://x.com/ahmetmertugrul) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [@AiwithZohaib](https://x.com/AiwithZohaib) · [@al_tools43377](https://x.com/al_tools43377) · [@AllaAisling](https://x.com/AllaAisling)<br>
 [@Arminn_Ai](https://x.com/Arminn_Ai) · [@asatoucan](https://x.com/asatoucan) · [@asheem01](https://x.com/asheem01) · [@ashen_one](https://x.com/ashen_one) · [@ayumi_t820](https://x.com/ayumi_t820) · [@aziz4ai](https://x.com/aziz4ai) · [@bdsqlsz](https://x.com/bdsqlsz) · [@Bic_Revelation](https://x.com/Bic_Revelation)<br>
@@ -5285,7 +5425,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 [@noorwithwifi](https://x.com/noorwithwifi) · [@op7418](https://x.com/op7418) · [@OpenDesignHQ](https://x.com/OpenDesignHQ) · [@Photonotix16](https://x.com/Photonotix16) · [@renataro9](https://x.com/renataro9) · [@renoiseai](https://x.com/renoiseai) · [@roco_kn_roco](https://x.com/roco_kn_roco) · [@rovvmut_](https://x.com/rovvmut_)<br>
 [@SeharShinwari](https://x.com/SeharShinwari) · [@shikoba_86](https://x.com/shikoba_86) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@stargliderbr](https://x.com/stargliderbr) · [@Strength04_X](https://x.com/Strength04_X) · [@sulekhat95](https://x.com/sulekhat95) · [@techhalla](https://x.com/techhalla) · [@techxsarfraj](https://x.com/techxsarfraj)<br>
 [@ThinkerSilentH](https://x.com/ThinkerSilentH) · [@TlanoAI](https://x.com/TlanoAI) · [@underwoodxie96](https://x.com/underwoodxie96) · [@UnityEagle](https://x.com/UnityEagle) · [@westkast](https://x.com/westkast) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [@ZariaTechAI](https://x.com/ZariaTechAI) · [@ZephyraLeigh](https://x.com/ZephyraLeigh)<br>
-[@Zubnet](https://x.com/Zubnet)
+[@Zubnet](https://x.com/Zubnet) · [Kashberg](https://x.com/Kashberg_0)
 
 </details>
 
@@ -5305,6 +5445,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Надіслати промпт](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставити Star репозиторію](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-15T13:24:32.210Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-15T14:24:08.757Z</sub>
 
 </div>
