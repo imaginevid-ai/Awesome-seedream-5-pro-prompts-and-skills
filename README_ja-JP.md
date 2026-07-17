@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | プロンプト総数 | **128** |
 | 注目 | **10** |
-| 最終更新 | **2026年7月17日金曜日 13:16:06 UTC** |
+| 最終更新 | **2026年7月17日金曜日 17:06:56 UTC** |
 
 </div>
 
@@ -5540,6 +5540,6 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 **[プロンプトを投稿](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[このリポジトリに Star](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>この README は自動生成されています。最終更新： 2026-07-17T13:16:06.069Z</sub>
+<sub>この README は自動生成されています。最終更新： 2026-07-17T17:06:56.469Z</sub>
 
 </div>

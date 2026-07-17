@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Σύνολο prompts | **128** |
 | Επιλεγμένο | **10** |
-| Τελευταία ενημέρωση | **Παρασκευή 17 Ιουλίου 2026 στις 1:16:06 μ.μ. UTC** |
+| Τελευταία ενημέρωση | **Παρασκευή 17 Ιουλίου 2026 στις 5:06:56 μ.μ. UTC** |
 
 </div>
 
@@ -5540,6 +5540,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Υποβολή prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Κάντε Star στο repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-17T13:16:06.407Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-17T17:06:56.811Z</sub>
 
 </div>

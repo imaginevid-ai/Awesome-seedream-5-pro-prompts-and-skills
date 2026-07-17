@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Kabuuang Prompts | **128** |
 | Featured | **10** |
-| Huling Update | **Biyernes, Hulyo 17, 2026 nang 1:16:06 PM UTC** |
+| Huling Update | **Biyernes, Hulyo 17, 2026 nang 5:06:56 PM UTC** |
 
 </div>
 
@@ -5540,6 +5540,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Mag-submit ng Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[I-star ang repo](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-17T13:16:06.531Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-17T17:06:56.909Z</sub>
 
 </div>
