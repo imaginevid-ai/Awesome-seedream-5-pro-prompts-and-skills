@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Усього промптів | **126** |
 | Відібране | **10** |
-| Останнє оновлення | **четвер, 16 липня 2026 р. о 20:52:36 UTC** |
+| Останнє оновлення | **пʼятниця, 17 липня 2026 р. о 02:07:55 UTC** |
 
 </div>
 
@@ -5445,6 +5445,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Надіслати промпт](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Поставити Star репозиторію](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-16T20:52:36.474Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-17T02:07:55.546Z</sub>
 
 </div>
