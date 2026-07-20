@@ -1,3 +1,7 @@
+# [INPUT]: Reads inactive issues through the GitHub API while respecting labels that keep editorial work open.
+# [OUTPUT]: Closes abandoned issues and retries transient GitHub API failures without hiding persistent errors.
+# [POS]: GitHub maintenance workflow for the Seedream 5 Pro prompt collection.
+# [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
 name: Auto Close Stale Issues
 
 on:
@@ -21,6 +25,7 @@ jobs:
         uses: actions/github-script@v9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          retries: 3
           script: |
             const { data: issues } = await github.rest.issues.listForRepo({
               owner: context.repo.owner,
