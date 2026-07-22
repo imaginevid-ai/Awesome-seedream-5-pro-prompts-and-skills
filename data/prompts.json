@@ -8274,5 +8274,70 @@
         }
       ]
     }
+  },
+  {
+    "id": 152,
+    "model": "seedream-5-pro",
+    "title": "Hard-window-light floral phone portrait",
+    "description": "A close mobile-camera portrait that controls crop, direct sunlight, hand perspective, lace texture, flowers, pores, and low-dynamic-range realism.",
+    "content": "Create an intimate Japanese-retro phone photograph of a fictional adult woman beside a window. Use hard direct sunlight, locally clipped highlights, low smartphone dynamic range, mild digital noise, and real unretouched skin. Close wide-angle head-and-shoulders crop from slightly above eye level; the face fills about 80% of the frame, white headpiece at the top, flowers and one foreshortened hand across the lower center. Long straight black hair and irregular wispy bangs frame the face. Gray-brown eyes half open and looking upward into the lens, relaxed brows, slightly parted dusty-rose lips, quiet alert expression. She leans forward and touches white gerbera, small clustered white flowers, and pale hydrangea near her cheek and chin. Layered matte cotton lace bonnet with ruffled eyelet edges, wide ribbon bows, tiny crystal details, and narrow hanging ties. Pale pink eye shadow under the eyes, fine black liner, natural lashes, soft cheek flush. Sunlight from upper right creates irregular warm-white patches on forehead, nose, eyes, petals, and hand; neutral-gray shadows have defined edges and silver highlights appear in the hair. Plain gray-beige wall and a small white windowsill only. Black, cream, and pale gray palette with tiny plant-green accents. Preserve pores, peach fuzz, slight uneven tone, natural sharpening, and compressed dark-hair detail. Avoid studio soft light, skin smoothing, full-body framing, elaborate interiors, or commercial retouching.",
+    "sourceLink": "https://x.com/nanyuan0412/status/2079815611384017372",
+    "sourcePublishedAt": "2026-07-22T06:27:37.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HNz9C6lbAAAY6I8.jpg",
+      "https://pbs.twimg.com/media/HNz9C6ja0AEhTYt.jpg"
+    ],
+    "author": {
+      "name": "@nanyuan0412",
+      "link": "https://x.com/nanyuan0412"
+    },
+    "language": "en",
+    "featured": false,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "twitterapi.io",
+      "tweet_id": "2079815611384017372",
+      "model_evidence": "seedream-5-pro",
+      "collected_at": "2026-07-22",
+      "curation_note": "Passed explicit-model, reusable-prompt, canonical-source, inspectable-media, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_english_translation",
+      "retweetCount": 1,
+      "replyCount": 0,
+      "likeCount": 8,
+      "quoteCount": 0,
+      "viewCount": 1078,
+      "bookmarkCount": 7
+    },
+    "imageCategories": {
+      "useCases": [
+        {
+          "id": 7,
+          "title": "Editorial Portrait",
+          "slug": "editorial-portrait"
+        }
+      ],
+      "styles": [
+        {
+          "id": 22,
+          "title": "Photorealism",
+          "slug": "photorealism"
+        }
+      ],
+      "subjects": [
+        {
+          "id": 31,
+          "title": "Human Portrait",
+          "slug": "human-portrait"
+        }
+      ],
+      "workflows": [
+        {
+          "id": 64,
+          "title": "Characters, Cinema & Visual Styles",
+          "slug": "characters-cinema-visual-styles"
+        }
+      ]
+    },
+    "sort": 152
   }
 ]

@@ -2,7 +2,7 @@
 ImagineVid 品牌的 Seedream 5 Pro prompts and skills 公开资料仓库。
 
 <directory>
-data/ - Seedream 5 Pro 分类、130 条社区案例与官方案例的结构化真源。
+data/ - Seedream 5 Pro 分类、131 条社区案例与官方案例的结构化真源。
 docs/ - 规划、贡献指南、本地开发说明与后续数据采集策略。
 public/images/ - 仓库 README 与社交预览图，必须使用 ImagineVid 自有生成图。
 scripts/ - README 生成、数据导入、Issue 同步与后续 twitterapi.io 采集脚本。

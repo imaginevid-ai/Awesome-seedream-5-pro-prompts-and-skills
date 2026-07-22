@@ -404,9 +404,9 @@ Group multilingual samples by rendered language and local-text use case.
 
 | ಮಾಪಕ | ಎಣಿಕೆ |
 |--------|-------|
-| ಒಟ್ಟು prompts | **130** |
+| ಒಟ್ಟು prompts | **131** |
 | Featured | **10** |
-| ಕೊನೆಯ ಅಪ್ಡೇಟ್ | **ಬುಧವಾರ, ಜುಲೈ 22, 2026 ರಂದು 01:38:18 PM UTC ಸಮಯಕ್ಕೆ** |
+| ಕೊನೆಯ ಅಪ್ಡೇಟ್ | **ಬುಧವಾರ, ಜುಲೈ 22, 2026 ರಂದು 02:40:26 PM UTC ಸಮಯಕ್ಕೆ** |
 
 </div>
 
@@ -3563,9 +3563,45 @@ Prompt: A rugged man in his 50s inside a wet industrial corridor, facing three-q
 
 ---
 
+<a id="prompt-152"></a>
+
+#### No. 71: Hard-window-light floral phone portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+##### ವಿವರಣೆ
+
+A close mobile-camera portrait that controls crop, direct sunlight, hand perspective, lace texture, flowers, pores, and low-dynamic-range realism.
+
+##### Prompt
+
+```
+Create an intimate Japanese-retro phone photograph of a fictional adult woman beside a window. Use hard direct sunlight, locally clipped highlights, low smartphone dynamic range, mild digital noise, and real unretouched skin. Close wide-angle head-and-shoulders crop from slightly above eye level; the face fills about 80% of the frame, white headpiece at the top, flowers and one foreshortened hand across the lower center. Long straight black hair and irregular wispy bangs frame the face. Gray-brown eyes half open and looking upward into the lens, relaxed brows, slightly parted dusty-rose lips, quiet alert expression. She leans forward and touches white gerbera, small clustered white flowers, and pale hydrangea near her cheek and chin. Layered matte cotton lace bonnet with ruffled eyelet edges, wide ribbon bows, tiny crystal details, and narrow hanging ties. Pale pink eye shadow under the eyes, fine black liner, natural lashes, soft cheek flush. Sunlight from upper right creates irregular warm-white patches on forehead, nose, eyes, petals, and hand; neutral-gray shadows have defined edges and silver highlights appear in the hair. Plain gray-beige wall and a small white windowsill only. Black, cream, and pale gray palette with tiny plant-green accents. Preserve pores, peach fuzz, slight uneven tone, natural sharpening, and compressed dark-hair detail. Avoid studio soft light, skin smoothing, full-body framing, elaborate interiors, or commercial retouching.
+```
+
+##### Generated images
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNz9C6lbAAAY6I8.jpg" width="100%" alt="Hard-window-light floral phone portrait - Image 1"></td>
+<td width="50%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HNz9C6ja0AEhTYt.jpg" width="100%" alt="Hard-window-light floral phone portrait - Image 2"></td>
+</tr>
+</table>
+
+##### ವಿವರಗಳು
+
+- **ಲೇಖಕ:** [@nanyuan0412](https://x.com/nanyuan0412)
+- **ಮೂಲ:** [ಮೂಲ](https://x.com/nanyuan0412/status/2079815611384017372)
+- **ಪ್ರಕಟಿತ:** ಜುಲೈ 22, 2026
+- **ಭಾಷೆಗಳು:** en
+
+**[ಈ prompt ಬಳಸಿ · ImagineVid](https://imaginevid.io/seedream-5-pro)**
+
+---
+
 <a id="prompt-131"></a>
 
-#### No. 71: Four-film-still noir lighting prompt set
+#### No. 72: Four-film-still noir lighting prompt set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3613,7 +3649,7 @@ Cinematic thriller film still, "Static Frequency". Interior wide shot: an abando
 
 <a id="prompt-132"></a>
 
-#### No. 72: Transparent android ballet halation portrait
+#### No. 73: Transparent android ballet halation portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3648,7 +3684,7 @@ Create a hybrid female android with translucent skin and white-gray mechanical p
 
 <a id="prompt-95"></a>
 
-#### No. 73: Extreme close-up portrait camera template
+#### No. 74: Extreme close-up portrait camera template
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3684,7 +3720,7 @@ Extremely realistic image, an extreme close-up shot of a {subject} in {attire}. 
 
 <a id="prompt-79"></a>
 
-#### No. 74: Master ink art animal study
+#### No. 75: Master ink art animal study
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3719,7 +3755,7 @@ Generate a master-level traditional ink artwork of a mythic crane and pine tree 
 
 <a id="prompt-81"></a>
 
-#### No. 75: Pancake angel dessert illustration
+#### No. 76: Pancake angel dessert illustration
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3754,7 +3790,7 @@ Create a delicate pancake angel character sitting on a stack of fluffy pancakes,
 
 <a id="prompt-82"></a>
 
-#### No. 76: Soft anime expression pair
+#### No. 77: Soft anime expression pair
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3790,7 +3826,7 @@ Generate a paired anime character study of the same young adventurer in two emot
 
 <a id="prompt-85"></a>
 
-#### No. 77: Cloud maker fantasy portrait
+#### No. 78: Cloud maker fantasy portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3825,7 +3861,7 @@ Create a magical realist portrait titled The Cloud Maker. Show a solitary figure
 
 <a id="prompt-98"></a>
 
-#### No. 78: Casual cafe-step street portrait
+#### No. 79: Casual cafe-step street portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3871,7 +3907,7 @@ Camera feel: taken by a friend standing in front of her with a smartphone, using
 
 <a id="prompt-118"></a>
 
-#### No. 79: Fashion outfit editorial set in a parking structure
+#### No. 80: Fashion outfit editorial set in a parking structure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3909,7 +3945,7 @@ A stylish young woman with long layered black hair and soft curtain bangs, weari
 
 <a id="prompt-92"></a>
 
-#### No. 80: Backlit street portrait feeding stray cats
+#### No. 81: Backlit street portrait feeding stray cats
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -3945,7 +3981,7 @@ A public Chinese Seedream 5.0 Pro portrait prompt with a low-angle candid compos
 
 <a id="prompt-129"></a>
 
-#### No. 81: Anime skateboard sequence with multiple shot prompts
+#### No. 82: Anime skateboard sequence with multiple shot prompts
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3993,7 +4029,7 @@ A girl with a sharp bob cut, purple hair with black accent strands, stylized lay
 
 <a id="prompt-117"></a>
 
-#### No. 82: ARRI-style cinematic city close-up
+#### No. 83: ARRI-style cinematic city close-up
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -4040,7 +4076,7 @@ A teenager stands behind a metal chain-link fence in a grassy outdoor area. She 
 
 <a id="prompt-114"></a>
 
-#### No. 83: Japanese casual portrait styling set
+#### No. 84: Japanese casual portrait styling set
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4078,7 +4114,7 @@ A beautiful young Japanese woman, natural and effortless beauty, soft glowing sk
 
 <a id="prompt-121"></a>
 
-#### No. 84: Iridescent glass-flower editorial poster
+#### No. 85: Iridescent glass-flower editorial poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4117,7 +4153,7 @@ The layout is filled with clean blocks of small white placeholder body text and 
 
 <a id="prompt-106"></a>
 
-#### No. 85: Melting-world-landmarks concept generation
+#### No. 86: Melting-world-landmarks concept generation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4153,7 +4189,7 @@ world's landmarks, melting like wax
 
 <a id="prompt-113"></a>
 
-#### No. 86: Fantasy fallen-angel warrior key visual
+#### No. 87: Fantasy fallen-angel warrior key visual
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4188,7 +4224,7 @@ A divine fallen angel warrior kneeling in the center of an ancient celestial tem
 
 <a id="prompt-105"></a>
 
-#### No. 87: Fisheye editorial portraits with miniature clone motif
+#### No. 88: Fisheye editorial portraits with miniature clone motif
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4219,64 +4255,6 @@ Unretouched natural photograph, shot on cinema camera with subtle halation, fine
 
 - **ಲೇಖಕ:** [@magnific](https://x.com/magnific)
 - **ಮೂಲ:** [ಮೂಲ](https://x.com/magnific/status/2074872903938846900)
-- **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
-- **ಭಾಷೆಗಳು:** en
-
-**[ಈ prompt ಬಳಸಿ · ImagineVid](https://imaginevid.io/seedream-5-pro)**
-
----
-
-<a id="prompt-108"></a>
-
-#### No. 88: Photorealistic high-fashion portrait lighting
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-##### ವಿವರಣೆ
-
-A source-backed demo from the original public X post, demonstrating photorealistic high-fashion portrait lighting.
-
-##### Prompt
-
-```
-This is a highly photorealistic, high-fashion full-body portrait with an overall dark-toned, dreamy, and hazy atmosphere, filled with the flowing beauty of light and shadow. The scene uses refined artificial lighting that is soft yet richly layered, with sparkling highlights, crystal-clear reflections, and a subtle lomo film texture in certain areas, creating a surreal and luxurious fashion mood that feels both realistic and dreamlike.
-
-The subject is a young adult Taiwanese woman with short pink-and-white blended hair and side-swept bangs. She has delicate, beautiful features, a well-defined bone structure, and facial lines that are both soft and sculptural. She has a naturally curvy, elegant, and well-proportioned figure, with an overall presence that feels mature, confident, and relaxed. Her skin has a cool fair matte quality, looking smooth and translucent while still preserving realistic skin texture. Her makeup is refined and soft, with rosy cheeks, moist dreamy eyes, and an expression that carries a hint of laziness, aloofness, and world-weary indifference, giving her an aura that feels both sophisticated and mysterious.
-
-Her face features intricate decorative makeup details, including a huadian ornament on the forehead, floral ornaments at the outer corners of the eyes, heart-shaped facial decorations, and small artistic pig-pattern facial elements. These embellishments are naturally integrated into the overall high-end makeup look, with delicate shimmer and pearlescent textures. They should feel refined, luxurious, and elegant, never cheap or cartoonish.
-
-The composition is shot from a low angle, with the subject’s full body visible and facing the camera directly. She extends one hand toward the lens, with long slender fingers and delicately manicured long nails, creating a strong foreground blur and a clear sense of perspective, making the image more visually dynamic. Her pose is elegant and confident, with the visual language of a high-end fashion editorial.
-
-The overall color palette is dominated by rich, dark tones, accented with nude pink, skin-tone hues, pearlescent highlights, silvery-white reflections, and sparkling details. The image has a low-contrast tonal range, with soft focus, haze, luminosity, and a luxurious finish, resembling a meticulously retouched fashion editorial. The photo should feel highly realistic, rich in detail, with natural skin texture, in 8K ultra-high definition, with a trendy high-end internet aesthetic, vertical 9:16.
-```
-
-<details>
-<summary>Related prompt variants (1)</summary>
-
-**High-fashion full-body portrait template**
-
-```
-Create a high-fashion full-body portrait on a minimal editorial set. Use dramatic posture, couture silhouette, controlled studio lighting, crisp fabric texture, visible footwear, balanced negative space, and a magazine-ready finish. Keep the figure readable from head to toe and avoid cropped hands or distorted limbs.
-```
-
-Author: [@OpenDesignHQ](https://x.com/OpenDesignHQ)
-
-Source: [Source](https://x.com/OpenDesignHQ/status/2075191300366733710)
-
-</details>
-
-##### Generated images
-
-<table>
-<tr>
-<td width="100%" valign="top" align="center"><img src="https://pbs.twimg.com/media/HMtfQqPbwAA3iSv.jpg" width="100%" alt="Photorealistic high-fashion portrait lighting - Image 1"></td>
-</tr>
-</table>
-
-##### ವಿವರಗಳು
-
-- **ಲೇಖಕ:** [@BubbleBrain](https://x.com/BubbleBrain)
-- **ಮೂಲ:** [ಮೂಲ](https://x.com/BubbleBrain/status/2074856963591290979)
 - **ಪ್ರಕಟಿತ:** ಜುಲೈ 8, 2026
 - **ಭಾಷೆಗಳು:** en
 
@@ -5592,6 +5570,30 @@ A source-backed evaluation from the original public X post, demonstrating multi-
 
 ---
 
+---
+
+## More prompts available
+
+<div align="center">
+
+### 1 more prompts not shown here
+
+Due to GitHub README length limits, only the first 120 regular prompts are displayed here.
+
+**[View the complete generated README set in this repository](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
+
+Curated prompt patterns with visual results
+
+Source attribution and creator links
+
+Multilingual README surfaces
+
+Category browsing for repeatable workflows
+
+</div>
+
+---
+
 ## ಹೇಗೆ ಕೊಡುಗೆ ನೀಡುವುದು
 
 We welcome high-quality prompt submissions through GitHub Issues.
@@ -5620,7 +5622,7 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 - [ImagineVid](https://imaginevid.io)
 <details>
-<summary>ಸಮುದಾಯ ರಚಯಿತರಿಗೆ ಧನ್ಯವಾದ (92)</summary>
+<summary>ಸಮುದಾಯ ರಚಯಿತರಿಗೆ ಧನ್ಯವಾದ (93)</summary>
 
 [@_wib_](https://x.com/_wib_) · [@aaliya_va](https://x.com/aaliya_va) · [@abdoul94_](https://x.com/abdoul94_) · [@ahmetmertugrul](https://x.com/ahmetmertugrul) · [@AI__TSUBAKI](https://x.com/AI__TSUBAKI) · [@AiwithZohaib](https://x.com/AiwithZohaib) · [@al_tools43377](https://x.com/al_tools43377) · [@AllaAisling](https://x.com/AllaAisling)<br>
 [@Arminn_Ai](https://x.com/Arminn_Ai) · [@asatoucan](https://x.com/asatoucan) · [@asheem01](https://x.com/asheem01) · [@ashen_one](https://x.com/ashen_one) · [@ayumi_t820](https://x.com/ayumi_t820) · [@aziz4ai](https://x.com/aziz4ai) · [@bdsqlsz](https://x.com/bdsqlsz) · [@Bic_Revelation](https://x.com/Bic_Revelation)<br>
@@ -5630,10 +5632,10 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 [@HarshBisen143](https://x.com/HarshBisen143) · [@haruuraeadss](https://x.com/haruuraeadss) · [@hasamaru_studio](https://x.com/hasamaru_studio) · [@heathergreen](https://x.com/heathergreen) · [@higginswerx](https://x.com/higginswerx) · [@iamrealsnow](https://x.com/iamrealsnow) · [@ItsMaryAI](https://x.com/ItsMaryAI) · [@itsPixieVerse](https://x.com/itsPixieVerse)<br>
 [@JameFalken](https://x.com/JameFalken) · [@JennyAITech](https://x.com/JennyAITech) · [@johnAGI168](https://x.com/johnAGI168) · [@JossMonzoni](https://x.com/JossMonzoni) · [@karim_yourself](https://x.com/karim_yourself) · [@KishenArt](https://x.com/KishenArt) · [@krea_ai](https://x.com/krea_ai) · [@LiamEtherson](https://x.com/LiamEtherson)<br>
 [@liyue_ai](https://x.com/liyue_ai) · [@lukfan](https://x.com/lukfan) · [@madpencil_](https://x.com/madpencil_) · [@magnific](https://x.com/magnific) · [@marmaduke091](https://x.com/marmaduke091) · [@mattworkman](https://x.com/mattworkman) · [@MayorKingAI](https://x.com/MayorKingAI) · [@MishikaAI](https://x.com/MishikaAI)<br>
-[@munzxsdv](https://x.com/munzxsdv) · [@noorwithwifi](https://x.com/noorwithwifi) · [@op7418](https://x.com/op7418) · [@OpenDesignHQ](https://x.com/OpenDesignHQ) · [@Photonotix16](https://x.com/Photonotix16) · [@renataro9](https://x.com/renataro9) · [@renoiseai](https://x.com/renoiseai) · [@roco_kn_roco](https://x.com/roco_kn_roco)<br>
-[@rovvmut_](https://x.com/rovvmut_) · [@SeharShinwari](https://x.com/SeharShinwari) · [@shikoba_86](https://x.com/shikoba_86) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@stargliderbr](https://x.com/stargliderbr) · [@Strength04_X](https://x.com/Strength04_X) · [@sulekhat95](https://x.com/sulekhat95) · [@techhalla](https://x.com/techhalla)<br>
-[@techxsarfraj](https://x.com/techxsarfraj) · [@ThinkerSilentH](https://x.com/ThinkerSilentH) · [@TlanoAI](https://x.com/TlanoAI) · [@underwoodxie96](https://x.com/underwoodxie96) · [@UnityEagle](https://x.com/UnityEagle) · [@westkast](https://x.com/westkast) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [@ZariaTechAI](https://x.com/ZariaTechAI)<br>
-[@ZephyraLeigh](https://x.com/ZephyraLeigh) · [@Zubnet](https://x.com/Zubnet) · [Gadgetify](https://x.com/Gdgtify) · [Kashberg](https://x.com/Kashberg_0)
+[@munzxsdv](https://x.com/munzxsdv) · [@nanyuan0412](https://x.com/nanyuan0412) · [@noorwithwifi](https://x.com/noorwithwifi) · [@op7418](https://x.com/op7418) · [@OpenDesignHQ](https://x.com/OpenDesignHQ) · [@Photonotix16](https://x.com/Photonotix16) · [@renataro9](https://x.com/renataro9) · [@renoiseai](https://x.com/renoiseai)<br>
+[@roco_kn_roco](https://x.com/roco_kn_roco) · [@rovvmut_](https://x.com/rovvmut_) · [@SeharShinwari](https://x.com/SeharShinwari) · [@shikoba_86](https://x.com/shikoba_86) · [@SimplyAnnisa](https://x.com/SimplyAnnisa) · [@stargliderbr](https://x.com/stargliderbr) · [@Strength04_X](https://x.com/Strength04_X) · [@sulekhat95](https://x.com/sulekhat95)<br>
+[@techhalla](https://x.com/techhalla) · [@techxsarfraj](https://x.com/techxsarfraj) · [@ThinkerSilentH](https://x.com/ThinkerSilentH) · [@TlanoAI](https://x.com/TlanoAI) · [@underwoodxie96](https://x.com/underwoodxie96) · [@UnityEagle](https://x.com/UnityEagle) · [@westkast](https://x.com/westkast) · [@ZaraIrahh](https://x.com/ZaraIrahh)<br>
+[@ZariaTechAI](https://x.com/ZariaTechAI) · [@ZephyraLeigh](https://x.com/ZephyraLeigh) · [@Zubnet](https://x.com/Zubnet) · [Gadgetify](https://x.com/Gdgtify) · [Kashberg](https://x.com/Kashberg_0)
 
 </details>
 
@@ -5653,6 +5655,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt submit ಮಾಡಿ](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[ಈ repo ಗೆ Star ನೀಡಿ](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-22T13:38:18.179Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-22T14:40:26.993Z</sub>
 
 </div>
