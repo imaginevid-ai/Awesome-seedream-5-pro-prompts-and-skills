@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | Promptok száma | **130** |
 | Kiemelt | **10** |
-| Utolsó frissítés | **2026. július 21., kedd 21:01:46 UTC** |
+| Utolsó frissítés | **2026. július 22., szerda 2:05:35 UTC** |
 
 </div>
 
@@ -5653,6 +5653,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[Prompt beküldése](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Adj Star-t a repónak](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>This README is automatically generated. Last updated: 2026-07-21T21:01:46.787Z</sub>
+<sub>This README is automatically generated. Last updated: 2026-07-22T02:05:35.776Z</sub>
 
 </div>
