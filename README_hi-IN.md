@@ -406,7 +406,7 @@ Group multilingual samples by rendered language and local-text use case.
 |--------|-------|
 | कुल prompts | **131** |
 | Featured | **10** |
-| अंतिम अपडेट | **गुरुवार, 23 जुलाई 2026 को 8:56:26 pm UTC बजे** |
+| अंतिम अपडेट | **शुक्रवार, 24 जुलाई 2026 को 2:08:26 am UTC बजे** |
 
 </div>
 
@@ -5655,6 +5655,6 @@ Category से browse करें
 **[Submit a Prompt](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills/issues/new?template=submit-prompt.yml)** •
 **[Star history](https://github.com/imaginevid-ai/Awesome-seedream-5-pro-prompts-and-skills)**
 
-<sub>अंतिम अपडेट: 2026-07-23T20:56:26.730Z</sub>
+<sub>अंतिम अपडेट: 2026-07-24T02:08:26.541Z</sub>
 
 </div>
